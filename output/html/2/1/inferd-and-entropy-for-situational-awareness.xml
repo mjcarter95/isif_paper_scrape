@@ -1,0 +1,48 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 2</li>
+<li>Issue 1</li>
+<li>Pages 3 - 21</li>
+<li>June, 2007</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">INFERD and Entropy for Situational Awareness</h1>
+<p class="article-authors">M.  Sudit, M.  Holender, A.  Statz, T.  Rickard and R.  Yager</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">D. Ballard and L. Owsley Artificial intelligence in the helicopter cockpit of the future. In IEEE/AIAA 10th Digital Avionics Systems Conference, 1991, 125—130.</li>
+<li class="ref-2">A knowledge-based decision aid for enhanced situational awareness. In IEEE/AIAA 13th Digital Avionics Systems Conference, 1994, 340—347.</li>
+<li class="ref-3">Pilot’s associate: A cooperative, knowledge-based system application. IEEE Intelligent Systems and Their Applications, 6, 3 (1991), 18—29.</li>
+<li class="ref-4">Estimation of distribution algorithms: A new evolutionary computation approach for graph matching problems. In EMMCVPR ’01: Proceedings of the Third International Workshop on Energy Minimization Methods in Computer Vision and Pattern Recognition, London, UK, 2001, 454— 468.</li>
+<li class="ref-5">C. Boeres Inexact graph matching using learning and simulation of Bayesian networks. In Proceedings of CaNew workshop, ECAI, 2000.</li>
+<li class="ref-6">Neural Networks for Pattern Recognition. New York: Oxford University Press, 1995.</li>
+<li class="ref-7">Mathematical programming for data mining: Formulations and challenges. INFORMS Journal on Computing, 1999.</li>
+<li class="ref-8">Hybrid fuzzy-genetic technique for multisensor fusion. Information Sciences, 93, 3—4 (1996), 265—281.</li>
+<li class="ref-9">Reinforcement structure/parameter learning for neural- network-based fuzzy logic control systems. IEEE Transactions on Fuzzy Systems, 2, 1 (1994), 46—63.</li>
+<li class="ref-10">Thirty years of graph matching in pattern recognition. International Journal of Pattern Recognition & Artificial Intelligence, 18, 3 (May 2004), 265—298.</li>
+<li class="ref-11">Alert correlation in a cooperative Intrusion Detection Framework, In Proceedings of the 2002 IEEE Symposium on Security and Privacy, 2002.</li>
+<li class="ref-12">Representing uncertainties using Bayesian networks. (DSTO-TR0918), 1999.</li>
+<li class="ref-13">Spatio-temporal pattern detection using dynamic Bayesian networks. In 42nd IEEE Conference on Decision and Control, 5 (2003), 4533—4538.</li>
+<li class="ref-14">Optimal Statistical Decisions. New York: McGraw-Hill, 1970.</li>
+<li class="ref-15">On bias, variance, 0/1-loss, and the curse of dimensionality. Data Mining and Knowledge Discovery, 1997.</li>
+<li class="ref-16">An introduction to multisensor data fusion. Proceedings of the IEEE, 85, 1 (1997), 6.</li>
+<li class="ref-17">Handbook of Multisensor Data Fusion. CRC Press, 2001.</li>
+<li class="ref-18">Data fusion algorithm based on fuzzy logic.par In Fifth World Congress on Intelligent Control and Automation, 4 (2004), 3101—3103.</li>
+<li class="ref-19">Bayesian Networks for Data Mining, Data Mining and Knowledge Discovery. 1997.</li>
+<li class="ref-20">Hybrid fuzzy connectionist rule-based systems and the role of fuzzy fules extraction. In International Joint Conference of the Fourth IEEE Inter- national Conference on Fuzzy Systems and The Second Inter- national Fuzzy Engineering Symposium, 1 (1995), 49—56.</li>
+<li class="ref-21">Optimization by simulated annealing. Science, 220, 4598 (May 13, 1983), new series, 671—680.</li>
+<li class="ref-22">Graph-matching intrusion detection system (GMIDS) whitepaper. 21st Century Technologies, 2003.</li>
+<li class="ref-23">Multisensor integration and fusion model that uses a fuzzy inference system. IEEE/ASME Transactions on Mechatronics, 6, 2 (2001), 188—196.</li>
+<li class="ref-24">Multi-sensor fusion: An evolutionary algorithm approach. Information Fusion, in press, corrected proof, 2005.</li>
+<li class="ref-25">An alert fusion framework for situation awareness of coor- dinated multistage attacks. Technical Report 2004-18, CSE Department, SUNY at Buf- falo, 2004.</li>
+</ul>
+
+</body>
+</html>

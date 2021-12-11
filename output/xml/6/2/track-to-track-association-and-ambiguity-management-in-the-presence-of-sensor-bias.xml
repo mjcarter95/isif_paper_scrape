@@ -1,0 +1,146 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237335.0315368</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<journal_volume>
+<volume>6</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Track-to-Track Association and Ambiguity Management in the Presence of Sensor Bias</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Dimitri J.</given_name>
+<surname>Papageorgiou</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Michael </given_name>
+<surname>Holender</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<pages>
+<first_page>77</first_page>
+<last_page>100</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>A. Atamtürk and V. Narayanan Polymatroids and mean-risk minimization in discrete opti- mization. Operations Research Letters, 36 (2008), 618—622. 98 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 6, NO. 2 DECEMBER 2011</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Track-to-track association using attributes. Journal of Advances in Information Fusion, 2, 1 (2007), 49— 59.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Design and Analysis of Modern Tracking Systems. Norwood, MA: Artech House, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>The Quadratic Assignment Problem: Theory and Algorithms. Kluwer Academic Publishers, 1998.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Joint bias estimation and data association: Algorithms. In O. E. Drummond and R. D. Teichgraeber (Eds.), Pro- ceedings of SPIE, vol. 6699, Signal and Data Processing of Small Targets, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Submodular functions, matroids and certain polyhedra. In R. Guy (Ed.), Combinatorial Structures and Their Appli- cations, vol. 11, Gordon and Breach, New York, NY, 1971, 69—87.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Feature-aided global nearest pattern matching with non- gaussian feature measurement errors. In Proceedings of the IEEE Aerospace Conference, Big Sky, MT: IEEE, Mar. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Exact bias removal for the track-to-track association prob- lem. In Proceedings of the 12th International Conference on In- formation Fusion, Seattle, WA, July 2009.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Exact association probability for data with bias and fea- tures. Journal of Advances in Information Fusion, 5, 1 (2010), 41— 67.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>An introduction to multisensor data fusion. Proceedings of the IEEE, 85, 1 (1997), 1—18.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Removal of alignment errors in an integrated system of two 3-d sensors. IEEE Transactions on Aerospace and Electronic Systems, 29, 4 (1993), 1333—1343.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Nonlinear least-squares estimation for sensor and naviga- tion biases. In O. E. Drummond (Ed.), Proceedings of SPIE, vol. 6236, Signal and Data Processing of Small Targets, Aug. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Reference Manual, Version 11.2, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Local and remote track file registration using minimum description length. IEEE Transactions on Aerospace and Electronic Systems, 29, 3 (1993), 651—655.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Bias estimation using targets of opportunity. In O. E. Drummond (Ed.), Proceedings of SPIE, vol. 6699, Signal and Data Processing of Small Targets, Aug. 2007.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Concurrent map data association and absolute bias estima- tion with an arbitrary number of sensors. In O. E. Drummond (Ed.), Proceedings of SPIE, vol. 6969, Signal and Data Processing of Small Targets, Aug. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>An explicit pattern matching assignment algorithm. In O. E. Drummond (Ed.), Proceedings of SPIE, vol. 4728, Signal and Data Processing of Small Targets, Aug. 2002, 461—469.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Cones of matrices and set-functions and 0-1 optimization. SIAM Journal on Optimization, 1 (1991), 166—190.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Practical aspects of multisensor tracking. In Y. Bar-Shalom and W. D. Blair (Eds.), Multitarget- Multisensor Tracking: Applications and Advances, Norwood, MA: Artech House, 2000, vol. III, ch. 2.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Effects of unpaired objects and sensor biases on track-to- track association: Problems and solutions. In Proceedings of MSS National Symposium on Sensor and Data Fusion, vol. 1, 2000, 137—151.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Comparison of bias removal algorithms in track-to-track association. In O. E. Drummond and R. D. Teichgraeber (Eds.), Pro- ceedings of SPIE, vol. 6699, Signal and Data Processing of Small Targets, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Integer and Combinatorial Optimization. New York: Wiley, 1988.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Track-to-track association using pure association likeli- hoods. Raytheon Technical Report, Aug. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Track-to-track association and ambiguity management in the presence of sensor bias. In Proceedings of the 12th International Conference on In- formation Fusion, Seattle, WA, July 2009.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Simultaneous track-to-track association and bias removal using multistart local search. In Proceedings of the IEEE Aerospace Conference, Big Sky, MT: IEEE, Mar. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>A hierarchy of relaxations between the continuous and con- vex hull representations for zero-one programming prob- lems. SIAM Journal on Discrete Math, 3, 3 (1990), 411—430.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Track-to-track association and bias removal. In O. E. Drummond (Ed.), Proceedings of SPIE, vol. 4728, Signal and Data Processing of Small Targets, Aug. 2002, 315—329.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>An efficient algorithm for data association in multitarget tracking. IEEE Transactions on Aerospace and Electronic Systems, 31, 1 (1995), 458—468.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Recent advances and challenges in quadratic assignment and related problems. Ph.D. dissertation, University of Pennsylvania, 2007. TRACK-TO-TRACK ASSOCIATION AND AMBIGUITY MANAGEMENT IN THE PRESENCE OF SENSOR BIAS 99 Dimitri Papageorgiou holds a B.S. in mathematics from the University of North Carolina at Chapel Hill and an M.S. in operations research and industrial engineering from the University of Texas at Austin. He is currently finishing his Ph.D. in opera- tions research under the aegis of George Nemhauser in the H. Milton Stewart School of Industrial and Systems Engineering at the Georgia Institute of Technology. He is a recipient of a U.S. National Science Foundation Graduate Research Fellowship and was the only person in the country pursuing a doctorate in the field of operations research to receive this honor in his year. As a former member of Raytheon’s Center for Discrimination, he has been involved in projects related to sensor resource management, multi-target tracking, and data association, and has co-authored several papers in these areas.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

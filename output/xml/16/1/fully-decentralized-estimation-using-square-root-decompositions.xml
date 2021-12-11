@@ -1,0 +1,187 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237189.420464</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2021</year>
+</publication_date>
+<journal_volume>
+<volume>16</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Fully Decentralized Estimation Using Square-Root Decompositions</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Susanne </given_name>
+<surname>Radtke</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Benjamin </given_name>
+<surname>Noack</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Uwe D.</given_name>
+<surname>Hanebeck</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2021</year>
+</publication_date>
+<pages>
+<first_page>3</first_page>
+<last_page>16</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>S. Radtke, B. Noack, and U.D. Hanebeck “Fully decentralized estimation using square-root decompositions,” in Proc. 23rd Int. Conf. Inf. Fusion, New York, NY: IEEE, Jul. 2020, pp. 1–8.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Distributed Data Fusion for Network-Centric Operations, ser. The Electrical Engineering and Applied Signal Processing Series. CRC Press, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Data fusion in decentralized sensor networks,” Contr. Eng. Pract., vol. 2, no. 5, pp. 849–863, Oct. 1994.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“A review of forty years of distributed estimation,” in Proc. 21st Int. Conf. Inf. Fusion, Cambridge, United Kingdom, Jul. 2018, pp. 1–8.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Decentralized Estimation and Control for Multisensor Systems. CRC Press, 1998.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Nonlinear information space: a practical basis for decentralization,” in Proc. SPIE’s Int. Symp. Photon. Ind. Appl., P. S. Schenker, Ed., vol. 2355. New York, NY: SPIE, 1994, pp. 97–105.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“Nonlinear information filtering for distributed multisensor data fusion,” in Proc. 2011 Amer. Contr. Conf., San Francisco, CA, USA, Jun. 2011, pp. 4846–4852.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Computation and transmission requirements for a decentralized linear-quadratic-gaussian control problem,” IEEE Trans. Autom. Contr., vol. 24, no. 2, pp. 266–269, Apr. 1979.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“An exact solution to track-to-track fusion at arbitrary communication rates,” IEEE Trans. Aerosp. Electron. Syst., vol. 48, no. 3, Jul. 2012, pp. 2718–2729.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“The hypothesizing distributed Kalman filter,” in Proc. 2012 IEEE Int. Conf. Multisensor Fusion Integr. Intell. Syst., Hamburg, Germany, Sep. 2012, pp. 305–312.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“On the track-to-track correlation problem,” IEEE Trans. Autom. Contr., vol. 26, no. 2, pp. 571–572, Apr. 1981.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Distributed tracking in distributed sensor networks,” in Proc. 1986 Amer. Contr. Conf., Seattle, WA, USA, 1986, pp. 1863–1868.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Treatment of dependent information in multisensor Kalman filtering and data fusion,” in Multisensor Data Fusion: From Algorithms and Architectural Design to Applications, H. Fourati, Ed. CRC Press, Aug. 2015, pp. 169–192.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“The effect of the common process noise on the two-sensor fused-track covariance,” IEEE Trans. Aerosp. Electron. Syst., vol. AES-22. no. 6, pp. 803–805, 1986.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Convex combination and covariance intersection algorithms in distributed fusion,” in Proc. 4th Int. Conf. Inf. Fusion, Montréal, Québec, Canada, Aug. 2001.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“A non-divergent estimation algorithm in the presence of unknown correlations,” in Proc. IEEE Amer. Contr. Conf. , vol. 4, Albuquerque, NM,USA, Jun. 1997, pp. 2369–2373.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Fusion under unknown correlation: covariance intersection revisited,” IEEE Trans. Autom. Contr., vol. 47, no. 11, pp. 1879–1882, Nov. 2002.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Minimum covariance bounds for the fusion under unknown correlations,” IEEE Signal Process. Lett., vol. 22, no. 9, pp. 1210–1214, Sep. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Decentralized data fusion with inverse covariance intersection,” Automatica, vol. 79, pp. 35–41,May 2017.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“Inverse covariance intersection: new insights and properties,” in Proc. 20th Int. Conf. Inf. Fusion, Xi’an, China, Jul. 2017, pp. 1–8.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“Fundamentals of distributed estimation,” 14 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 16, NO. 1 JUNE 2021 in Distributed Data Fusion for Network-Centric Operations, ser. The Electrical Engineering and Applied Signal Processing Series, D. L. Hall, C.-Y. Chong, J. Llinas, and M. E. Liggins II, Eds. CRC Press, 2013, pp. 95–124.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Hierarchical estimation,” inMIT/ONRWorkshop C3 Syst.,Monterey, CA,USA, 1979, pp. 205–220.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>G. Chen “A generalized information matrix fusion based heterogeneous track-to-track fusion algorithm,” Proc. SPIE, vol. 8050, 2011, pp. 469–476.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>“Distributed Kalman filter with embedded consensus filters,” in Proc. 44th IEEE Conf. Decis. Contr. Eur. Contr. Conf. , Sevilla, Spain, Dec. 2005, pp. 8179–8184.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>“Kullback–Leibler average, consensus on probability densities, and distributed state estimation with guaranteed stability,” Automatica, vol. 50, no. 3, p. 707–718,Mar. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“Distributed Kalman filtering for sensor networks,” in Proc. 46th IEEE Conf. Decis. Contr., New Orleans, LA, USA,Dec. 2007, pp. 5492–5498.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“Consensus-based linear and nonlinear filtering,” IEEE Trans. Autom. Contr., vol. 60, no. 5, pp. 1410–1415, May 2015.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“A novel distributed state estimation algorithm with consensus strategy,” Sensors, vol. 19, no. 9, pp. 1–29, 2019.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>“Comparison of optimal distributed estimation and consensus filtering,” in Proc. 19th Int. Conf. Inf. Fusion, 2016, pp. 1034–1041.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>“Data incest in cooperative localisation with the common past-invariant ensemble Kalman filter,” in Proc. 16th Int. Conf. Inf. Fusion, Istanbul, Turkey, Jul. 2013, pp. 68–76.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>“Reconstruction of joint covariance matrices in networked linear systems,” in Proc. 48th Annu. Conf. Inf. Sci. Syst., Princeton, NJ, USA, Mar. 2014, pp. 1–6.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>“Optimal sample-based fusion for distributed state estimation,” in Proc. 19th Int. Conf. Inf. Fusion, Heidelberg, Germany, Jul. 2016, pp. 1600–1607.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>“Reconstruction of cross-correlations with constant number of deterministic samples,” in Proc. 21st Int. Conf. Inf. Fusion, Cambridge, U.K., Jul. 2018, pp. 1638–1645.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>“Generalized covariance intersection based on noise decomposition,” in Proc. 2014 IEEE Int. Conf.Multisensor Fusion Inf. Integr., Beijing, China, Sep. 2014, pp. 1–8.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>“Distributed estimation using square root decompositions of dependent information,” in Proc. 22nd Int. Conf. Inf. Fusion, Ottawa, Canada, Jul. 2019, pp. 1–8.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>“On optimal track-to-track fusion,” IEEE Trans. Aerosp. Electron. Syst., vol. 33, no. 4, pp. 1271–1276, Oct. 1997.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>“Optimal linear estimation fusion – part I: unified fusion rules,” IEEE Trans. Inf. Theory, vol. 49, no. 9, pp. 2192–2208, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>“Information fusion based on fast covariance intersection filtering,” in Proc. 5th Int. Conf. Inf. Fusion, Annapolis, MD, USA, Jul. 2002, pp. 901–904.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>“Practical measures and test for credibility of an estimator,” in Proc. Workshop Estimation, Tracking, Fusion, 2001, pp. 481–495.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>“Consensus-based linear and nonlinear filtering,” IEEE Trans. Autom. Contr., vol. 60, no. 5, pp. 1410–1415, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>“Analytical and computational evaluation of scalable distributed fusion algorithms,” IEEE Trans. Aerosp. Electron. Syst., vol. 46, no. 4, pp. 2022–2034, 2010.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

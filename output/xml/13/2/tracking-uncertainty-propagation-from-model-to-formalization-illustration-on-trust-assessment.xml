@@ -1,0 +1,259 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237227.476772</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<journal_volume>
+<volume>13</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Tracking uncertainty propagation from model to formalization: Illustration on trust assessment</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Valentina </given_name>
+<surname>Dragos</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Jean </given_name>
+<surname>Dezert</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Kellyn </given_name>
+<surname>Rein</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<pages>
+<first_page>216</first_page>
+<last_page>234</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>L. Amgoud and R. Demolombe An argumentation-based approach for reasoning about trust in information sources. Argument & Computation, 5(2—3):191—215, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Expression of uncertainty in linguistic data. In Information Fusion, 2008 11th International Conference on, pages 1—8. IEEE, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Belief revision process based on trust: Simulation experi- ments. In Proceedings of Autonomous Agents ’01 Workshop on Deception, Fraud, and Trust in Agent Societies. Citeseer, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Veracity of data: From truth discovery computation algo- rithms to models of misinformation dynamics. Synthesis Lectures on Data Management, 7(3):1—155, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Urref for veracity assessment in query-based information fusion systems. In Information Fusion (Fusion), 2015 18th International Conference on, pages 58—65. IEEE, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>The urref ontology for semantic wide area motion imagery exploitation. In Aerospace and Electronics Conference (NAECON), 2012 IEEE National, pages 228—235. IEEE, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Costa, and J. Dezert Urref reliability versus credibility in information fusion (stanag 2511). In Information Fusion (FUSION), 2013 16th International Conference on, pages 1600—1607. IEEE, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>selme Urref self-confidence in information fusion trust. In Information Fusion (FUSION), 2014 17th International Conference on, pages 1—8. IEEE, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Interpersonal deception theory. Communication theory, 6(3):203—242, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Trust is much more than subjective probability: Mental components and sources of trust. In System Sciences, 2000. Proceedings of the 33rd Annual Hawaii International Conference on, pages 10—pp. IEEE, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Trust in information sources as a source for trust: a fuzzy approach. In Proceedings of the second international joint conference on Autonomous agents and multiagent systems, pages 89—96. ACM, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>How strong can an agent believe reported information? In European Conference on Symbolic and Quantitative Ap- proaches to Reasoning and Uncertainty, pages 386—397. Springer, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Towards unbiased evaluation of uncertainty reasoning: The urref ontology. In Information Fusion (FUSION), 2012 15th International Conference on, pages 2301—2308. IEEE, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Communication as manipulation: Implications for biosoci- ological research. In Proceedings of the American Sociological Association Annual Meetings, 1991.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>A. de Waal, G. Pavlin, and P. Costa Uncertainty representation, quantification and evaluation for data and information fusion. In Information Fusion (Fusion), 2015 18th International Conference on, pages 50—57. IEEE, 2015. UNCERTAINTY PROPAGATION FROM MODEL TO FORMALIZATION: ILLUSTRATION ON TRUST ASSESSMENT 231</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>K. Laskey, E. Blasch, and P. Costa Uncertainty evaluation of data and information fusion within the context of the decision loop. In Information Fusion (FUSION), 2016 19th International Conference on, pages 766—773. IEEE, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>gos, K. Laskey, P. Costa, and E. Blasch Evaluation metrics for the practical application of urref ontology: An illustration on data criteria. In Information Fusion (Fusion), 2017 20th International Conference on, pages 1—8. IEEE, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>K. Laskey, V. Dragos, and E. Blasch Subjects under evaluation with the urref ontology. In Information Fusion (Fusion), 2017 20th International Conference on, pages 1—8. IEEE, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>On the validity of dempster-shafer theory. In Information Fusion (Fusion), 2012 15th International Conference on. IEEE, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>S. Sun, and W. Zhang From data fusion to knowledge fusion. Proceedings of the VLDB Endowment, 7(10):881—892, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>C. Lugaresi, S. Sun, and W. Zhang Knowledge-based trust: Estimating the trustworthiness of web sources. Proceedings of the VLDB Endowment, 8(9):938—949, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>An ontological analysis of uncertainty in soft data. In Information Fusion (FUSION), 2013 16th International Conference on, pages 1566—1573. IEEE, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Integration of soft data for information fusion: Pitfalls, challenges and trends. In Information Fusion (FUSION), 2014 17th International Conference on, pages 1—8. IEEE, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>A critical assessment of two methods for heterogeneous information fusion. In Information Fusion (Fusion), 2015 18th International Conference on, pages 42—49. IEEE, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Applicaton of urref criteria to assess knowledge represen- tation in cyber threats models. In Information Fusion (FUSION), 2018 21 International Conference on. IEEE, 2018.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Belief merging versus judgment aggregation. In Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems, pages 999— 1007. International Foundation for Autonomous Agents and Multiagent Systems, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Social trust: A cognitive approach. In Trust and deception in virtual societies. Springer, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>From manifesta to krypta: The relevance of categories for trusting others. ACM Transactions on Intelligent Systems and Technology (TIST), 4(2):27, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>The relevance of categories for trusting information sources. ACM Transactions on Internet Technology (TOIT), 15(4):13, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Barthès, and F. Enembreck Trust and reputation models for multiagent systems. ACM Computing Surveys (CSUR), 48(2):27, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>A classification of trust computation models for service- oriented internet of things systems. In Services Computing (SCC), 2015 IEEE International Con- ference on, pages 324—331. IEEE, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Human-centered information fusion. Artech House, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>On lying and being lied to: A linguistic analysis of decep- tion in computer-mediated communication. Discourse Processes, 45(1):1—23, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Trust-based role coordination in task-oriented multiagent systems. Knowledge-Based Systems, 52:78—90, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>On the validity of dempster’s fusion rule and its interpre- tation as a generalization of bayesian fusion rule. International Journal of Intelligent Systems, Special Issue: Advances in Intelligent Systems, 29(3):223—252, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>A survey of trust and reputation systems for online service provision. Decision Support Systems, 43(2):618—644, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Semantic criteria for the assessment of uncertainty handling fusion models. In Information Fusion (FUSION), 2016 19th International Conference on, pages 488—495. IEEE, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Dissecting uncertainty-based fusion techniques for mar- itime anomaly detection. In Information Fusion (Fusion), 2015 18th International Conference on, pages 34—41. IEEE, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>D. Prevost Characterization of hard and soft sources of information: A practical illustration. In Information Fusion (FUSION), 2014 17th International Conference on, pages 1—8. IEEE, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Words of estimative probability. Studies in Intelligence, 8(4):49—65, 1964.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Verbal probability expressions in national intelligence esti- mates: a comprehensive analysis of trends from the fifties through post 9/11. PhD thesis, MERCYHURST COLLEGE, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>Multisensor data fusion: A review of the state-of-the-art. Information Fusion, 14(1):28—44, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>and F. Mignet A framework for inferring predictive distributions of rhino poaching events through causal modelling. In Information Fusion (FUSION), 2014 17th International Conference on, pages 1—7. IEEE, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>Liar liar, pants on fire; or how to use subjective logic and argumentation to evaluate information from untrustworthy sources. Artificial Intelligence Review, 48(2):219—235, 2017. 232 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 13, NO. 2 DECEMBER 2018</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Veracity roadmap: Is big data objective, truthful and credi- ble? Advances in Classification Research Online, 24(1):4—15, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Combining statistics and arguments to compute trust. In Proceedings of the 9th International Conference on Au- tonomous Agents and Multiagent Systems: volume 1—Volume 1, pages 209—216. International Foundation for Autono- mous Agents and Multiagent Systems, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>Refined modeling of sensor reliability in the belief function framework using contextual discounting. Information Fusion, 9(2):246—258, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Bnwsn: Bayesian network trust model for wireless sensor networks. In Communications, Computers and Applications, 2008. MIC-CCA 2008. Mosharaka International Conference on, pages 110—115. IEEE, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>STANAG 2011. Technical report, Intelligence reports, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>A. Tettamanzi, and S. Villata Trusting the messenger because of the message: feedback dynamics from information quality to source evaluation. Computational and Mathematical Organization Theory, 20(2):176—194, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>M. Singh, K. Haigh, K. Levitt, and J. Rowe Argument schemes for reasoning about trust. Argument & Computation, 5(2—3):160—190, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>Belief merging and judgment aggregation. Stanford Encyclopedia of Philosophy, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>I think it is likely that it might be so–Exploiting Lexical Clues for the Automatic Generation of evidentiality Weights for Information Extracted from English Text. Dissertation, University of Bonn, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>Stating with certainty or stating with doubt: Intercoder reliability results for manual annotation of epistemically modalized statements. In Human Language Technologies 2007: The Conference of the North American Chapter of the Association for Computa- tional Linguistics; Companion Volume, Short Papers, pages 141—144. Association for Computational Linguistics, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>Are you sure that this happened? assessing the factuality degree of events in text. Computational Linguistics, 38(2):261—299, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>A mathematical theory of evidence, volume 1. Princeton university press Princeton, 1976.</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>A survey of trust in social networks. ACM Computing Surveys (CSUR), 45(4):47, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-58">
+<unstructured_citation>Exploiting social navigation. arXiv preprint arXiv:1410.0151, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-59">
+<unstructured_citation>Advances and applications of DSmT for information fusion, volume 1—4. American Research Press (ARP), 2015.</unstructured_citation>
+</citation>
+<citation key="ref-60">
+<unstructured_citation>Fusion of sources of evidence with different importances and reliabilities. In Information Fusion (FUSION), 2010 13th Conference on, pages 1—8. IEEE, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-61">
+<unstructured_citation>Fusion of sources of evidence with different importances and reliabilities. In Information Fusion (Fusion), 2012 15th International Conference on. IEEE, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-62">
+<unstructured_citation>Using argumentation to reason about trust and belief. Journal of Logic and Computation, 22(5):979—1018, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-63">
+<unstructured_citation>Burgoon, and J. F. Nunamaker Automated determination of the veracity of interview state- ments from people of interest to an operational security force. In Proceedings of the 39th Annual Hawaii International Conference on System Sciences (HICSS’06), volume 1, pages 17a—17a. IEEE, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-64">
+<unstructured_citation>Trust-based fusion of untrustworthy information in crowd- sourcing applications. In Proceedings of the 2013 international conference on au- tonomous agents and multi-agent systems, pages 829—836. International Foundation for Autonomous Agents and Mul- tiagent Systems, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-65">
+<unstructured_citation>Arguing about the trustworthiness of the information sources. In European Conference on Symbolic and Quantitative Ap- proaches to Reasoning and Uncertainty, pages 74—85. Springer, 2011. UNCERTAINTY PROPAGATION FROM MODEL TO FORMALIZATION: ILLUSTRATION ON TRUST ASSESSMENT 233</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

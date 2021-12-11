@@ -1,0 +1,103 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237335.0394776</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<journal_volume>
+<volume>6</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Heterogeneous Track-to-Track Fusion</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Ting </given_name>
+<surname>Yuan</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Xin </given_name>
+<surname>Tian</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<pages>
+<first_page>131</first_page>
+<last_page>149</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom and H. Chen Covariance reconstruction for track fusion with legacy track sources. Journal of Advances in Information Fusion, 3, 2 (Dec. 2008), 107—117.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Algorithms and Software for Information Extraction. Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Tracking and Data Fusion. YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>On optimal track-to-track fusion. IEEE Transactions on Aerospace and Electronic Systems, 33, 4 (Oct. 1997), 1271—1276.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Performance limits of track-to-track fusion versus central- ized estimation: Theory and application. IEEE Transactions on Aerospace and Electronic Systems, AES-39, 2 (Apr. 2003), 386—398.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Track association and fusion with heterogeneous local trackers. Proceedings of 46th IEEE Conference on Decision and Con- trol, New Orleans, LA, Dec. 2007.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Kalman filter versus IMM estimator: When do we need the latter? IEEE Transactions on Aerospace and Electronic Systems, 39, 4 (Oct. 2003), 1452—1457.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Target tracking through a coordinated turn. Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP ’05), vol. 4, iv/21— iv/24, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Track-to-track fusion with dissimilar sensors. IEEE Transactions on Aerospace and Electronic Systems, 32, 3 (July 1996), 1021—1029.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Track-to-track fusion configurations and association in a sliding window. Journal of Advances in Information Fusion, 4, 2 (Dec. 2009), 146—164.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>The optimal algorithm for asynchronous track-to-track fu- sion. Proceedings of SPIE Conference on Signal and Data Process- ing of Small Targets, #7698-46, Orlando, FL, Apr. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Impact point prediction for short range thrusting projectiles. Proceedings of SPIE Conference on Signal and Data Process- ing of Small Targets, #7698-55, Orlando, FL, Apr. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>A multiple IMM approach with unbiased mixing for thrust- ing projectiles. Submitted to IEEE Transactions on Aerospace and Elec- tronic Systems. HETEROGENEOUS TRACK-TO-TRACK FUSION 147</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

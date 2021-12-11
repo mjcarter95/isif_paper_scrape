@@ -1,0 +1,116 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237236.6881719</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<journal_volume>
+<volume>13</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Mutual Information for Optimal Asset Allocation</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>K. C.  </given_name>
+<surname>Chang</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Zhi </given_name>
+<surname>Tian</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<pages>
+<first_page>92</first_page>
+<last_page>105</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>S. Martin Macroeconomic Variables and Stock Market: US Review MPRA Paper No. 39094, May 2012. http://mpra.ub.uni- muenchen.de/39094/.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Signal Processing for Finance, Economics, and Marketing: Concepts, framework, and big data applications IEEE Signal Processing Magazine, vol. 34, no. 3, pp. 14— 35, May 2017.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Stock Price Forecast using Bayesian Network Expert Systems with Applications, Elsvier, Vol. 39, pp. 6729—6737, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Stock trading by Modeling Price Trend with Dynamic Bayesian Networks IDEAL, pp. 794—799, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Comparing and Evaluating Bayesian Predictive Distribu- tions of Asset Returns European Central Bank Eurosystem, Working paper No. 969, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Bayesian Portfolio Selection: An Empirical Analysis of the S&P 500 Index 1970—1996 ASA Journal of Business and Economic Statistics, Vol. 18, No. 2, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Bayesian Networks: A Decision tool to Improve Portfolio Risk Analysis Journal of Applied Finance (Winter 2006), 106—119.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Bayesian Network Models of Portfolio Risk and Return Computational Finance 1999, pp. 87—106, The MIT Press, Cambridge, MA.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Options, Futures, and other Derivatives, 9th edition Pearson, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Methods of Mathematical Finance Springer-Verlag New York, Incorporated, 1998.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Determinants of S&P Index Option Returns Review Derivative Research, 10:1—38, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>The pricing of options and corporate liabilities Journal of Political Economy 81, 637—653, 1973.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>A New Interpretation of Information Rate Bell System Technical Journal 35: 917—926, 1956.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Fortune’s Formula: The Game of Blackjack American Mathematical Society, Jan, 1961.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market http://www.eecs.harvard.edu/cs286r/courses/fall12/papers/ Thorpe KellyCriterion2007.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>A Man for All Markets: From Las Vegas to Wall Street, How I beat the Dealer and the Market Random House, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>A Benchmark Approach to Quantitative Finance Springer, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Elements of Information Theory, 2nd edition Wiley, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Dynamic Asset Allocation; A Bayesian Approach Ph.D. Dissertation, City University of New York, 2014.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

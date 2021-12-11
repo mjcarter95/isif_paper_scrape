@@ -1,0 +1,104 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237316.5145578</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2012</year>
+</publication_date>
+<journal_volume>
+<volume>7</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Modified Scoring in Multiple-Hypothesis Tracking</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Stefano </given_name>
+<surname>Coraluppi</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Craig </given_name>
+<surname>Carthel</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2012</year>
+</publication_date>
+<pages>
+<first_page>153</first_page>
+<last_page>164</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>S. Blackman and R. Popoli Design and Analysis of Modern Tracking Systems. Artech House, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Aggregate surveillance: A cardinality tracking approach. In Proceedings of the 14th International Conference on In- formation Fusion, Chicago IL, July 2011.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>All-source track and identity fusion. In Proceedings of the National Symposium on Sensor and Data Fusion, San Antonio TX, June 2000.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Fusion gain in multi-target tracking. In Proceedings of the 13th International Conference on In- formation Fusion, Edinburgh, Scotland, July 2010.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Histogram PMHT with particles. In Proceedings of the 14th International Conference on In- formation Fusion, Chicago IL, July 2011.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>The bin-occupancy filter and its connection to the PHD filters. IEEE Transactions on Signal Processing, 57, 11 (Nov. 2009).</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Issues in the design of practical multitarget tracking algo- rithms. In Multitarget-Multisensor Tracking: Advanced Applications, Y. Bar-Shalom (Ed.), Artech House, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Application of 0-1 integer programming to multitarget tracking problems. IEEE Transactions on Automatic Control, 22, 3 (June 1977).</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>A Lagrangian relaxation algorithm for multidimensional assignment problems arising from multitarget tracking. SIAM J. Optimization, 3, 3 (Aug. 1993).</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>An algorithm for tracking multiple targets. IEEE Transactions on Automatic Control, 24, 6 (Dec. 1979).</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>A consistent metric for performance evaluation of multi- object filters. IEEE Transactions on Signal Processing, 56, 8 (Aug. 2008).</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>An LP-based algorithm for the data association problem in multitarget tracking. In Proceedings of the 3rd International Conference on Infor- mation Fusion, Paris, France, July 2000.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Track quality based multitarget tracking algorithm. To appear in IEEE Transactions on Aerospace and Electronic Systems.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Track quality based multitarget tracking algorithm. In Proceedings of the SPIE Conference on Signal and Data Processing of Small Targets, Orlando FL, Apr. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Dynamic Cramer-Rao bound for target tracking in clutter. IEEE Transactions on Aerospace and Electronic Systems, 41, 4 (Oct. 2005). MODIFIED SCORING IN MULTIPLE-HYPOTHESIS TRACKING 163</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,230 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237227.4648082</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<journal_volume>
+<volume>13</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Dissecting uncertainty handling techniques: Illustration on maritime anomaly detection</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Anne-Laure </given_name>
+<surname>Jousselme</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Giuliana </given_name>
+<surname>Pallotta</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<pages>
+<first_page>158</first_page>
+<last_page>178</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>B. Auslander, K. M. Gupta, and D. W. Aha A comparative evaluation of anomaly detection algorithms for maritime video surveillance. In Proc. SPIE, Sensors, and Command, Control, Communi- cations, and Intelligence (C3I) Technologies for Homeland Security and Homeland Defense X, volume 8019, Orlando, Florida, USA, May 2011.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Classification with imprecise likelihoods: A comparison of TBM, random set and imprecise probability approach. In Proc. of the 14th Int. Conf. on Information Fusion, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Measurement of membership functions: Theoretical and empirical work. Handbook of Fuzzy Sets and Systems, 1 Fundamentals of Fuzzy Sets, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Ontology alignment using relative entropy for semantic uncertainty analysis. In Proceedings of the IEEE National Aerospace and Elec- tronics Conference (NAECON), pages 140—148, Fairborn, OH, 14—16 July 2010.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>A.-L. Jousselme URREF self-confidence in information fusion trust. In Proc. of the International conference on Information Fu- sion, Salamanca, Spain, July 2014.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Information combination operators for data fusion: A com- parative review with classification. IEEE Transactions on Systems, Man and Cybernetics–Part A: Systems and Humans, 26(1):52—67, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Bayesian and Dempster-Shafer fusion. Sādhanā, 29:145—176, April 2004.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Towards Unbiased Evaluation of Uncertainty Reasoning: The URREF Ontology. In Proc. of the 15th Int. Conf. on Information Fusion, Sin- gapore, 2012. DISSECTING UNCERTAINTY HANDLING TECHNIQUES: ILLUSTRATION ON MARITIME ANOMALY DETECTION 175</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>K. Laskey, E. Blasch, and P. Costa Uncertainty evaluation of data and information fusion within the context of the decision loop. In Proc. of the 19th Int. Conf. on Information Fusion, Hei- delberg, Germany, July 2016.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Jousselme A URREF interpretation of Bayesian network information fusion. In Proc. of the International Conference on Information Fusion, Salamanca, Spain, July 2014.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Machine learning for vessel trajectories using compression, alignments and domain knowledge. Expert Systems with Applications, 39(18):13426—13439, Dec. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Upper and lower probabilities induced by multivalued map- ping. The Annals of Mathematical Statistics, 38:325—339, April 1967.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Introduction to belief functions. Fourth School on Belief Functions and their Applications, 2017. URL https://www.hds.utc.fr/ tdenoeux/dokuwiki/ media/en/lecture1.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Classification using belief functions: Relationship between case-based and model-based approaches. IEEE Transactions on Systems, Man and Cybernetics–Part B: Cybernetics, 36(6):1395—1406, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Some alternative to Bayes’s rule. In B. Grofman and G. Owen, editors, Proc. of the Sec- ond University of California, Irvine, Conference on Political Economy, pages 25—38, 1986.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Evidence, knowledge, and belief functions. Int. Journal of Approximate Reasoning, 6:295—319, 1992.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Fuzzy sets and probability: Misunderstandings, bridges and gaps. In Proc. of the 2nd IEEE Int. Conf. on Fuzzy Systems, pages 1059—1068, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>The three semantics of fuzzy sets. Fuzzy Sets and Systems, 90:141—150, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Formal representations of uncertainty, volume Decision-making–Concepts and Methods, chap- ter 3, pages 85—156. ISTE, London, UK &Wiley, Hoboken, N.J. USA, 2009. Invited paper.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>On bias, variance, 0/1-loss, and the curse-of-dimensionality. Data Mining and Knowledge Discovery, 1:55—77, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Case-based collective inference for maritime object classi- fication. In Proceedings of the Eighth International Conference on Case-Based Reasoning, pages 443—449, Seattle, WA, 2009. Springer.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Accuracy (trueness and precision) of measurement methods and results–part 1: Introduction and basic principles. Technical report, ISO International Standardization, 2011. Available at standardsproposals.bsigroup.com/Home/ getPDF/830.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Detection of vessel anomalies–a Bayesian network ap- proach. In Proc. of the 3rd International Conference on Intelligent Sensors, Sensor Networks and Information, pages 395—400, Melbourne, Qld., Dec. 2007.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Dissecting uncertainty-based fusion techniques for mar- itime anomaly detection. In Proc. of the 18th Int. Conf. on Information Fusion, Wash- ington, D.C., USA, July 2015.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>A brief survey of comparative elements for uncertainty calculi and decision procedures assessment. In Proc. of the 15th Int. conf. on Information Fusion, 2012. Panel Uncertainty Evaluation: Current Status and Major Challenges.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Characterization and empirical evaluation of Bayesian and credal combination operators. Journal of Advances in Information Fusion, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Combining classifiers: A theoretical framework. Pattern Analysis and Applications, 1(18—27), 1998.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Generalized information theory. Fuzzy Sets and Systems, 40:127—142, 1991.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Probability-possibility transformations: A comparison. International Journal of General Systems, 21:291—310, 1992.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Fuzzy Sets and Fuzzy Logic: Theory and Applications. Prentice Hall International, Upper Saddle River, NJ, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Maritime anomaly detection and threat assessment. In Proc. of the 13th Int. Conference on Information Fusion, Edinburgh, UK, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Anomaly detection for sea surveillance. In Proc. of the Int. Conference on Information Fusion, Firenze, Italy, July 2008.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Anomaly Detection in Trajectory Data for Surveillance Ap- plications. PhD thesis, School of Science and Technology at Örebro University, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Bayesian and Dempster-Shafer target identification for radar surveillance. IEEE Transactions on Aerospace and Electronic Systems, 36(2):432—447, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Knowledge-based clustering of ship trajectories using density-based approach. In proc. of the IEEE International Conference on Big Data (Big Data), pages 603—608, Oct 2014. doi: 10.1109/Big- Data.2014.7004281.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>SAR ship detection and self-reporting data fusion based on traffic knowledge. 12:1685—1689, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Refined modeling of sensor reliability in the belief function framework using contextual discounting. Information Fusion, 9:246—258, 2008. 176 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 13, NO. 2 DECEMBER 2018</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Modeling vessel kinematics using a stochastic mean- reverting process for long-term prediction. IEEE Transactions on Aerospace and Electronic Systems, 52(5):2313—2330, October 2016.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>The Protégé project: A look back and a look forward. AI Matters. Association of Computing Machinery Specific Interest Group in Artificial Intelligence, 1(4):4—12, June 2015. URL DOI: 10.1145/2557001.25757003.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Data-driven detection and context-based classification of maritime anomalies. In Proceedings of the 18th International Conference on In- formation Fusion, Washington, D. C. (USA), July 2015.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Vessel traffic dataset from ground-based AIS receiver Castellana: description and use. Technical Report CMRE-DA-2014-001, NATO STO CMRE, 2014. NATO UNCLASSIFIED.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>Vessel pattern knowledge discovery from AIS data–A framework for anomaly detection and route prediction. Entropy, 5(6):2218—2245, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>and P. de Oude Towards the Rational Development and Evaluation of Com- plex Fusion Systems: A URREF-Driven Approach. In Proc. of the 21st Int. Conf. on Information Fusion, pages 679—687, Cambridge, UK, 2018.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>DeAIS project: Detection of AIS spoofing and resulting risks. In OCEANS 2015–Genova, pages 1—6, May 2015. doi: 10.1109/OCEANS-Genova.2015.7271729.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Target classification approach based on the belief function theory. IEEE Transactions on Aerospace and Electronic Systems, 41(2):574—583, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Statistical analysis of motion patterns in AIS Data: Anomaly detection and motion prediction. In Proc. of the 11th Conference on Information Fusion (FUSION), Cologne, Germany, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>A Mathematical Theory of Evidence. Princeton University Press, 1976.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Languages and designs for probability judgment. Cognitive Science, 9:309—339, 1985.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>Constructing the pignistic probability function in a context of uncertainty. Uncertainty in Artificial Intelligence, 5:29—39, 1990. Else- vier Science Publishers.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>Belief functions: The disjunctive rule of combination and the generalized Bayesian theorem. International Journal of Approximate Reasoning, 9:1—35, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>Imperfect information: Imprecision–uncertainty. In A. Motro and P. Smets, editors, Uncertainty Management in Information Systems. From Needs to Solutions, pages 225— 254. Kluwer Academic Publishers, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>Probability, possibility, belief: Which and where? In P. Smets, editor, Quantified Representation of Uncertainty & Imprecision, volume 1, pages 1—24. Kluwer, Doordrecht, 1998.</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>Analyzing the combination of conflicting belief functions. Information Fusion, 8:387—412, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>The transferable belief model. Artificial Intelligence, 66:191—234, 1994.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>Reasoning under Incomplete Information in Artificial Intelli- gence, volume 5 of Int. J. of Intelligent Systems (Special Issue). John Wiley and Sons, INC., 1990.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>Measures of uncertainty in expert systems. Artificial Intelligence, 83:1—58, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>Fuzzy sets. Information and Control, 8:338—353, 1965. DISSECTING UNCERTAINTY HANDLING TECHNIQUES: ILLUSTRATION ON MARITIME ANOMALY DETECTION 177</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

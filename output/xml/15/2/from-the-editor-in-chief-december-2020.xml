@@ -1,0 +1,72 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237194.4204748</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2020</year>
+</publication_date>
+<journal_volume>
+<volume>15</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>From the Editor-in-Chief: December 2020</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>David Frederic</given_name>
+<surname>Crouse</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2020</year>
+</publication_date>
+<pages>
+<first_page>71</first_page>
+<last_page>72</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>T. B. Lee “Lidar used to cost $75,000—here’s how Apple brought it to</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>https://arstechnica.com/cars/2020/10/the-technology-behind-the -iphone-lidar-may-be-coming-soon-to-cars/.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Reliability of a smartphone compared with an intertial sensor to measure shoulder mobility: Cross-sectional study,” JMIR mHealth uHealth, vol. 7, no. 9, Sep. 2019, Art. no. e13640.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>E. Olson, H. Raja, and P. Ivan “Soli: Ubiquitous gesture sensing with a millimeter wave radar,” ACM Trans. Graph., vol. 35, no. 4, Jul. 2016, Art. no. 142.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>google/projects/cartographer.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Can dogs smell COVID? Here’s what the science says,” Nature, vol. 587, no. 7835, pp. 530–531, Nov. 2020. 72 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 15, NO. 2 DECEMBER 2020 https://arstechnica.com/cars/2020/10/the-technology-behind-the-iphone-lidar-may-be-coming-soon-to-cars/ https://opensource.google/projects/cartographer</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

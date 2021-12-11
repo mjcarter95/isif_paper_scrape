@@ -1,0 +1,763 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237242.4174473</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<journal_volume>
+<volume>12</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Extended Object Tracking: Introduction, Overview, and Applications</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Karl </given_name>
+<surname>Granstrom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Marcus  </given_name>
+<surname>Baum</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Stephan </given_name>
+<surname>Reuter</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<pages>
+<first_page>139</first_page>
+<last_page>174</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>D. Angelova and L. Mihaylova “Extended object tracking using Monte Carlo methods,” IEEE Transactions on Signal Processing, vol. 56, no. 2, pp. 825—832, Feb. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“A convolution particle filtering approach for tracking el- liptical extended objects,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2013, pp. 1542—1549. EXTENDED OBJECT TRACKING: INTRODUCTION, OVERVIEW, AND APPLICATIONS 165</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Bayesian inference via approximation of log-likelihood for priors in exponential family,”</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>http://arxiv.org/abs/1510.01225.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Extension of the probabilistic data association filter to multi-target tracking,” in Proceedings of the Fifth Symposium on Nonlinear Estima- tion, San Diego, CA, USA, Sep. 1974.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Multitarget-multisensor tracking: applications and advances, vol III. Artech House, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“The probabilistic data association filter,” IEEE Control Systems, vol. 29, no. 6, pp. 82—100, Dec. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Modeling the target extent with multiplicative noise,” in Proceedings of the International Conference on Informa- tion Fusion, Singapore, Jul. 2012, pp. 2406—2412.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“Random hypersurface models for extended object track- ing,” in IEEE International Symposium on Signal Processing and Information Technology (ISSPIT), Ajman, United Arab Emi- rates, Dec. 2009, pp. 178—183.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Shape tracking of extended objects and group targets with star-convex RHMs,” in Proceedings of the International Conference on Informa- tion Fusion, Chicago, IL, USA, Jul. 2011, pp. 338—345.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Extended object tracking with random hypersurface mod- els,” IEEE Transactions on Aerospace and Electronic Systems, vol. 50, no. 1, pp. 149—159, Jan. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“A novel Bayesian method for fitting a circle to noisy points,” in Proceedings of the International Conference on Informa- tion Fusion, Edinburgh, UK, Jul. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Extended object and group tracking with elliptic Random Hypersurface Models,” in Proceedings of the International Conference on Informa- tion Fusion, Edinburgh, UK, Jul. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Student research highlight: Simultaneous tracking and shape estimation of extended targets,” IEEE Aerospace and Electronic Systems Magazine, vol. 27, no. 7, pp. 42—44, July 2012.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Simultaneous tracking and shape estimation of extended ob- jects. KIT Scientific Publishing, 2013, vol. 13.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Modeling the target extent with multiplicative noise,” in Proceedings of the 15th International Conference on In- formation Fusion (Fusion 2012), Singapore, Jul. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Tracking ground moving extended objects using RGBD data,” in Proceedings of the 2012 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2012), Hamburg, Germany, Sep. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>W. Koch “Extended object and group tracking: A comparison of Random Matrices and Random Hypersurface Models,” in Proceedings of the IEEE ISIF Workshop on Sensor Data Fusion: Trends, Solutions, Applications (SDF 2010), Leipzig, Germany, Oct. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>A. Scheel “A generalised labelled multi-Bernoulli filter for extended multi-target tracking,” in Proceedings of the International Conference on Informa- tion Fusion, Washington, DC, USA, Jul. 2015, pp. 991—998.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“Multiple extended target tracking with labelled random finite sets,” IEEE Transactions on Signal Processing, vol. 64, no. 7, pp. 1638—1653, Apr. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“The auction algorithm: A distributed relaxation method for the assignment problem,” Annals of Operations Research, vol. 14, no. 1, pp. 105—123, 1988.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“A fast algorithm for signature prediction and image for- mation using the shooting and bouncing ray technique,” IEEE Transactions on Antennas and Propagation, vol. 43, no. 7, pp. 727—731, Jul. 1995.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Pattern recognition and machine learning. New York, USA: Springer, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Design and Analysis of Modern Tracking Systems. Norwood, MA, USA: Artech House, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>and F. Gustafsson “A track before detect algorithm for tracking extended targets,” IEE Proceedings Radar, Sonar and Navigation, vol. 153, no. 4, pp. 345—351, Aug. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>M. Baum “Extended object tracking with exploitation of range rate measurements,” Journal of Advances in Information Fusion.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>T. Luginbuhl “Extracting speed, heading and turn-rate measurements from extended objects using the EM algorithm,” in IEEE Aerospace Conference, Big Sky, Montana, USA, Mar. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“Recursive 3-d motion estimation from a monocular image sequence,” IEEE Transactions on Aerospace and Electronic Systems, vol. 26, no. 4, pp. 639—656, Jul. 1990.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>“Estimating the kinematics and structure of a rigid object from a sequence of monocular images,” IEEE Transactions on Pattern Analysis and Machine Intelli- gence, vol. 13, no. 6, pp. 497—513, Jun. 1991.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>“Simulation of automotive radar target lists using a novel approach of object representation,” in IEEE Intelligent Vehicles Symposium, Jun. 2006, pp. 314— 319. 166 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 12, NO. 2 DECEMBER 2017</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>“Engel’s inequality for bell numbers,” Journal of Combinatorial Theory, Series A, vol. 72, no. 1, pp. 184—187, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>“Extended object tracking and classification based on re- cursive joint decision and estimation,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2013, pp. 1670—1677.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>“Extension-deformation approach to extended object track- ing,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2016, pp. 1185—1192.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>“The Gaussian mixture MCMC particle algorithm for dy- namic cluster tracking,” Automatica, vol. 48, no. 10, pp. 2454—2467, Oct. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Circular and Linear Regression: Fitting Circles and Lines by Least Squares. CRC Press, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>“Group target tracking with the Gaussian mixture probabil- ity hypothesis density filter,” in International Conference on Intelligent Sensors, Sensor Networks and Information (ISSNIP), Melbourne, Australia, Dec. 2007, pp. 149—154.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>“A fusion architecture for tracking a group of people using a distributed sensor network,” in Proceedings of the International Conference on Informa- tion Fusion, Istanbul, Turkey, July 2013, pp. 1776—1783.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>“Histogram-PMHT unfettered,” IEEE Journal of Selected Topics in Signal Processing, vol. 7, no. 3, pp. 435—447, June 2013.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>“Extended target tracking using principal components,” in Proceedings of the International Conference on Informa- tion Fusion, Chicago, IL, USA, Jul. 2011, pp. 330—337.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>“Tracking maneuvering and bending extended target in cluttered environment,” in Signal and Data Processing of Small Targets, O. E. Drummond, Ed., vol. 3373, Orlando, FL, USA, Apr. 1998, pp. 283—294.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>“The fastest pedestrian detector in the west,” in Proceedings of the British Machine Vision Conference, 2010, pp. 68.1—68.11.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>“Integral channel features,” in Proceedings of the British Machine Vision Conference, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>“Multiple sensor tracking of clusters and extended objects,” Technical Proceedings: 1988 Tri-Service Data Fusion Sym- posium, 1988.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>“Tracking clusters and extended objects with multiple sen- sors,” Signal and Data Processing of Small Targets 1990, vol. 1305, no. 1, pp. 362—375, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>“Pedestrian group tracking using the GM-PHD filter,” in Proceedings of the European Signal Processing Confer- ence, Marrakech, Morocco, Sep. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>“On the average rank of an element in a filter of the partition lattice,” Journal of Combinatorial Theory, Series A, vol. 65, no. 1, pp. 67—78, 1994.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>“Probability hypothesis density filter for multitarget multi- sensor tracking,” in Proceedings of the International Conference on Informa- tion Fusion, Philadelphia, CA, USA, Jul. 2005, pp. 146— 153.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>“Track before detect algorithm for tracking extended targets applied to real-world data of X-band marine radar,” in Proceedings of the International Conference on Informa- tion Fusion, Salamanca, Spain, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>“Tracking 3D shapes in noisy point clouds with random hypersurface models,” in Proceedings of the 15th International Conference on In- formation Fusion (Fusion 2012), Singapore, Jul. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>“Depth sensor calibration by tracking an extended object,” in Proceedings of the 2015 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2015), San Diego, California, USA, Sep. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>“Partial likelihood for unbiased extended object tracking,” in Proceedings of the 18th International Conference on Infor- mation Fusion (Fusion 2015), Washington D.C., USA, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>“Symmetries in Bayesian extended object tracking,” Journal of Advances in Information Fusion, vol. 10, no. 1, pp. 13—30, Jun. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>Hanebeck “Recursive Bayesian pose and shape estimation of 3D objects using transformed plane curves,” in Proceedings of the IEEE ISIF Workshop on Sensor Data Fusion: Trends, Solutions, Applications (SDF 2015), Bonn, Germany, Oct. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>marstrand “Poisson multi-Bernoulli radar mapping using Gibbs sam- pling,” IEEE Transactions on Signal Processing.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>“Tracking of extended objects and group targets using random matrices–A new approach,” in Proceedings of the International Conference on Informa- tion Fusion, Cologne, Germany, Jul. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>“Advances on tracking of extended objects and group tar- gets using random matrices,” in Proceedings of the International Conference on Informa- tion Fusion, Seattle, USA, Jul. 2009, pp. 1029—1036. EXTENDED OBJECT TRACKING: INTRODUCTION, OVERVIEW, AND APPLICATIONS 167</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>“Tracking of extended objects and group targets using random matrices,” IEEE Transactions on Signal Processing, vol. 59, no. 4, pp. 1409—1420, Apr. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-58">
+<unstructured_citation>“Development of practical PDA logic for multitarget track- ing by microprocessor,” in Multitarget-Multisensor Tracking: Advanced Applications, Y. Bar-Shalom, Ed. Artech House, 1990, pp. 1—23.</unstructured_citation>
+</citation>
+<citation key="ref-59">
+<unstructured_citation>“Direct least square fitting of ellipses,” IEEE Transactions on Pattern Analysis and Machine Intelli- gence, vol. 21, pp. 476—480, May 1999.</unstructured_citation>
+</citation>
+<citation key="ref-60">
+<unstructured_citation>“A labeled PHD filter for extended target tracking in li- dar data using geometric invariance properties: Vehicular application,” in Proceedings of the International Conference on Informa- tion Fusion, Istanbul, Turkey, July 2013, pp. 1744—1751.</unstructured_citation>
+</citation>
+<citation key="ref-61">
+<unstructured_citation>“A track-before-detect approach for extended target track- ing in multi-lidar systems using a low-level centralized fu- sion framework,” in Proceedings of the International Conference on Informa- tion Fusion, Salamanca, Spain, July 2014, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-62">
+<unstructured_citation>“Sonar tracking of multiple targets using joint probabilistic data association,” IEEE Journal of Oceanic Engineering, vol. 8, no. 3, pp. 173— 184, Jul. 1983.</unstructured_citation>
+</citation>
+<citation key="ref-63">
+<unstructured_citation>“`Spooky action at a distance' in the Cardinalized Probabil- ity Hypothesis Density Filter,” IEEE Transactions on Aerospace and Electronic Systems, vol. 45, no. 4, pp. 1657—1664, Oct. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-64">
+<unstructured_citation>“Derivation of the PHD and CPHD filters based on direct Kullback-Leibler Divergence minimization,” IEEE Transactions on Signal Processing, vol. 63, no. 21, pp. 5812—5820, Nov. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-65">
+<unstructured_citation>Bayesian Data Analysis, ser. Texts in Statistical Science. Chapman & Hall/CRC, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-66">
+<unstructured_citation>Amin “Multiple extended target tracking for through-wall radars,” IEEE Transactions on Geoscience and Remote Sensing, vol. 53, no. 12, pp. 6482—6494, Dec. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-67">
+<unstructured_citation>“Poisson models for extended target and group tracking,” in Proceedings of Signal and Data Processing of Small Targets, vol. 5913. San Diego, CA, USA: SPIE, Aug. 2005, pp. 230—241.</unstructured_citation>
+</citation>
+<citation key="ref-68">
+<unstructured_citation>“Spatial distribution model for tracking extended objects,” IEE Proceedings of Radar, Sonar and Navigation, vol. 152, no. 5, pp. 364—371, Oct. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-69">
+<unstructured_citation>“Gamma Gaussian inverse-Wishart Poisson multi-Bernoulli filter for extended target tracking,” in Proceedings of the International Conference on Informa- tion Fusion, Heidelberg, Germany, Jul. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-70">
+<unstructured_citation>“Poisson multi-Bernoulli conjugate prior for multiple ex- tended object estimation,”</unstructured_citation>
+</citation>
+<citation key="ref-71">
+<unstructured_citation>1605.06311.</unstructured_citation>
+</citation>
+<citation key="ref-72">
+<unstructured_citation>“On the use of multiple measurement models for extended target tracking,” in Proceedings of the International Conference on Informa- tion Fusion, Istanbul, Turkey, Jul. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-73">
+<unstructured_citation>“Random set methods: Estimation of multiple extended objects,” IEEE Robotics and Automation Magazine, vol. 21, no. 2, pp. 73—82, Jun. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-74">
+<unstructured_citation>“A Gaussian mixture PHD filter for extended target track- ing,” in Proceedings of the International Conference on Informa- tion Fusion, Edinburgh, UK, Jul. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-75">
+<unstructured_citation>“Tracking rectangular and elliptical extended targets using laser measurements,” in Proceedings of the International Conference on Informa- tion Fusion, Chicago, IL, USA, Jul. 2011, pp. 592—599.</unstructured_citation>
+</citation>
+<citation key="ref-76">
+<unstructured_citation>“Extended target tracking using a Gaussian Mixture PHD filter,” IEEE Transactions on Aerospace and Electronic Systems, vol. 48, no. 4, pp. 3268—3286, Oct. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-77">
+<unstructured_citation>afino “PHD extended target tracking using an incoherent X-band Radar: Preliminary real-world experimental results,” in Proceedings of the International Conference on Informa- tion Fusion, Salamanca, Spain, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-78">
+<unstructured_citation>“Gamma Gaussian inverse Wishart probability hypothesis density for extended target tracking using X-band marine radar data,” IEEE Transactions on Geoscience and Remote Sensing, vol. 53, no. 12, pp. 6617—6631, Dec. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-79">
+<unstructured_citation>“Properties and approximations of some matrix variate probability density functions,” Department of Electrical Engineering, Linköping Univer- sity, SE-581 83 Linköping, Sweden, Tech. Rep. LiTH-ISY-</unstructured_citation>
+</citation>
+<citation key="ref-80">
+<unstructured_citation>resolve?urn=urn:nbn:se:liu:diva-88735.</unstructured_citation>
+</citation>
+<citation key="ref-81">
+<unstructured_citation>“A PHD filter for tracking multiple extended targets using random matrices,” IEEE Transactions on Signal Processing, vol. 60, no. 11, pp. 5657—5671, Nov. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-82">
+<unstructured_citation>“Estimation and maintenance of measurement rates for multiple extended target tracking,” in Proceedings of the International Conference on Informa- tion Fusion, Singapore, Jul. 2012, pp. 2170—2176.</unstructured_citation>
+</citation>
+<citation key="ref-83">
+<unstructured_citation>“Implementation of the GIW-PHD filter,” Department of Electrical Engineering, Linköping Univer- sity, SE-581 83 Linköping, Sweden, Tech. Rep. LiTH-ISY-</unstructured_citation>
+</citation>
+<citation key="ref-84">
+<unstructured_citation>resolve?urn=urn:nbn:se:liu:diva-94585.</unstructured_citation>
+</citation>
+<citation key="ref-85">
+<unstructured_citation>“On the reduction of Gaussian inverse Wishart mixtures,” in Proceedings of the International Conference on Informa- tion Fusion, Singapore, Jul. 2012, pp. 2162—2169. 168 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 12, NO. 2 DECEMBER 2017</unstructured_citation>
+</citation>
+<citation key="ref-86">
+<unstructured_citation>“On spawning and combination of extended/group targets modeled with random matrices,” IEEE Transactions on Signal Processing, vol. 61, no. 3, pp. 678—692, Feb. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-87">
+<unstructured_citation>“New prediction for extended targets with random matri- ces,” IEEE Transactions on Aerospace and Electronic Systems, vol. 50, no. 2, pp. 1577—1589, Apr. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-88">
+<unstructured_citation>“Corrections on: `Extended target tracking using a Gaussian-Mixture PHD filter',” IEEE Transactions on Aerospace and Electronic Systems.</unstructured_citation>
+</citation>
+<citation key="ref-89">
+<unstructured_citation>“A multiple model PHD approach to tracking of cars under an assumed rectangular shape,” in Proceedings of the International Conference on Informa- tion Fusion, Salamanca, Spain, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-90">
+<unstructured_citation>“An extended target tracking model with multiple random matrices and unified kinematics,” in Proceedings of the International Conference on Informa- tion Fusion, Washington, DC, USA, Jul. 2015, pp. 1007— 1014.</unstructured_citation>
+</citation>
+<citation key="ref-91">
+<unstructured_citation>“An extended target tracking model with multiple random matrices and unified kinematics,”</unstructured_citation>
+</citation>
+<citation key="ref-92">
+<unstructured_citation>arxiv.org/abs/1406.2135.</unstructured_citation>
+</citation>
+<citation key="ref-93">
+<unstructured_citation>“Tracking vehicles using radar detections,” in IEEE Intelligent Vehicles Symposium, Jun. 2007, pp. 296— 302.</unstructured_citation>
+</citation>
+<citation key="ref-94">
+<unstructured_citation>Matrix variate distributions, ser. Chapman & Hall/CRC monographs and surveys in pure and applied mathematics. Chapman & Hall, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-95">
+<unstructured_citation>and T. Kirubarajan “A multiple-detection joint probabilistic data association filter,” IEEE Journal of Selected Topics in Signal Processing, vol. 7, no. 3, pp. 461—471, Jun. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-96">
+<unstructured_citation>“Adaptive radar sensor model for tracking structured ex- tended objects,” IEEE Transactions on Aerospace and Electronic Systems, vol. 48, no. 3, pp. 1975—1995, Jul. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-97">
+<unstructured_citation>“Extended object tracking using a radar resolution model,” IEEE Transactions on Aerospace and Electronic Systems, vol. 48, no. 3, pp. 2371—2386, Jul. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-98">
+<unstructured_citation>“Social force model for pedestrian dynamics,” Physical Review E, vol. 51, pp. 4282—4286, May 1995.</unstructured_citation>
+</citation>
+<citation key="ref-99">
+<unstructured_citation>“Fast segmentation of 3d point clouds for ground vehicles,” in IEEE Intelligent Vehicles Symposium (IV), June 2010, pp. 560—565.</unstructured_citation>
+</citation>
+<citation key="ref-100">
+<unstructured_citation>“Multiple extended object tracking using Gaussian pro- cesses,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2016, pp. 868—875.</unstructured_citation>
+</citation>
+<citation key="ref-101">
+<unstructured_citation>“Motion and structure from feature correspondences: a review,” Proceedings of the IEEE, vol. 82, no. 2, pp. 252—268, Feb 1994.</unstructured_citation>
+</citation>
+<citation key="ref-102">
+<unstructured_citation>“On multiple-model extended target multi-Bernoulli fil- ters,” Digital Signal Processing, vol. 59, pp. 76—85, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-103">
+<unstructured_citation>“Unscented filtering and nonlinear estimation,” in Proceedings of the IEEE, vol. 92, no. 3, 2004, pp. 401— 422.</unstructured_citation>
+</citation>
+<citation key="ref-104">
+<unstructured_citation>“Snakes: Active contour models,” International Journal of Computer Vision, vol. 1, no. 4, pp. 321—331, 1988.</unstructured_citation>
+</citation>
+<citation key="ref-105">
+<unstructured_citation>“A direct scattering model for tracking vehicles with high- resolution radars,” in IEEE Intelligent Vehicles Symposium, Jun. 2016, pp. 298— 303.</unstructured_citation>
+</citation>
+<citation key="ref-106">
+<unstructured_citation>“Cluster tracking under kinematical constraints using ran- dom matrices,” Robotics and Autonomous Systems, vol. 57, no. 3, pp. 296— 309, Mar. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-107">
+<unstructured_citation>“Bayesian approach to extended object and cluster tracking using random matrices,” IEEE Transactions on Aerospace and Electronic Systems, vol. 44, no. 3, pp. 1042—1059, Jul. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-108">
+<unstructured_citation>“Object tracking with imaging sonar,” in Proceedings of the International Conference on Informa- tion Fusion, Singapore, July 2012, pp. 2400—2405.</unstructured_citation>
+</citation>
+<citation key="ref-109">
+<unstructured_citation>“On information and sufficiency,” The Annals of Mathematical Statistics, vol. 22, no. 1, pp. 79—86, Mar. 1951.</unstructured_citation>
+</citation>
+<citation key="ref-110">
+<unstructured_citation>F. Gritschneder, A. Scheel, M. Stäbler, M. Bach, P. Hatzel- mann, C. Wild, and K. Dietmayer “Autonomous driving at Ulm university: A modular, robust, and sensor-independent fusion approach,” in IEEE Intelligent Vehicles Symposium (IV), Jun. 2015, pp. 666—673.</unstructured_citation>
+</citation>
+<citation key="ref-111">
+<unstructured_citation>“Issues in the design of practical multitarget tracking algo- rithms,” Chapter 3 in Multitarget-Multisensor Tracking: Advanced Applications, Ed. Y. Bar-Shalom, Artech House, pp. 43—83, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-112">
+<unstructured_citation>“Tracking of extended object or target group using random matrix: New model and approach,” IEEE Transactions on Aerospace and Electronic Systems.</unstructured_citation>
+</citation>
+<citation key="ref-113">
+<unstructured_citation>“Tracking of extended object or target group using random matrix–part I: New model and approach,” in Proceedings of the International Conference on Informa- tion Fusion, Singapore, Jul. 2012, pp. 2177—2184.</unstructured_citation>
+</citation>
+<citation key="ref-114">
+<unstructured_citation>“Tracking of extended object or target group using random matrix–part II: Irregular object,” in Proceedings of the International Conference on Informa- tion Fusion, Singapore, Jul. 2012, pp. 2185—2192. EXTENDED OBJECT TRACKING: INTRODUCTION, OVERVIEW, AND APPLICATIONS 169</unstructured_citation>
+</citation>
+<citation key="ref-115">
+<unstructured_citation>“Joint tracking and classification of non-ellipsoidal ex- tended object using random matrix,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-116">
+<unstructured_citation>“Tracking maneuvering non-ellipsoidal extended object or target group using random matrix,” IEEE Transactions on Signal Processing, vol. 62, no. 9, pp. 2450—2463, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-117">
+<unstructured_citation>“Joint tracking and classification of extended object using random matrix,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2013, pp. 1550—1557.</unstructured_citation>
+</citation>
+<citation key="ref-118">
+<unstructured_citation>“Extended object or group target tracking using random matrix with nonlinear measurements,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2016, pp. 901—908.</unstructured_citation>
+</citation>
+<citation key="ref-119">
+<unstructured_citation>“Kalman filters for non-linear systems: A comparison of performance,” International Journal of Control, vol. 77, no. 7, pp. 639—653, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-120">
+<unstructured_citation>“Survey of maneuvering target tracking: Part I. Dynamic models,” IEEE Transactions on Aerospace and Electronic Systems, vol. 39, no. 4, pp. 1333—1364, Oct. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-121">
+<unstructured_citation>“Unified cardinalized probability hypothesis density filters for extended targets and unresolved targets,” Signal Processing, vol. 92, no. 7, pp. 1729—1744, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-122">
+<unstructured_citation>“Sequential Monte Carlo implementation and state extrac- tion of the group probability hypothesis density filter for partly unresolvable group targets-tracking problem,” IET Radar, Sonar and Navigation, vol. 4, no. 5, pp. 685—702, Oct. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-123">
+<unstructured_citation>“The sequential Monte Carlo multi-Bernoulli filter for ex- tended targets,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2015, pp. 984—990.</unstructured_citation>
+</citation>
+<citation key="ref-124">
+<unstructured_citation>“Place-dependent people tracking,” International Journal for Robotics Research, vol. 30, no. 3, pp. 280—293, Jan. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-125">
+<unstructured_citation>“Variational Bayesian expectation maximization for radar map estimation,” IEEE Transactions on Signal Processing, vol. 64, no. 6, pp. 1391—1404, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-126">
+<unstructured_citation>“Estimating the shape of targets with a PHD filter,” in Proceedings of the International Conference on Informa- tion Fusion, Chicago, IL, USA, Jul. 2011, pp. 49—56.</unstructured_citation>
+</citation>
+<citation key="ref-127">
+<unstructured_citation>“An extended target CPHD filter and a Gamma Gaussian inverse Wishart implementation,” IEEE Journal of Selected Topics in Signal Processing, Special Issue on Multi-target Tracking, vol. 7, no. 3, pp. 472—483, Jun. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-128">
+<unstructured_citation>“Estimating polynomial structures from radar data,” in Proceedings of the International Conference on Informa- tion Fusion, Edinburgh, UK, Jul. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-129">
+<unstructured_citation>“Sequential Monte Carlo implementation of cardinality bal- anced multi-target multi-Bernoulli filter for extended target tracking,” IET Radar, Sonar Navigation, vol. 10, no. 2, pp. 272—277, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-130">
+<unstructured_citation>Statistical Multisource-Multitarget Information Fusion. Norwood, MA, USA: Artech House, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-131">
+<unstructured_citation>“‘Statistics 102’ for multisensor-multitarget tracking,” IEEE Journal of Selected Topics in Signal Processing, vol. 7, no. 3, pp. 376—389, Jun. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-132">
+<unstructured_citation>Advances in Multisource-Multitarget Information Fusion. Norwood, MA, USA: Artech House, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-133">
+<unstructured_citation>“Multitarget Bayes filtering via first-order multi target mo- ments,” IEEE Transactions on Aerospace and Electronic Systems, vol. 39, no. 4, pp. 1152—1178, Oct. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-134">
+<unstructured_citation>“PHD filters of higher order in target number,” IEEE Transactions on Aerospace and Electronic Systems, vol. 43, no. 4, pp. 1523—1543, Oct. 2007.</unstructured_citation>
+</citation>
+<citation key="ref-135">
+<unstructured_citation>“PHD filters for nonstandard targets, I: Extended targets,” in Proceedings of the International Conference on Informa- tion Fusion, Seattle, WA, USA, Jul. 2009, pp. 915—921.</unstructured_citation>
+</citation>
+<citation key="ref-136">
+<unstructured_citation>“Combining the 2d and 3d world: A new approach for point cloud based object detection,” in Intelligent Signal Processing Conference, 12 2013.</unstructured_citation>
+</citation>
+<citation key="ref-137">
+<unstructured_citation>S. Godsill “Overview of Bayesian sequential Monte Carlo methods for group and extended object tracking,” Digital Signal Processing, vol. 25, no. 0, pp. 1—16, Feb. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-138">
+<unstructured_citation>“Generisches Sensorfusionsframework zur gleichzeitigen Zustands–und Existenzschätzung für die Fahrzeugum- felderkennung,” Ph.D. dissertation, Ulm University, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-139">
+<unstructured_citation>“Sparse structure inference for group and network track- ing,” in 2016 19th International Conference on Information Fusion (FUSION), July 2016, pp. 1208—1214.</unstructured_citation>
+</citation>
+<citation key="ref-140">
+<unstructured_citation>“An algorithm for ranking all the assignments in order of increasing cost,” Operations Research, vol. 16, no. 3, pp. 682—687, 1968.</unstructured_citation>
+</citation>
+<citation key="ref-141">
+<unstructured_citation>“Pedestrian Detection and Tracking Using Three- dimensional LADAR Data,” International Journal for Robotics Research, vol. 29, no. 12, pp. 1516—1528, Oct. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-142">
+<unstructured_citation>“A comparison of line extraction algorithms using 2d laser rangefinder for indoor mobile robotics,” in Proceedings of the 2005 IEE/RSJ International Conference on Intelligent Robots and Systems, 2005, pp. 1929—1934.</unstructured_citation>
+</citation>
+<citation key="ref-143">
+<unstructured_citation>“A variational measurement update for extended target tracking with random matrices,” IEEE Transactions on Signal Processing, vol. 60, no. 7, pp. 3827—3834, Jul. 2012. 170 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 12, NO. 2 DECEMBER 2017</unstructured_citation>
+</citation>
+<citation key="ref-144">
+<unstructured_citation>“Extended target tracking with a cardinalized probability hypothesis density filter,” Department of Electrical Engineering, Linköping Univer- sity, Sweden, Linköping, Sweden, Tech. Rep. LiTH-ISY-R-</unstructured_citation>
+</citation>
+<citation key="ref-145">
+<unstructured_citation>isy.liu.se/research/reports/2011/2999.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-146">
+<unstructured_citation>“Extended target tracking with a Cardinalized Probability Hypothesis Density filter,” in Proceedings of the International Conference on Informa- tion Fusion, Chicago, IL, USA, Jul. 2011, pp. 65—72.</unstructured_citation>
+</citation>
+<citation key="ref-147">
+<unstructured_citation>(2010, Nov.) CPHD filter derivation for extended targets.</unstructured_citation>
+</citation>
+<citation key="ref-148">
+<unstructured_citation>abs/1011.1512v2.</unstructured_citation>
+</citation>
+<citation key="ref-149">
+<unstructured_citation>“Rao-Blackwellised particle filter for star-convex extended target tracking models,” in Proceedings of the International Conference on Informa- tion Fusion, July 2016, pp. 1193—1199.</unstructured_citation>
+</citation>
+<citation key="ref-150">
+<unstructured_citation>“Detection and tracking of coordinated groups,” IEEE Transactions on Aerospace and Electronic Systems, vol. 47, no. 1, pp. 472—502, Jan. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-151">
+<unstructured_citation>“Data association and track management for the Gaussian mixture probability hypothesis density filter,” IEEE Transactions on Aerospace and Electronic Systems, vol. 45, no. 3, pp. 1003—1016, Jul. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-152">
+<unstructured_citation>“Box particle filtering for extended object tracking,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2012, pp. 82—89.</unstructured_citation>
+</citation>
+<citation key="ref-153">
+<unstructured_citation>“A novel sequential Monte Carlo approach for extended object tracking based on border parametrisation,” in Proceedings of the International Conference on Informa- tion Fusion, Chicago, IL, USA, Jul. 2011, pp. 306—313.</unstructured_citation>
+</citation>
+<citation key="ref-154">
+<unstructured_citation>M. Wieneke, and W. Koch “On the performance of the box particle filter for extended object tracking using laser data,” in Workshop on Sensor Data Fusion: Trends, Solutions, Applications, Sep. 2012, pp. 19—24.</unstructured_citation>
+</citation>
+<citation key="ref-155">
+<unstructured_citation>“Model based vehicle tracking for autonomous driving in urban environments,” in Proceedings of Robotics: Science and Systems, Zürich, Switzerland, Jun. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-156">
+<unstructured_citation>“Performances in multitarget tracking for convoy detection over real GMTI data,” in 13th Conference on Information Fusion (FUSION), Edin- burgh, Scotland, July 2010.</unstructured_citation>
+</citation>
+<citation key="ref-157">
+<unstructured_citation>“Fitting ellipses and predicting confidence envelopes Using a bias corrected Kalman filter,” Image Vision Computing, vol. 8, pp. 37—41, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-158">
+<unstructured_citation>“Segmentation and geometric primitives extraction from 2d laser range data for mobile robot applications,” in Actas do Encontro Científico Robótica 2005, 2005, pp. 17—25.</unstructured_citation>
+</citation>
+<citation key="ref-159">
+<unstructured_citation>son “Generalized optimal sub-pattern assignment metric,”</unstructured_citation>
+</citation>
+<citation key="ref-160">
+<unstructured_citation>1601.05585.</unstructured_citation>
+</citation>
+<citation key="ref-161">
+<unstructured_citation>Gaussian Processes for Machine Learning. Boston, MA, USA: MIT Press, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-162">
+<unstructured_citation>“An algorithm for tracking multiple targets,” IEEE Transactions on Automatic Control, vol. 24, no. 6, pp. 843—854, Dec. 1979.</unstructured_citation>
+</citation>
+<citation key="ref-163">
+<unstructured_citation>“Pedestrian tracking using random finite sets,” in Proceedings of the International Conference on Informa- tion Fusion, Chicago, IL, USA, Jul. 2011, pp. 1101—1108.</unstructured_citation>
+</citation>
+<citation key="ref-164">
+<unstructured_citation>“The Labeled Multi-Bernoulli Filter,” IEEE Transactions on Signal Processing, vol. 62, no. 12, pp. 3246—3260, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-165">
+<unstructured_citation>“Methods to model the motion of extended objects in multi- object Bayes filters,” in Proceedings of the International Conference on Informa- tion Fusion, Singapore, Jul. 2012, pp. 527—534.</unstructured_citation>
+</citation>
+<citation key="ref-166">
+<unstructured_citation>“Zur Fahrmechanik des gummibereiften Kraftfahrzeugs,” Ingenieur-Archiv, vol. 11, no. 3, pp. 210—224, 1940.</unstructured_citation>
+</citation>
+<citation key="ref-167">
+<unstructured_citation>“Bernoulli filter for detection and tracking of an extended object in clutter,” in Proceedings of 2013 IEEE Eighth International Confer- ence on Intelligent Sensors, Sensor Networks and Information Processing, Apr. 2013, pp. 306—311.</unstructured_citation>
+</citation>
+<citation key="ref-168">
+<unstructured_citation>“A tutorial on Bernoulli filters: Theory, implementation and applications,” IEEE Transactions on Signal Processing, vol. 61, no. 13, pp. 3406—3430, Jul. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-169">
+<unstructured_citation>“The number of partitions of a set,” The American Mathematical Monthly, vol. 71, no. 5, pp. 498—504, May 1964.</unstructured_citation>
+</citation>
+<citation key="ref-170">
+<unstructured_citation>“Track maintenance using measurements of target extent,” IEE Proceedings–Radar, Sonar and Navigation, vol. 150, no. 6, pp. 389—395, Dec. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-171">
+<unstructured_citation>“Posterior Cramer-Rao lower bounds for extended target tracking with random matrices,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2016, pp. 1485—1492.</unstructured_citation>
+</citation>
+<citation key="ref-172">
+<unstructured_citation>“A multiple hypothesis tracker for multitarget tracking with multiple simultaneous measurements,” IEEE Journal of Selected Topics in Signal Processing, vol. 7, no. 3, pp. 448—460, Jun. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-173">
+<unstructured_citation>etmayer “Tracking and data segmentation using a GGIW filter with mixture clustering,” in Proceedings of the International Conference on Informa- tion Fusion, Salamanca, Spain, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-174">
+<unstructured_citation>“Multi-sensor multi-object tracking of vehicles using high- resolution radars,” in IEEE Intelligent Vehicles Symposium, Jun. 2016, pp. 558— 565.</unstructured_citation>
+</citation>
+<citation key="ref-175">
+<unstructured_citation>“Using separable likelihoods for laser-based vehicle track- ing with a labeled multi-Bernoulli filter,” in Proceedings of the International Conference on Informa- tion Fusion, Heidelberg, Germany, Jul. 2016, pp. 1200— 1207. EXTENDED OBJECT TRACKING: INTRODUCTION, OVERVIEW, AND APPLICATIONS 171</unstructured_citation>
+</citation>
+<citation key="ref-176">
+<unstructured_citation>Vehicle Dynamics: Modeling and Simulation. Berlin, Heidelberg, Germany: Springer Berlin Heidelberg, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-177">
+<unstructured_citation>“A consistent metric for performance evaluation of multi- object filters,” IEEE Transactions on Signal Processing, vol. 56, no. 8, pp. 3447—3457, Aug. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-178">
+<unstructured_citation>“Probabilistic data association for tracking extended group targets under clutter using random matrices,” Journal of Advances in Information Fusion.</unstructured_citation>
+</citation>
+<citation key="ref-179">
+<unstructured_citation>“Probabilistic data association for tracking extended group targets under clutter using random matrices,” in Proceedings of the International Conference on Informa- tion Fusion, Washington, DC, USA, Jul. 2015, pp. 961—968.</unstructured_citation>
+</citation>
+<citation key="ref-180">
+<unstructured_citation>“Multiple extended objects tracking with object-local occu- pancy grid maps,” in Proceedings of the International Conference on Informa- tion Fusion, Salamanca, Spain, July 2014.</unstructured_citation>
+</citation>
+<citation key="ref-181">
+<unstructured_citation>“Multiclass multimodal detection and tracking in urban environments,” International Journal for Robotics Research, vol. 29, no. 12, pp. 1498—1515, Oct. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-182">
+<unstructured_citation>“A closed-form likelihood for particle filters to track ex- tended objects with star-convex RHMs,” in Proceedings of the 2015 IEEE International Conference on Multisensor Fusion and Information Integration (MFI 2015), San Diego, California, USA, Sep. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-183">
+<unstructured_citation>“JPDA intensity filter for tracking multiple extended ob- jects in clutter,” in Proceedings of the International Conference on Informa- tion Fusion. ISIF, 2016, pp. 1477—1484.</unstructured_citation>
+</citation>
+<citation key="ref-184">
+<unstructured_citation>“A probabilistic multihypothesis tracking algorithm with- out enumeration and pruning,” in In proceedings of the Sixth Joint Service Data Fusion Symposium, Laurel, MD, USA, Jun. 1993, pp. 1015—1024.</unstructured_citation>
+</citation>
+<citation key="ref-185">
+<unstructured_citation>“Probabilistic Multi-Hypothesis Tracking,” DTIC Document, Tech. Rep., 1995.</unstructured_citation>
+</citation>
+<citation key="ref-186">
+<unstructured_citation>“Performance evaluation for shape estimation of extended objects using a modified Hausdorff distance,” in IEEE International Conference on Information and Au- tomation (ICIA), Aug. 2016, pp. 780—784.</unstructured_citation>
+</citation>
+<citation key="ref-187">
+<unstructured_citation>“Joint tracking and classification of extended object based on support functions,” in Proceedings of the International Conference on Informa- tion Fusion. IEEE, 2014, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-188">
+<unstructured_citation>“Modeling for tracking of complex extended object using Minkowski addition,” in Proceedings of the International Conference on Informa- tion Fusion. IEEE, 2014, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-189">
+<unstructured_citation>“Modeling of extended objects based on support functions and extended Gaussian images for target tracking,” IEEE Transactions on Aerospace and Electronic Systems, vol. 50, no. 4, pp. 3021—3035, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-190">
+<unstructured_citation>“Extended object filtering using spatial independent cluster processes,” in Proceedings of the International Conference on Informa- tion Fusion, Edinburgh, UK, Jul. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-191">
+<unstructured_citation>“The PHD filter for extended target tracking with estimable shape parameters of varying size,” in Proceedings of the International Conference on Informa- tion Fusion, Singapore, Jul. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-192">
+<unstructured_citation>and T. Kirubarajan “A multiple-detection probability hypothesis density filter,” IEEE Transactions on Signal Processing, vol. 63, no. 8, pp. 2007—2019, Apr. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-193">
+<unstructured_citation>“PETS 2012 dataset S1: Person count and density estima- tion,”</unstructured_citation>
+</citation>
+<citation key="ref-194">
+<unstructured_citation>PETS2012/a.html.</unstructured_citation>
+</citation>
+<citation key="ref-195">
+<unstructured_citation>“Sequential Monte Carlo framework for extended object tracking,” IEE Proceedings of Radar, Sonar and Navigation, vol. 152, no. 5, pp. 353—363, Oct. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-196">
+<unstructured_citation>“Joint probabilistic data association tracker for extended target tracking applied to x-band marine radar data,” IEEE Journal of Oceanic Engineering, vol. 41, no. 4, pp. 1007—1019, Oct. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-197">
+<unstructured_citation>sot “Converted measurements bayesian extended target track- ing applied to X-band marine radar data,” Journal of Advances in Information Fusion.</unstructured_citation>
+</citation>
+<citation key="ref-198">
+<unstructured_citation>“Converted measurements random matrix approach to ex- tended target tracking using X-band marine radar data,” in Proceedings of the International Conference on Informa- tion Fusion, Washington, DC, USA, Jul. 2015, pp. 976—983.</unstructured_citation>
+</citation>
+<citation key="ref-199">
+<unstructured_citation>“Multistatic Bayesian extended target tracking,” IEEE Transactions on Aerospace and Electronic Systems.</unstructured_citation>
+</citation>
+<citation key="ref-200">
+<unstructured_citation>“Multiple sensor Bayesian extended target tracking fusion approaches using random matrices,” in Proceedings of the International Conference on Informa- tion Fusion, Heidelberg, Germany, Jul. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-201">
+<unstructured_citation>“Sequential Monte Carlo methods for multitarget filtering with random finite sets,” IEEE Transactions on Aerospace and Electronic Systems, vol. 41, no. 4, pp. 1224—1245, Oct. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-202">
+<unstructured_citation>“Bayesian multiple target filtering using random finite sets,” in Integrated Tracking, Classification, and Sensor Manage- ment, M. Mallick, V. Krishnamurthy, and B.-N. Vo, Eds. New York, NY, USA: Wiley, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-203">
+<unstructured_citation>“Labeled random finite sets and multi-object conjugate priors,” IEEE Transactions on Signal Processing, vol. 61, no. 13, pp. 3460—3475, Apr. 2013. 172 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 12, NO. 2 DECEMBER 2017</unstructured_citation>
+</citation>
+<citation key="ref-204">
+<unstructured_citation>“The cardinality balanced multi-target multi-Bernoulli filter and its implementations,” IEEE Transactions on Signal Processing, vol. 57, no. 2, pp. 409—423, Feb. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-205">
+<unstructured_citation>“Labeled random finite sets and the Bayes multi-target tracking filter,” IEEE Transactions on Signal Processing, vol. 62, no. 24, pp. 6554—6567, Dec. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-206">
+<unstructured_citation>borne, R. Mahler, and B.-T. Vo “Multitarget tracking,” Wiley Encyclopedia of Electrical and Electronics Engineer- ing, Sep. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-207">
+<unstructured_citation>“Extended target tracking using Gaussian processes,” IEEE Transactions on Signal Processing, vol. 63, no. 16, pp. 4165—4178, Aug. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-208">
+<unstructured_citation>“A bibliography of cluster (group) tracking,” Signal and Data Processing of Small Targets 2004, vol. 5428, no. 1, pp. 551—560, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-209">
+<unstructured_citation>“Histogram PMHT with target extent estimates based on random matrices,” in Proceedings of the International Conference on Informa- tion Fusion, Chicago, IL, USA, Jul. 2011, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-210">
+<unstructured_citation>“APMHTapproach for extended objects and object groups,” IEEE Transactions on Aerospace and Electronic Systems, vol. 48, no. 3, pp. 2349—2370, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-211">
+<unstructured_citation>“Probabilistic tracking of multiple extended targets using random matrices,” in Proceedings of SPIE Signal and Data Processing of Small Targets, Orlando, FL, USA, Apr. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-212">
+<unstructured_citation>“PMHT: Problems and some solutions,” IEEE Transactions on Aerospace and Electronic Systems, vol. 38, no. 3, pp. 738—754, Jul 2002.</unstructured_citation>
+</citation>
+<citation key="ref-213">
+<unstructured_citation>“An efficient, variational approximation of the best fitting multi-Bernoulli filter,” IEEE Transactions on Signal Processing, vol. 63, no. 1, pp. 258—273, Jan. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-214">
+<unstructured_citation>“Marginal multi-Bernoulli filters: RFS derivation of MHT, JIPDA, and association-based MeMBer,” IEEE Transactions on Aerospace and Electronic Systems, vol. 51, no. 3, pp. 1664—1687, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-215">
+<unstructured_citation>“Priority-based tracking of extended objects,” Journal of Advances in Information Fusion.</unstructured_citation>
+</citation>
+<citation key="ref-216">
+<unstructured_citation>“Negative information for occlusion reasoning in dynamic extended multiobject tracking,” IEEE Transactions on Robotics, vol. 31, no. 2, pp. 425—442, Apr. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-217">
+<unstructured_citation>“Multiple extended target tracking algorithm based on gm- phd filter and spectral clustering,” EURASIP Journal on Advances in Signal Processing, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-218">
+<unstructured_citation>“Second-order extended Kalman filter for extended object and group tracking,” in Proceedings of the International Conference on Informa- tion Fusion, July 2016, pp. 1178—1184.</unstructured_citation>
+</citation>
+<citation key="ref-219">
+<unstructured_citation>“Extended Kalman filter for extended object tracking,” in Proceedings of the 2017 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), New Orleans, USA, Mar. 2017.</unstructured_citation>
+</citation>
+<citation key="ref-220">
+<unstructured_citation>“Metrics for performance evaluation of elliptic extended object tracking methods,” in Proceedings of the 2016 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2016), Baden-Baden, Germany, Sep. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-221">
+<unstructured_citation>“Object tracking: A survey,” ACM Computing Surveys, vol. 38, no. 4, Dec. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-222">
+<unstructured_citation>“Level-set Random Hypersurface Models for tracking non- convex extended objects,” in Proceedings of the International Conference on Informa- tion Fusion, Istanbul, Turkey, Jul. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-223">
+<unstructured_citation>“Tracking elongated extended objects using splines,” in Proceedings of the International Conference on Informa- tion Fusion, July 2016, pp. 612—619.</unstructured_citation>
+</citation>
+<citation key="ref-224">
+<unstructured_citation>“Exploiting clutter: Negative information for enhanced ex- tended object tracking,” in Proceedings of the 18th International Conference on In- formation Fusion (Fusion 2015), Washington D. C., USA, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-225">
+<unstructured_citation>“Exploiting negative measurements for tracking star-convex extended objects,” in Proceedings of the 2016 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2016), Baden-Baden, Germany, Sep. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-226">
+<unstructured_citation>“Study and evaluation of different Fourier methods for image retrieval,” Image and Vision Computing, vol. 23, no. 1, pp. 33—49, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-227">
+<unstructured_citation>“CBMeMBer filters for nonstandard targets, i: Extended targets,” in Proceedings of the International Conference on Informa- tion Fusion, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-228">
+<unstructured_citation>“A PHD filter for tracking closely spaced objects with elliptic Random Hypersurface models,” in Proceedings of the International Conference on Informa- tion Fusion. IEEE, 2013, pp. 1558—1565.</unstructured_citation>
+</citation>
+<citation key="ref-229">
+<unstructured_citation>“A novel fast partitioning algorithm for extended target tracking using a Gaussian mixture PHD filter,” Signal Processing, vol. 93, no. 11, pp. 2975—2985, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-230">
+<unstructured_citation>“Robust Bayesian partition for extended target Gaussian inverse Wishart PHD filter,” IET Signal Processing, vol. 8, no. 4, pp. 330—338, Jun. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-231">
+<unstructured_citation>“Parameter estimation techniques: A tutorial with applica- tion to conic fitting,” Image and Vision Computing, vol. 15, no. 1, pp. 59—76, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-232">
+<unstructured_citation>“Extended target tracking using an IMM based Rao-Black- wellised Unscented Kalman filter,” in Proceedings of the International Conference on Signal Processing, Oct. 2008, pp. 2409—2412. EXTENDED OBJECT TRACKING: INTRODUCTION, OVERVIEW, AND APPLICATIONS 173</unstructured_citation>
+</citation>
+<citation key="ref-233">
+<unstructured_citation>“An extended target tracking method with random finite set observations,” in Proceedings of the International Conference on Informa- tion Fusion, Chicago, IL, USA, Jul. 2011, pp. 73—78. Karl Granström (M’08) is a postdoctoral research fellow at the Department of Signals and Systems, Chalmers University of Technology, Gothenburg, Sweden. He received the MSc degree in Applied Physics and Electrical Engineering in May 2008, and the PhD degree in Automatic Control in November 2012, both from Linköping University, Sweden. He previously held postdoctoral positions at the Department of Electrical and Computer Engineering at University of Connecticut, USA, from September 2014 to August 2015, and at the Department of Electrical Engineering of Linköping University from December 2012 to August 2014. His research interests include estimation theory, multiple model estimation, sensor fusion and target tracking, especially for extended targets. He has received paper awards at the Fusion 2011 and Fusion 2012 conferences.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,212 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237201.155835</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2020</year>
+</publication_date>
+<journal_volume>
+<volume>15</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Context-Aware Dynamic Asset Allocation for Maritime Surveillance Operations</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Lingyi </given_name>
+<surname>Zhang</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>David  </given_name>
+<surname>Sidoti</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Gopi Vinod</given_name>
+<surname>Avvari</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Ego F.M.</given_name>
+<surname>Ayala</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Manisha </given_name>
+<surname>Mishra</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>David L.</given_name>
+<surname>Kellmeyer</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>James A.</given_name>
+<surname>Hansen</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Krishna R.</given_name>
+<surname>Pattipati</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2020</year>
+</publication_date>
+<pages>
+<first_page>3</first_page>
+<last_page>23</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>United Nations Office on Drugs and Crime, “World Drug Report 2010,” 2010.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Report 2011,” 2011.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Operations.Washington, DC, USA: Joint Chiefs of Staff, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“Context-driven decision making in network-centric operations: Agent-based intelligent support,” in Proc. CKMWorkshop, vol. 7, no. 812, Jan. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>W.An, D. Kellmeyer, J. Hansen, and K. Pattipati “Decision support information integration platform for context-driven interdiction operations in counter-smuggling missions,” in Proc. IEEE/SICE Int. Symp. Syst. Integr., 2014, pp. 659–664.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>M.Mishra,M. S. Sankavaram,D. L.Kellmeyer, J. A.Hansen, and K. R. Pattipati “Context-aware dynamic asset allocation for maritime interdiction operations,” IEEE Trans. Syst., Man, Cybern.: Syst., vol. 50, no. 3, pp. 1055–1073, 2020.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>W.An, K. R. Pattipati, and D. L. Kleinman “Evaluating the value of information in the presence of high uncertainty,” CONTEXT-AWARE DYNAMIC ASSET ALLOCATION FORMARITIME SURVEILLANCE OPERATIONS 19 in Proc. 18th ICCRTS: C2 in Underdeveloped, Degraded, and Denied Operational Environments, June 2013.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Coupled METOC/INTEL risk assessment,” U.S. Patent</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>https://www.google.com/patents/US20120095946</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“A theoretical basis for method of search and screening,” Columbia Univ., New York, NY, USA, Tech. Rep., 1946.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Search and Screening: General Principles with Historical Applications, vol. 7. New York, NY, USA: Pergamon Press, 1980.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“An introduction to the literature of search theory,” Operations Evaluation Group, Center for Naval Analyses, Alexandria, VA,USA, Tech. Rep., 1981.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Optimum search for objects having unknown arrival times,” Oper. Res., vol. 7, no. 5, pp. 625–638, 1959.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Sequential search and detection,” MIT Operations Research Center, Cambridge,MA,USA, Tech. Rep., 1964.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“The theory of search: Optimum distribution of search effort,” Manage. Sci., vol. 5, no. 1, pp. 44–50, 1958.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Theory of Optimal Search, vol. 118. Amsterdam, The Netherlands: Elsevier, 1976.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>On the Optimal Searching Tracks for a Stationary Target, no. 4. Turku, Finland: Institute for Applied Mathematics, University of Turku, 1974.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Search for a randomly moving object,” SIAM J. Appl. Math, vol. 40, no. 2, pp. 327–338, 1981.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Two-person zero-sum games for network interdiction,” Oper. Res., vol. 43, no. 2, pp. 243–251, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“Optimizing employment of search platforms to counter self-propelled semi-submersibles,” Naval Postgraduate School, Monterey, CA,USA, Tech. Rep., 2009.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“Solving the bi-objective maximum-flow network- interdiction problem,” INFORMS J. Comput., vol. 19, no. 2, pp. 175–184, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>D. E. Vaughan “Optimal search strategies using simultaneous generalized hill climbing algorithms,” Math. Comput. Model., vol. 43, no. 9–10, pp. 1061–1073, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Regional surveillance of disjoint rectangles: A travelling salesman formulation,” J. Oper. Res. Soc., vol. 60, no. 2, pp. 215–220, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Foundations and Applications of Sensor Management. Berlin, Germany: Springer, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>“The eye and the fist: Optimizing search and interdiction,” Eur. J. Oper. Res., vol. 220, no. 2, pp. 550–558, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“Generalized orienteering problem with resource dependent rewards,” Naval Res. Logistics, vol. 60, no. 4, pp. 294–312, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“An analysis of mathematical models to improve counter-drug smuggling operations,” Naval Postgraduate School, Monterey, CA, USA, Tech. Rep., 2014.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“Optimal search and interdiction planning,” Military Oper. Res., vol. 20, no. 4, pp. 59–73, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>“Multi-vehicle Bayesian search for multiple lost targets,” in Proc. IEEE Int. Conf. Robot.Autom., 2005, pp. 3169–3174.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>“Path optimization for the resource-constrained searcher,” Naval Res. Logistics, vol. 57, no. 5, pp. 422–440, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>“Route optimization for multiple searchers,” Naval Res. Logistics, vol. 57, no. 8, pp. 701–717, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>“An automated surface surveillance system,” J. Oper. Res. Soc., vol. 53, no. 7, pp. 697–708, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>K. R. Pattipati, E. D. Regnier, D. L. Kleinman, and J. A. Hansen “Dynamic asset allocation approaches for counter-piracy operations,” in Proc. 15th IEEE Int. Conf. Inf. Fusion, 2012, pp. 1284–1291.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>“Situational awareness for surveillance and interdiction operations (SASIO): Tactical installation protection,” Master’s thesis, Naval Postgraduate School, Monterey, CA, USA, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>“Optimal interdiction of an adaptive smuggler,” Naval Postgraduate School,Monterey, CA,USA,Tech.Rep., 2010.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Dynamic Programming and Optimal Control, vol. 1, no. 2. Belmont, MA,USA:Athena Scientific, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>“‘Strong’ NP-completeness results: Motivation, examples, and implications,” J. ACM, vol. 25, no. 3, pp. 499–508, 1978.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Quality Engineering Using Robust Design. Upper Saddle River, NJ, USA: Prentice Hall, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>“Self-propelled semi-submersibles: The next great threat to regional security and stability,” Master’s thesis, Naval Postgraduate School, Monterey, CA,USA, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>A.Monarrez “Collaborative unmanned systems for maritime and port security operations,” in Proc. IFAC Conf. Control Adv.Marine Syst., Sep. 2007</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>K. R. Pattipati, and J. A. Hansen “Dynamic asset allocation for counter-smuggling operations under disconnected, intermittent and low-bandwidth environment,” in Proc. IEEE Symp. Comput. Intell. Security Defense Appl., 2015, pp. 1–6. 20 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 15, NO. 1 JUNE 2020 https://www.google.com/patents/US20120095946</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

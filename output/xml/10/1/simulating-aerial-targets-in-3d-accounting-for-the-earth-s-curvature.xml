@@ -1,0 +1,366 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237286.051165</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<journal_volume>
+<volume>10</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Simulating Aerial Targets in 3D Accounting for the Earth's Curvature</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>David Frederic</given_name>
+<surname>Crouse</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<pages>
+<first_page>31</first_page>
+<last_page>57</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>J. Alexander Loxodromes: A rhumb way to go, Mathematics Magazine, vol. 77, no. 5, pp. 349—350, Dec. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>els,” American Institute of Aeronautics and Astronautics, Re- ston, VA, Tech. Rep. G-003B-2004, 17 Nov. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Handbook of physical constants and functions for use in atmospheric boundary layer studies,” U.S. Army Corps of Engineers, Engineer Research and De- velopment Center, Cold Regions Research and Engineering Laboratory, Hanover, NH, Tech. Rep. ERDC/CRREL M- 05-1, Oct. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Nonlinear Programming, 2nd ed. Belmont, MA: Athena Scientific, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>There is more than one way to frame a curve, The American Mathematical monthly, vol. 82, no. 3, pp. 246—251, Mar. 1975.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Numerical Analysis, 9th ed. Boston, MA: Brooks/Cole, 2011. 54 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 10, NO. 1 JUNE 2015</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“Surface navigation and geodesy a parametric approach,” Air Force Space Command, Tech. Rep., 1 Mar. 1988.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>ADA227907.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Arctic melt opens northwest passage, Nature, vol. 449, 20 Sep. 2007.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Basic tracking using nonlinear continuous-time dynamic models, IEEE Aerospace and Electronic Systems Magazine, accepted, December 2013.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Basic tracking using nonlinear 3D monostatic and bistatic measurements, IEEE Aerospace and Electronic Systems Magazine, vol. 29, no. 8, Part II, pp. 4—53, Aug. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Simulating targets near a curved earth, in Proceedings of the 17th International Conference on In- formation Fusion, Salamanca, Spain, 7—10 Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Geodesics on an ellipsoid—Bessel’s method,” RMIT University, Melbourne, Australia, Tech. Rep., Oct.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>files/publications/Geodesics%20-%20Bessel’s%20method. pdf.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Department of Defense world geodetic system 1984: Its definition and relationships with local geodetic systems,” National Imagery and Mapping Agency, Tech. Rep. NIMA TR8350.2, Jun. 2004, third Edition, Amendment 2.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>publications/tr8350.2/wgs84fin.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Department of Transportation Federal Aviation Adminis- tration, 24 Mar. 2006, Regulatory Docket No. FAA-2005-</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>and Guidance Library/rgEX.nsf/0/ 9929ce16709cad0f862 5713f00551e74/$FILE/8695.doc.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Differential Geometry of Curves and Surfaces. Upper Saddle River: Prentice-Hall, Inc., 1976.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>The parallel transport frame, in Game Programming Gems 2, M. DeLoura, Ed. Charles River Media, 2001, ch. 2.5.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>The Eclipse 550 twin-engine jet.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Pressure based separation in the upper airspace,” College of Aeronautics, Cranfield Institute of technology,</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Available: http://repository.tudelft.nl/assets/uuid:851bb984- e88c-4fc1-90c1-a98a11b040c1/Cranfield College of Aeronautics Report No. 8614-1986.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Mathematical formulation of a fast-time geometric heading navigation model, in Proceedings of the 29th IEEE/AIAA Digital Avionics Sys- tems Conference, Salt Lake City, UT, 3—7 Oct. 2010, pp. 4.E.2-1—4.E.2-10.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Closed-form transformation between geodetic and ellip- soidal coordinates, Studia Geophysica et Geodaetica, vol. 52, no. 1, pp. 1—18, Jan. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“Air traffic control,” Federal Aviation Administration (United States), 9 Feb.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Library/media/Order/ATC.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Sur les phénomènes d’orientation des corps tournants en- traˆnés par un axe fixe à la surface de la terre.–nouveaux signes sensibles du mouvement diurne, Comptes rendus hebdomadaires des séances de l’Académie</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>http://gallica.bnf.fr/ark:/12148/bpt6k2992n/f428.image.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Calculating the singular values and pseudo-inverse of a matrix, Journal of the Society for Industrial and Applied Mathematics Series B Numerical Analysis, vol. 2, no. 2, pp. 205—224, 1965.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Matrix Computations, 4th ed. Baltimore, MD: The Johns Hopkins University Press, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Einstein’s Theory: A Rigorous Introduction for the Mathe- matically Untrained. New York: Springer, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>“Linear parameter-varying path following control of a small fixed wing unmanned aerial vehicle,” Ph.D. dissertation, Virginia Polytechnic Institute and State University, Blacksburg, VA, 31 Jul. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>“Evaluation of a proposed INS Kalman filter in a dynamic flight environment,” Master’s thesis, Air Force Institute of Technology, Wright- Patterson AFB, OH, Dec. 1974.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>“Parallel transport approach to curve framing,” Department of Computer Science, Indiana University,</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>line]. Available: ftp://cgi.soic.indiana.edu/pub/techreports/ TR425.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Physical Geodesy, 2nd ed. SpringerWienNewYork, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Ihs janes’.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Determining the position and motion of a vessel from celestial observations, Navigation, vol. 42, no. 4, pp. 633—650, Winter 1995—1996.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>reports/GK posmo.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>A navigation solution involving changes to course and speed,</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>Available: http://oai.dtic.mil/oai/oai?verb=getRecord& metadataPrefix =html&identifier=ADA434100.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>The dynamics of parabolic flight: Flight characteristics and passenger percepts, Acta Astronaut, vol. 63, no. 5—6, pp. 594—602, Sep. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Addenda and errata for papers on geodesics.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>geod-addenda.html. SIMULATING AERIAL TARGETS IN 3D ACCOUNTING FOR THE EARTH’S CURVATURE 55</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Algorithms for geodesics, Journal of Geodesy, vol. 87, no. 1, pp. 43—45, Jan. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>Geodesics on an ellipsoid of revolution.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>com/matlabcentral/fileexchange/39108.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>GeographicLib.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>Computation of geodetic direct and indirect problems by computers accumulating increments from geodetic line el- ements, Bulletin Géodésique, vol. 99, no. 1, pp. 55—63, Mar. 1971.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>“Weather and climate extremes,” U.S. Army Corps of Engineers, Topographic Engineering Center, Alexandria, VA, Tech. Rep. TEC-0099, Sep. 1997.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>ADA346058.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>Survey of maneuvering target tracking. part I: Dynamic models, IEEE Transactions on Aerospace and Electronic Systems, vol. 39, no. 4, pp. 1333—1364, Oct. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>Survey of maneuvering target tracking. part II: Motion models of ballistic and space targets, IEEE Transactions on Aerospace and Electronic Systems, vol. 46, no. 1, pp. 96—119, Jan. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-58">
+<unstructured_citation>Ellipsoids, geoid, gravity, geodesy, and geophysics, Geophysics, vol. 66, no. 6, pp. 1660—1668, Nov.—Dec. 2001, an errata wash published in Volume 67, Number 3.</unstructured_citation>
+</citation>
+<citation key="ref-59">
+<unstructured_citation>3-D track initiation in clutter using 2-D radar measure- ments, IEEE Transactions on Aerospace and Electronic Systems, vol. 38, no. 4, pp. 1434—1441, Oct. 2002.</unstructured_citation>
+</citation>
+<citation key="ref-60">
+<unstructured_citation>Plot Earth. Matlab Central.</unstructured_citation>
+</citation>
+<citation key="ref-61">
+<unstructured_citation>central/fileexchange/25048-plot-earth.</unstructured_citation>
+</citation>
+<citation key="ref-62">
+<unstructured_citation>Aircraft Performance, ser. Cambridge Aerospace Series 5. Cambridge, UK: Cam- bridge University Press, 1992.</unstructured_citation>
+</citation>
+<citation key="ref-63">
+<unstructured_citation>“Wander azimuth implementation algorithm for a strap- down inertial system,” Air Force Avionics Laboratory, Wright-Patterson AFB, OH, Tech. Rep. AFFDL-TR-73-80, Oct. 1973.</unstructured_citation>
+</citation>
+<citation key="ref-64">
+<unstructured_citation>The 1976 standard atmosphere and its relationship to earlier standards, Reviews of Geophysics and Space Physics, vol. 15, no. 3, pp. 375—384, Aug. 1977.</unstructured_citation>
+</citation>
+<citation key="ref-65">
+<unstructured_citation>CODATA recommended values of the fundamental physical constants: 2010, Reviews of Modern Physics, vol. 84, no. 4, pp. 1527—1605,</unstructured_citation>
+</citation>
+<citation key="ref-66">
+<unstructured_citation>gov/cuu/Constants/Preprints/lsa2010.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-67">
+<unstructured_citation>Nonlinear aircraft tracking filter utilizing control variable estimation, Journal of Guidance, Control, and Dynamics, vol. 15, no. 1, pp. 228—237, Jan.—Feb. 1992.</unstructured_citation>
+</citation>
+<citation key="ref-68">
+<unstructured_citation>“PROFGEN: A computer program for generating flight profiles,” Air Force Avionics Laboratory, Wright-Patterson AFB,</unstructured_citation>
+</citation>
+<citation key="ref-69">
+<unstructured_citation>Available: http://www.dtic.mil/docs/citations/ADA034993.</unstructured_citation>
+</citation>
+<citation key="ref-70">
+<unstructured_citation>WGS 84 G1647 geodetic control network upgrade for areas of white sands missile range and Holloman AFB, NM.</unstructured_citation>
+</citation>
+<citation key="ref-71">
+<unstructured_citation>Upgrade-01Jul2012.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-72">
+<unstructured_citation>Office of geomatics: World geodetic system 1984 (WGS 84).</unstructured_citation>
+</citation>
+<citation key="ref-73">
+<unstructured_citation>wgs84/.</unstructured_citation>
+</citation>
+<citation key="ref-74">
+<unstructured_citation>WGS 84 and the web mercator projection. National Geospatial Intelligence Agency. A slide presen-</unstructured_citation>
+</citation>
+<citation key="ref-75">
+<unstructured_citation>info.nga.mil/GandG/wgs84/web mercator/index.html.</unstructured_citation>
+</citation>
+<citation key="ref-76">
+<unstructured_citation>“U.S. standard atmosphere 1976,”</unstructured_citation>
+</citation>
+<citation key="ref-77">
+<unstructured_citation>www.dtic.mil/docs/citations/ADA035728.</unstructured_citation>
+</citation>
+<citation key="ref-78">
+<unstructured_citation>Astronomical Almanac for the Year 2013 and its Companion, the Astronomical Almanac Online. United States Defense Department, Navy, Nautical Al- manac Office, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-79">
+<unstructured_citation>Root-mean-square miss distance of proportional navigation missile against sinusoidal target, Journal of Guidance, Control, and Dynamics, vol. 19, no. 3, pp. 563—568, May—Jun. 1996.</unstructured_citation>
+</citation>
+<citation key="ref-80">
+<unstructured_citation>Solving the geodesics on the ellipsoid as a boundary value problem, Journal of Geodetic Science, vol. 3, no. 1, pp. 40—47, Mar. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-81">
+<unstructured_citation>IERS Conventions (2010), International Earth Rotation and Reference Systems Service Std. 36, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-82">
+<unstructured_citation>Ballistic re-entry vehicle flight dynamics, Journal of Guidance, Control, and Dynamics, vol. 5, no. 1, pp. 4—16, Jan.—Feb. 1982.</unstructured_citation>
+</citation>
+<citation key="ref-83">
+<unstructured_citation>Geodesics revisited, Chaotic Modeling and Simulation International Journal of</unstructured_citation>
+</citation>
+<citation key="ref-84">
+<unstructured_citation>Available: http://www.cmsim.eu/papers pdf/january 2012 papers/25 CMSIM 2012 Pokorny 1 281-298.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-85">
+<unstructured_citation>“Geometric geodesy, part I,” Ohio State University Department of Geodetic Science</unstructured_citation>
+</citation>
+<citation key="ref-86">
+<unstructured_citation>http://hdl.handle.net/1811/24333.</unstructured_citation>
+</citation>
+<citation key="ref-87">
+<unstructured_citation>Reference model of aircraft movements in geodetic coordi- nates, inProceedings of the International radar Symposium, Leipzig, Germany, 7—9 Sep. 2011, pp. 874—879.</unstructured_citation>
+</citation>
+<citation key="ref-88">
+<unstructured_citation>Target course estimation in tracking filters using local Cartesian coordinates, in Proceedings of the 19th International Radar Symposium, Warsaw, Poland, 23—25 May 2012, pp. 515—520. 56 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 10, NO. 1 JUNE 2015</unstructured_citation>
+</citation>
+<citation key="ref-89">
+<unstructured_citation>Solving the direct and inverse geodetic problems on the ellipsoid by numerical integration, Journal of Surveying Engineering, vol. 138, no. 1, pp. 9—16, Feb. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-90">
+<unstructured_citation>Improved method for calculating exact geodetic latitude and altitude, Journal of Guidance, Control, and Dynamics, vol. 20, no. 4, pp. 824—826, Jul.—Aug. 1997.</unstructured_citation>
+</citation>
+<citation key="ref-91">
+<unstructured_citation>Improved method for calculating exact geodetic latitude and altitude revisited, Journal of Guidance, Control, and Dynamics, vol. 23, no. 2, p. 369, Mar. 2000.</unstructured_citation>
+</citation>
+<citation key="ref-92">
+<unstructured_citation>ICRS product center.</unstructured_citation>
+</citation>
+<citation key="ref-93">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-94">
+<unstructured_citation>ring. (2005, 22 Aug.) The blue marble next generation–a true color earth dataset including seasonal dynamics from MODIS.</unstructured_citation>
+</citation>
+<citation key="ref-95">
+<unstructured_citation>imagerecords/73000/73751/readme.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-96">
+<unstructured_citation>Mechanics, 3rd ed. Reading, MA: Addison-Wesley, 1971.</unstructured_citation>
+</citation>
+<citation key="ref-97">
+<unstructured_citation>Journey to the mantle of the earth, Nature, vol. 471, pp. 437—439, 24 Mar. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-98">
+<unstructured_citation>The blue marble: Land surface, ocean color, sea ice and clouds.</unstructured_citation>
+</citation>
+<citation key="ref-99">
+<unstructured_citation>http://visibleearth.nasa.gov/view.php?id=57735.</unstructured_citation>
+</citation>
+<citation key="ref-100">
+<unstructured_citation>NASA visible Earth: July, blue marble next generation w/ topography and bathymetry.</unstructured_citation>
+</citation>
+<citation key="ref-101">
+<unstructured_citation>http://visibleearth.nasa.gov/view.php?id=73751.</unstructured_citation>
+</citation>
+<citation key="ref-102">
+<unstructured_citation>“Aircraft motion analysis,” Air Force Flight Dynamics Laboratory, Tech. Rep. FLD-</unstructured_citation>
+</citation>
+<citation key="ref-103">
+<unstructured_citation>dtic.mil/docs/citations/AD0617354.</unstructured_citation>
+</citation>
+<citation key="ref-104">
+<unstructured_citation>Validation of Vincenty’s formulas for the geodesic using a new fourth-order extension of Kivioja’s formula, Journal of Surveying Engineering, pp. 20—26, Feb. 2005.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

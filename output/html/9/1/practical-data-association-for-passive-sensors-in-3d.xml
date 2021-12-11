@@ -1,0 +1,43 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 9</li>
+<li>Issue 1</li>
+<li>Pages 38 - 46</li>
+<li>June, 2014</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Practical Data Association for Passive Sensors in 3D</h1>
+<p class="article-authors">Shuo  Zhang and Yaakov  Bar-Shalom</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">J. Areta, Y. Bar-Shalom, M. Levedahl and K. R. Pattipati Hierarchical tracking association and fusion for a net- worked surveillance system. Journal of Advances in Information Fusion, 1(2):140—156, Dec. 2006.</li>
+<li class="ref-2">Tracking and Data Fusion. Storrs, CT: YBS Publishing, 2011.</li>
+<li class="ref-3">Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. New York: Wiley, 2001.</li>
+<li class="ref-4">Multiple Hypothesis Tracking For Multiple Target Track- ing. IEEE Aerospace and Electronic Systems Magazine, 19(1):5— 18, Jan. 2004.</li>
+<li class="ref-5">On finding ranked assignments with application to multi- target tracking and motion. IEEE Transactions on Aerospace and Electronic Systems, 31(1):486—489, Jan. 1995.</li>
+<li class="ref-6">An effcient implementation of reid’s multiple hypothesis tracking algorithm and its evaluation for the purpose of visual tracking. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 18(2):138—150, Feb. 1996.</li>
+<li class="ref-7">Efficient gating in data association with multivariate Gaus- sian states. IEEE Transactions on Aerospace and Electronic Systems, 28(3):909—916, July 1992.</li>
+<li class="ref-8">Shalom Fast Data Association Using Multidimensional Asignment With Clustering. IEEE Transactions on Aerospace and Electronic Systems, 37(3), July 2001.</li>
+<li class="ref-9">A generalized S-dimensional assignment for multisensor- multitarget state estimation. IEEE Transactions on Aerospace and Electronic Systems, 33(3):523—538, Apr. 1997.</li>
+<li class="ref-10">An algorithm for ranking all the assigments in order of increasing cost. Operations Research, 16(3):682—687, 1968.</li>
+<li class="ref-11">Optimizing Murty’s ranked assignment method. IEEE Transactions on Aerospace and Electronic Systems, 33(3):851—862, July 1997.</li>
+<li class="ref-12">Statistical efficiency of composite position measurements from passive sensors. IEEE Transactions on Aerospace and Electronic Systems, 49(4):2799—2806, Oct. 2013.</li>
+<li class="ref-13">Fusion of Asynchronous Passive Measurements. 17th International conference on information fusion, Sala- manca, Spain, July 2014.</li>
+<li class="ref-14">A new relaxation algorithm and passive sensor data asso- ciation. IEEE Transactions on Automatic Control, 37(2):198—213, Feb. 1992.</li>
+<li class="ref-15">Data association problems posed as multidimensional as- signment problems: algorithm development. Proc. SPIE Conf. on Signal Processing, Sensor Fusion and Target Recognition, 1955:175—183, 1993.</li>
+<li class="ref-16">Multidimensional Assignment formulation of data associ- ation problems arising from multitarget and multisensor tracking. Computational Optimization and Applications, 3:27—57, 1994.</li>
+<li class="ref-17">An m-Best 2-D assignment algorithm and multilevel paral- lelization. Transactions on Aerospace and Electronic Systems, 35(4): 1145—1160, Oct. 1999.</li>
+<li class="ref-18">m-best S-D assignment algorithm with application to mul- titarget tracking. IEEE Transactions on Aerospace and Electronic Systems, 37(1):22—34, Jan. 2001.</li>
+<li class="ref-19">Algorithms for multiple-target tracking. American Scientist, 80:128—141, Mar. 1992.</li>
+<li class="ref-20">Precision large scale air traffic surveillance using IMM/ assignment estimators. IEEE Transactions on Aerospace and Electronic Systems, 35(1):255—266, Jan. 1999. PRACTICAL DATA ASSOCIATION FOR PASSIVE SENSORS IN 3D 45</li>
+</ul>
+
+</body>
+</html>

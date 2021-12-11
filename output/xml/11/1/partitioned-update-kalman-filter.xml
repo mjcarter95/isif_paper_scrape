@@ -1,0 +1,138 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237270.87783</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2016</year>
+</publication_date>
+<journal_volume>
+<volume>11</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Partitioned Update Kalman Filter</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Matti </given_name>
+<surname>Raitoharju</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Robert </given_name>
+<surname>Piche</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Juha </given_name>
+<surname>Ala-Luhtala</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Simo </given_name>
+<surname>Ali-Loytty</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2016</year>
+</publication_date>
+<pages>
+<first_page>3</first_page>
+<last_page>14</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>H. W. Sorenson and D. L. Alspach Recursive Bayesian estimation using Gaussian sums, Automatica, vol. 7, no. 4, pp. 465—479, 1971. doi: 10.1016/ 0005-1098(71)90097-5.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Gaussian particle filtering, IEEE Transactions on Signal Processing, vol. 51, no. 10, pp. 2592—2601, Oct 2003. doi: 10.1109/TSP.2003.816758.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Progressive Gaussian filtering using explicit likelihoods, in 17th International Conference on Information Fusion (FU- SION), July 2014, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Applied Optimal Estimation. MIT Press, 1974.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Gaussian filters for nonlinear filtering problems, IEEE Transactions on Automatic Control, vol. 45, no. 5, pp. 910—927, May 2000. doi: 10.1109/9.855552.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>A New Extension of the Kalman Filter to Nonlinear Sys- tems, in International Symposium Aerospace/Defense Sensing, Sim- ulation and Controls, vol. 3068, 1997. doi: 10.1117/ 12.280797 pp. 182—193.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Cubature Kalman filters, IEEE Transactions on Automatic Control, vol. 54, no. 6, pp. 1254—1269, June 2009. doi: 10.1109/TAC.2009.2019800.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>A generalized Kalman filter with repeated linearization and its use in navigation over geophysical fields, Avtomatika i Telemekhanika, no. 4, pp. 50—55, 1978.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Stochastic Processes and Filtering Theory, ser. Mathematics in Science and Engineering. Academic Press, 1970, vol. 64.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Iterated statistical linear regression for Bayesian updates, in 17th International Conference on Information Fusion (FU- SION), July 2014, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Recursive update filtering for nonlinear estimation, IEEE Transactions on Automatic Control, vol. 57, no. 6, pp. 1481—1490, June 2012. doi: 10.1109/TAC.2011.2178334.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>New developments in state estimation for nonlinear sys- tems, Automatica, vol. 36, no. 11, pp. 1627—1638, Nov. 2000. doi: 10.1016/S0005-1098(00)00089-3.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Stochastic optimal control, Theory and Application, pp. 1—638, 1986.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Box Gaussian mixture filter, IEEE Transactions on Automatic Control, vol. 55, no. 9, pp. 2165—2169, September 2010. doi: 10.1109/TAC.2010. 2051486.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Linear models and approximations in personal position- ing,” Ph.D. dissertation, Tampere University of Technology,</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>952-15-3421-8. 12 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 11, NO. 1 JUNE 2016</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>An adaptive derivative free method for Bayesian posterior approximation, IEEE Signal Processing Letters, vol. 19, no. 2, pp. 87—90, Feb 2012. doi: 10.1109/LSP.2011.2179800.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Matlab implementation of the partitioned update Kalman filter,” http://www.mathworks.com/matlabcentral/fileexchange/</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>accessed 30-June-2015].</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Improved particle filter for nonlinear problems, IEE Proceedings–Radar, Sonar and Navigation, vol. 146, pp. 2—7, February 1999. doi: 10.1049/ip-rsn:19990255.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Sequential Monte Carlo methods to train neural network models, Neural computation, vol. 12, no. 4, pp. 955—993, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>On information and sufficiency, Ann. Math. Statist., vol. 22, no. 1, pp. 79—86, 1951.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Binomial Gaussian mixture filter, EURASIP Journal on Advances in Signal Processing, vol. 2015, no. 1, p. 36, 2015. doi: 10.1186/s13634-015-0221-2. PARTITIONED UPDATE KALMAN FILTER 13</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

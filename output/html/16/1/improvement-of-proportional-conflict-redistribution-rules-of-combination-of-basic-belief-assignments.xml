@@ -1,0 +1,71 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 16</li>
+<li>Issue 1</li>
+<li>Pages 48 - 73</li>
+<li>June, 2021</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Improvement of Proportional Conflict Redistribution Rules of Combination of Basic Belief Assignments</h1>
+<p class="article-authors">Theo  Dezert, Jean  Dezert and Florentin  Smarandache</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">J.Y. Halpern Reasoning About Uncertainty. Cambridge, MA: The MIT Press, 2003.</li>
+<li class="ref-2">Foundations of the Theory of Probability. New York, NY: Chelsea Publishing Company, 1956.</li>
+<li class="ref-3">“Three approaches to the quantitative definition of information,” Int. J. Comput. Math., vol. 2, no. 1–4, pp. 157–168, Dec. 1968.</li>
+<li class="ref-4">“Fuzzy sets,” Inf. Control, vol. 8, no. 3, pp. 338–353, 1965.</li>
+<li class="ref-5">Eds. Fundamentals of Fuzzy Sets. New York, NY: Springer Sciences+Business Media, 2000.</li>
+<li class="ref-6">Fuzzy Sets and Systems: Theory and Applications New York, NY:Academic Press, 1980.</li>
+<li class="ref-7">“Possibility theory and its applications: where do we stand?,” in Springer Handbook of Computational Intelligence, Berlin, Heidelberg: Springer, 2015, pp. 1–31.</li>
+<li class="ref-8">A Mathematical Theory of Evidence. Princeton, NJ: Princeton University Press, 1976.</li>
+<li class="ref-9">(Editors) Advances in the Dempster-Shafer Theory of Evidence. New York, NY: John Wiley & Sons, 1994.</li>
+<li class="ref-10">Eds. Classical Works of the Dempster-Shafer Theory of Belief Functions. In Studies in Fuzziness and Soft Computing, Vol. 219, Berlin, Heidelberg: Springer, 2008.</li>
+<li class="ref-11">“Upper and lower probabilities induced by a multivalued mapping,” Ann.Math. Statist., vol. 38, no. 2, pp. 325–339, Apr. 1967.</li>
+<li class="ref-12">“A generalization of Bayesian inference,” J R Stat Soc Series B, vol. 30, no. 2, pp. 205–245, 1968.</li>
+<li class="ref-13">“On the Dempster-Shafer framework and new combination rules,” Inf. Sci., Vol. 41, no. 2, pp. 93–138,Mar. 1987.</li>
+<li class="ref-14">“40 years of research on Dempster-Shafer theory: a retrospective,” Int. J. Approx. Reason, Special Issue C, vol. 79, pp. 1–6, Dec. 2016.</li>
+<li class="ref-15">The Geometry of Uncertainty. Switzerland AG: Springer Nature, 2021.</li>
+<li class="ref-16">Combination of evidence in Dempster-Shafer theory. SANDIA Tech. Rep. SAND2002-0835, 96 pages, Apr. 2002.</li>
+<li class="ref-17">“Quantification of conflict in Dempster-Shafer framework: a new approach,” Int. J. Gen. Syst., vol. 24, no. 4, pp. 407–423,Mar. 1996.</li>
+<li class="ref-18">“Measuring conflict in evidence theory,” in Proc. of IFSA World Congr. and 20th NAFIPS Int. Conf., vol. 3, no. 21, pp. 1741–1745, 2001. IMPROVEMENT OF PROPORTIONAL CONFLICT REDISTRIBUTION RULES 71</li>
+<li class="ref-19">“Analyzing the degree of conflict among belief functions,” Artif. Intell., vol. 170, pp. 909–924, 2006.</li>
+<li class="ref-20">“Analyzing the combination of conflicting belief functions,” Inf. Fusion, Vol. 8, no. 4, pp. 387–412, Oct. 2007.</li>
+<li class="ref-21">“Conflict measure for the discounting operation on belief functions,” in Proc. of Fusion 2008 Int. Conf. on Inf. Fusion, Cologne, Germany, 2008.</li>
+<li class="ref-22">“About conflict in the theory of belief functions,” in Belief Functions: Theory and Applications. Advances in Intelligent and Soft Computing, T. Denœux &M.H.Masson, Eds., Vol 164. Springer, Berlin, Heidelberg, 2012.</li>
+<li class="ref-23">“The internal conflict of a belief function,” in Proc. of the 2nd Int. Conf. on Belief Functions, Compiègne, France,May 2012.</li>
+<li class="ref-24">“Toward an axiomatic definition of conflict between belief functions,” IEEE Trans. on Cybernetics, vol. 43, no. 2, pp. 585–596, Apr. 2013.</li>
+<li class="ref-25">“Geometric views on conflicting mass functions: from distances to angles,” Int J Approx Reason, vol. 70, no. C, pp. 36–50,Mar. 2016.</li>
+<li class="ref-26">“On hidden conflicts of belief functions,” in Proc. of 11th Conf. of the Eur. Soc. for Fuzzy Log. and Technol. (EUSFLAT 2019), Prague, Czech Republic, Sept. 2019.</li>
+<li class="ref-27">“Conflict management in information fusion with belief functions,” in Information Quality in Information Fusion and Decision Making, Eloi Bossé & Galina L. Rogova, Eds., Berlin, Heidelberg: Springer Verlag, Apr. 2019, pp. 79–97.</li>
+<li class="ref-28">“On the validity of Dempster’s rule of combination of evidence,” ERL Memo M79/24, Department of EECS, Univ. of California, Berkeley, CA, U.S.A., 1979.</li>
+<li class="ref-29">“A simple view of the Dempster-Shafer theory of evidence and its implication for the rule of combination,” Al Mag., vol. 7, no. 2, pp. 85–90, 1986.</li>
+<li class="ref-30">“On the validity of Dempster’s fusion rule and its interpretation as a generalization of Bayesian fusion rule,” Int. J. of Intelligent Syst., vol. 29, no. 3, pp. 223–252, Dec. 2014.</li>
+<li class="ref-31">“Proportional conflict redistribution rules for information fusion,” in Advances and Applications of DSmT for Information Fusion, Vol. 2, Rehoboth, NM, U.S.A: American Research Press, 2006, ch. 1.</li>
+<li class="ref-32">“A new generalization of the proportional conflict redistribution rule stable in terms of decision,” in Advances and Applications of DSmT for Information Fusion, Vol. 2, Rehoboth, NM, U.S.A: American Research Press, 2006, ch. 2.</li>
+<li class="ref-33">“General combination rules for qualitative and quantitative beliefs,” J. Adv. Inf. Fusion, vol. 3, no. 2, pp. 67–89, Dec. 2008.</li>
+<li class="ref-34">Eds. Advances and Applications of DSmT for Information Fusion, Vols. 1–4. Rehoboth, NM, U.S.A: American Research Press, 2004–2015.</li>
+<li class="ref-35">Naive Set Theory. New York, NY: D. Van Nostrand Company Inc., 1960.</li>
+<li class="ref-36">“The cautious rule of combination for belief functions and some extensions,” in Proc. of Fusion 2006 Int. Inform. Fusion Conf., Firenze, Italy, July 2006.</li>
+<li class="ref-37">“Probabilistic analysis of Dempster combination rule,” in Probabilistic Analysis of Belief Functions. New York: Springer-Science+Business Media, 2001, ch. 6.</li>
+<li class="ref-38">“Geometry of Dempster’s Rule of Combination,” IEEE Trans. on SMC, Part B: Cybernetics, vol. 34, no. 2, pp. 961–977, Apr. 2004.</li>
+<li class="ref-39">“Levee characterization by means of data fusion of in-situ geophysical and geotechnical information,” in Proc. of 25th Eur. Meeting of Environ. and Eng. Geophys., Vol. 2019, No. 1, pp. 1–5, European Association of Geoscientists & Engineers, Sept. 2012.</li>
+<li class="ref-40">“An in-depth look at quantitative information fusion rules,” in Advances and Applications of DSmT for Information Fusion, vol. 2, Rehoboth, NM, U.S.A: American Research Press, 2006, ch. 8.</li>
+<li class="ref-41">“Importance of sources using repeated fusion with the proportional conflict redistribution rules #5 and #6,” in Multispace & Multistructure. Neutrosophic Transdisciplinarity (100 Collected Papers of Sciences), vol. IV. Finland, North-European Scientific Publishers, 2010.</li>
+<li class="ref-42">“Canonical decomposition of dichotomous basic belief assignment,” Int. J. Intell. Syst., vol. 35, no. 7, pp. 1–21, Jul. 2020.</li>
+<li class="ref-43">“Fast fusion of basic belief assignments defined on a dichotomous frame of discernment,” in Proc. of Fusion 2020, Pretoria, South Africa, Jul. 2020.</li>
+<li class="ref-44">“Fusion of sources of evidence with different importances and reliabilities,” in Proc. of Fusion 2010, Edinburgh, Scotland, UK, 26–29 Jul. 2010.</li>
+<li class="ref-45">http://people.irisa.fr/Arnaud.Martin/toolboxes/</li>
+<li class="ref-46">Available: https://www.bfasociety.org/#software</li>
+<li class="ref-47">https://CRAN.R-project.org/package=ibelief</li>
+<li class="ref-48">“Improvement of proportional conflict redistribution fusion rules for levee characterization,” in Proc. of ESREL 2021 Int. Conf., Angers, France, Sept. 2021. 72 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 16, NO. 1 JUNE 2021 http://people.irisa.fr/Arnaud.Martin/toolboxes/ https://www.bfasociety.org/#software https://CRAN.R-project.org/package=ibelief Théo Dezert was a Postdoctoral Researcher at the Gustave Eiffel University in Bouguenais (France) from March 2020 to May 2021 and will be a Postdoctoral Re- searcher for two years from October 2021, under the supervision of Professor Leif Lia and Associate Professor Fjola Gudrun Sigtryggsdottir at Norvegian University of Science and Technology (Norway). He obtained the bachelor’s degree in Earth and environmental sciences fromToursUniversity in 2014 and themaster’s degree in plan- etary geosciences from Nantes University in 2016. During his PhD, obtained in 2019, working with Cerema and Ifsttar French institutes, he developed a fusion methodol- ogy to combine spatialized geophysical and punctual geotechnical data in order to improve dike diagnosis. This methodology relies on the use of belief functions. He has collaborated with EDF (French Electric utility company) in order to apply this methodology to their hydraulic works. In 2021, he has co-organized the francophone “First National Information Fusion Seminar for theCharacterization of PorousMedia: Applications toGeosciences andCivil Engineering”with the French INRAE Institute and Clermont-Auvergne University.He has published three international articles and participated in over ten international and national conferences, he has also been re- viewing geophysical articles for international journals. JeanDezert graduated fromEFREIEngineering School in Paris in 1985,and obtained the Ph.D degree in automatic control and signal processing from the University Paris XI, Orsay, France in 1990. During 1986–1990, he did research in multi-sensor multi- target tracking (MS-MTT) at the French Aerospace Research Lab (ONERA),Châtil- lon, France. During 1991–1992, he visited the ESE Department at UConn University inUSA as Post-doc Research Fellow under supervision of Professor Bar-Shalom.Dur- ing 1992–1993, he was a Teaching Assistant in Electrical Engineering Department at Orléans University, France. He joined ONERA in 1993, where he is a Maître de Recherches and Senior Research Scientist. His current research interests include esti- mation theory with applications to MS-MTT, information fusion, plausible reasoning under uncertainty, and decision-making support. He is a Reviewer for several inter- national journals. He has worked for the development of the International Society of Information Fusion (www.isif.org) and served in its Board. He was President of ISIF in 2016.Dr.Dezert has been involved in the Technical ProgramCommittees of several International Conferences on Information Fusion.He gave several seminars, lectures, and tutorials on information fusion and tracking in Europe, USA, Canada, Australia, and China during the last two decades. He has published several book chapters, 160 papers in conferences, and around 70 papers in journals. He has also co-edited sev- eral books with Professor Smarandache on information fusion related to DSmT for information fusion. For more information, see www.onera.fr/fr/staff/jean-dezert. IMPROVEMENT OF PROPORTIONAL CONFLICT REDISTRIBUTION RULES 73 www.isif.org Florentin Smaradache is a Professor of Mathematics at the University of New Mex- ico, USA. He got the MSc degree in mathematics and computer science from the University of Craiova, Romania, PhD in mathematics from the State University of Kishinev, and postdoctoral in applied mathematics from Okayama University of Sci- ences, Japan.He is the Founder of Neutrosophy (generalization of dialectics),Neutro- sophic Set, Logic, Probability and Statistics since 1995 and has published hundreds of papers and books on neutrosophic physics, superluminal and instantaneous physics, unmatter, quantum paradoxes, absolute theory of relativity, redshift and blueshift due to the medium gradient and refraction index besides the Doppler effect, paradox- ism, outerart, neutrosophy as a new branch of philosophy, law of included multiple- middle, multispace and multistructure, hypersoft set, degree of dependence and inde- pendence between neutrosophic components, refined neutrosophic set, neutrosophic over-under-off-set, plithogenic set, neutrosophic triplet and duplet structures, quadru- ple neutrosophic structures, extension of algebraic structures to NeutroAlgebras and AntiAlgebras, DSmT, and so on to many peer-reviewed international journals and many books and he presented papers and plenary lectures to many international con- ferences around the world. In addition, he published many books of poetry, dramas, children’ stories, translations, essays, novel, folklore collections, traveling memories, and art albums. For more information, see fs.unm.edu/FlorentinSmarandache.htm. 74 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 16, NO. 1 JUNE 2021 fs.unm.edu/FlorentinSmarandache.htm</li>
+</ul>
+
+</body>
+</html>

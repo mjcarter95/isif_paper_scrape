@@ -1,0 +1,91 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237341.2098453</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<journal_volume>
+<volume>6</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Tracking with Multisensor Out-of-Sequence Measurements with Residual Biases</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Shuo </given_name>
+<surname>Zhang</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Gregory </given_name>
+<surname>Watson</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<pages>
+<first_page>3</first_page>
+<last_page>23</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom, X. R. Li, and T. Kirubarajan Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. J. Wiley and Sons, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Update with out-of-sequence measurements in tracking: Exact solution. IEEE Transactions on Aerospace and Electronic Systems, 38, 3 (July 2002), 769—778.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>One-step solution for the multistep out-of-sequence mea- surement problem in tracking. IEEE Transactions on Aerospace and Electronic Systems, AES-40, 1 (Jan. 2004), 27—37.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>IMM estimator with out-of-sequence measurements. IEEE Transactions on Aerospace and Electronic Systems, AES-41, 1 (Jan. 2005), 90—98.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Design and Analysis of Modern Tracking Systems. Artech House, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Tracking with Time-Delayed Data in Multisensor Systems. NSWCDD/TR-93/351, Aug. 1993, Dahlgren, VA.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Stochastic Processes and Filtering Theory. Academic Press, 1970.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>On Accumulatd State Densities with Applications to out- of-sequence measurement processing. Proceedings of the 12th International Conference on Infor- mation Fusion, Seattle, WA, July 2009.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Exact multisensor dynamic bias estimation with local tracks. IEEE Transactions on Aerospace and Electronic Systems, AES-40, 2 (Apr. 2004), 576—590.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,88 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237279.0942852</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<journal_volume>
+<volume>10</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Bias Estimation for Moving Optical Sensor Measurements with Targets of Opportunity</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Djedjiga </given_name>
+<surname>Belfadel</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Richard  W. </given_name>
+<surname>Osborne</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov  </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<pages>
+<first_page>101</first_page>
+<last_page>112</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom, X.-R. Li, and T. Kirubarajan Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“A Minimalist Approach to Bias Estimation for Passive Sensor Measurements with Targets of Opportunity,” in Proc. SPIE Conf. Signal and Data Processing of Small Targets, #8857-13, San Diego, California, Aug. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Bias Estimation for Optical Sensor Measurements with Targets of Opportunity,” in Proc. FUSION Conf., Istanbul, Turkey, July 2013.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“Bias Estimation and Observability for Optical Sensor Mea- surements with Targets of Opportunity,” Journal of Advances in Information Fusion, vol. 9, no. 2, pp. 59—74, Dec. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Sensor Calibration using In-Situ Celestial Observations to Estimate Bias in Space-Based Missile Tracking,” IEEE Trans. on Aerospace and Electronic Systems, vol. 48, no. 2, pp. 1403—1427, April 2012.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Bias Estimation Using Targets of Opportunity,” Proc. SPIE Conf. on Signal and Data Processing of Small Targets, #6699, Aug. 2007. 110 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 10, NO. 2 DECEMBER 2015</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“Joint MAP Bias Estimation and Data Association: Algo- rithms,” Proc. SPIE Conf. on Signal and Data Processing of Small Targets, #6699-1E, Aug. 2007.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Concurrent MAP Data Association and Absolute Bias Estimation with an Arbitrary Number of Sensors,” Proc. SPIE Conf. on Signal and Data Processing of Small Targets, #6969-50, May 2008.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

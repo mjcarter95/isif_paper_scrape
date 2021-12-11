@@ -1,0 +1,164 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237242.42842</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<journal_volume>
+<volume>12</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Priority-Based Tracking of Extended Objects</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Kevin </given_name>
+<surname>Wyffels</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Mark  </given_name>
+<surname>Campbell</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<pages>
+<first_page>211</first_page>
+<last_page>227</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>A. Andriynko, S. Roth, and K. Schindler An analytical formulation of global occlusion reasoning for multi-object tracking, in Proceedings of the 13th IEEE International Conference on Computer Vision Workshops (ICCV Workshops), 2011.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Temporal occupancy grids: a method for classifying the spatio-temporal properties of the environment, in Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS), October 2004, pp. 409—414. PRIORITY-BASED TRACKING OF EXTENDED OBJECTS 225</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Object tracking from medium level stereo camera data providing detailed shape estimation using local grid maps, in Proceedings of the IEEE Intelligent Vehicles Symposium, June 2013.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation. John Wiley & Sons, Inc., 2001.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>W. Koch Extended object and group tracking: A comparison of random matrices and random hypersurface models, in Proceedings of the IEEE ISIF Workshop on Sensor Data Fusion: Trends, Solutions, Applications (SDF 2010), October 2010.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Extended object tracking based on combined set-theoretic and stochastic fusion, in Proceedings of the 12th International Conference on In- formation Fusion (FUSION), July 2009, pp. 1288—1295.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Random hypersurface models for extended object tracking, in Proceedings of the 9th IEEE International Symposium on Signal Processing and Information Technology (ISSPIT 2009), December 2009.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Tracking an extended object modeled as an axis-aligned rectangle, in Proceedings of Informatik 2009, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Shape tracking of extended objects and group targets with star-convex rhms, in Proceedings of the International Conference on Informa- tion Fusion (FUSION 2011), July 2011.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Extended object and group tracking with elliptic random hypersurface models, in Proceedings of the International Conference on Informa- tion Fusion (FUSION 2010), July 2010.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Optimal Estimation of Dynamic Systems. Chapman & Hall/CRC Press, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Reconceiving perceptual space, in Looking Into Pictures: An Interdisciplinary Approach to Pictorial Space. MIT Press, June 2003, ch. 11.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Perceiving layout and knowing distances: The integration, relative potency, and contextual use of different information about depth, in Handbook of perception and cognition, Vol. 5; Perception of space and motion. Academic Press, 1995, pp. 69—117.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Spatial distribution model for tracking extended objects, in IEE Proceedings–Radar, Sonar, and Navigation, vol. 152, no. 5, October 2005, pp. 364—371.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>A phd filter for tracking multiple extended targets using random matrices, IEEE Transactions on Signal Processing, vol. 60, no. 11, pp. 5657—5671, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Contingency planning over probabilistic obstacle predic- tions for autonomous road vehicles, IEEE Transactions on Robotics, vol. 29, no. 4, pp. 913—929, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Discrete and conitnuous, probabilistic anticipation for au- tonomous robots in urban environments, Transactions on Robotics, vol. 30, no. 2, pp. 461—474, Decemberl 2013.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Precision tracking with sparse 3d and and dense color 2d data, in Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2013), May 2013.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Combining 3d shape, color, and motion for robust anytime tracking, in Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2014), June 2014.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Reconstruction of rigid body models from motion distorted laser range data using optical flow, in Proceedings of the Robotics Science and Systems Confer- ence (RSS 2014), July 2014.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>P. Kohli, J. Shotton, S. Hodges, D. Freeman, A. Davison, and A. Fitzgibbon Kinectfusion: Real-time 3d reconstruction and interaction using a moving depth camera, in ACM Symposium on User Interface Software and Tech-</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>microsoft.com/apps/pubs/default.aspx?id=155416.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>A new extension of the kalman filter to nonlinear systems, in Proceedings of the 11th International Symposium on Aerospace/Defence, 1997, pp. 401—422.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Bayesian approach to extended object and cluster tracking using random matrices, IEEE Transactions on Aerospace and Electronic Systems, vol. 44, no. 3, pp. 1042—1059, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Cluster tracking under kinematical constraints using ran- dom matrices, Robotics and Autonomous Systems, vol. 57, no. 3, pp. 296— 309, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Measurement and modeling of depth cue combination: in defense of weak fusion, Vision Research, vol. 35, no. 3, pp. 389—412, February 1995.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Estimating object shape of targets with a phd filter, in Proceedings of the 14th International Conference on In- formation Fusion (FUSION), July 2011, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Data fusion and sensor intergration: state-of-the-art, in 1990s, Data Fusion in Robotics and Machine Intelligence, 1992, pp. 7—136.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Qualitative relational mapping for planetary rover explo- ration, in Proceedings of the AIAA Guidance, Navigation and Con- trol Conference, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Team cornell’s skynet: Robust perception and planning in an urban environment, Journal of Field Robotics, vol. 25, no. 8, pp. 493—527, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Efficient, unbiased tracking of multiple dynamic obstacles under large viewpoint changes, IEEE Transactions on Robotics, vol. 27, no. 1, pp. 29—46, 2011. 226 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 12, NO. 2 DECEMBER 2017</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Model based vehicle detection and tracking for autonomous urban driving, Autonomous Robots Journal, vol. 26, no. 2—3, pp. 123—139, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Independent markov chain occupancy grid maps for repre- sentation of dynamic environment, in Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS), October 2012, pp. 3489—3495.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Probabilistic Robotics. MIT Press, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Modeling and fusing negative information for dynamic extended multi-object tracking, in Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2013), May 2013.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

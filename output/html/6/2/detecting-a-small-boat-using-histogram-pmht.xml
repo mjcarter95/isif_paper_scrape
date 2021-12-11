@@ -1,0 +1,49 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 6</li>
+<li>Issue 2</li>
+<li>Pages 167 - 186</li>
+<li>December, 2011</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Detecting a Small Boat using Histogram PMHT</h1>
+<p class="article-authors">Samuel J. Davey</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">Y. Bar-Shalom and X. R. Li Multitarget-multisensor tracking: principles and techniques. Storrs, CT: YBS, 1995.</li>
+<li class="ref-2">Dynamic programming algorithm for detecting dim moving targets. In Y. Bar-Shalom, Ed., Multitarget-Multisensor Tracking: Advanced Applications, Artech House, 1990, ch. 4.</li>
+<li class="ref-3">Design and Analysis of Modern Tracking Systems. Norwood, MA: Artec House, 1999.</li>
+<li class="ref-4">Particle filter based detection for tracking. In Proceedings of the American Control Conference, Arling- ton, VA, June 2001, 4393—4397.</li>
+<li class="ref-5">PDAF with multiple clutter regions and target models. IEEE Transactions on Aerospace and Electronic Systems, 39, 1 (Jan. 2003), 110—124.</li>
+<li class="ref-6">Histogram PMHT with particles. In Proceedings of the 14th International Conference on In- formation Fusion, July 2011.</li>
+<li class="ref-7">Integrated track maintenance for the PMHT via the hys- teresis mdoel. IEEE Transactions on Aerospace and Electronic Systems, 43, 1 (Jan. 2007), 93—111.</li>
+<li class="ref-8">A comparison of detection performance for several track- before-detect algorithms. EURASIP Journal on Advances in Signal Processing, 2008.</li>
+<li class="ref-9">Computer and Robot Vision. Addison-Wesley, 1992, vol. 1.</li>
+<li class="ref-10">A track management system for the PMHT algorithm. In Proceedings of the 4th International Conference on Infor- mation Fusion, Montreal, Canada, Aug. 2001.</li>
+<li class="ref-11">Continuous-discrete filtering for dim manoeuvring mar- itime targets. July 2007.</li>
+<li class="ref-12">Impact of measurement model mismatch on nonlinear track-before-detect performance. In Radar Conference, 2008 (RADAR ’08, IEEE), May 2008, 1—6.</li>
+<li class="ref-13">Track-before-detect using swerling 0, 1, and 3 target mod- els for small manoeuvring maritime targets. Journal on Advances in Signal Processing (EURASIP), 2008.</li>
+<li class="ref-14">Detection of moving optical objects. In International Telemetering Conference, Los Angeles, CA, 1978, 325—330.</li>
+<li class="ref-15">Precision tracking with segmentation for imaging sensors. IEEE Transactions on Aerospace and Electronic Systems, 29, 3 (July 1993), 977—987.</li>
+<li class="ref-16">Multi-target tracking in clutter with histogram probabilistic multi-hypothesis tracker. In IEEE Conference on Systems Engineering, 2005, 137— 142. DAVEY: DETECTING A SMALL BOAT USING HISTOGRAM PMHT 185</li>
+<li class="ref-17">An algorithm for detection of moving optical targets. IEEE Transactions on Aerospace and Electronic Systems, 25, 1 (Jan. 1989), 56—63.</li>
+<li class="ref-18">Beyond the Kalman Filter: Particle Filters for Tracking Ap- plications. Artech House, 2004.</li>
+<li class="ref-19">A particle filter for track-before-detect. In Proceedings of the American Control Conference, Arling- ton, VA, June 2001, 3755—3760.</li>
+<li class="ref-20">On the detection of target trajectories in a mutli target environment. In IEEE Conference on Decision and Control, San Diego, CA, 1978, 1189—1194.</li>
+<li class="ref-21">Bayesian Multiple Target Tracking. Artech House, 1999.</li>
+<li class="ref-22">Tracking on intensity-modulated data streams. NUWC, RI: Technical report 11221, May 2000. Samuel Davey received the Bachelor of Engineering, Master of Mathematical Science, and Ph.D. degrees from the University of Adelaide, Australia, in 1996, 1999, and 2003, respectively. Since 1995 he has worked for the Defence Science and Technology Organi- sation, Australia, in the areas of target tracking, tracker performance assessment, and multi-sensor fusion. He is also a Visiting Research Fellow at the University of Adelaide.</li>
+<li class="ref-23">Tracking targets with specified spectra using the H-PMHT algorithm. NUWC, RI: Technical report 11291, June 2001.</li>
+<li class="ref-24">Multitarget tracking of distributed targets using histogram- PMHT. Digital Signal Processing, 12, 2 (July 2002).</li>
+<li class="ref-25">Joint detection and estimation of multiple objects from image observations. IEEE Transactions on Signal Processing, 58, 10 (Oct. 2010), 5129—5141.</li>
+<li class="ref-26">Histogram PMHT with target extent estimates based on random matrices. In Proceedings of the 14th International Conference on In- formation Fusion, July 2011. 186 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 6, NO. 2 DECEMBER 2011</li>
+</ul>
+
+</body>
+</html>

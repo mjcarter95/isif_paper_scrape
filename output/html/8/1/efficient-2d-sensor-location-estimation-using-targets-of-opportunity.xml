@@ -1,0 +1,48 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 8</li>
+<li>Issue 1</li>
+<li>Pages 73 - 89</li>
+<li>June, 2013</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Efficient 2D Sensor Location Estimation using Targets of Opportunity</h1>
+<p class="article-authors">David F. Crouse, Richard  W. Osborne III, Krishna  Pattipati, Peter  Willett and Yaakov  Bar-Shalom</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">Y. Bar-Shalom, X. Li, and T. Kirubarajan Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. J. Wiley and Sons, 2001.</li>
+<li class="ref-2">Nonlinear Programming. Athena Scientific, 1999.</li>
+<li class="ref-3">Semidefinite programming for ad hoc wireless network localization. In Proceedings of the 3rd International Symposium on Infor- mation Processing in Sensor Networks, Barkeley, CA, 2004, pp. 46—54.</li>
+<li class="ref-4">Localization in underwater sensor networks–survey and challenges. In Proceedings of the First ACM International Workshop on</li>
+<li class="ref-5">http://wuwnet.engr.uconn.edu/papers/p033-chandrasekhar. pdf.</li>
+<li class="ref-6">Sensor bias estimation in the presence of data association uncertainty. In Proceedings of SPIE, Signal and Data Processing of Small Targets Conference, vol. 7445-22, Aug. 2009.</li>
+<li class="ref-7">AUV-aided localization for underwater sensor networks. In Proceedings of the International Conference on Wireless Algorithms, Systems and Applications, Aug. 2007, pp. 44— 54.</li>
+<li class="ref-8">Statistical Analysis of Circular Data. Cambridge, UK: Cambridge University Press, 1993.</li>
+<li class="ref-9">Statistical Analysis of Spherical Data. Cambridge: Cambridge University Press, 1987. EFFICIENT 2D SENSOR LOCATION ESTIMATION USING TARGETS OF OPPORTUNITY 85</li>
+<li class="ref-10">Distributed online localization in sensor networks using a moving target. In Proceedings of the 3rd International Symposium on Infor- mation Processing in Sensor Networks, 2004, pp. 61—70.</li>
+<li class="ref-11">On the computation of modified Bessel function ratios. Mathematics of Computation, 32, 143 (July 1978), 865—875.</li>
+<li class="ref-12">Sensor location through linear programming with arrival angle constraints. In Proceedings of the IEEE Information Theory Society Conference on Information Sciences and Systems, Mar. 2007.</li>
+<li class="ref-13">Matrix Computations (3rd ed.). Johns Hopkins University Press, 1996.</li>
+<li class="ref-14">Designing reduced beacon trajectory for sensor localiza- tion. Journal of Zheijang University, 8, 12 (2007), 1971—1982.</li>
+<li class="ref-15">Multisensor-multitarget bias estimation for general asyn- chronous sensors. IEEE Transactions on Aerospace and Electronic Systems, 41, 3 (2005), 899—921.</li>
+<li class="ref-16">Directional Statistics. Chichester, England: John Wiley & Sons, 2000.</li>
+<li class="ref-17">An auto-calibration method for unattended ground sensors. In Proceedings of the IEEE International Conference on Acoustics Speech and Signal Processing, vol. 3, 2002, pp. 2941—2944.</li>
+<li class="ref-18">A directionality based location discovery scheme for wire- less sensor networks. In Proceedings of the 1st ACM International Workshop on Wireless Sensor Networks and Applications, 2002, pp. 105— 111.</li>
+<li class="ref-19">Ad-hoc positioning system (APS) using AOA. In Proceedings of the 22nd Annual Joint Conference of the IEEE Computer and Communications Societies, San Fran- cisco, CA, Mar. 2003.</li>
+<li class="ref-20">Feature-aided localization of ground vehicles using passive acoustic sensor arrays. In Proceedings of the 12th International Conference on In- formation Fusion, Seattle, July 2009, pp. 70—77.</li>
+<li class="ref-21">Sensor registration in ECEF coordinates using the MLR algorithm. In Proceedings of the Sixth International Conference of In- formation Fusion, Cairns, Queensland, Australia, 2003, pp. 135—142.</li>
+<li class="ref-22">Data MULEs modeling a three-tier architecture for sparse sensor networks. In Proceedings of the First IEEE International Workshop on Sensor Network Protocols and Applications, Seattle, May 2003, pp. 30—41.</li>
+<li class="ref-23">Localization with mobile anchor points in wireless sensor networks. IEEE Transactions on Vehicular Technology, 54, 3 (May 2005), 1187—1197.</li>
+<li class="ref-24">Signal processing techniques in network-aided positioning: A survey of state-of-the-art positioning designs. IEEE Signal Processing Magazine, 22, 4 (July 2005), 12—23.</li>
+<li class="ref-25">Self-organization of unattended wireless acoustic sensor networks for ground target tracking. Pervasive and Mobile Computing, 5, 2 (Apr. 2009), 148— 164. 86 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 1 JUNE 2013 David Frederic Crouse received his B.S., M.S., and Ph.D. degrees in electrical engineering, in 2005, 2008, and 2011, respectively, from the University of Con- necticut (UCONN), Storrs, and his B.A. degree in German from the University of Connecticut in 2006. In 2006 he spent a year with the Ruprecht-Karls-Universität, Heidelberg, Ger- many. He currently works at the Naval Research Laboratory in Washington, D.C. and is an associate editor for the IEEE Aerospace and Electronic Systems Magazine. His research interests lie in the areas of statistical signal processing and tracking. Richard W. Osborne, III received his B.S., M.S., and Ph.D. degrees from the University of Connecticut in 2004, 2007, and 2012, respectively. He is currently an assistant research professor in the Electrical and Computer Engineering Department at the University of Connecticut. In addition to his work at the University of Connecticut, he has consulted with a number of outside companies, and helped to develop and teach a short course on tracking and data fusion. His current research interests lie in the fields of estimation theory and information fusion. EFFICIENT 2D SENSOR LOCATION ESTIMATION USING TARGETS OF OPPORTUNITY 87 Krishna R. Pattipati received his B.Tech. degree in electrical engineering with highest honors from the Indian Institute of Technology, Kharagpur, in 1975, and his M.S. and Ph.D. degrees in systems engineering from UConn, Storrs, in 1977 and 1980, respectively. He was with ALPHATECH, Inc., Burlington, MA from 1980 to 1986. He has been with the Department of Electrical and Computer Engineering at UConn, where he is currently the UTC Professor of Systems Engineering. His current research activities are in the areas of agile planning, diagnosis and prognosis techniques for cyber-physical systems, multi-object tracking, and combinatorial optimization. A common theme among these applications is that they are characterized by a great deal of uncertainty, complexity, and computational intractability. He is a cofounder of Qualtech Systems, Inc., a firm specializing in advanced integrated diagnostics software tools (TEAMS, TEAMS-RT, TEAMS-RDS, TEAMATE), and serves on the board of Aptima, Inc. Dr. Pattipati was selected by the IEEE Systems, Man, and Cybernetics (SMC) Society as the Outstanding Young Engineer of 1984, and received the Centennial Key to the Future award. He has served as the Editor-in-Chief of the IEEE Transactions on Systems, Man, and Cybernetics–Part B from 1998 to 2001, vice- president for technical activities of the IEEE SMC Society from 1998 to 1999, and as vice-president for conferences and meetings of the IEEE SMC Society from 2000 to 2001. He was corecipient of the Andrew P. Sage Award for the Best SMC Transactions Paper for 1999, the Barry Carlton Award for the Best AES Transactions Paper for 2000, the 2002 and 2008 NASA Space Act Awards for “A Comprehensive Toolset for Model-based Health Monitoring and Diagnosis,” and “Real-time Update of Fault-Test Dependencies of Dynamic Systems: A Comprehensive Toolset for Model-Based Health Monitoring and Diagnostics,” and the 2003 AAUP Research Excellence Award at UCONN. He also won the best technical paper awards at the 1985, 1990, 1994, 2002, 2004, 2005, and 2011 IEEE AUTOTEST Conferences, and at the 1997, 2004 Command and Control Conference. He is an elected Fellow of IEEE and of the Connecticut Academy of Science and Engineering.</li>
+</ul>
+
+</body>
+</html>

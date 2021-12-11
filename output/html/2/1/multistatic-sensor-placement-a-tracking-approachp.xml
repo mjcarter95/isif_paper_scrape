@@ -1,0 +1,25 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 2</li>
+<li>Issue 1</li>
+<li>Pages 22 - 34</li>
+<li>June, 2007</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Multistatic Sensor Placement: A Tracking ApproachP</h1>
+<p class="article-authors">O.  Erdinc, P.  Willett and S.  Coraluppi</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">D. Bertsekas Nonlinear Programming. Athena Scientific, 1999.</li>
+<li class="ref-2">Underwater Acoustic System Analysis. Prentice Hall, 1984.</li>
+</ul>
+
+</body>
+</html>

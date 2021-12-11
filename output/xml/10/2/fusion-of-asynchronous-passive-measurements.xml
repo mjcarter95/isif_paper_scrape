@@ -1,0 +1,94 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237279.1082485</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<journal_volume>
+<volume>10</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Fusion of Asynchronous Passive Measurements</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Richard  W.  Osborne,</given_name>
+<surname>III</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov  </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Peter  </given_name>
+<surname>Willett</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<pages>
+<first_page>199</first_page>
+<last_page>210</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom, X.-R. Li, and T. Kirubarajan Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. J. Wiley and Sons, 2001. Fig. 16. Normalized estimation error squared (NEES) over 10,000 Monte Carlo runs, with y 2 = 8,000 and a target with 5 m/s2 acceleration. Fig. 17. Normalized estimation error squared (NEES) over 10,000 Monte Carlo runs, with y 2 = 8,000 and a target with 10 m/s2 acceleration.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Tracking and Data Fusion. YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Optimal Attitude and Position Determination from Line-of- Sight Measurements, Journal of the Astronautical Sciences, vol. 48(2), pp. 391— 408, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>A Generalized S-Dimensional Algorithm for Multisensor Multitarget State Estimation, Aerospace and Electronic Systems, IEEE Transactions on, vol. 33, no. 2, pp. 523—538, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Position-Location Solutions by Taylor-Series Estimation, Aerospace and Electronic Systems, IEEE Transactions on, vol. 12(2), pp. 187—194, Mar. 1976.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Performance Analysis of Bearing-Only Target Location Algorithms, Aerospace and Electronic Systems, IEEE Transactions on, vol. 28(3), pp. 817—828, Jul. 1992.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Statistical Efficiency of Composite Position Measurements from Passive Sensors, Aerospace and Electronic Systems, IEEE Transactions on, vol. 49, no. 4, pp. 2799—2806, Oct. 2013. FUSION OF ASYNCHRONOUS PASSIVE MEASUREMENTS 207</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>m-Best S-D Assignment Algorithm with Application to Multitarget Tracking, Aerospace and Electronic Systems, IEEE Transactions on, vol. 37, no. 1, pp. 22—39, Jan. 2001.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Shalom Profile-Free Launch Point Estimation for Ballistic Targets Using Passive Sensors, Journal of Advances in Information Fusion, vol. 7(1), pp. 46—60, Jun. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Statistical Theory of Passive Location Systems, Aerospace and Electronic Systems, IEEE Transactions on, vol. 20(2), pp. 183—198, Mar. 1984.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

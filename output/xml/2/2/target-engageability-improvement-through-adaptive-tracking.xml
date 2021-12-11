@@ -1,0 +1,88 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237380.6084137</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2007</year>
+</publication_date>
+<journal_volume>
+<volume>2</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Target Engageability Improvement through Adaptive Tracking</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>A.  </given_name>
+<surname>Benaskeur</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>F. </given_name>
+<surname>Rheaume</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>S. </given_name>
+<surname>Paradis</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2007</year>
+</publication_date>
+<pages>
+<first_page>99</first_page>
+<last_page>112</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom (Ed.) Multitarget-Multisensor Tracking: Applications and Advan- ces. Artech House, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Multitarget-Multisensor Tracking: Principles and Techniques. Storrs, CT, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation. New York: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Design and Analysis of Modern Tracking Systems. Norwod, MA: Artech House, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>P. Kropf Coordinating plans for agents performing AAW hardkill and softkill for frigates. In Proceedings of The 2001 AAAI Fall Symposium Series, North Falmouth, MA, July 2001, 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>A method to optimize ship maneuvers for the coordination of hardkill and softkill weapons within a frigate. In 7th International Command and Control Research and Technology Symposium (7th ICCRTS), Quebec, Sept. 2002.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>E. Squire Real-time decision support for the anti-air warfare com- mander. In 6th International Command and Control Research and Technology Symposium (6th ICCRTS), Annapolis, MD, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Supporting threat response management in a tactical naval environment. In 8th ICCRTS, June 2003.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

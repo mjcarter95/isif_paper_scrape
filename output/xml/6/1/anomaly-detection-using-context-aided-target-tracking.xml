@@ -1,0 +1,192 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237341.2128356</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<journal_volume>
+<volume>6</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Anomaly Detection using Context-Aided Target Tracking</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Jemin </given_name>
+<surname>George</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>John L.</given_name>
+<surname>Crassidis</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Tarunraj </given_name>
+<surname>Singh</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Adam M.</given_name>
+<surname>Fosbury</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<pages>
+<first_page>39</first_page>
+<last_page>56</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>A. Alouani and W. Blair Use of a kinematic constraint in tracking constant speed, maneuvering targets. In Proceedings of the 30th IEEE Conference on Decision and Control, vol. 2, 1991, 2055—2058.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Use of a kinematic constraint in tracking constant speed, maneuvering targets. IEEE Transactions on Automatic Control, 38, 7 (July 1993), 1107—1111.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Bias and observability analysis of target tracking filters using a kinematic constraint. In Proceedings of the Twenty-Third Southeastern Symposium on System Theory, 1991, 229—232.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Optimal Filtering. Mineola, NY: Dover Publications, 1979.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Model approximations via prediction error identification. Automatica, 14, 6 (Nov. 1978), 615—622.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Tracking a maneuvering target using input estimation ver- sus the interacting multiple model algorithm. IEEE Transactions on Aerospace and Electronic Systems, 25, 2 (Mar. 1989), 296—300. ANOMALY DETECTION USING CONTEXT-AIDED TARGET TRACKING 53</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation. New York, NY: John Wiley & Sons, Inc., 2001.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Information fusion based decision support via hidden Markov models and time series anomaly detection. In 12th International Conference on Information Fusion, 2009, 764—771.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>An efficient filter for abruptly changing systems. In The 23rd IEEE Conference on Decision and Control, Dec. 1984, 656—658.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>The interacting multiple model algorithm for systems with Markovian switching coefficients. IEEE Transactions on Automatic Control, 33, 8 (Aug. 1988), 780—783.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Introduction to Random Signals and Applied Kalman Filter- ing, 3rd ed. New York, NY: John Wiley & Sons, 1997, 353—361.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>A chi-square test for fault-detection in kalman filters. IEEE Transactions on Automatic Control, 32, 6 (June 1987), 552—554.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Anomaly detection: A survey. ACM Computing Surveys (CSUR), 41, 3 (2009), 1—58.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Generalized multiple-model adaptive estimation using an autocorrelation approach. In Proceedings of the 9th International Conference on Infor- mation Fusion, Florence, Italy, July 2006, paper 223.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Optimal Estimation of Dynamic Systems. Boca Raton, FL: CRC Press, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>An interacting multiple model approach for target tracking with glint noise. IEEE Transactions on Aerospace and Electronic Systems, 31, 2 (Apr. 1995), 706—715.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Maneuvering target tracking using adaptive turn rate mod- els in the interacting multiple model algorithm. In Proceedings of the 35th IEEE Conference on Decision and Control, vol. 3, 1996, 3151—3156.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Simple tracking filters: Position and velocity measure- ments. IEEE Transactions on Aerospace and Electronic Systems, AES-18, 5 (Sept. 1982), 531—537.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Ground target tracking using terrain information. 10th International Conference on Information Fusion, July 2007.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Monte Carlo methods for solving multivariable problems. Annals of the New York Academy of Sciences, 86 (1960), 844—874.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Behavioral anomaly detection in dynamic self-organizing systems: A cognitive fusion approach. In International Conference on Integration of Knowledge Intensive Multi-Agent Systems, Apr. 2005, 254—259.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>®-¯; target tracking systems: A survey. In American Control Conference, 1992, 832—836.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Multiple model nonlinear filtering for low signal ground target applications. IEEE Transactions on Aerospace and Electronic Systems, 41, 2 (Apr. 2005), 549—564.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Data fusion perspectives and its role in information pro- cessing. In M. E. Liggins, D. L. Hall, and J. Llinas (Eds.), Handbook of Multisensor Data Fusion: Theory and Practice, Boca Raton, FL: CRC Press, 2009, ch. 2.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Topography-based vs-imm estimator for large-scale ground target tracking. In IEE Colloquium on Target Tracking: Algorithms and Applications, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Ground target tracking with variable structure imm estima- tor. IEEE Transactions on Aerospace and Electronic Systems, 36, 1 (Jan. 2000), 26—46.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Abrams, and E. Eadan Tracking ground targets with road constraints using an imm estimator. In Proceedings of IEEE Aerospace Conference, 5, 21—28 (1998), 5—12.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Interacting multiple model tracking with target amplitude feature. IEEE Transactions on Aerospace and Electronic Systems, 29, 2 (Apr. 1993), 494—509.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Design of an interacting multiple model algorithm for air traffic control tracking. IEEE Transactions on Control Systems Technology, 1, 3 (Sept. 1993), 186—194.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Interacting multiple model methods in target tracking: A survey. IEEE Transactions on Aerospace and Electronic Systems, 34, 1 (Jan. 1998), 103—123.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Modeling and estimation for tracking maneuvering targets. IEEE Transactions on Aerospace and Electronic Systems, AES-15, 3 (May 1979), 448—456.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Maneuvering target tracking using an adaptive interacting multiple model algorithm. In American Control Conference, 2 (1994), 1324—1328.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Adaptive interacting multiple model algorithm for tracking a manoeuvring target. IEE Proceedings–Radar, Sonar and Navigation, 142, 1 (Feb. 1995), 11—17.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>We know where you are going: Tracking objects in terrain. IMA Journal of Mathematics Applied in Business & Indus- try, 8 (1997), 39—58.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Chi-square test based decision trees induction in distributed environment. In IEEE International Conference on Data Mining Work- shops, 15—19 (2008), 477—485. 54 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 6, NO. 1 JUNE 2011</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>A non-Gaussian filter for tracking targets moving over terrain. In Proceedings of the 12th Annual Asilomar Conference on Circuits, Systems, and Computers, Pacific Grove, CA, Nov. 1978, 112—116.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Statistical analysis of motion patterns in ais data: Anomaly detection and motion prediction. In 2008 11th International Conference on Information Fu- sion, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Improved diagnostic and prognostic assessments using health management information fusion. In IEEE Systems Readiness Technology Conference AUTOTESTCON Proceedings, 2001, 365—377.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Context-based profiling for anomaly intrusion detection with diagnosis. In Third International Conference on Availability, Reliability and Security, 2008, 618—623.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Estimating optimal tracking filter performance for manned maneuvering targets. IEEE Transactions on Aerospace and Electronic Systems, AES-6, 4 (July 1970), 473—483.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Anomaly detection via feature-aided tracking and hidden Markov models. IEEE Transactions on Systems, Man and Cybernetics, Part A: Systems and Humans, 39, 1 (Jan. 2009), 144—159.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

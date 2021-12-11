@@ -1,0 +1,177 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237201.1628168</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2020</year>
+</publication_date>
+<journal_volume>
+<volume>15</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>The Role of Information Fusion in Transfer Learning of Obscure Human Activities During Night</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Anwaar </given_name>
+<surname>Ulhaq</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2020</year>
+</publication_date>
+<pages>
+<first_page>49</first_page>
+<last_page>56</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>J. Liu, J. Luo, and M. Shah “Recognizing realistic actions from videos ‘in the wild’,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., 2009, pp. 1996–2003.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“Recognition of group activities using dynamic probabilistic networks,” in Proc. IEEE Int. Conf. Comput. Vis., 2003, pp. 742–749.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Action detection in crowd,” in Proc. Brit. Mach. Vis. Conf., 2010, pp. 1–11.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“Learning realistic human actions from movies,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., 2008, pp. 1–8.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>M. Zia “Single- and two-person action recognition based on silhouette shape and optical point descriptors,” Signal Image Video Process., vol. 12, no. 5, pp. 853–860, 2018.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Learning spatio-temporal features for action recognition from the side of the video,” Signal Image Video Process., vol. 10, no. 1, pp. 199–206, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“On space–time filtering framework for matching human actions across different viewpoints,” 54 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 15, NO. 1 JUNE 2020 IEEE Trans. Image Process., vol. 27, no. 3, pp. 1230–1242, 2018.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“On dynamic scene geometry for view-invariant action matching,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., 2011, pp. 3305–3312.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“On temporal order invariance for view-invariant action recognition,” IEEE Trans. Circuits Syst. Video Technol., vol. 23, no. 2, pp. 203–211, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Making action recognition robust to occlusions and viewpoint changes,” in Computer Vision–ECCV. Berlin, Germany: Springer, 2010, pp. 635–648.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“What, where and who? Classifying events by scene and object recognition,” in Proc. IEEE 11th Int. Conf. Comput. Vis., 2007, pp. 1–8.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Actions in context,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., 2009, pp. 2929–2936.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Selection and context for action recognition,” in Proc. Int. Conf. Comput. Vis., 2009, vol. 9, pp. 1933–1940.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Modeling scene and object contexts for human action retrieval with few examples,” IEEE Trans. Circuits Syst. Video Technol., vol. 21, no. 5, pp. 674–681, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Hierarchical attention and context modeling for group activity recognition,” in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process., 2018, pp. 1328–1332.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Hierarchical attention network for action segmentation,” Pattern Recognit. Lett., vol. 131, pp. 442–448, 2020.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Human activity recognition in thermal infrared imagery,” in Proc. IEEE Comput. Vis. Pattern Recognit. Workshop, 2005, pp. 17–17.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Application of thermal infrared imagery in human action recognition,” Adv.Mater. Res., vol. 121, pp. 368–372, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Contextual action recognition in multi-sensor nighttime video sequences,” in Proc. Digit. Image Comput. Techn. Appl., 2011, pp. 256–261.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“Action recognition in the dark via deep representation learning,” in Proc. IEEE Int. Conf. Image Process., Appl. Syst., 2018, pp. 131–136.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“Action recognition using spatio-temporal distance classifier correlation filter,” in Proc. Int. Conf. Digit. Image Comput. Techn. Appl., 2011, pp. 474–479.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“FACE: fully automated context enhancement for night-time video sequences,” J. Vis. Commun. Image Representation, vol. 40, pp. 682–693, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Scarf: semi-automatic colorization and reliable image fusion,” in Proc. Int. Conf. Digit. Image Comput. Techn. Appl., 2010, pp. 435–440.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>“An optimized image fusion algorithm for night-time surveillance and navigation,” in Proc. IEEE Symp. Emerg. Technol., 2005, pp. 138–143.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>“Perceptual evaluation of colorized nighttime imagery,” in Proc. IS&T/SPIE Electron. Imaging, 2014, pp. 901412– 901412.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“Contextual action recognition with R∗CNN,” in Proc. IEEE Int. Conf. Comput. Vis., 2015, pp. 1080–1088.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“Imagenet classification with deep convolutional neural networks,” in Proc. Adv. Neural Inf. Process. Syst., 2012, pp. 1097–1105.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“3D convolutional neural networks for human action recognition,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 35, no. 1, pp. 221–231, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>“Application of thermal infrared imagery in human action recognition,” Adv.Mater. Res., vol. 121, pp. 368–372, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>“Human activity recognition in thermal infrared imagery,” in Proc. IEEE Comput. Vis. Pattern Recognit. Workshop, 2005, pp. 17–17.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>“RGB-IR cross input and sub-pixel upsampling network for infrared image superresolution,” Sensors, vol. 20, no. 1, p. 281, 2020.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>“Deep visible and thermal image fusion for enhanced pedestrian visibility,” Sensors, vol. 19, no. 17, p. 3727, 2019.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>“Automated multi-sensor color video fusion for nighttime video surveillance,” in Proc. IEEE Symp. Comput. Commun., 2010, pp. 529–534.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>“Context enhancement to reveal a camouflaged target and to assist target localization by fusion of multispectral surveillance videos,” Signal Image Video Process., vol. 7, no. 3, pp. 537–552, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>“How transferable are features in deep neural networks?” in Proc. Adv. Neural Inf. Process. Syst., 2014, pp. 3320–3328.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>“UCF101: a dataset of 101 human action classes from videos in the wild.,” CRCV-TR-12-01, November, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>“Multivariant technique for multiclass pattern recognition,” Appl. Opt., vol. 19, no. 11, pp. 1758–1761, 1980.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>“Action-02MCF: a robust space–time correlation filter for action recognition in clutter and adverse lighting conditions,” in Proc. Int. Conf. Adv. Concepts Intell. Vis. Syst. Berlin, Germany: Springer, 2016, pp. 465–476.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>A. Cardinali, C. Canagarajah, D. Bull, T. Riley, D. Hickman, THE ROLE OF INFORMATION FUSION IN TRANSFER LEARNING OF OBSCURE HUMAN ACTIVITIES DURING NIGHT 55 and M. I. Smith “The Eden Project multisensory data set,” The Online Resource for Research in Image Fusion (ImageFusion.org), 2006.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>A.G. Hauptmann “InfAR dataset: infrared action recognition at different times,” Neurocomputing, vol. 212, pp. 36–47, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Correlation Pattern Recognition. New York, NY, USA: Cambridge University Press, 2005.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

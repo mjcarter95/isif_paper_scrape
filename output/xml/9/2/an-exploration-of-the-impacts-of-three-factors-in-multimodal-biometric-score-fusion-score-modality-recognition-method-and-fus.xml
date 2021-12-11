@@ -1,0 +1,152 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237292.3247962</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2014</year>
+</publication_date>
+<journal_volume>
+<volume>9</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>An Exploration of the Impacts of Three Factors in Multimodal Biometric Score Fusion: Score Modality, Recognition Method, and Fus</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yufeng </given_name>
+<surname>Zheng</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Erik </given_name>
+<surname>Blasch</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2014</year>
+</publication_date>
+<pages>
+<first_page>124</first_page>
+<last_page>135</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>S. Alsing, E. P. Blasch, and R. Bauer Three-Dimensional Receiver Operating Characteristic (ROC) Trajectory Concepts for the Evaluation of Target Recognition Algorithms Faced with the Unknown Target Detection Problem, Proc. SPIE. 3718, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Statistical Inference for Probability Functions of Finite State Markov Chains, Ann. Math. Stat., 37:1554—1563, 1966.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Pattern Recognition with Fuzzy Objective Function Algo- rithms, Plenum Press, New York, 1981.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Person Identification Using Multiple Cues, IEEE Trans. Pattern Anal. Mach. Intell., 17(10): 955—966, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Hidden Markov Models: Applications in Computer Vision, World Scientific, River Edge, New Jersey, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>A Tutorial on Support Vector Machines for Pattern Recog- nition, Data Mining and Knowledge Discovery, 2:121—167, 1998.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>P. M. Jokich Image Feature Analysis and Computer-aided Diagnosis in Digital Radiography. I. Automated Detection of Microcal- cifications in Mammography, Med. Physics, 14:538—548, 1987.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Pattern Classification and Scene Analysis, Wiley, New York, 1973.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Bigun Discriminative Multimodal Biometric Authentication based on Quality Measures, Pattern Recognition, 38(5):777—779, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Unsupervised Learning of Finite Mixture Models, IEEE Trans. Pattern Anal. Mach. Intell. 24 (3), 381—396, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>The Viterbi Algorithm, Proc. IEEE 61, 268—278, 1973.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Landmine Detection with Ground Penetrating Radar using Hidden Markov Models, IEEE Trans. Geosci. Remote Sens., 39:1231—1244, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Score Normalization in Multimodal Biometric Systems, Pattern Recognition, 38(12):2270—2285, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Optimization of a Network with Gaussian Kernel Functions Based on the Estimation of Error Confidence Intervals, Proc. of IJCNN 2001, 3:1762—176, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>A Theoretical Study on Six Classifier Fusion Strategies, IEEE Trans. Pattern Anal. Mach. Intell., 24(2):281—286, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Switching between Selection and Fusion in Combining Classifiers: an Experiment, IEEE Trans. on Systems, Man, and Cybernetics, Part B, 32(2):146—156, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Objective Assessment of Multiresolution Image Fusion Al- gorithms for Context Enhancement in Night Vision: A Comparative Survey, IEEE Trans. Pattern Anal. Mach. Intell., 34(1):94—109, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Face Recognition Using LDA-Based Algorithms, IEEE Trans. on Neural Networks, 14(1):195—200, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Generalized Hidden Markov Models part 2: Applications to Handwritten Word Recognition, IEEE Trans. Fuzzy Systems, 8:186—194, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Machine Learning: a Probabilistic Perspective, MIT Press, Cambridge, Massachusetts, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Likelihood ratio-based biometric score fusion, IEEE Trans. Pattern Anal. Mach. Intell., 30(2): 342—347, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>NIST Biometric Scores Set–release 1, http://www.itl.nist.gov/iad/894.03/biometricscores, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Decision-level Fusion in Fingerprint Verification, Pattern Recognition, 35(4):861—874, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Tutorial on Hidden Markov Models and Selected Applica- tions in Speech Recognition, Proc. IEEE 77, 257—286, 1989.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Statistical and Neural Classifiers: an Integrated Approach to Design, Springer, London, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Information Fusion in Biometrics, Pattern Recognition Letters, 24:2115—2125, 2003. 134 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 9, NO. 2 DECEMBER 2014</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Exploiting Global and Local Decisions for Multimodal Biometrics Verification, IEEE Trans. on Signal Processing, 52(10):3059—3072, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Studies of Biometric Fusion, NIST Interagency Report, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Face Recognition by Elastic Bunch Graph Matching, IEEE Trans. Pattern Anal. Mach. Intell., 19 (7):775—779, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Fusing Local Patterns of Gabor Magnitude and Phase for Face Recognition, IEEE Trans. Image Process., 19(5):1349—1361, 2010.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

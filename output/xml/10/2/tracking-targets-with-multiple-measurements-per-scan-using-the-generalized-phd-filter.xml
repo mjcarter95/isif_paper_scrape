@@ -1,0 +1,163 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237279.0982757</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<journal_volume>
+<volume>10</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Tracking Targets with Multiple Measurements per Scan Using the Generalized PHD Filter</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Christoph  </given_name>
+<surname>Degen</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Felix  </given_name>
+<surname>Govaers</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Wolfgang  </given_name>
+<surname>Koch</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<pages>
+<first_page>125</first_page>
+<last_page>142</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>V. Algeier Blind Localization of Mobile Terminals in Urban Scenarios. PhD thesis, TU Ilmenau, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Track initiation for blind mobile terminal position tracking using multipath propagation. In Proceedings of the 11 th International Conference on Information Fusion, Cologne, Germany, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Lineare Funktionalanalysis. Springer, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation. Wiley-Intersience, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>An extension of the Munkres algorithm for the assignment problem to rectangular matrices. Communications of the ACM, 14(12):802—804, Dec. 1971.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Faa di bruno’s formula for chain differentials. arXiv Preprint arXiv:1310.2833, Okt. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Generalized PHD filter via a general chain rule. In Proceedings of the 15th International Conference on In- formation Fusion, Singapore, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>An introduction to the theory of point processes., volume 2. Springer, 2nd edition edition, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Emitter localization under multipath propagation using SMC-intensity filters. In Proceedings of the 16th International Conference on In- formation Fusion, Istanbul,Turkey, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Tracking targets with multiple measurements per scan. In Proceedings of the 17th International Conference on In- formation Fusion, Salamanca, Spain, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>On the functional derivative with respect to the Dirac delta. Submitted to the 10th Workshop on Sensor Data Fusion: Trends, Solutions, and Applications, Bonn. July 2015.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>The physical interpreatation of the quantum dynamics. Proceedings Royal Society, 113:621—641, 1927.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Density Functional Theory. Springer, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Introduction to the Theory of Distributions. Cambridge University Press, 2nd edition, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Poisson models for extended target and group tracking. In SPIE Conference 5913: Signal and Data Processing of Small Targets, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Extended Object Tracking using PHD filters. PhD thesis, Linköping University, Sweden, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Extended target tracking using a gaussian-mixture PHD filter. IEEE Transactions On Aerospace And Electronic Systems, 48(4):3268—3286, Oct. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>On the reduction of Gaussian inverse wishart mixtures. In Proceedings of the 15th International Conference on In- formation Fusion, Singapore, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>A PHD filter for tracking multiple extended targets using random matrices. IEEE Transactions On Aerospace And Electronic Systems, 60(11):5675—5671, Nov. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>On spawning and combination of extended/group targets modeled with random matrices. IEEE Transactions On Signal Processing, 61(3):678—692, Feb. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Notes of the summer school on finite set statistics. arXiv preprint arXiv:1308.2586, Aug. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>A Bayesian approach to extended object tracking and track- ing of loosely structured target groups. In Proceedings of the 8th International Conference on Infor- mation Fusion, Philadelphia, PA, USA, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Multitarget filtering via first-order multitarget moments. IEEE Transactions On Aerospace And Electronic Systems, 39(4):1152—1178, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Sensor management with non-ideal sensor dynamics. In Proceedings of the 7th International Conference on Infor- mation Fusion, Stockholm, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>PHD filters of higher order in target number. IEEE Transactions On Aerospace And Electronic Systems, 43(4):1523—1543, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Statistical Multisource-Multitarget Information Fusion. Norwood MA: Archtech House, 2007. 140 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 10, NO. 2 DECEMBER 2015</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>PHD filters for nonstandard targets, i: Extended targets. In Proceedings of the 12th International Conference on In- formation Fusion, Seattle, WA, USA, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>and S. Godsill Overview of Bayesian sequential Monte Carlo methods for group and extended object tracking. Digital Signal Processing, 25:1—16, Feb. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Wahrscheinlichkeitsrechung und schlieende Statistik. Springer, 2 edition, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>The general theory of stochastic population processes. Acta Mathematica, 108:1—31, 1962.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Improved SMC implementation of the PHD-filter. In Proceedings of the 13th International Conference on In- formation Fusion, Edinburgh, UK, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Sequential Monte Carlo method for the iFilter. In Proceedings of the 14th International Conference on In- formation Fusion, Chicago, Il, USA, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Sequential Monte Carlo method for multi-target tracking with the intensity filter. In P. Georgieva, L. Mihaylova, and L. C. Jain, editors, Advances in Intelligent Signal Processing and Data Min- ing: Theory and Applications, volume 410, pages 55—87. Springer, 2012.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

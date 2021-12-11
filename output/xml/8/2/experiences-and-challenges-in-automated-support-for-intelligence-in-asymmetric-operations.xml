@@ -1,0 +1,220 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237303.9009235</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2013</year>
+</publication_date>
+<journal_volume>
+<volume>8</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Experiences and Challenges in Automated Support for Intelligence in Asymmetric Operations</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Joachim </given_name>
+<surname>Biermann</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Pontus </given_name>
+<surname>Horling</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Lauro </given_name>
+<surname>Snidaro</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2013</year>
+</publication_date>
+<pages>
+<first_page>101</first_page>
+<last_page>118</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>J. R. Anderson Cognitive Psychology and its Implications. Palgrave Macmillan, 6th Edition, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>The FOI C4ISR Demonstrator 2008. In Proceedings of the 12th International Conference on In- formation Fusion, Seattle, WA, USA, July 2009, pp. 1604— 1612.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Coming Full Circle With Boyd’s Ooda Loop Ideas: An Analysis Of Innovation Diffusion And Evolution, Thesis, AFIT/GIR/ENV/04M-01, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio, USA, March 2004, http://www.dict.mil/cgi-bin/GetTRDoc?AD= ADA425228. 114 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 2 DECEMBER 2013</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Principles of Data Fusion Automation, Artech House, Inc., Norwood, MA, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Homepage: http://uima.apache.org/index.html.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Understanding Military Information Processing–An Ap- proach to Supporting the Production of Intelligence in De- fence and Security in: Shahbazian, Elisa; Rogova, Galina; DeWeert, Michael J. (Eds.) “Harbour Protection Through Data Fusion Technolo- gies,” Proceedings of the NATO Advanced Research Work- shop on Data Fusion Technologies for Harbour Protection Tallinn, Estonia 27 June—1 July 2005, Springer, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>From Unstructured to Structured Information in Military Intelligence: Some Steps to Improve Information Fusion. NATO RTO SCI-158 Panel Symposium on “Systems, Con- cepts and Integration (SCI) Methods and Technologies for Defence Against Terrorism,” 25 to 27 October 2004, Lon- don, UK.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Automated Support for Intelligence in Asymmetric Opera- tions: Requirements and Experimental Results. In Proceedings of the Twelfth International Conference on Information Fusion, Seattle, U.S., July 6—9, 2009, pp. 1592— 1599.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Counterterrorism’s New Tool: ‘Metanetwork’ Analysis. Science, Vol. 325, pp. 409—411, 24 July 2009.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>UK Experiences of Using Coalition Battle Management Language. In 15th International Symposium on Distributed Simulation and Real Time Applications (DS-RT), Salford, UK, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Mårtenson, and P. Svenson Analysis of weak signals for detecting lone wolf terrorists. In Proceedings of the European Intelligence and Security Informatics Conference (EISIC 2012), 2012, pp. 197—204.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Structuring Relations for Fusion in Intelligence. In Proceedings of the 12th International Conference on In- formation Fusion, Seattle, U.S., July 6—9, 2009, pp. 1621— 1626.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Revisiting the role of abductive inference in fusion domain. In Proceedings of the 13th International Conference on In- formation Fusion, Edinburgh, U.K, July 26—29, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Tjörnhammar An overview of the Impactorium tools 2008. SWIFT 2008–Skövde Workshop on Information Fusion Top- ics, Skövde, Sweden (2008), http://www.his.se/PageFiles/ 6801/Forsgren SWIFT2008.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Statistical Relational Learning, Adaptive Computation and Machine Learning. MIT Press, Cambridge, Massachussets, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Effective Behavioral Modeling and Prediction Even When Few Exemplars are Available. Proc. SPIE Vol. 6235, Signal Processing, Sensor Fusion and target recognition XV, 623511 (2006).</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Data Mining: Concepts and Techniques. Morgan Kaufmann, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>NetLens: Iterative Exploration of Content-actor Network Data. Information Visualization. vol. 6, n. 1, 2007, pp. 18—31.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>How can visual analytics assist investigative analysis? De- sign implications from an evaluation. IEEE Transactions on Visualization and Computer Graphics, Vol. 17, no. 5, 2011, pp. 570—583.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>The discovery of structural form. Proceedings of the National Academy of Sciences, Vol. 105, n. 31, pp. 10687—10692, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>R. Butler Palantir: A Framework for Collaborative Incident Response and Investigation. In Proceedings of the 8th Symposium on Identity and Trust on the Internet, 2009, pp. 38—51.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Sparkwave: Continuous Schema-Enhanced Pattern Match- ing over RDF Data Streams. In Proceedings of the 6th ACM International Conference on Distributed Event-Based Systems (2012), pp. 58—68.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Automatic Information Fusion from Diverse Sources. In Proceedings of the Military Communications and Systems Conference (MCC) 2007, Bonn, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Ontology of Evidence. In Ontology For the Intelligence Community, 2008/12/3, p. 20—62, http://ceur-ws.org/Vol-440/Proceedings.pdf#page= 20; 2013-05-05.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Inductive Logic Programming: Techniques and Applications. Ellis Horwood, New York, 1994.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>An Ontological Analysis of Threat and Vulnerability. In Proceedings of the 9th International Conference on Infor- mation Fusion, Florence, Italy, July 2006.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Enhancing Graph matching Techniques with Ontologies. In Proceedings of the 11th International Conference on In- formation Fusion, July 2008, Cologne, Germany, pp. 1890— 1897.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>and F. White Revisiting the JDL Data Fusion Model II. In: Proceedings of the 7th International Conference on Infor- mation Fusion, June 2004, Stockholm, Sweden, pp. 1218— 1230.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>The role of information fusion in providing analytical rigor for intelligence analysis. In Proceedings of the 14th International Conference on In- formation Fusion, 5—8 July 2011 pp. 1279—1284.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Report on “Information Fusion in Asymemetric Operations,” November 2012.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Information Fusion: Supporting Military Intelligence by Structuring Information Proceedings of the NATO RTO IST Final Demonstration on Information Fusion For Command Support (IST-055/CDT), 10 November 2005, The Hague, The Netherlands.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Kylesten A user study of the Impact matrix, a fusion based decision support for enhanced situation awareness. In Proceedings of the 11th Int. Conference on Information Fusion, Cologne, 2008, pp. 440—447. EXPERIENCES AND CHALLENGES IN AUTOMATED SUPPORT FOR INTELLIGENCE IN ASYMMETRIC OPERATIONS 115</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Agency (NSA) AAP-06 Edition 2013 “NATO Glossary of Terms and Defini- tions” (English and French). http://nsa.nato.int/nsa/nsdd/APdetails.html?APNo=1689& LA=EN (15.5.2013).</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Collected Papers of Charles Sanders Peirce. Harvard University Press, 1931.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Battle Management Language Enables Rapid Integration of Command & Control with Simulation. In 14th International Symposium on Distributed Simulation and Real Time Applications (DS-RT), Fairfax, VA, USA, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Battle Management Language as a “Lingua Franca” for situation awareness. Conference on Cognitive Methods in Situation Awareness and Decision Support (CogSIMA), New Orleans, LA, USA, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Battle Management Language (BML) As an Enabler. International Conference on Communications (ICC ’09), Dresden, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Uncertainty Estimation in the Fusion of Text-Based Infor- mation for Situation Awareness. In E. Hüllermeier, R. Kruse, F. Hoffmann (Eds.) In- formation Processing and Management of Uncertainty, In Knowledge-Based Systems. Applications, Vol. 81 Commu- nications in Computer and Information Science, Springer Berlin Heidelberg, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>INSPIRE Visual Document Analysis. Last accessed: May 20, 2013, http://in-spire.pnl.gov.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Information quality in information fusion. In Proceedings of the 13th International Conference on In- formation Fusion, Edinburgh, U.K., July 2010.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Reliability in information fusion: literature survey. In Proceedings of the 7th International Conference on Infor- mation Fusion, ISIF, June 2004, Stockholm, Sweden, pp. 1158—1165.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>Graphical Methods for Real-Time Fusion and Estimation with Soft Message Data. In Proceedings of the 11th International Conference on In- formation Fusion, Cologne, 2008, pp. 1621—1628.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>From Battle Management Language (BML) to automatic information fusion. In: V. Popovich, M. Schrenk, and K. Korolenko (Eds.) Information Fusion and Geographical Information Systems (Lecture Notes in Geoinformation and Cartography), pp. 84—95, Berlin: Springer.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>Ramakrishnan Storytelling in entity networks to support intelligence ana- lysts. In Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining, 2012, pp. 1375—1383.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Markov Logic Networks for context integration and situa- tion assessment in maritime domain. In Proceedings of the 15th International Conference on In- formation Fusion, Singapore, July 09—12, 2012, pp. 1534— 1539.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Using the impact matrix for predictive situational aware- ness. In Proceedings of the 10th Int. Conference on Information Fusion, Québec, Canada, July 2007.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>Fah, M. S. Choo, and J. K. Yew Hann Swedish-Singapore studies of Bayesian modeling tech- niques for tactical intelligence analysis. In Proceedings of the 13th International Conference on In- formation Fusion, Edinburgh, UK, July 2010.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Intelligence Collation in Asymmetric Conflict: A Canadian Armed Forces Perspective. Proc. 10th International Conference on Information Fusion, Québec, Canada, July 2007.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>Hypothesis Management Framework: a flexible design pat- tern for belief networks in decision support systems. UAI 2008, Helsinki, Finland, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>Complex Event Prosessing http://en.wikipedia.org/wiki/Complex event processing.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>Resource Description Framework: http://en.wikipedia.org/wiki/Resource Description Framework.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>Credibility Models for Multi-Source Fusion. In Proceedings of the 9th International Conference on Infor- mation Fusion, Florence, Italy, July 2006, pp. 274—280. 116 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 2 DECEMBER 2013</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

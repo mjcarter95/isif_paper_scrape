@@ -1,0 +1,56 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 9</li>
+<li>Issue 1</li>
+<li>Pages 13 - 26</li>
+<li>June, 2014</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Dynamic Surface Reconstruction by Recursive Fusion of Depth and Position Measurements</h1>
+<p class="article-authors">Gerhard  Kurz and Uwe D. Hanebeck</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">Amidror, I. Scattered data interpolation methods for electronic imaging systems: A survey. Journal of Electronic Imaging 11, 2 (Apr. 2002), 157—176.</li>
+<li class="ref-2">Image warping using few anchor points and radial funcions. Computer Graphics Forum 14 (Feb. 1995), 35—46.</li>
+<li class="ref-3">Shape Tracking of Extended Objects and Group Targets with Star-Convex RHMs. In Proceedings of the 14th International Conference on Infor- mation Fusion (Fusion 2011) (Chicago, Illinois, USA, July 2011).</li>
+<li class="ref-4">A method for registration of 3-D shapes. IEEE Transactions on Pattern Analysis and Machine Intelli- gence 14, 2 (1992), 239—256.</li>
+<li class="ref-5">A Model-Based Framework for Optimal Measurements in Machine Tool Calibration. In Proceedings of the 2005 IEEE International Conference on Robotics and Automation (ICRA 2005) (Barcelona, Spain, Apr. 2005).</li>
+<li class="ref-6">Surface interpolation with radial basis functions for medical imaging. IEEE Transactions on Medical Imaging 16 (1997), 96—107.</li>
+<li class="ref-7">H., Schlemmer, H., Hornegger, J., Meinzer, H., and Maier- Hein, L. A probabilistic approach to fusion of time of flight and mul- tiple view based 3d surface reconstruction for laparoscopic interventions. Int. J. CARS 7 (Suppl. 1) (2012), 397—398.</li>
+<li class="ref-8">3d object reconstruction with heterogeneous sensor data. In International Symposium on 3D Data Processing, Visual- ization and Transmission (Atlanta, États-Unis, 2008).</li>
+<li class="ref-9">Fusion of stereo vision and time-of-flight imaging for improved 3d estimation. International Journal of Intelligent Systems Technologies and Applications 5, 3 (2008), 425—433.</li>
+<li class="ref-10">Multiple View Geometry in Computer Vision, second ed. Cambridge University Press, 2004.</li>
+<li class="ref-11">Stuetzle, W. Surface reconstruction from unorganized points. SIGGRAPH Comput. Graph. 26, 2 (July 1992), 71—78. 24 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 9, NO. 1 JUNE 2014</li>
+<li class="ref-12">Gaussian Filter based on Deterministic Sampling for High Quality Nonlinear Estimation. In Proceedings of the 17th IFAC World Congress (IFAC 2008) (Seoul, Republic of Korea, July 2008), vol. 17.</li>
+<li class="ref-13">R., Kohli, P., Shotton, J., Hodges, S., Freeman, D., Davison, A., and Fitzgibbon, A. Kinectfusion: real-time 3d reconstruction and interaction using a moving depth camera. In ACM Symposium on User Interface Software and Technol- ogy (Oct. 2011), pp. 559—568.</li>
+<li class="ref-14">Unscented filtering and nonlinear estimation. Proceedings of the IEEE 92, 3 (Mar. 2004), 401—422.</li>
+<li class="ref-15">A new approach to linear filtering and prediction problems. Transactions of the ASME Journal of Basic Engineering 82 (1960), 35—45.</li>
+<li class="ref-16">and Puskas, J. D. Off-pump and on-pump coronary revascularization in pa- tients with low ejection fraction: a report from the society of thoracic surgeons national database. The Annals of Thoracic Surgery 96, 1 (July 2013), 83—89.</li>
+<li class="ref-17">Image Stabilization with Model-Based Tracking for Beating Heart Surgery. In 11. Jahrestagung der DeutschenGesellschaft für Computer- und Roboterassistierte Chirurgie (CURAC12) (Düsseldorf, Germany, Nov. 2012).</li>
+<li class="ref-18">Recursive Fusion of Noisy Depth and Position Measure- ments for Surface Reconstruction. In Proceedings of the 16th International Conference on Infor- mation Fusion (Fusion 2013) (Istanbul, Turkey, July 2013).</li>
+<li class="ref-19">Scattered data interpolation with multilevel B-splines. IEEE Transactions on Visualization and Computer Graphics 3, 3 (1997), 228—244.</li>
+<li class="ref-20">Data-fusion of pmd-based distance-information and high- resolution rgb-images. In International Symposium on Signals, Circuits and Systems, 2007. (2007), vol. 1.</li>
+<li class="ref-21">A survey on image-based continuum-body motion estimation. Image and Vision Computing 29, 8 (2011), 509—523.</li>
+<li class="ref-22">Marching cubes: A high resolution 3d surface construction algorithm. SIGGRAPH Comput. Graph. 21, 4 (Aug. 1987), 163—169.</li>
+<li class="ref-23">On fast surface reconstruction methods for large and noisy point clouds. In Proceedings of the 2009 IEEE International Conference on Robotics and Automation (ICRA 2009) (May 2009), pp. 3218—3223.</li>
+<li class="ref-24">Heartbeat synchronization for robotic cardiac surgery. In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2001) (Seoul, Korea, May 2001), pp. 2014—2019.</li>
+<li class="ref-25">O., Shotton, J., Molyneaux, D., Hodges, S., Kim, D., and Fitzgibbon, A. Kinectfusion: Real-time dense surface mapping and tracking. In 10th IEEE international symposium on mixed and aug- mented reality (ISMAR) (Oct. 2011), IEEE, pp. 127—136.</li>
+<li class="ref-26">Gaussian Processes for Machine Learning. The MIT Press, 2006.</li>
+<li class="ref-27">Thin-plate spline approximation for image registration. In Proceedings of the 18th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (1996), vol. 3, IEEE, pp. 1190—1191.</li>
+<li class="ref-28">S2KF: The Smart Sampling Kalman Filter. In Proceedings of the 16th International Conference on Infor- mation Fusion (Fusion 2013) (Istanbul, Turkey, July 2013).</li>
+<li class="ref-29">Yang, G. Z. Soft-tissue motion tracking and structure estimation for robotic assisted mis procedures. In Proceedings of the Medical Image Computing and Com- puter Assisted Interventions (MICCAI 2005) (2005), vol. 2, pp. 139—146.</li>
+<li class="ref-30">Characterization of a 2D laser scanner for mobile robot obstacle negotiation. In Proceedings of the 2002 IEEE International Conference on Robotics and Automation (ICRA 2002) (2002), vol. 3, pp. 2512—2518.</li>
+<li class="ref-31">A flexible new technique for camera calibration. IEEE Transactions on Pattern Analysis and Machine Intelli- gence 22, 11 (2000), 1330—1334.</li>
+<li class="ref-32">Reliability fusion of time-of-flight depth and stereo geom- etry for high quality depth maps. IEEE Transactions on Pattern Analysis and Machine Intelli- gence 33, 7 (July 2011), 1400—1414.</li>
+<li class="ref-33">Image registration methods: a survey. Image and Vision Computing 21 (2003), 977—1000. DYNAMIC SURFACE RECONSTRUCTION BY RECURSIVE FUSION OF DEPTH AND POSITION MEASUREMENTS 25</li>
+</ul>
+
+</body>
+</html>

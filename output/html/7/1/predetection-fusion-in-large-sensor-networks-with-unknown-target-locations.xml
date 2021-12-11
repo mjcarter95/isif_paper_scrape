@@ -1,0 +1,54 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 7</li>
+<li>Issue 1</li>
+<li>Pages 61 - 77</li>
+<li>June, 2012</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Predetection Fusion in Large Sensor Networks with Unknown Target Locations</h1>
+<p class="article-authors">Ramon  Georgescu, Peter  Willett, Stefano  Marano and Vincenzo  Matt</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">Y. Bar-Shalom and X. R. Li Multitarget-Multisensor Tracking: Principles and Techniques. YBS Publishing, 1995.</li>
+<li class="ref-2">A gentle tutorial on the EM algorithm and its application to parameter estimation for Gaussian Mixture and Hidden Markov Models. Technical Report ICSI-TR-97-02, University of Berkeley, 1998. 74 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 7, NO. 1 JUNE 2012</li>
+<li class="ref-3">Design and Analysis of Modern Tracking Systems. Artech House, 1999.</li>
+<li class="ref-4">ML-PDA: Advances and a new multitarget approach. EURASIP Journal on Advances in Signal Processing, Article ID 260186, 2008.</li>
+<li class="ref-5">Optimal data fusion in multiple sensor detection systems. IEEE Transactions on Aerospace and Electronic Systems, 22 (1986), 98—101.</li>
+<li class="ref-6">Multi-stage data fusion and the MSTWG TNO datasets. In Proceedings of 12th International Conference on Informa- tion Fusion, Seattle, WA, 2009.</li>
+<li class="ref-7">An ML-MHT approach to tracking dim targets in large sensor networks. In Proceedings of 13th International Conference on Informa- tion Fusion, Edinburgh, Scotland, 2010.</li>
+<li class="ref-8">An algorithm for the fusion of two sets of (sonar) data. In Oceans 2005–Europe, vol. 1, Brest, France, 2005.</li>
+<li class="ref-9">The dependence of fusion gain on signal-amplitude distri- butions and position errors. IEEE Journal Ocean. Eng., 33, 3 (2008), 266—277.</li>
+<li class="ref-10">Multistatic Sonar Target Tracking. Ph.D. thesis, University of Connecticut, 2008.</li>
+<li class="ref-11">GM-CPHD and ML-PDA applied to the Metron multi-static sonar dataset. In Proceedings of 13th International Conference on Informa- tion Fusion, Edinburgh, Scotland, 2010.</li>
+<li class="ref-12">The gm-cphd tracker applied to real and realistic multi- static sonar datasets. IEEE Journal on Oceanic Engineering.</li>
+<li class="ref-13">The GM-CPHD applied to the corrected TNO-Blind, ad- justed SEABAR07 and Metron multi-static sonar datasets. In Signal and Data Processing of Small Targets, Proc. SPIE, vol. 7698, Orlando, FL, 2010.</li>
+<li class="ref-14">Predetection fusion with doppler measurements and ampli- tude information. Accepted to IEEE Journal of Oceanic Engineering, 2011.</li>
+<li class="ref-15">Random finite set markov chain monte carlo predetection fusion applied to multistatic sonar data. Accepted to IEEE Transactions on Aerospace and Electronic Systems, 2011.</li>
+<li class="ref-16">Statistical Signal Processing in Sensor Networks. Ph.D. thesis, University of Connecticut, 2009.</li>
+<li class="ref-17">Analysis of scan and batch processing approaches to static fusion in sensor networks. In Signal and Data Processing of Small Targets, Proc. SPIE, vol. 6969, Orlando, FL, 2008.</li>
+<li class="ref-18">Likelihood surface preprocessing with the JPDA algorithm: Metron data set. In Proceedings of 13th International Conference on Informa- tion Fusion, Edinburgh, Scotland, 2010.</li>
+<li class="ref-19">PDAFAI vs. PDAFAIwTS: TNO Blind dataset and SEABAR 07. In Proceedings of 12th International Conference on Informa- tion Fusion, Seattle, WA, 2009.</li>
+<li class="ref-20">Multitarget Bayes filtering via first-order multitarget mo- ments. IEEE Transactions on Aerospace and Electronic Systems, 39, 4 (2003), 1152—1178.</li>
+<li class="ref-21">The multisensor PHD filter: I. General solution via multi- target calculus. In Signal Processing, Sensor Fusion and Target Recognition XVIII, Proc. SPIE, vol. 7336, 2009.</li>
+<li class="ref-22">The multisensor PHD filter: II. Erroneous solution via Poisson magic. In Signal Processing, Sensor Fusion and Target Recognition XVIII, Proc. SPIE, vol. 7336, 2009.</li>
+<li class="ref-23">Description of the Metron simulation dataset for MSTWG. 2009.</li>
+<li class="ref-24">Multidimensional assignment formulation of data associ- ation problems arising from multitarget and multisensor tracking. Computational Optimization and Applications, 3 (1994), 27— 57.</li>
+<li class="ref-25">Optimal detection and performance of distributed sensor systems. IEEE Transactions on Aerospace and Electronic Systems, 23 (1987), 24—30.</li>
+<li class="ref-26">Probabilistic multi-hypothesis tracking. Technical Report 10428, Naval Undersea Warfare Center, 1995.</li>
+<li class="ref-27">Detection with distributed sensors. IEEE Transactions on Aerospace and Electronic Systems, 17 (1981), 501—510.</li>
+<li class="ref-28">Decentralized detection. In Advances in Statistical Signal Processing, Vol. 2–Signal Detection, 1993, 297—344.</li>
+<li class="ref-29">Extremal properties of likelihood ratio quantizers. IEEE Trans. Commun., 41, 4 (1993), 98—101.</li>
+<li class="ref-30">Optimum quantization for detector fusion: Some proofs, examples and pathology. Journal of the Franklin Institute, 336, 2 (1999), 323—359.</li>
+<li class="ref-31">PMHT: Problems and some solutions. IEEE Transactions on Aerospace and Electronic Systems, 38, 4 (2002), 738—754. PREDETECTION FUSION IN LARGE SENSOR NETWORKS WITH UNKNOWN TARGET LOCATIONS 75 Ramona Georgescu received her B.A.s in computer science and physics from Connecticut College in 2004 and her M.Sc. in electrical engineering from Boston University in 2007. She is currently a Ph.D. candidate in the Electrical and Computer Engineering Department at the University of Connecticut, working under the direction of Dr.</li>
+</ul>
+
+</body>
+</html>

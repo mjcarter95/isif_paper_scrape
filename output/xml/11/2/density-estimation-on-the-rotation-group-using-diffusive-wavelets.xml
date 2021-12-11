@@ -1,0 +1,136 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237262.5083354</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2016</year>
+</publication_date>
+<journal_volume>
+<volume>11</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Density Estimation on the Rotation Group Using Diffusive Wavelets</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Nicolas  Le</given_name>
+<surname>Bihan</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Julien </given_name>
+<surname>Flamant</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Jonathan H. </given_name>
+<surname>Manton</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2016</year>
+</publication_date>
+<pages>
+<first_page>173</first_page>
+<last_page>185</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>P. T. Fletcher, S. Joshi, C. Lu, and S. M. Pizer Gaussian distributions on lie groups and their application to statistical shape analysis, in Information Processing in Medical Imaging. Springer, 2003, pp. 450—462.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Principal geodesic analysis for the study of nonlinear statis- tics of shape, Medical Imaging, IEEE Transactions on, vol. 23, no. 8, pp. 995—1005, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Statistics of shape via principal geodesic analysis on lie groups, in Computer Vision and Pattern Recognition, 2003. Proceed- ings. 2003 IEEE Computer Society Conference on, vol. 1. IEEE, 2003, pp. I—95.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Nonparametric estimation of the heterogeneity of a random medium using compound poisson process modeling of wave multiple scattering, Physical Review E, vol. 80, no. 1, p. 016601, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Decompounding on compact lie groups, Information Theory, IEEE Transactions on, vol. 56, no. 6, pp. 2766—2777, June 2010.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Kernel density estimation on the rotation group and its application to crystallographic texture analysis, Journal of multivariate analysis, vol. 119, pp. 119—143, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Engineering applications of noncommutative harmonic anal- ysis: with emphasis on rotation and motion groups. CRC press, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Stochastic models, information theory and Lie groups. Birkhäuser, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Directional statistics. John Wiley & Sons Ltd, 2000. DENSITY ESTIMATION ON THE ROTATION GROUP USING DIFFUSIVE WAVELETS 183</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Exponential fourier densities on SO(3) and optimal estima- tion and detection for rotational processes, in Decision and Control including the 15th Symposium on Adaptive Processes, 1976 IEEE Conference on, 1976, pp. 134—140.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Spherical wavelets: Efficiently representing functions on the sphere, in Proceedings of the 22nd annual conference on Computer graphics and interactive techniques. ACM, 1995, pp. 161— 172.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Wavelets on the 2-sphere: A group-theoretical approach, Applied and Computational Harmonic Analysis, vol. 7, no. 3, pp. 262—291, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Wavelets, ridgelets and curvelets on the sphere, Astronomy & Astrophysics, vol. 446, no. 3, pp. 1191—1204, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Diffusive wavelets on groups and homogeneous spaces, Proceedings of the royal society of Edinburgh, vol. 141A, pp. 497—520, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>M. Morvidone Stereographic wavelet frames on the sphere, Applied and Computational Harmonic Analysis, vol. 19, no. 2, pp. 223—252, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Introduction to nonparametric estimation, Springer, Ed., 2009.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Rotations, Quaternions and double groups, Dover, Ed. Dover, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Fourier series and integrals. Academic Press, 1972.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Theory of group representations and applications. World Scientific, 1986, vol. 2.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“The inversion of the Radon transform on the rotational group and its application to texture analysis,” Ph.D. dissertation, Freiberg University, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“Wavelets on lie groups and homogeneous spaces,” Ph.D. dissertation, Freiberg University, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Fast summation of functions on the rotation group, Mathematical Geosciences, vol. 42, no. 7, pp. 773—794, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Ffts on the rotation group, Journal of Fourier analysis and applications, vol. 14, no. 2, pp. 145—179, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Multimodal circular filtering using Fourier series, in Proceedings of IEEE Conference on information fusion, 2015, pp. 711—718. 184 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 11, NO. 2 DECEMBER 2016</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

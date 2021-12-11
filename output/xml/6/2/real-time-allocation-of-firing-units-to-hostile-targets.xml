@@ -1,0 +1,164 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237335.046458</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<journal_volume>
+<volume>6</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Real-time Allocation of Firing Units To Hostile Targets</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Fredrik </given_name>
+<surname>Johansson</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Göran </given_name>
+<surname>Falkman</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<pages>
+<first_page>187</first_page>
+<last_page>199</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>R. Ahuja, A. Kumar, K. Jha, and J. Orlin Exact and heuristic methods for the weapon target assign- ment problem. Operations Research, 55, 6 (2007), 1136—1146.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Evolutionary decision-makings for the dynamic weapon- target assignment problem. Science in China Series F: Information Sciences, 52, 11 (2009), 2006—2018. REAL-TIME ALLOCATION OF FIRING UNITS TO HOSTILE TARGETS 197</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Survey of investigations into the missile allocation problem. Master’s thesis, Naval Postgraduate School, Monterey, CA. 1985.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>On heuristic optimization. An. Stiint. Univ. Ovidius Constanta, 9, 2 (2001), 17—30.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>On optimum target assignments. Operations Research, 7, 3 (1959), 322—326.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Mathematical Models of Target Coverage and Missile Al- location. Technical Report DTIC: AD-A953517, Military Operations Research Society, Alexandria, VA, 1972.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>A Class of Dynamic Nonlinear Resource Allocation Prob- lems. Ph.D. thesis, Massachusetts Institute of Technology, Dept. of Electrical Engineering and Computer Science, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Preferential defense strategies: Part 1–the static case. Technical report, Massachusetts Institute of Technology, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Survey of the research on dynamic weapon-target assign- ment problem. Journal of Systems Engineering and Electronics, 17, 3 (2006), 559—565.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Very large-scale neighborhood search heuristics for combi- natorial optimization problems. Ph.D. thesis, University of Florida, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Evaluating the performance of TEWA systems. Ph.D. thesis, Örebro University, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>A comparison between two approaches to threat evaluation in an air defense scenario. In Proceedings of the 5th International Conference on Mod- eling Decisions for Artificial Intelligence, 2008, 110—121.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>An empirical investigation of the static weapon-target allo- cation problem. In Proceedings of the 3rd Skövde Workshop on Information Fusion Topics, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>A suite of metaheuristic algorithms for static weapon-target allocation. In Proceedings of the 2010 International Conference on Genetic and Evolutionary Methods, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>SWARD: System for weapon allocation research & devel- opment. In Proceedings of the 13th International Conference on In- formation Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>String- and permutation-coded genetic algorithms for the static weapon-target assignment problem. In Proceedings of the Genetic and Evolutionary Computation Conference, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Air defense missile-target allocation models for a naval task group. Computers and Operations Research, 35, 6 (2008), 1759— 1770.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Analysis of a maximum marginal return assignment algo- rithm. In Proceedings of the 27th Conference on Decision and Control, 1988.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>A hybrid search algorithm with heuristics for resource allocation problem. Information Sciences, 173, 1—3 (2005), 155—167.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Parallel ant colonies with heuristics applied to weapon- target assignment problems. In Proceedings of the 7th Conference on Artificial Intelli- gence and Applications, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>A hybrid search algorithm of ant colony optimization and genetic algorithm applied to weapon-target assignment problems. In Proceedings of the 4th International Conference on In- telligent Data Engineering and Automated Learning, 2003, 278—285.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>A genetic algorithm with domain knowledge for weapon- target assignment problems. Journal of the Chinese Institute of Engineers, 25, 3 (2002), 287—295.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Weapon allocation is NP-complete. In Proceedings of the 1986 Summer Conference on Simula- tion, 1986.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>On the character and complexity of certain defensive re- source allocation problems. Technical Report DSTO-TR-1570, DSTO, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>A target-assignment problem. Operations Research, 6, 3 (May—June 1958), 346—351.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>A review of the literature on the missile-allocation problem. Operations Research, 18, 2 (1970), 334—373.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>A suite of weapon assignment algorithms for a SDI mid- course battle manager. Technical report, Naval Research Laboratory, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Target-based weapon target assigment problems. In P. M. Pardalos and L. S. Pitsoulis (Eds.), Nonlinear assignment problems: algorithms and applications, 2000, 39—53.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Threat evaluation and weapons allocation in network- centric warfare. In Proceedings of the 8th International Conference on Infor- mation Fusion, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Experimental evaluation of heuristic optimization algo- rithms: A tutorial. Journal of Heuristics, 7 (2001), 261—304.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Morrison An intelligent threat assessment tool for decluttering naval air defense displays. Technical report, SSC San Diego, CA, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>A survey of simulated annealing as a tool for single and multiobjective optimization. Journal of the Operational Research Society, 57 (2006), 1143—1160. 198 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 6, NO. 2 DECEMBER 2011</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Improved particle swarm optimization algorithm and its ap- plication in coordinated air combat missile-target assign- ment. In Proceedings of the 7th World Congress on Intelligent Control and Automation, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>A new locally convergent particle swarm optimiser. In Proceedings of the IEEE International Conference on Systems, Man and Cybernetics, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>A neural network-based optimization algorithm for the static weapon-target assignment problem. ORSA Journal on Computing, 1, 4 (1989), 232—246.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

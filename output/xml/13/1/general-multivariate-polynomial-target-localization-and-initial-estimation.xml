@@ -1,0 +1,273 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237236.68518</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<journal_volume>
+<volume>13</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>General Multivariate Polynomial Target Localization and Initial Estimation</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>David Frederic </given_name>
+<surname>Crouse</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<pages>
+<first_page>68</first_page>
+<last_page>91</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>S. Ayazgök “Target tracking and sensor placement for Doppler-only measurements,” Master’s thesis, Middle East Technical University, Ankara, Turkey, Sep. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“IMM estimator with out-of-sequence measurements,” IEEE Transactions on Aerospace and Electronic Systems, vol. 41, no. 1, pp. 90—98, Jan. 2005. 88 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 13, NO. 1 JUNE 2018</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“One-step solution for the multistep out-of-sequence- measurement problem in tracking,” IEEE Transactions on Aerospace and Electronic Systems, vol. 40, no. 1, pp. 27—37, Jan. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation. New York: Wiley Interscience, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“CRLB for likelihood functions with parameter dependent support,” IEEE Transactions on Aerospace and Electronic Systems, vol. 50, no. 3, pp. 2399—2405, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Paramotopy: Parameter homotopies in parallel,” ACM Transactions on Mathematical Software, Mar. 2013,</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>http://www.math.colostate.edu/ ˜ bates/preprints/BBN paramotopy.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“BertiniLab: A MATLAB interface for solving systems of polynomial equations,” Numerical Algorithms, vol. 71, no. 1, pp. 229—244, Jan. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Wampler Numerically Solving Polynomial Systems with Bertini. Philadelphia: Society for Industrial and Applied Mathemat- ics, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>(2011, Oct.) Khovanskii-rolle continuation for real solutions.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Certified numerical homotopy tracking,” Experimental mathematics, vol. 21, no. 1, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Rao-Blackwellized particle filters with out-of-sequence measurement processing,” IEEE Transactions on Signal Processing, vol. 62, no. 24, pp. 6454—6467, 15 Dec. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Sommese, and C. W. Wampler “Bertini real: Software for one- and two-dimensional real algebraic sets,” in Proceedings of the 4th International Congress on Mathe- matical Software, vol. 8592, Seoul, South Korea, 5—9 Aug. 2014, pp. 175—182.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Gröbner bases: A short introduction for systems theorists,” in Computer Aided Systems Theory–EUROCAST 2001, R. Moreno-D´az, B. Buchberger, and J. L. Freire, Eds. Springer, 2001, vol. 2178, pp. 1—19.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Condition. Heidelberg: Springer, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Aweighted least squares approach formulti-targetDoppler- only localization,” in Proceedings of the IEEE Radar Conference, Ottawa, Canada, 29 Apr.—3 May 2013.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Passive localization from Doppler-shifted frequency mea- surements,” IEEE Transactions on Signal Processing, vol. 40, no. 10, pp. 2594—2598, Oct. 1992.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Sequential localization of a radiating source by Doppler- shifted frequency measurements,” IEEE Transactions on Aerospace and Electronic Systems, vol. 28, no. 4, pp. 1084—1090, Oct. 1992.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Target localization and tracking from Doppler-shift mea- surements,” IEEE Journal of Oceanic Engineering, vol. 15, no. 3, pp. 251—257, Jul. 1990.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“An encyclopaedia of cubature formulas,” Journal of Complexity, vol. 19, no. 3, pp. 445—453, Jun. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“On implementing 2D rectangular assignment algorithms,” IEEE Transactions on Aerospace and Electronic Systems, vol. 52, no. 4, pp. 1679—1696, Aug. 1016.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Developing a real-time track display that operators do not hate,” IEEE Transactions on Signal Processing, vol. 59, no. 7, pp. 3441—3447, Jul. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Advances in displaying uncertain estimates of multiple targets,” in Proceedings of SPIE: Signal Processing, Sensor Fusion, and Target recognition XXII, Baltimore, MD, 29 Apr. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>“Basic tracking using 3D monostatic and bistatic measure- ments,” IEEE Aerospace and Electronic Systems Magazine, vol. 29, no. 8, Part II, pp. 4—53, Aug. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>“Basic tracking using 3D monostatic and bistatic measure- ments in refractive environments,” IEEE Aerospace and Electronic Systems Magazine, vol. 29, no. 8, Part II, pp. 54—75, Aug. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“An overview of major terrestrial, celestial and temporal coordinate systems,” Naval Research laboratory, Washington, DC, Tech. Rep., 2014, release Pending.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“Target track initiation in difficult scenarios using proba- bility-1 homotopy methods and cubature integration,” in Proceedings of the IEEE Aerospace Conference, Big Sky, MT, 5—12 Mar. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“Back to the roots: Polynomial system solving using linear algebra,” Ph.D. dissertation, Katholieke Universiteit Leuven, Leuven, Flanders, Belgium, Sep. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>(2012, Feb.)</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>able: https://www.eurocontrol.int/sites/default/files/article/ content/documents/nm/surveillance/cascade/cascade- programme-tryipt-19-03-2012.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>(2014, Jul.)</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>https://www.faa.gov/nextgen/library/media/getSmart WAM.pdf. GENERAL MULTIVARIATE POLYNOMIAL TARGET LOCALIZATION AND INITIAL ESTIMATION 89</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>(2015, 3 Apr.)</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Available: https://www.federalregister.gov/articles/2015/ 03/04/2015-04424/wireless-e911-location-accuracy- requirements.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>The Feynman Lectures on Physics. Menlo Park, CA: Addison-Wesley Publishing Company, 1963, vol. 1.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>“PHCLab: A MATLAB/Octave interface to PHCpack,” in Software for Algebraic Geometry, D. N. Arnold and A. Scheel, Eds. New York: Springer, 2008, vol. 148, pp. 15—32.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>and U. Orguner “Multi-target tracking with PHD filter using Doppler-only measurements,” Digital Signal Processing, vol. 27, pp. 1—11, Apr. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>“Estimation of position from multistatic Doppler measure- ments,” in Proceedings of the 13th International Conference on In- formation Fusion, Edinburgh, United Kingdom, 26—29 Jul. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>“Clutter rejection by clustering likelihood-based similari- ties,” in Proceedings of the 14th International Conference on In- formation Fusion, Chicago, IL, 5—8 Jul. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Accuracy and Stability of Numerical Algorithms. Philadelphia: SIAM, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>(2016) IHS aerospace, defense and security.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>“Lipschitzian optimization without the Lipschitz constant,” Journal of Optimization Theory and Application, vol. 79, no. 1, pp. 157—181, Oct. 1993.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>“Multi-target tracking via nonlinear least squares using doppler measurements from a passive radar system,” Master’s thesis, Georgia Institute of technology, May 2007.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>“MIMO radar target localization by using Doppler shift measurement,” in Proceedings of the 6th European Radar Conference, Rome, Italy, 30 Sep.—2 Oct. 2009, pp. 489—492.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>“Target localization methods for frequency-only MIMO radars,” in Proceedings of the 7th European Radar Conference, Paris, France, 30 Sep.—1 Oct. 2010, pp. 396—399.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>“Target localization and velocity estimation methods for frequency-only MIMO radars,” in Proceedings of the IEEE Radar Conference, Kansas City, MO, 23—27 May 2011, pp. 458—463.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>“Frequency based target localization methods for MIMO radar,” in Proceedings of the IEEE 19th Signal Processing and Communications Applications Conference, Antalya, Turkey, 20—22 Apr. 2011, pp. 74—77, in Turkish.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>“Doppler-only tracking in GSM-based passive radar,” in Proceedings of the 17th International Conference on In- formation Fusion, Salamanca, Spain, 7—10 Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>“A novel efficient homotopy continuation method in track- ing,” Communications in Information and Systems, vol. 14, no. 1, pp. 57—78, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>“Polynomial calculations in Doppler tracking,” Communications in Information and Systems, vol. 12, no. 2, pp. 157—184, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>“Performance issues concerning Doppler-only localization of submarine targets,” NATO Saclant undersea Research Center, Tech. Rep. SR- 325, Jul. 2000.</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>“The cheater’s homotopy: An efficient procedure for solv- ing systems of polynomial equations,” SIAM Journal on Numerical Analysis, vol. 26, no. 5, pp. 1241—1251, 1989.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>“Multi-Bernoulli filter for target tracking with multi-static Doppler only measurement,” Signal Processing, vol. 109, pp. 102—110, Mar. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>“Target localization in moving radar platform exploiting range and Doppler information through semidefinite relax- ation,” in Proceedings of SPIE: Wireless Sensing, Localization, and Processing V, vol. 7706, Orlando, FL, 5 Apr. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>“Doppler-only multistatic radar,” Ph.D. dissertation, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio, Mar. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>“Particle filters for tracking with out-of-sequence measure- ments,” IEEE Transactions on Aerospace and Electronic Systems, vol. 41, no. 2, pp. 693—702, Apr. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-58">
+<unstructured_citation>Combinatorial Optimization: Algorithms and Complexity. Englewood Cliffs, NJ: Prentice-Hall Inc, 1982.</unstructured_citation>
+</citation>
+<citation key="ref-59">
+<unstructured_citation>“Multi-sensor ±-GLMB filter for multi-target tracking using Doppler only measurements,” in Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, Kyoto, Japan, 25— 30 Mar. 2015, pp. 83—89.</unstructured_citation>
+</citation>
+<citation key="ref-60">
+<unstructured_citation>“Structured semidefinite programs and semialgebraic ge- ometry methods in robustness and optimization,” Ph.D. dissertation, California Institute of Technology,</unstructured_citation>
+</citation>
+<citation key="ref-61">
+<unstructured_citation>edu/ ˜ parrilo/pubs/files/thesis.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-62">
+<unstructured_citation>“Minimizing polynomial functions,” in Proceedings of the DIMACS Workshop Algorithmic and Quantitative Aspects of Real Algebraic Geometry in Math- ematics and Computer Science, vol. 60, DIMACS Center, Piscataway, NJ, 12—16 Mar. 2001.</unstructured_citation>
+</citation>
+<citation key="ref-63">
+<unstructured_citation>“Time-delay and Doppler-shift based geolocation by semi- definite programming,” in Proceedings of the 20th European Signal Processing Con- ference, Bucharest, Romania, 27—31 Aug. 2012, pp. 1189— 1193. 90 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 13, NO. 1 JUNE 2018</unstructured_citation>
+</citation>
+<citation key="ref-64">
+<unstructured_citation>“Joint detection and tracking using multi-static Doppler- shift measurements,” in Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, Kyoto, Japan, 25— 30 Mar. 2012, pp. 3881—3884.</unstructured_citation>
+</citation>
+<citation key="ref-65">
+<unstructured_citation>“Apparatus and method for locating an emitter using RF carrier of PRF measurement ratios,” U.S. Patent 6 163 297, Dec. 19, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-66">
+<unstructured_citation>“Analysis of target velocity and position estimation via Doppler-shift measurements,” in Proceedings of the Australian Control Conference, Mel- bourne, Australia, 10—11 Nov. 2011, pp. 507—512.</unstructured_citation>
+</citation>
+<citation key="ref-67">
+<unstructured_citation>“Doppler shift target localization,” IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 1, pp. 266—276, Jan. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-68">
+<unstructured_citation>“Globally optimal distributed kalman fusion with local out- of-sequence-measurement updates,” IEEE Transactions on Automatic Control, vol. 54, no. 8, pp. 1928—1934, Aug. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-69">
+<unstructured_citation>“Introduction to numerical algebraic geometry,” in Solving Polynomial Equations, A. Dickenstein and I. Z. Emiris, Eds. Springer, 2005, ch. 8, pp. 301—337.</unstructured_citation>
+</citation>
+<citation key="ref-70">
+<unstructured_citation>The Numerical Solution of Systems of Polynomials Arising in Engineering and Science. New Jersey: World Scientific, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-71">
+<unstructured_citation>Approximate Calculation of Multiple Integrals. Edgewood Cliffs, NJ: Prentice-Hall, Inc., 1971.</unstructured_citation>
+</citation>
+<citation key="ref-72">
+<unstructured_citation>“Solving optimal positioning problems via homotopy con- tinuation,” in Proceedings of the AIAA Guidance, Navigation, and Con- trol Conference, National Harbor, MD, 13—17 Jan. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-73">
+<unstructured_citation>“Algorithm 795: PHCpack: A general-purpose solver for polynomial systems by homotopy continuation,” ACM Transactions on Mathematical Software, vol. 25, no. 2, pp. 251—276, Jun. 1999.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

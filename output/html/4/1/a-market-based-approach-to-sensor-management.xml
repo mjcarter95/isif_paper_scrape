@@ -1,0 +1,68 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 4</li>
+<li>Issue 1</li>
+<li>Pages 52 - 71</li>
+<li>June, 2009</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">A Market-based Approach to Sensor Management</h1>
+<p class="article-authors">Viswanath  Avasarala, Tracy  Mullen and David  Hall</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">A. Andersson and F. Ygge Managing large scale computational markets. In Proceedings of the Thirty-first Hawaiian International Conference on System Sciences, Software Technology Track, Jan. 1998, 4—13.</li>
+<li class="ref-2">MASM: A market architecture for sensor management in distributed sensor networks. In Proceedings of the SPIE Defense and Security Symposium, Mar. 2005, 5813—30.</li>
+<li class="ref-3">SGA: An approximate combinatorial auction winner deter- mination algorithm for environments with strict real-time constraints. In Proceedings of the IEEE-WIC/Association for Computing Machinery (ACM) International Conference on Intelligent Agent Technology (IAT-06), 571—578.</li>
+<li class="ref-4">Behavioral Game Theory. Princeton, NJ: Princeton University Press, 2003.</li>
+<li class="ref-5">Optimal search strategies for dynamic hypothesis testing. IEEE Transactions on Systems, Man and Cybernetics, 25 (July 1995), 1130—1138.</li>
+<li class="ref-6">Approximate dynamic programming for sensor manage- ment. In Proceedings of the Thirty-sixth Conference on Decision and Control, Dec. 1997, 1202—1207. 68 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 4, NO. 1 JUNE 2009</li>
+<li class="ref-7">J. Schvartzman and M. Wellman Walverine: A Walrasian trading agent. Decision Support Systems, 39, 2 (Apr. 2005), 169—184.</li>
+<li class="ref-8">Towards modern sensor management systems. In Proceedings of the Sixth Joint Service Data Fusion Sym- posium, June 14—18, 1993, 659—678.</li>
+<li class="ref-9">Taming the computational complexity of combinatorial auctions: Optimal and approximate approaches. In Proceedings of the 16th International Joint Conference on Artificial Intelligence (IJCAI), 548—553.</li>
+<li class="ref-10">Envy-free auctions for digital goods. In Proceedings of the Fourth Association for Computing (ACM) Conference on Electronic Commerce (EC-03), 29—35.</li>
+<li class="ref-11">Handbook of Multisensor Data Fusion. Boca Raton, FL: CRC Press LLC, 2001.</li>
+<li class="ref-12">Mathematical Techniques in Multisensor Data Fusion (2nd ed.). Norwood, MA: Artech House, 2004.</li>
+<li class="ref-13">Multi-process constrained estimation. IEEE Transaction on Systems, Man, and Cybernetics, 21, 1 (Jan./Feb. 1991), 434—442.</li>
+<li class="ref-14">Goal lattices for sensor management. In Proceedings of the Signal Processing, Sensor Fusion and Target Recognition VIII: SPIE International Symposium on Aerospace/Defense Sensing and Control, Apr. 1999, 249— 255.</li>
+<li class="ref-15">Dynamic goal instantiation in goal lattices for sensor man- agement. In Proceedings of the SPIE, May 2005, 93—99.</li>
+<li class="ref-16">The competitive allocation process is informationally effi- cient uniquely. Journal of Economic Theory, 28, 1 (1982), 1—18.</li>
+<li class="ref-17">Covariance control for multisensor systems. IEEE Transactions on Aerospace Electronic Systems, 38, 4 (Oct. 2002), 1138—1157.</li>
+<li class="ref-18">Discrimination gain for sensor management in multitarget detection and tracking. In Proceedings of the IEEE–Systems, Man and Cybernetics (SMC)/International Association for Mathematics and Com- puters in Simulation (IMACS) Multi-Conference on Computa- tional Engineering in Systems Applications (CESA’96), July 1996, 167—172.</li>
+<li class="ref-19">A solution of the multi-weapon, multi-target assignment problem. WP-26597, The MITRE Corporation, Bedford, MA, 1986.</li>
+<li class="ref-20">Information based sensor management in the presence of uncertainty. IEEE Transactions on Signal Processing, 55, 6 (June 2007), 2731—2735.</li>
+<li class="ref-21">Elements of Pure Economics. Homewood, IL: Irwin, 1954.</li>
+<li class="ref-22">Distributed Sensor Networks: A Multiagent Perspective. Boston, MA: Kluwer Academic Publishers, 2003.</li>
+<li class="ref-23">Amazon.com recommendations: Item-to-item collaborative filtering. IEEE Internet Computing, 7, 1 (Jan. 2003), 76—80.</li>
+<li class="ref-24">Decentralized, adaptive resource allocation for sensor net- works. In Proceedings of the Second The Advanced Computing Systems Association (USENIX)/Association for Computing Machinery (ACM) Symposium on Networked Systems Design & Implementation (NSDI’05), Apr. 2005, pp. 7—13.</li>
+<li class="ref-25">An information-theoretic approach to sensor scheduling. In Proceedings of the SPIE: Signal Processing, Sensor Fu- sion, and Target Recognition V, Apr. 1996, 304—312.</li>
+<li class="ref-26">Sensor management simulation and comparative study. In Proceedings of the SPIE International Symposium on Aerospace/Defense Sensing & Control: Signal Processing, Sensor Fusion, and Target Recognition VI, Apr. 1997.</li>
+<li class="ref-27">Complexity Theory and Network Centric Warfare. CCRP Publication Series, 2003.</li>
+<li class="ref-28">Bringing the market to level 4 fusion: Investigation of auction methods for sensor resource allocation. In Proceedings of the Military Sensing Symposia (MSS) National Symposium on Sensors and Data Fusion (NSSDF), May 2005.</li>
+<li class="ref-29">Customer-driven sensor management. IEEE Intelligent Systems, 21, 2 (2006), 41—49.</li>
+<li class="ref-30">Decision in a building access system using swarm intelli- gence and posets. In Proceedings of the Conference on Information Sciences and Systems, Mar. 2004, 414—419.</li>
+<li class="ref-31">Optimal allocation of tracking resources. In Proceedings of the IEEE Conference on Decision and Control, Dec. 1977, 1177—1180.</li>
+<li class="ref-32">Combinatorial auction for resource allocation in a dis- tributed sensor network. In Proceedings of the The 26th IEEE International Real-Time Systems Symposium (RTSS’05), Dec. 2005, pp. 266—274.</li>
+<li class="ref-33">A utility-based sensing and communication model for a glacial sensor network. In Proceedings of the Fifth International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS’06), May 2006, 1353—60.</li>
+<li class="ref-34">Foundations of Economic Analysis. Cambridge, MA: Harvard University Press, 1947.</li>
+<li class="ref-35">Algorithm for optimal winner determination in combinato- rial auctions. Artificial Intelligence, 135, 1—2 (Feb. 2002), 1—54.</li>
+<li class="ref-36">Information-based sensor management. In Proceedings of the SPIE: Signal Processing, Sensor Fu- sion, and Target Recognition II, Apr. 1993, 156—64.</li>
+<li class="ref-37">A rollout algorithm to coordinate multiple sensor resources to track and discriminate targets. In Proceedings of the SPIE Conference on Signal Processing, Sensor Fusion and Target Recognition, Apr. 2006. A MARKET-BASED APPROACH TO SENSOR MANAGEMENT 69</li>
+<li class="ref-38">Applying General Equilibrium. New York: Cambridge University Press, 1992.</li>
+<li class="ref-39">Generalized Vickrey auctions. Department of Economics, University of Michigan, 1994.</li>
+<li class="ref-40">and S. Stornetta Spawn: A distributed computational economy. IEEE Transactions on Software Engineering, 18, 103—117.</li>
+<li class="ref-41">Combinatorial auctions for supply chain formation. In Proceedings of the Association for Computing Machinery (ACM) Conference on Electronic Commerce (EC’00), Oct. 2000, 260—269.</li>
+<li class="ref-42">Mason Some economics of market-based distributed scheduling. In Proceedings of the International Conference on Dis- tributed Computing Systems, May 1998, 612—621.</li>
+<li class="ref-43">Stochastic dynamic programming based approaches to sen- sor resource management. In Proceedings of the Fifth International Conference on Information Fusion, 608—615.</li>
+<li class="ref-44">An approximate dynamic programming approach to a com- munication constrained sensor management problem. In Proceedings of the Eighth International Conference on Information Fusion, July 2005.</li>
+<li class="ref-45">Market-Oriented Programming and its Application to Power Load Management. Ph.D. thesis, Department of Computer Science, Lund Uni- versity, ISBN 91-628-3055-4, CODEN LUNDFD6/(NFCS- 1012)/1-224/(1998). 70 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 4, NO. 1 JUNE 2009</li>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,125 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237201.1578307</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2020</year>
+</publication_date>
+<journal_volume>
+<volume>15</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>A New Heterogeneous Track Fusion with Information Decorrelation Algorithm for Target Tracking in a Multistatic Sensor System</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Rong </given_name>
+<surname>Yang</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2020</year>
+</publication_date>
+<pages>
+<first_page>24</first_page>
+<last_page>38</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>V. J. Aidala “Kalman filter behavior in bearings-only tracking applications,” A NEW HETEROGENEOUS TRACK FUSIONWITH INFORMATION DECORRELATION ALGORITHM 35 IEEE Trans. Aerosp. Electron. Syst., vol. 1, no. 1, pp. 29–39, Jul. 1978.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“Tracking a maneuvering target using two heterogeneous passive sensors on a single stationary platform with IMM estimation,” J. Adv. Inf. Fusion, vol. 12, no. 1, pp. 110–124, Jun. 2017.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Track formationwith bearing and frequencymeasurements in clutter,” IEEE Trans. Aerosp. Electron. Syst., vol. 26, no. 6, pp. 999–1009, Nov. 1990.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“Target motion analysis by inverse triangulation,” in Proc. 18th Int. Conf. Inf. Fusion, Washington, DC, USA, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Position and velocity estimation via bearing observations,” IEEE Trans. Aerosp. Electron. Syst., vol. 14, no. 4, pp. 564–577, Jul. 1978.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Target motion analysis with bearing and frequencies measurements,” in Proc. 22nd Asilomar Conf., Pacific Grove, CA,USA,Nov. 1988.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Bearings-only Tracking with Fusion from Heterogenous Passive Sensors: ESM/EO and Acoustic. In Proceedings of the 18th International Conference on Information Fusion, Washington, DC, July 2015.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Bearings-only tracking with tusion from heterogenous passive sensors: ESM/EO and acoustic,” J. Adv. Inf. Fusion, vol. 12, no. 3, pp. 3–17, Jul. 2017.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>T. Lang, P. A.M. de Theije, and P.Willett “MSTWG multistatic tracker evaluation using simulated scenario data sets,” in Proc. 11th Int. Conf. Inf. Fusion, Cologne, Germany, Jul. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Low frequency towed active sonar (LFTAS) in multistatic applications,” GI Jahrestagung, LNI, vol. 154, pp. 2413–2421, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Parameter estimation for multistatic active sonar using extended fixed points,” in Proc. 18th Int. Conf. Inf. Fusion, Washington, DC, USA, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Case study: limitations of parameter estimation for non-cooperative multistatic active sonar by association ambiguities,” in Proc. Sensor Data Fusion: Trends, Solutions, Applications (SDF), Bonn, Germany, Oct. 2014, pp. 1–6.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“State space initiation for blind mobile terminal position tracking,” EURASIP J. Adv. Signal Process., vol. 1, pp. 1–14, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Enabling situational awareness in millimeter wave massive MIMO systems,” IEEE J. Sel. Topics Signal Process., vol. 13, no. 5, pp. 1196–1211, Sep. 2019.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Distributed localization of a RF target in NLOS environments,” IEEE J. Sel. Areas Commun., vol. 33, no. 7, pp. 1317–1330, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Bistatic simultaneous transmitter localization and mapping,” in Proc. Sensor Data Fusion: Trends, Solutions, Applications (SDF), Bonn, Germany, Oct. 2015, pp. 1–6.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Adaptive target tracking using multistatic sensor with unknown moving transmitter positions,” in Proc. 7th IEEE Int. Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), Curacao, Dec. 2017.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Target tracking using an asynchronous multistatic sensor system with unknown transmitter positions,” in Proc. 21st Int. Conf. Inf. Fusion, Cambridge, U.K., Jul. 2018.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Tracking and Data Fusion: A Handbook of Algorithms. Storrs, CT, USA: YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“Application of the MLPDA to bistatic sonar,” in Proc. 2005 IEEE Aerosp. Conf., Big Sky,MT, USA, 2005, pp. 2063–2073.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. New York, NY, USA: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Tracking/fusion and deghosting with Doppler frequency from two passive acoustic sensors,” in Proc. 16th Int. Conf. Inf. Fusion, Istanbul, Turkey, Jul. 2013. 36 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 15, NO. 1 JUNE 2020 RongYang received theB.E.degree in information and control fromXi’an JiaoTong University, China, in 1986, the M.Sc. degree in electrical engineering from the Na- tional University of Singapore in 2000, and the Ph.D.degree in electrical engineering from Nanyang Technological University, Singapore, in 2012. She is currently a Prin- cipal Member of Technical Staff at the DSO National Laboratories, Singapore. Her research interests include passive tracking, low observable target tracking, GMTI tracking, hybrid dynamic estimation, and data fusion. She was Publicity and Publi- cation Chair of FUSION 2012 and the recipient of the FUSION 2014 Best Paper Award (first runner-up). A NEW HETEROGENEOUS TRACK FUSIONWITH INFORMATION DECORRELATION ALGORITHM 37 YaakovBar-Shalomwas born onMay 11,1941.He received the B.S.andM.S.degrees in electrical engineering from the Technion, Israel Institute of Technology, Haifa, Israel, in 1963 and 1967, respectively, and the Ph.D. degree in electrical engineering from Princeton University, Princeton, NJ, USA, in 1970. From 1970 to 1976, he was with the SystemsControl, Inc.,PaloAlto,CA,USA.He is currently Board of Trustees Distinguished Professor in the Department of Electrical and Computer Engineering and Marianne E. Klewin Professor in Engineering with the University of Connecti- cut, Storrs, CT, USA. His current research interests include estimation theory, tar- get tracking, and data fusion. He has authored or coauthored more than 500 papers and book chapters in these areas and in stochastic adaptive control. He coauthored the monograph Tracking and Data Association (Academic Press, 1988), the graduate texts Estimation and Tracking: Principles, Techniques and Software (Artech House, 1993; translated into Russian, MGTU Bauman, Moscow, Russia, 2011), Estimation with Applications to Tracking and Navigation:Algorithms and Software for Informa- tion Extraction (Wiley, 2001), the advanced graduate texts Multitarget-Multisensor Tracking: Principles and Techniques (YBS Publishing, 1995), Tracking and Data Fu- sion (YBS Publishing, 2011), and edited the booksMultitarget-Multisensor Tracking: Applications and Advances (Artech House, Vol. I, 1990; Vol. II, 1992; Vol. III, 2000). He has been elected Fellow of IEEE for “contributions to the theory of stochastic systems and of multitarget tracking.” He has been consulting to numerous compa- nies and government agencies, and originated the series of Multitarget-Multisensor Tracking short courses offered via UCLA Extension, at Government Laboratories, private companies, and overseas. During 1976 and 1977, he was an Associate Edi- tor for the IEEE Transactions on Automatic Control and from 1978 to 1981 as an Associate Editor for Automatica. He was General Chairman of the 1985 ACC and Co-Chairman of the 1989 IEEE International Conference on Control and Applica- tions. During 1987–1989, he was a member of the Board of Governors of the IEEE CSS. He was General Chairman of FUSION 2000, President of ISIF in 2000 and 2002, and Vice President for Publications in 2004–2013. In 1987, he was the recipient of the IEEE CSS Distinguished Member Award. Since 1995, he has been a Distin- guished Lecturer of the IEEE AESS and has given numerous keynote addresses at major national and international conferences.He was the corecipient of theM.Barry Carlton Award for the best paper in the IEEE Transactions on Aerospace and Elec- tronic Systems in 1995 and 2000 and recipient of the 1998 University of Connecti- cut AAUP Excellence Award for Research. In 2002, he was the recipient of the J. Mignona Data Fusion Award from the DoD JDL Data Fusion Group.He is a mem- ber of the Connecticut Academy of Science and Engineering. In 2008, he was the recipient of the IEEE Dennis J. Picard Medal for Radar Technologies and Applica- tions, and in 2012, the Connecticut Medal of Technology. In 2015, he was the recip- ient of the Lifetime of Excellence in Information Fusion award from the Interna- tional Society of Information Fusion, renamed in 2016 as “ISIF YaakovBar-Shalom Award for Lifetime of Excellence in Information Fusion”.He has been listed by aca- demic.research.microsoft (top authors in engineering) as #1 among the researchers in aerospace engineering based on the citations of his work. 38 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 15, NO. 1 JUNE 2020</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

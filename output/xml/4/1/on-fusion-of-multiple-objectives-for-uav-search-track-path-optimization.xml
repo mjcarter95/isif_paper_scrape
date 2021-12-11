@@ -1,0 +1,104 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237363.0957816</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2009</year>
+</publication_date>
+<journal_volume>
+<volume>4</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>On Fusion of Multiple Objectives for UAV Search & Track Path Optimization</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Vesselin P.</given_name>
+<surname>Jilkov</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Rong </given_name>
+<surname>Li</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2009</year>
+</publication_date>
+<pages>
+<first_page>27</first_page>
+<last_page>39</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom, X. R. Li and T. Kirubarajan Estimation with Applications to Tracking and Navigation: Theory, Algorithms, and Software. New York: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>A closer look at drawbacks of minimizing weighted sums of objectives for pareto set generation in multicriteria opti- mization problems. Structural and Multidisciplinary Optimization, 14, 1 (1997), 63—69.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Normal-boundary intersection: A new method for generat- ing Pareto optimal points in multicriteria optimization prob- lems. SIAM Journal on Optimization, 8, 3 (1998), 631—657.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Cooperative control for UAVs searching risky environments for targets. In Proceedings of 42nd IEEE Conference on Decision and Control, vol. 4, Maui, HI, Dec. 2003, 3567— 3572,</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Target perceivability and its applications. IEEE Transactions on Signal Processing, SP-49, 11 (Nov. 2001), 2588—2604.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Nonlinear Multiobjective Optimization. Boston: Kluwer Academic Publishers, 1999. ON FUSION OF MULTIPLE OBJECTIVES FOR UAV SEARCH & TRACK PATH OPTIMIZATION 37</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Y. Yang, M. Flint and M. Baum Cooperative control for autonomous air vehicles. In Cooperative Control and Optimization, Kluwer, 2002, 233—269.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>A cooperative search framework for distributed agents. In Proceedings of 2001 IEEE International Symposium on Intelligent Control (ISIC’01), Mexico City, Mexico, Sept. 2001, 1—6.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>and H. Durrant-Whyte Decentralised ground target tracking with heterogeneous sensing nodes on multiple UAVs. In Second International Workshop on Information Processing in Sensor Networks, vol. LNCS 2634, Springer, 2003, 545— 565.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Autonomous ground target tracking by multiple coopera- tive UAVs. In Proceedings of 2005 SPIE Conference on Signal and Data Processing of Small Targets, vol. 5913, 2005, 59131V.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Autonomous search, tracking and classification by multiple cooperative UAVs. In Proceedings of SPIE Signal Processing, Sensor Fusion, and Target Recognition XV, vol. 6235, May 2006, 623508.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Optimal cooperative placement of GMTI UAVs for ground target tracking. In Proceedings of SPIE Signal Processing, Sensor Fusion and Target Recognition, Orlando, FL, Apr. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Multiple Criteria Optimization: Theory, Computation and Application. New York: Wiley, 1985.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Balancing search and target response in cooperative un- manned aerial vehicle (UAV) teams. IEEE Transactions on Systems, Man and Cybernetics, Pt. B, 36, 3 (June 2006), 571—587.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Decentralized cooperative search by networked UAVs in an uncertain environment. In Proceedings of 2004 American Control Conference, vol. 6, 5558—5563. 38 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 4, NO. 1 JUNE 2009</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

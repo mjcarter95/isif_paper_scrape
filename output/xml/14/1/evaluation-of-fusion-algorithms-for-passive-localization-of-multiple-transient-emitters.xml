@@ -1,0 +1,143 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237216.4888647</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2019</year>
+</publication_date>
+<journal_volume>
+<volume>14</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Evaluation of Fusion Algorithms for Passive Localization of Multiple Transient Emitters</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Wenbo </given_name>
+<surname>Dou</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Jemin </given_name>
+<surname>George</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Lance M.  </given_name>
+<surname>Kaplan</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Richard W.   Osborne,</given_name>
+<surname>III</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2019</year>
+</publication_date>
+<pages>
+<first_page>41</first_page>
+<last_page>65</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>H. Akaike “A new look at the statistical model identification,” IEEE Trans. Autom.Control, vol. 19, no. 6, pp. 716–723,Dec. 1974.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“Hierarchical track association and fusion for a networked surveillance system,” J. Adv. Inf. Fusion, vol. 1, no. 2, pp. 140–157, Dec. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software, Hoboken, NJ: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Tracking and Data Fusion, Storrs, CT: YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Pattern Recognition and Machine Learning, New York: Springer, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Multiple hypothesis tracking for multiple target tracking,” IEEE Aerosp. Electron. Syst. Mag., vol. 19, no. 1, pp. 5–18, Jan. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>An Introduction to the Theory of Point Processes: Volume I: Elementary Theory and Methods, New York: Springer, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“A generalized S-D assignment algorithm for multisensor–multitarget state estimation,” IEEE Trans. Aerosp. Electron. Syst., vol. 33, no. 2, pp. 523–538, Apr. 1997.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“Maximum likelihood from incomplete data via the EM algorithm,” J. R. Stat. Soc., Ser. B, vol. 39, no. 1, pp. 1–38, 1977.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Distributed fusion algorithm for passive localization of multiple transient emitters,” J. Adv. Inf. Fusion, vol. 13, no. 1, pp. 15–35, Jun. 2018.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Sonar tracking of multiple targets using joint probabilistic data association,” IEEE J. Ocean. Eng., vol. 8, no. 3, pp. 173–184, Jul. 1983.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Shooter localization using a wireless sensor network of soldier-worn gunfire detection systems,” J. Adv. Inf. Fusion, vol. 8, no. 1, pp. 15–32, Jun. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Multi-shooter localization using finite point process, Proc. 17th Int. Conf. Inf. Fusion, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“A finite point process approach to multi-agent localization using transient measurements,” J. Inf. Fusion, vol. 32, no. PA, pp. 62–74, Nov. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Nonlinear programming,” Proc. 2nd Berkeley Symp. Math. Stat. Probability, 1951, pp. 481–492.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Multitarget Bayes filtering via first-order multitarget moments,” IEEE Trans. Aerosp. Electron. Syst., vol. 39, no. 4, pp. 1152–1178, Oct. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Statistical Inference and Simulation for Spatial Point Processes, London, UK: Chapman & Hall/CRC, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“An algorithm for ranking all the assignments in order of increasing cost,” Oper. Res., vol. 16, no. 3, pp. 682–687, 1968.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Data fusion from multiple passive sensors for multiple shooter localization via assignment,” in Proc. 17th Int. Conf. Inf. Fusion, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“Statistical efficiency of target localization from angle and shockwave measurements,” J. Adv. Inf. Fusion, vol. 9, no. 2, pp. 75–89, Dec. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“A new relaxation algorithm and passive sensor data association,” IEEE Trans. Autom. Control, vol. 37, no. 2, pp. 198–213, Feb. 1992.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Estimating the dimension of a model,” Ann. Stat., vol. 6, no. 2, pp. 461–464, 1978.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Practical data association for passive sensors in 3D,” J. Adv. Inf. Fusion, vol. 9, no. 1, pp. 38–46, Jun. 2014. EVALUATION OF FUSION ALGORITHMS FOR PASSIVE LOCALIZATION OF MULTIPLE TRANSIENT EMITTERS 63</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

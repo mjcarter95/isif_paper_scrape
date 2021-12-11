@@ -1,0 +1,59 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 3</li>
+<li>Issue 2</li>
+<li>Pages 67 - 89</li>
+<li>December, 2008</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">General Combination Rules for Qualitative and Quantitative Beliefs</h1>
+<p class="article-authors">Arnaud  Martin, Christophe  Osswald, Jean  Dezert and Florentin  Smarandache</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">A. Appriou Approche générique de la gestion de l’incertain dans les processus de fusion multisenseur. Traitement du Signal, 22, 4 (2005), 307—319.</li>
+<li class="ref-2">Upper and Lower probabilities induced by a multivalued mapping. Annals of Mathematical Statistics, 83 (1967), 325—339.</li>
+<li class="ref-3">A generalization of Bayesian inference. Journal of the Royal Statistical Society, Serie B, 30 (1968), 205—245.</li>
+<li class="ref-4">The cautious rule of combination for belief functions and some extensions. International Conference on Information Fusion, Florence, Italy, July 10—13, 2006.</li>
+<li class="ref-5">Representation and combination of uncertainty with belief functions and possibility measures. Computational Intelligence, 4 (1988), 244—264.</li>
+<li class="ref-6">Possibility Theory: An Approach to Computerized Processing of Uncertainty. New York: Plenum Press, 1988.</li>
+<li class="ref-7">Jousselme Adaptative combination rule and proportional conflict re- distribution rule for information fusion. COGnitive systems with Interactive Sensors, Paris, France, Mar. 2006.</li>
+<li class="ref-8">Independence between safety-control policy and multiple- sensors schemes via Dempster-Shafer theory. IEEE Transaction on Reliability, 40, 2 (1991), 182—188.</li>
+<li class="ref-9">Strategies for combining conflicting dogmatic belief. International Conference on Information Fusion, Cairns, Australia, July 7—10, 2003.</li>
+<li class="ref-10">A new distance between two bodies of evidence. Information Fusion, 2 (2001), 91—101.</li>
+<li class="ref-11">Application of majority voting to pattern recognition: An analysis of its behavior and performance. IEEE Transactions on Systems, Man Cybernetics–Part A: Systems and Humans, 27, 5 (Sept. 1997), 553—568.</li>
+<li class="ref-12">Belief function combination and conflict management. Information Fusion, 3 (2002), 149—162. 86 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 3, NO. 2 DECEMBER 2008</li>
+<li class="ref-13">Enrichment of qualitative belief for reasoning under uncer- tainty. International Conference on Information Fusion, Québec City, Canada, July 9—12, 2007.</li>
+<li class="ref-14">A new generalization of the proportional conflict redistri- bution rule stable in terms of decision. Applications and Advances of DSmT for Information Fusion, Book 2, American Research Press, Rehoboth, F. Smaran- dache and J. Dezert (Eds.), 2006, 69—88.</li>
+<li class="ref-15">Toward a combination rule to deal with partial conflict and specificity in belief functions theory. International Conference on Information Fusion, Québec, Canada, July 9—12, 2007.</li>
+<li class="ref-16">Understanding the large family of Dempster-Shafer the- ory’s fusion operators–a decision-based measure. International Conference on Information Fusion, Florence, Italy, July 10—13, 2006.</li>
+<li class="ref-17">A Mathematical Theory of Evidence. Princeton University Press, 1976.</li>
+<li class="ref-18">Applications and Advances of DSmT for Information Fusion (Collected works). American Research Press, Rehoboth, 2004. http://www. gallup.unm.edu/»smarandache/DSmT-book1.pdf.</li>
+<li class="ref-19">Applications and Advances of DSmT for Information Fusion (Collected works, vol. 2.) American Research Press, Rehoboth, 2006. http://www. gallup.unm.edu/»smarandache/DSmT-book2.pdf.</li>
+<li class="ref-20">Applications and Advantages of DSmT for Information Fu- sion (Collected works, vol. 3). American Research Press, Rehoboth, 2009, http://www. gallup.unm.edu/»smarandache/DSmT-book3.pdf.</li>
+<li class="ref-21">Information fusion based on new proportional conflict re- distribution rules. International Conference on Information Fusion, Philadel- phia, PA, July 25—29, 2005.</li>
+<li class="ref-22">Proportional conflict redistribution rules for information fusion. Applications and Advances of DSmT for Information Fusion, Book 2, American Research Press, Rehoboth, F. Smaran- dache and J. Dezert (Eds.), 2006, 3—68.</li>
+<li class="ref-23">An in-depth look at quantitative information fusion rules. In Applications and Advances of DSmT for Information Fusion, Book 2, American Research Press, Rehoboth, F. Smarandache and J. Dezert (Eds.), 2006, 205—235 (origi- nally presented at NASA Langley Research Center, Hamp- ton, VA, on Nov. 5, 2005).</li>
+<li class="ref-24">Qualitative belief conditioning rules (QBCR). International Conference on Information Fusion, Québec City, Canada, July 9—12, 2007.</li>
+<li class="ref-25">Constructing the pignistic probability function in a context of uncertainty. Uncertainty in Artificial Intelligence, 5 (1990), 29—39.</li>
+<li class="ref-26">The combination of evidence in the transferable belief model. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 12, 5 (1990), 447—458.</li>
+<li class="ref-27">Belief functions: The disjunctive rule of combination and the generalized Bayesian theorem. International Journal of Approximate Reasoning, 9 (1993), 1—35.</li>
+<li class="ref-28">The transferable belief model. Artificial Intelligent, 66 (1994), 191—234.</li>
+<li class="ref-29">The ®-junctions: The commutative and associative non in- teractive combination operators applicable to belief func- tions. Qualitative and Quantitative Practical Reasoning, Springer Verlag, D. Gabbay and R. Kruse and A. Nonnengart and H. J. Ohlbacg, Berlin, 1997, 131—153.</li>
+<li class="ref-30">Combination of Evidence in Dempster-Shafer Theory. SANDIA Tech. Report, SAND2002-0835, Apr. 2002. 96 pages.</li>
+<li class="ref-31">Methods of combining multiple classifiers and their appli- cation to handwriting recognition. IEEE Transactions on Systems, Man Cybernetics, 22, 3 (May 1992), 418—435.</li>
+<li class="ref-32">Hedging in the combination of evidence. Journal of Information and Optimization Science, 4, 1 (1983), 73—81.</li>
+<li class="ref-33">On the relationships of methods of aggregation of evidence in expert systems. Cybernetics and Systems, 16 (1985), 1—21.</li>
+<li class="ref-34">On the Dempster-Shafer framework and new combination rules. Informations Sciences, 41 (1987), 93—137.</li>
+<li class="ref-35">Fuzzy sets as a basis for a theory of possibility. Fuzzy Sets and Systems, 1, 3 (1978), 3—28.</li>
+<li class="ref-36">On the validity of Dempster’s rule of combination. Memo M 79/24, Univ. of California, Berkeley, 1979. MARTIN & OSSWALD: GENERAL COMBINATION RULES FOR QUALITATIVE AND QUANTITATIVE BELIEFS 87</li>
+</ul>
+
+</body>
+</html>

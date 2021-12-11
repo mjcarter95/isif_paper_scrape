@@ -1,0 +1,111 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237286.0491705</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<journal_volume>
+<volume>10</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Symmetries in Bayesian Extended Object Tracking</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Florian </given_name>
+<surname>Faion</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Antonio </given_name>
+<surname>Zea</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Marcus </given_name>
+<surname>Baum</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Uwe D. </given_name>
+<surname>Hanebeck</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<pages>
+<first_page>13</first_page>
+<last_page>30</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>M. Baum, F. Faion, and U. D. Hanebeck Modeling the Target Extent with Multiplicative Noise. In Proceedings of the 15th International Conference on In- formation Fusion (FUSION), pages 2406—2412, Singapore, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Random Hypersurface Models for Extended Object Track- ing. In 2009 IEEE International Symposium on Signal Process- ing and Information Technology (ISSPIT), pages 178—183, Ajman, United Arab Emirates, Dec. 2009. IEEE.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Shape Tracking of Extended Objects and Group Targets with Star-Convex RHMs. In Proceedings of the 14th International Conference on In- formation Fusion (FUSION), pages 1—8, Chicago, Illinois, USA, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>A Novel Bayesian Method for Fitting a Circle to Noisy Points. In Proceedings of the 13th International Conference on In- formation Fusion (FUSION), Edinburgh, United Kingdom, 2010. 28 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 10, NO. 1 JUNE 2015</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Adaptive Pose Priors for Pictorial Structures. In IEEE Conference on Computer Vision and Pattern Recog- nition (CVPR), pages 422—429, San Francisco, USA, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Tracking 3D Shapes in Noisy Point Clouds with Random Hypersurface Models. In Proceedings of the 15th International Conference on In- formation Fusion (FUSION), pages 2230—2235, Singapore, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Reducing Bias in Bayesian Shape Estimation. In IEEE 17th International Conference on Information Fu- sion (FUSION), pages 1—8, Salamanca, Spain, 2014. IEEE.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Tracking of Extended Objects and Group Targets Using Random Matrices. IEEE Transactions on Signal Processing, 59(4):1409—1420, Apr. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Spatial Distribution Model for Tracking Extended Objects. IEE Proceedings on Radar, Sonar and Navigation, 152(5): 364—371, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Unscented Filtering and Nonlinear Estimation. Proceedings of the IEEE, 92(3):401—422, Mar. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Symmetry Descriptors and 3D Shape Matching. In Proceedings of the 2004 Eurographics/ACM SIGGRAPH symposium on Geometry processing–SGP, pages 115—123, New York, New York, USA, 2004. ACM Press.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Recursive Estimation of Orientation Based on the Bingham Distribution. In Proceedings of the 16th International Conference on In- formation Fusion (FUSION), pages 1487—1494, Istanbul, Turkey, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Tracking of Maneuvering Non-Ellipsoidal Extended Object or Target Group Using Random Matrix. IEEE Transactions on Signal Processing, 62(9):2450—2463, May 2014.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Unscented Kalman Filters for Multiple Target Tracking With Symmetric Measurement Equations. IEEE Transactions on Automatic Control, 54(2):370—375, Feb. 2009.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

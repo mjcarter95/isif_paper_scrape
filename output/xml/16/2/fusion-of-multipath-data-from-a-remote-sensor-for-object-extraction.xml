@@ -1,0 +1,155 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237184.7243054</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2021</year>
+</publication_date>
+<journal_volume>
+<volume>16</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Fusion of Multipath Data From a Remote Sensor for Object Extraction</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>ANDREW </given_name>
+<surname>FINELLI</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>YAAKOV  </given_name>
+<surname>BAR-SHALOM</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>PETER </given_name>
+<surname>WILLETT</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>FRANCESCO  A. N.</given_name>
+<surname>PALMIERI</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>BRAHAM </given_name>
+<surname>HIMED</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2021</year>
+</publication_date>
+<pages>
+<first_page>114</first_page>
+<last_page>125</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>A.Azzarone, C. Bianchi,M. Pezzopane,M. Pietrella, C. Scotto, and A. Settimi “IONORT: A Windows software tool to calculate the HF ray tracing in the ionosphere,” Comput. Geosci., vol. 42, pp. 57–63,May 2012.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. Hoboken, NJ, USA: J.Wiley and Sons, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Tracking and Data Fusion: A Handbook of Algorithms. YBS Publishing, United States, 2011. 122 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 16, NO. 2 DECEMBER 2021</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“IRI 2007: Improvements and new parameters,” J. Adv. Space Res., vol. 42, no, 4, pp. 599–609, Aug. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Cooperative estimation of targets by multiple aircraft,” Master’s thesis, Air Force Institute of Technology, 1980.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Maneuver detection and tracking with a nonlinear target model,” in Proc. 23rd Conf. Decis. Control, Dec. 1984.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“PDAF versus PMHT performance on OTHR data,” in Proc. Int. Radar Conf., Sep. 2003, pp. 560–565.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>B. Himed “Target tracking in over the horizon radar,” in Proc. SPIE, Signal Process., Sensor/Inf. Fusion, and Target Recognit. XXVIII, May 2019, doi: 10.1117/12.2519776.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“Some concepts for target trajectory prediction for ship self defense,” in Proc. Amer. Control Conf., Seattle,WA, Jun. 1995.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Parameter estimation of maneuvering targets in OTHR based on sparse time-frequency representation,” J. Syst. Eng. Electron., vol. 27, no. 3, pp. 574–580, Jun. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“The NLopt nonlinear-optimization package,” Available: http://github.com/stevengj/nlopt.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Lipschitzian optimization without the Lipschitz constant,” J. Optim. Theory Appl., vol. 79, pp. 157–181, Oct. 1993.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“A versatile three-dimensional computer program for radio waves,” U.S. Dept. Commerce, Washington, DC, USA, OT Rep. 75–76, 1975.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Some variants of the controlled random search for global optimization,” J. Optim. Theory Appl., vol. 130, no. 2, pp. 253–264, Jan. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>GPS Satellite Surveying, Hoboken, NJ, USA: J. Wiley and Sons, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“OTHR highly maneuvering target detection via generalized randon-fourier transform,” in Proc. IEEE Radar Conf., 2016.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Survey of fast target tracking part I: Dynamic models,” IEEE Trans. Aerosp. Electron Syst., vol. 39, no. 4, pp. 1333–1334, Oct. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Genetic algorithms for modelling and optimisation,” J. Comput. Appl. Math., vol. 184, no. 1, pp. 205–222, Dec. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Validation and comparison of coordinated turn aircraft turn models,” IEEE Trans. Aerosp. Electron Syst., vol. 36, no. 1, pp. 250–259, Jan. 2000.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“A multipath data association tracker for multipath sensorsr,” IEEE Trans. Aerosp. Electron. Syst., vol. 34, no. 4, pp. 1165–1183, Oct. 1998.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“Data fusion with ML-PMHT for very low SNR track detection in an OTHR,” in Proc 18th Int Conf Inf Fusion, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Über die numerische Auflösung von Differentialgleichun- gen,” Mathematische Annalen, vol. 46, pp. 167–178, Jun. 1895. doi: 10.1007/BF01446807.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“A multiple hypothesis tracker for multitarget tracking with multiple simultaneous measurements,” IEEE J. Sel. Topics Signal Process., vol. 7, no. 3, pp. 448–460, Jun. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>“Multiple detection-aided low-observable track initialization using ML-PDA,” IEEE Trans. Aerosp. Electron Syst., vol. 53, no. 2, pp. 772–735, Apr. 2017.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>“Multipath maximum likelihood probabilistic multihypothesis tracker for low observable targets,” IEEE Trans. Aerosp. Electron Syst., vol. 54, no. 1, pp. 502–510, Feb. 2018.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“Estimation of a random feedback control system with unknown input,” IEEE Trans. Aerosp. Electron. Syst., Vol. 55, no. 6, pp. 3466–3478, Dec. 2019, doi: 10.1109/TAES.2019.2914539.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“Multiple reflections between the Earth and the atmosphere in V.L.F. propagation,” Pure Appl. Geophys., vol. 35, no. 1, pp. 61–72, Feb. 1956. FUSION OF MULTIPATH DATA FROM A REMOTE SENSOR FOR OBJECT EXTRACTION 123 http://github.com/stevengj/nlopt Andrew Finelli is a Ph.D. student in the Electrical and Computer Engineering De- partment at the University of Connecticut. He received the B.S. degree in electri- cal engineering from the University of Connecticut in 2016. His research interests include estimation theory, target tracking, image processing, and machine learning. His doctoral research area is in estimation and signal processing with applications to target tracking. Yaakov Bar-Shalom received the B.S. and M.S. degrees from the Technion in 1963 and 1967 and the Ph.D. degree from Princeton University in 1970, all in EE. From 1970 to 1976, he was with Systems Control, Inc., Palo Alto,California.Currently he is Board of TrusteesDistinguished Professor in theDepartment of Electrical andCom- puter Engineering and Marianne E.Klewin Professor in Engineering at the Univer- sity of Connecticut. His current research interests are in estimation theory, target tracking, and data fusion. He has published over 500 papers and book chapters. He coauthored/edited eight books, including Tracking and Data Fusion (YBS Publish- ing, 2011), He has been elected Fellow of IEEE for “contributions to the theory of stochastic systems and of multi target tracking”.He served asAssociate Editor of the IEEE Transactions on Automatic Control and Automatica. He was General Chair- man of the 1985 ACC.He served as Chairman of the Conference Activities Board of the IEEE CSS and member of its Board of Governors. He served as General Chair- man of FUSION 2000, President of ISIF in 2000 and 2002, and Vice President for Publications in 2004–2013. In 1987, he received the IEEE CSS Distinguished Mem- ber Award. Since 1995, he is a Distinguished Lecturer of the IEEE AESS. He is co- recipient of theM.Barry CarltonAward for the best paper in the IEEETAESystems in 1995 and 2000. In 2002, he received the J. Mignona Data Fusion Award from the DoD JDL Data Fusion Group. He is a member of the Connecticut Academy of Sci- ence and Engineering. In 2008, he was awarded the IEEEDennis J. PicardMedal for Radar Technologies and Applications, and in 2012, the Connecticut Medal of Tech- nology. He has been listed by academic.research.microsoft (top authors in engineer- ing) as #1 among the researchers in Aerospace Engineering based on the citations of his work. He is the recipient of the 2015 ISIF Award for a Lifetime of Excellence in Information Fusion. Peter Willett received the BASc. degree (engineering science) from the University of Toronto in 1982, and the Ph.D. degree from Princeton University in 1986. He has been a faculty member in the Electrical and Computer Engineering Department at the University of Connecticut since 1986. Since 1998, he has been a Professor, and since 2003, an IEEEFellow.His primary areas of research have been statistical signal processing, detection, machine learning, communications, data fusion, and tracking. He was the Chief Editor of IEEE AESS Magazine (2018–2021). 124 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 16, NO. 2 DECEMBER 2021 Francesco A. N. Palmieri received his Laurea in Ingegneria Elettronica cum laude from Universita’ degli Studi di Napoli Federico II, Italy, in 1980. In 1981, he served as a 2nd Lieutenant in the Italian Army in fullfillment of draft duties. In 1982 and 1983, he was with the ITT firms: FACE SUD Selettronica in Salerno (currently Alca- tel), Italy, and Bell Telephone Manufacturing Company in Antwerpen, Belgium, as a designer of digital telephone systems. In 1983, he was awarded a Fulbright schol- arship to conduct graduate studies at the University of Delaware (USA), where he received the master’s degree in applied sciences and the Ph.D. degree in electrical engineering in 1985 and 1987, respectively. He was appointed assistant professor in Electrical and Systems Engineering at the University of Connecticut, Storrs (USA) in 1987, where he was awarded tenure and promotion to Associate Professor in 1993. In the same year, after a national competition, he was awarded the position of Pro- fessore Associato at the Dipartimento di Ingegneria Elettronica e delle Telecomuni- cazioni at Universit degli Studi di Napoli Federico II, Italy, where he has been until October 2000. In February 2000, he was nominated Full Professor of Telecommuni- cation Engineering after a national competition and appointed in November 2000 at Dipartimento di Ingegneria dell’Informazione, Universit della Campania Luigi Vanvitelli, Aversa, Italy. His research interests are in the areas of signal processing, communications, information theory, and machine learning. Francesco Palmieri was the recipient in 1999, with S. Marano and G. Franceschetti, of the S. A. Schelkunof Award for the best paper of the year on IEEE Transactions on Antennas and Propa- gation. Francesco A. N. Palmieri is also a Visiting Research Scholar at the Electrical and Computer Engineering Department at the University of Connecticut, Storrs CT, USA. Braham Himed received the engineer degree in electrical engineering from Ecole Nationale Polytechnique of Algiers, Algeria, in 1984, and the M.S. and Ph.D. de- grees in electrical engineering from Syracuse University, Syracuse, NY, in 1987 and 1990, respectively. Dr. Himed is a Division Research Fellow with the Air Force Re- search Laboratory, Sensors Directorate, Multi-Spectral Sensing and Detection Di- vision, Distributed RF Sensing Branch, in Dayton Ohio, where he is involved with several aspects of radar developments. His research interests include detection, esti- mation, multichannel adaptive signal processing, time series analyses, array process- ing, adaptive processing, waveform diversity, MIMO radar, passive radar, and over the horizon radar.Dr.Himed is the recipient of the 2001 IEEE region I award for his work on bistatic radar systems, algorithm development, and phenomenology.He is a Fellow of the IEEE and amember of the board of governors of the IEEEAerospace and Electronics Systems Society (AESS). He is also a past chair of the AESS Radar Systems Panel. He is the recipient of the 2012 IEEEWarren White award for excel- lence in radar engineering. Dr. Himed is also a Fellow of AFRL (Class of 2013). FUSION OF MULTIPATH DATA FROM A REMOTE SENSOR FOR OBJECT EXTRACTION 125</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

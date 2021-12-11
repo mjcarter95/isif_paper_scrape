@@ -1,0 +1,108 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237194.4244363</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2020</year>
+</publication_date>
+<journal_volume>
+<volume>15</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Bias Estimation for Collocated Sensors: Model Identification and Measurement Fusion</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Kaipei </given_name>
+<surname>Yang</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Peter </given_name>
+<surname>Willett</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Hiroshi </given_name>
+<surname>Inou</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2020</year>
+</publication_date>
+<pages>
+<first_page>91</first_page>
+<last_page>100</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom, X. R. Li, and T. Kirubarajan Estimation with Applications to Tracking and Navigation. Hoboken, NJ, USA:Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Tracking and Data Fusion. Storrs, CT, USA: YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Airborne GMTI radar position bias estimation using static-rotator targets of opportunity,” IEEE Trans. Aerosp. Electron. Syst., vol. 37, no. 2, pp. 695–699, Apr. 2001.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“Sensor bias estimation from measurements of known trajectories,” in Proc. 37th Southeastern Symp. Syst. Theory, Tuskegee, AL, USA, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Stochastic mean-reverting process for long-term prediction,” IEEE Trans. Aerosp. Electron. Syst., vol. 52, no. 5, pp. 2313–2330, Sep. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Maximum-likelihood estimation of mean reverting processes,” Onward, Inc., Working paper, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“Bias modeling and estimation for GMTI applications,” in Proc. 3rd Intl. Conf. Inf. Fusion, Paris, France, Jul. 2000.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>F. Daum “Bias CRLB in sine space for a 3-dimensional sensor,” IEEE Trans. Aerosp. Electron. Syst., vol. 56, no. 1, pp. 673–686, Feb. 2020.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Linear Systems. Englewood Cliffs, NJ, USA: Prentice-Hall, 1980.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Exact multi-sensor dynamic bias estimation with local tracks,” IEEE Trans. Aerosp. Electron. Syst., vol. 40, no. 2, pp. 576–590, Apr.2004.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Multisensor target tracking performance with bias compensations,” IEEE Trans. Aerosp. Electron. Syst., vol. 42, no. 3, pp. 1139–1149, Jul. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Modeling vessel kinematics using a stochastic mean-reverting process for long-term prediction,” IEEE Trans. Aerosp. Electron. Syst., vol. 52, no. 5, pp. 2313–2330, Oct. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Consistent estimation of randomly sampled Ornstein– Uhlenbeck process long-run mean for long-term target state prediction”, IEEE Signal Process. Lett., vol. 23, no. 11, pp. 1562–1566, Nov. 2016.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

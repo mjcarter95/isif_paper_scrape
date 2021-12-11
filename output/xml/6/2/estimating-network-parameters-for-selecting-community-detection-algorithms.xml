@@ -1,0 +1,144 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237335.036489</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<journal_volume>
+<volume>6</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Estimating Network Parameters for Selecting Community Detection Algorithms</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Leto </given_name>
+<surname>Peel</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<pages>
+<first_page>119</first_page>
+<last_page>130</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>J. Adibi, H. Chalupsky, E. Melz, and A. Valente The KOJAK group finder: Connecting the dots via inte- grated knowledge-based and statistical reasoning. In Proceedings of the national conference on Artificial Intel- ligence, 2004, 800—807.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>R. Guimera Community analysis in social networks. The European Physical Journal B-Condensed Matter and Complex Systems, 38, 2 (2004), 373—380.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Analysis of the structure of complex networks at different resolution levels. New Journal of Physics, 10 (2008), 053039.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Fast unfolding of communities in large networks. Journal of Statistical Mechanics: Theory and Experiment, (Oct. 2008), P10008.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Finding community structure in very large networks. Physical Review E, 70, 6 (Dec. 2004), 066111.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>An introduction to support vector machines. Cambridge University Press, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Clique percolation in random networks. Physical Review Letters, 94, 16 (Apr. 2005), 160202.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Community detection in graphs. Physics Reports, 486, 3—5 (Feb. 2010), 75—174.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Resolution limit in community detection. Proceedings of the National Academy of Sciences, 104, 1 (2007), 36.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Identifying covert sub-networks through iterative node clas- sification. In Proceedings of the First International Conference on Intelligence Analysis, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Community structure in social and biological networks. Proceedings of the National Academy of Sciences of the United States of America, 99, 12 (June 2002), 7821—7826.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>An algorithm to find overlapping community structure in networks. In Knowledge Discovery in Databases: PKDD 2007, 2007, 91—102.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Finding overlapping communities in networks by label propagation. New Journal of Physics, 12 (2010), 103018.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Functional cartography of complex metabolic networks. Nature, 433, 7028 (Feb. 2005), 895—900.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Modularity from fluctuations in random graphs and com- plex networks. Physical Review E, 70, 2 (2004), 025101.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Stochastic link and group detection. In Proceedings of the national conference on Artificial Intel- ligence, 2002, 798—806.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Benchmarks for testing community detection algorithms on directed and weighted graphs with overlapping communi- ties. Physical Review E, 80, 1 (2009), 016118.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Community detection algorithms: A comparative analysis. Physical Review E, 80, 5 (Nov. 2009), 056117.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Detecting the overlapping and hierarchical community structure of complex networks. New J. Phys., 11 (2009), 033015.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Race, School integration, and friendship segregation in America. American Journal of Sociology, 107, 3 (Nov. 2001), 679— 716.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>The structure and function of complex networks. SIAM Review, 45, 2 (Jan. 2003), 167—256.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Analysis of weighted networks. Physical Review E, 70, 5 (Nov. 2004), 056131.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Finding and evaluating community structure in networks. Physical Review E, 69, 2 (Feb. 2004), 026113.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Modularity produces small-world networks with dynamical time-scale separation. EPL (Europhysics Letters), 85 (Mar. 2009), 68006.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Near linear time algorithm to detect community structures in large-scale networks. Physical Review E, 76, 3 (2007), 036106.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Clustering of sparse data via network communities–A prototype study of a large online market. Journal of Statistical Mechanics: Theory and Experiment, (June 2007), P06016.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Maps of random walks on complex networks reveal com- munity structure. Proceedings of the National Academy of Sciences, 105, 4 (Jan. 2008), 1118—1123.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Community structures and role detection in music net- works. Chaos: An Interdisciplinary Journal of Nonlinear Science, 18 (2008), 043105.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>R. V. Sole Self-organization patterns in wasp and open source com- munities. Intelligent Systems, IEEE, 21, 2 (2006), 36—40. ESTIMATING NETWORK PARAMETERS FOR SELECTING COMMUNITY DETECTION ALGORITHMS 129</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Finding community structure in mega-scale social net- works. In Proceedings of the 16th International Conference on World Wide Web, Banff, Alberta, Canada, 2007, 1275—1276.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

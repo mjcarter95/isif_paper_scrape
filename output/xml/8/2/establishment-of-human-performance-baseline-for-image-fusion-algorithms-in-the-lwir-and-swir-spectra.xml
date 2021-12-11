@@ -1,0 +1,86 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237303.904915</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2013</year>
+</publication_date>
+<journal_volume>
+<volume>8</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Establishment of Human Performance Baseline for Image Fusion Algorithms in the  LWIR and SWIR Spectra</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Christopher </given_name>
+<surname>Howell</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Steve </given_name>
+<surname>Moyer</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2013</year>
+</publication_date>
+<pages>
+<first_page>133</first_page>
+<last_page>142</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>R. Blake A Primer on Binocular Rivalry, Including Current Contro- versies. Brain and Mind, 2, (2001), 5—38.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>A subspace learning approach to evaluating the perfor- mance of image fusion algorithms. Proceedings of SPIE, 7703, (2007).</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Benchmarking image fusion algorithm performance. Proceedings of SPIE, 8355, (2012).</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Discussion and Analyze on Image Fusion Technology International Conference on Machine Vision, (2009).</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Depth adjustment for stereoscopic images and subjective preference evaluation Journal of Electronic Imaging, 20(3), (2011).</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Establishment of Human Performance Baseline for Image Fusion Algorithms in the LWIR and MWIR Spectra. Journal of Advances in Information Fusion, (2013), submit- ted for publication.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Infrared imagery acquisition process supporting simulation and real image training Proceedings of SPIE, Modeling and Simulation for Defense Systems and Applications VII, 8403, 3 (May 2012).</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Standard target sets for field sensor performance measure- ments Proceedings of SPIE, 6207, (2006).</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Progress in color night vision Optical Engineering, 51(1), (2012). HUMAN PERFORMANCE BASELINE FOR IMAGE FUSION ALGORITHMS IN THE LWIR AND SWIR SPECTRA 141</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

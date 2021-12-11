@@ -1,0 +1,38 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 15</li>
+<li>Issue 2</li>
+<li>Pages 112 - 131</li>
+<li>December, 2020</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Track-to-Track Fusion Using Inside Information From Local IMM Estimators</h1>
+<p class="article-authors">Radu  Visina, Yaakov  Bar-Shalom, Peter  Willett and Dipak K. Dey</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">D. Acar and U.Orguner “Information decorrelation for an interacting multiple model filter,” in Proc. 21st Conf. on Inf. Fusion, Jul. 2018.</li>
+<li class="ref-2">“On the track-to-track correlation problem,” IEEE Trans. Automatic Control, vol. AC-26, no. 2, pp. 571–572, Apr. 1981.</li>
+<li class="ref-3">“The effect of the common process noise on the two-sensor fused-track covariance, ” IEEE Trans. Aerosp. Electron. Syst., vol. AES-22, no. 6, pp. 803–805, Nov. 1986.</li>
+<li class="ref-4">Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. Wiley, Chichester, NJ, 2001.</li>
+<li class="ref-5">Tracking and Data Fusion: A Handbook of Algorithms. YBS Publishing, Storrs, CT, 2011.</li>
+<li class="ref-6">“Comparison of tracklet fusion and distributed Kalman filter for track fusion,” in Proc. 17th Int. Conf. on Inf. Fusion (FUSION), Jul. 2014, pp. 1–8.</li>
+<li class="ref-7">“Graphical models for nonlinear distributed estimation,” in Proc. 7th Int. Conf. Inf. Fusion, Jul. 2004.</li>
+<li class="ref-8">“Approximate Chernoff fusion of Gaussian mixtures using sigma-points,” in Proc. 17th Int. Conf. on Inf. Fusion (FUSION), Jul. 2014, pp. 870–877.</li>
+<li class="ref-9">“Chernoff fusion of Gaussian mixtures for distributed maneuvering target tracking,” in Proc. 18th Int. Conf. Inf. Fusion (FUSION), Jul. 2015, pp. 870–877.</li>
+<li class="ref-10">“An information theoretic justification for covariance intersection and its generalization,” in Proc. 5th Int. Conf. Inf. Fusion (FUSION), Jul. 2002, pp. 505–511.</li>
+<li class="ref-11">“Simulations studies of multisensor track association and fusion methods,” in Proc. 2006 IEEE Aerosp. Conf., 2006, pp. 16.</li>
+<li class="ref-12">“Sensor fusion of Gaussian mixtures for ballistic target tracking in the re-entry phase,” Sensors, vol. 16, no. 8, Aug. 2016.</li>
+<li class="ref-13">“Optimal/robust distributed data fusion: a unified approach,” Proc. SPIE, vol. 4052, 2000.</li>
+<li class="ref-14">“On nonlinear track-to-track fusion with Gaussian mixtures,” in Proc. 17th Int. Conf. Inf. Fusion (FUSION), 2014, pp. 1–8.</li>
+<li class="ref-15">Linear Models in Statistics, 2nd ed. Wiley, Stockholm, Sweden, 2008. TRACK-TO-TRACK FUSION USING INSIDE INFORMATION FROM LOCAL IMM ESTIMATORS 129</li>
+</ul>
+
+</body>
+</html>

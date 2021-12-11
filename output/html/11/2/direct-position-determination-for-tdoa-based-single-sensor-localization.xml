@@ -1,0 +1,40 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 11</li>
+<li>Issue 2</li>
+<li>Pages 250 - 261</li>
+<li>December, 2016</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Direct Position Determination for TDOA-based Single Sensor Localization</h1>
+<p class="article-authors">Christian  Steffes and Marc  Oispuu</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">A. Amar and A. J. Weiss Direct geolocation of stationary wideband radio signal based on time delays and doppler shifts, in Proc. 15th Workshop on Statistical Signal Processing, Cardiff, Wales, Sep. 2009, pp. 101—104.</li>
+<li class="ref-2">An efficient method of passive emitter location, IEEE Trans. Aerosp. Electron. Syst., vol. 28, pp. 1091—1104, Oct. 1992.</li>
+<li class="ref-3">Target Motion Analysis (TMA), in Advanced Signal Processing Handbook, S. Stergioulos, Ed. New York, NY: CRC Press, 2001, ch. 9, pp. 284—301.</li>
+<li class="ref-4">Analysis of single-platform passive emitter location with terrain data, IEEE Trans. Aerosp. Electron. Syst., vol. 37, pp. 495—507, Apr. 2001.</li>
+<li class="ref-5">Signal models for TDOA/FDOA estimation, IEEE Trans. Aerosp. Electron. Syst., vol. 44, pp. 1543—1550, Oct. 2008.</li>
+<li class="ref-6">On passive emitter tracking in sensor networks, in Sensor Fusion and its Applications, C. Thomas, Ed. InTech, 2010, ch. 13, pp. 293—318.</li>
+<li class="ref-7">Periodic rf transmitter geolocation using a mobile receiver, in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), South Brisbane, QLD, Australia, Apr. 2015, pp. 2584—2588.</li>
+<li class="ref-8">Direct state determination of multiple sources with inter- mittent emission, in Proc. 17th European Signal Processing Conference, Glas- gow, Scotland, Aug. 2009, pp. 1948—1952.</li>
+<li class="ref-9">Direct detection and position determination of multiple sources with intermittent emission, Signal Processing, vol. 90, pp. 3056—3064, Dec. 2010.</li>
+<li class="ref-10">Distributed computation for direct position determination emitter location, IEEE Trans. Aerosp. Electron. Syst., vol. 50, pp. 2878—2889, Oct. 2014.</li>
+<li class="ref-11">Rf transmitter geolocation based on signal periodicity: Con- cept and implementation, in Proc. IEEE International Conference on Communications (ICC), London, England, Jun. 2015, pp. 4593—4598.</li>
+<li class="ref-12">High-resolution direction finding, in Handbook of Statistics, Signal Processing and its Appli- cations, N. K. Bose and C. R. Rao, Eds. Elsevier, 1993, vol. 10, ch. 18, pp. 755—817.</li>
+<li class="ref-13">Novel TDoA-based single sensor localization approach us- ing signal structure information, in Proc. 12th Workshop on Positioning, Navigation and Com- munication (WPNC), Dresden, Germany, Mar. 2015. 260 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 11, NO. 2 DECEMBER 2016</li>
+<li class="ref-14">Direct Single Sensor TDOA Localization Using Signal Structure Information, in 18th International Conference On Information Fusion (FUSION), Washington, D.C., USA, July 2015.</li>
+<li class="ref-15">Algorithms for ambiguity function processing, IEEE Trans. Acoust., Speech, Signal Processing, vol. 29, pp. 588—599, Jun. 1981.</li>
+<li class="ref-16">Statistical theory of passive location system, IEEE Trans. Aerosp. Electron. Syst., vol. 20, pp. 183—198, Mar. 1984.</li>
+<li class="ref-17">Single receiver emitter geolocation based on signal period- icity with oscillator instability, IEEE Trans. Signal Processing, vol. 62, pp. 1377—1385, Feb. 2014.</li>
+</ul>
+
+</body>
+</html>

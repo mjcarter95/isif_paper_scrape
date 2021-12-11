@@ -1,0 +1,151 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237242.4244287</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<journal_volume>
+<volume>12</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Multi Detection Joint Integrated Probabilistic Data Association Using Random Matrices with Applications to Radar-Based Multi Obj</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Michael </given_name>
+<surname>Schuster</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Johannes </given_name>
+<surname>Reuter</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Gerd </given_name>
+<surname>Wanielik</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<pages>
+<first_page>175</first_page>
+<last_page>188</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>M. Blaich, S. Köhler, M. Schuster, J. Reuter, and T. Tietz “Mission integrated collision avoidance for USVs using laser ranger,” in OCEANS 2015 MTS/IEEE, Genova, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“A bibliography of cluster (group) tracking,”</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>able: http://dx.doi.org/10.1117/12.548357. 186 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 12, NO. 2 DECEMBER 2017</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>and S. Godsill “Overview of Bayesian sequential Monte Carlo methods for group and extended object tracking,” Digital Signal Processing, vol. 25, no. 0, pp. 1—16, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Bayesian approach to extended object and cluster tracking using random matrices,” Aerospace and Electronic Systems, IEEE Transactions on, vol. 44, no. 3, pp. 1042—1059, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Tracking of extended objects and group targets using random matrices,” Signal Processing, IEEE Transactions on, vol. 59, no. 4, pp. 1409—1420, April 2011.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“A variational measurement update for extended target tracking with random matrices,” Signal Processing, IEEE Transactions on, vol. 60, no. 7, pp. 3827—3834, July 2012.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Tracking of extended object or target group using random matrix–Part I: New model and approach,” in Information Fusion (FUSION), 2012 15th International Conference on, July 2012, pp. 2177—2184.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“Tracking of extended object or target group using random matrix–Part II: Irregular object,” in Information Fusion (FUSION), 2012 15th International Conference on, July 2012, pp. 2185—2192.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Random hypersurface models for extended object track- ing,” in Signal Processing and Information Technology (ISSPIT), 2009 IEEE International Symposium on, Dec 2009, pp. 178— 183.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“APMHTapproach for extended objects and object groups,” Aerospace and Electronic Systems, IEEE Transactions on, vol. 48, no. 3, pp. 2349—2370, JULY 2012.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Histogram-PMHT for extended targets and target groups in images,” Aerospace and Electronic Systems, IEEE Transactions on, vol. 50, no. 3, pp. 2199—2217, July 2014.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“A PHD filter for tracking multiple extended targets using random matrices,” Signal Processing, IEEE Transactions on, vol. 60, no. 11, pp. 5657—5671, Nov 2012.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“An extended target CPHD filter and a gamma Gaussian inverse Wishart implementation,” IEEE Journal of Selected Topics in Signal Processing, vol. 7, no. 3, pp. 472—483, June 2013.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>A. Scheel “Multiple extended target tracking with labeled random finite sets,” IEEE Transactions on Signal Processing, vol. 64, no. 7, pp. 1638—1653, April 2016.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Probabilistic data association techniques for target track- ing with applications to sonar, radar and EO sensors,” Aerospace and Electronic Systems Magazine, IEEE, vol. 20, no. 8, pp. 37—56, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Integrated probabilistic data association,” Automatic Control, IEEE Transactions on, vol. 39, no. 6, pp. 1237—1241, 1994.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Joint integrated probabilistic data association: JIPDA,” Aerospace and Electronic Systems, IEEE Transactions on, vol. 40, no. 3, pp. 1093—1099, July 2004.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“A random matrix based method for tracking multiple extended targets,” in Information Fusion (FUSION), 2014 17th International Conference on, July 2014, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>and C. Wakayama “Multiple detection probabilistic data association filter for multistatic target tracking,” in Information Fusion (FUSION), 2011 Proceedings of the 14th International Conference on, July 2011, pp. 1—6.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>and T. Kirubarajan “A multiple-detection joint probabilistic data association filter,” Selected Topics in Signal Processing, IEEE Journal of, vol. 7, no. 3, pp. 461—471, June 2013.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>G. Wanielik “Generalized probabilistic data association for vehicle tracking under clutter,” in Intelligent Vehicles Symposium (IV), 2012 IEEE, 2012, pp. 962—968.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Fundamentals of Object Tracking. Cambridge University Press, 2011, cambridge Books</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>CBO9780511975837.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Design and Analysis of Modern Tracking Systems. Artech House Boston, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“Tracking with debiased consistent converted measure- ments versus EKF,” Aerospace and Electronic Systems, IEEE Transactions on, vol. 29, no. 3, pp. 1015—1022, Jul 1993.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“Tracking extended targets in high clutter using a GGIW- LMB filter,” in Sensor Data Fusion: Trends, Solutions, Applications (SDF), 2015, Oct 2015, pp. 1—6.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“New prediction for extended targets with random matri- ces,” IEEE Transactions on Aerospace and Electronic Systems, vol. 50, no. 2, pp. 1577—1589, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>“Iterative joint integrated probabilistic data association for multitarget tracking,” Aerospace and Electronic Systems, IEEE Transactions on, vol. 51, no. 1, pp. 642—653, January 2015. MULTI DETECTION JOINT INTEGRATED PROBABILISTIC DATA ASSOCIATION 187</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

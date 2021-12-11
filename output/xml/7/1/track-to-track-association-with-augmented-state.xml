@@ -1,0 +1,103 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237325.9603415</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2012</year>
+</publication_date>
+<journal_volume>
+<volume>7</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Track-to-Track Association with Augmented State</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Richard W.  Osborne</given_name>
+<surname>III</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Peter </given_name>
+<surname>Willett</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2012</year>
+</publication_date>
+<pages>
+<first_page>3</first_page>
+<last_page>15</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom, S. S. Blackman, and R. J. Fitzgerald Dimensionless score function for multiple hypothesis track- ing. IEEE Transactions on Aerospace and Electronic Systems, 43, 1 (Jan. 2007), 392—400.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Multisensor track-to-track association for tracks with de- pendent errors. Journal of Advances in Information Fusion, 1, 1 (July 2006), 3—14.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. J. Wiley and Sons, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Tracking and Data Fusion. YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Fundamentals of Astrodynamics. New York: Dover Publications, Inc., 1971.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>A multisensor-multitarget data association algorithm for heterogeneous sensors. IEEE Transactions on Aerospace and Electronic Systems, 29, 2 (Apr. 1997), 560—568.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>A generalized S-D assignment algorithm for multisensor- multitarget state estimation. IEEE Transactions on Aerospace and Electronic Systems, 33, 2 (Apr. 1997), 523—538.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>XMAP: Track-to-track association with metric, feature, and target-type data. In Proceedings of the 9th International Conference on Infor- mation Fusion, July 2006, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>A new extension of the Kalman filter to nonlinear systems. In Proceedings of SPIE International Symposium on Aerospace/Defense Sensing, Simulation and Controls, Or- lando, FL, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>A survey of maneuvering target tracking–Part II: Ballistic target models. In Proceedings of SPIE Conference on Signal and Data Processing of Small Targets, San Diego, CA, Aug. 2001.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Shalom Unbiased converted measurements for tracking. IEEE Transactions on Aerospace and Electronic Systems, 34, 3 (July 1998), 1023—1027.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Survey of assignment techniques for multitarget tracking. In Multitarget-Multisensor Tracking: Advances and Applica- tions vol. III, Y. Bar-Shalom andW. D. Blair, Eds., Dedham, MA: Artech House, 2000, ch. 2.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Dynamically adaptable m-best 2-D assignment algorithm and multilevel parallelization. IEEE Transactions on Aerospace and Electronic Systems, 35, 4 (Oct. 1999), 1145—1160. TRACK-TO-TRACK ASSOCIATION WITH AUGMENTED STATE 13 Richard W. Osborne, III obtained his B.S. and M.S. degrees in electrical engineer- ing from the University of Connecticut in 2004 and 2007, respectively. He is a graduate student currently working on his Ph.D. in electrical engineering at the University of Connecticut, Storrs, CT. His academic interests include target tracking, data fusion, and other areas of estimation.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

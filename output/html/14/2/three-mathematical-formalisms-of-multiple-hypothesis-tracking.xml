@@ -1,0 +1,70 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 14</li>
+<li>Issue 2</li>
+<li>Pages 176 - 198</li>
+<li>December, 2019</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Three Mathematical Formalisms of Multiple Hypothesis Tracking</h1>
+<p class="article-authors">Shozo  Mori, Chee-Yee  Chong and Kuo-Chu  Chang</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">Y. Bar-Shalom, X. R. Li, and T. Kirubarajan Estimation with Applications to Tracking and Navigation. Hoboken, NJ:Wiley, 2001.</li>
+<li class="ref-2">Design and Analysis ofModern Tracking Systems.Norwood, MA:Artech House, 1999.</li>
+<li class="ref-3">Bayesian Multiple Target Tracking, 2nd ed. Norwood, MA: Artech House, 2014.</li>
+<li class="ref-4">“Tracking methods in a multitarget environment,” IEEE Trans. Autom. Control, vol. 23, no. 4, pp. 618–626, Aug. 1978.</li>
+<li class="ref-5">“Application of 0–1 integer programming to multi-target tracking problems,” IEEE Trans. Autom. Control, vol. 23, no. 3, pp. 302–312, Jun. 1977.</li>
+<li class="ref-6">“An algorithm for tracking multiple targets,” IEEE Trans. Autom. Control, vol. 24, no. 6, pp. 843–854 Dec. 1979.</li>
+<li class="ref-7">“Tracking and classifying multiple targets without a priori identification,” IEEE Trans. Autom. Control, vol. 31, no. 5, pp. 401–409, May 1986.</li>
+<li class="ref-8">“Forty years of multiple hypothesis tracking,” J. Adv. Inf. Fusion, vol. 14, no. 2, Dec. 2019; an earlier version appeared as C.-Y. Chong, S. Mori, and D. B. Reid “Forty years of multiple hypothesis tracking—A review of key developments,” in Proc. 21st Int. Conf. Inf. Fusion, Cambridge,UK, Jul. 2018.</li>
+<li class="ref-9">“Three formalisms of multiple hypothesis tracking,” in Proc. 19th Int. Conf. Inf. Fusion, Heidelberg, Germany, Jul. 2016.</li>
+<li class="ref-10">Topology, 2nd ed. London, U.K.: Pearson Education, 2015.</li>
+<li class="ref-11">Functional Analysis. New York, NY:McGraw-Hill, 1973. THREE MATHEMATICAL FORMALISMS OF MULTIPLE HYPOTHESIS TRACKING 195</li>
+<li class="ref-12">“Tracking in a cluttered environment with probabilistic data association,” Automatica, vol. 11, pp. 451–460, Sep. 1975.</li>
+<li class="ref-13">“Extension of the probabilistic data association filter in multitarget tracking,” in Proc. 5th Symp. Nonlinear Estimation, San Diego, CA, Sep. 1974, pp. 16–21.</li>
+<li class="ref-14">Combinatorics on Words. Cambridge, U.K.: Cambridge University Press, 1997.</li>
+<li class="ref-15">An Introduction to the Theory of Point Processes, vol. I: Elementary Theory and Methods, 2nd ed. Berlin, Germany: Springer, 2003.</li>
+<li class="ref-16">“Point process formalism of multitarget tracking,” in Proc. 5th Int. Conf. Inf. Fusion, Annapolis, MD, Jul. 2002.</li>
+<li class="ref-17">Stochastic Theory and Cascade Processes. New York, NY: Academic Elsevier, 1969.</li>
+<li class="ref-18">“On the absorption of a nucleon cascade,” Proc. R. Irish Acad. Sect. A: Math. Phys. Sci., vol. 53, pp. 181–188, 1950.</li>
+<li class="ref-19">“Symmetric products of surfaces: a unifying theme for topology and physics,” in Proc. Summer School Mod.Math. Phys., SFIN XV (A3), Institute of Physics, Belgrade, Serbia, 2002.</li>
+<li class="ref-20">“Topologies on spaces of subsets,” Trans. Amer.Math. Soc., vol. 71, pp. 152–182, 1951.</li>
+<li class="ref-21">“A bargaining process modeled as an infinite dynamic non-cooperative game,” in Proc. Amer. Control Conf., Arlington, VA, Jun. 1982.</li>
+<li class="ref-22">Point Processes and Their Statistical Inference. New York, NY:Marcel Dekker, 1986.</li>
+<li class="ref-23">“The general theory of stochastic population processes,” Acta Math., vol. 108, pp. 1–31, 1962.</li>
+<li class="ref-24">“Sur les Processus Stationnaires Ponctuels,” in Le Calcul des Probabilites et ses Applications, no. 13. Paris, France: Centre National de la Recherche Scientifique, 1949.</li>
+<li class="ref-25">Statistical Multisource–Multitarget Information Fusion. Norwood,MA:Artech House, 2007.</li>
+<li class="ref-26">Advances in Statistical Multisource--Multitarget Information Fusion. Norwood,MA:Artech House, 2014.</li>
+<li class="ref-27">Mathematics of Data Fusion. Dordrecht, The Netherlands: Kluwer Academic Publishers, 1997.</li>
+<li class="ref-28">Real Analysis, 3rd ed. Upper Saddle River, NJ: Prentice-Hall, 1988.</li>
+<li class="ref-29">“A general form of integral,” Ann.Math., Second Ser., vol. 19, no. 4, pp. 276–294, Jun. 1918.</li>
+<li class="ref-30">“Joint multitarget probabilities for detection and tracking,” in Proc. SPIE AEROSENSE ’97 Conf. Acquisition, Tracking, Pointing XI, Orlando, FL, Apr. 1997, vol. 3086, pp. 122–128.</li>
+<li class="ref-31">“Evaluation of data association hypotheses: Non-Poisson i.i.d. cases,” in Proc. 7th Int. Conf. Inf. Fusion, Stockholm, Sweden, Jul. 2004, pp. 1133–1140.</li>
+<li class="ref-32">“A new class of methods for solving data association problems arising from multitarget tracking,” in Proc. Amer. Autom. Control Conf., Boston, MA, Jun. 1991, vol. 3, pp. 2302–2304.</li>
+<li class="ref-33">“Labeled random finite sets and the Bayes multi-target tracking filter,” IEEE Trans. Signal Process., vol. 62, no. 24, pp. 6554–6567, Dec. 2014.</li>
+<li class="ref-34">“Tracking aircraft by acoustic sensors—multiple hypothesis approach applied to possibly unresolved measurements,” in Proc. Amer. Control Conf., Minneapolis, MN, Jun. 1987, pp. 1099–1103.</li>
+<li class="ref-35">“Multiple-hypothesis tracking for targets producing multiple measurements,” IEEE Trans. Aerosp. Electron. Syst., vol. 54, no. 3, pp. 1485–1498, Jun. 2018.</li>
+<li class="ref-36">“Marginal multi-Bernoulli filters: RFS derivations of MHT, JIPDA, and association-based MeMBer,” IEEE Trans. Aerosp. Electron. Syst., vol. 51, no. 3, pp. 1664–1687, Jul. 2015.</li>
+<li class="ref-37">“Relationship between finite set statistics and the multiple hypothesis tracker,” IEEE Trans. Aerosp. Electron. Syst., vol. 54, no. 4, pp. 1902–1917, Jul. 2018.</li>
+<li class="ref-38">“The multiple hypothesis tracker derived from finite set statistics,” in Proc. 20th Int. Conf. Inf. Fusion, Xi’an, China, Jul. 2017.</li>
+<li class="ref-39">Á. F. García-Fernández “Poisson multi-Bernoulli mixture trackers: Continuity through random finite sets of trajectories,” in Proc. Int. Conf. Inf. Fusion, Cambridge, UK, Jul. 2018.</li>
+<li class="ref-40">Random Sets and Integral Geometry. Hoboken, NJ:Wiley, 1975.</li>
+<li class="ref-41">“A multiple hypothesis filter for tracking multiple targets in a cluttered environment,” Lockheed Report LMSC-D560254,Lockheed Palo Alto Research Laboratory, Palo Alto, CA, Sep. 1977.</li>
+<li class="ref-42">Stochastic Geometry and Its Applications, 2nd ed.Hoboken, NJ:Wiley, 1995.</li>
+<li class="ref-43">“Data association hypothesis evaluation for i.i.d. but non-Poisson multiple target tracking,” in Proc. SPIE Symp. Signal Data Process. Small Targets, O. Drummond Ed. Orland, FL, Apr. 2004, vol. 5428, pp. 224–236.</li>
+<li class="ref-44">“Random sets in data fusion,” in Proc. SPIE Symp. Signal Data Process. Tracking Small Targets, O. Drummond Ed. San Diego, CA,Aug. 1997, vol. 3163, pp. 278–289.</li>
+<li class="ref-45">Theory of Random Sets. Berlin, Germany: Springer, 2005. 196 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 14, NO. 2 DECEMBER 2019</li>
+<li class="ref-46">“The interacting multiple model algorithm for systems with Markovian switching coefficients,” IEEE Trans. Autom. Control, vol. 33, no. 8, pp. 780–783, Aug. 1988.</li>
+<li class="ref-47">Introduction to Semigroups. Durham, NC: Bell & Howell, 1973. ShozoMori received the B.S.degree in electric engineering fromWasedaUniversity, Tokyo, Japan, in 1970, the M.S. degree in control engineering from Tokyo Institute of Technology, Tokyo, Japan, in 1972, and the Ph.D. degree in engineering economic systems from Stanford University, Stanford, CA, in 1983. He is currently a Consul- tant with Systems & Technology Research (STR), Sacramento, CA, USA. He was with Advanced Decision & Information Systems (later acquired by Booz-Allen & Hamilton),Mountain View, CA,USA, from 1980 to 1991, Tiburon Systems (later ac- quired by Texas Instruments, and then by Raytheon Company), San Jose, CA,USA, from 1992 to 1999, Information Extraction & Transport, Arlington, VA, USA, from 2000 to 2003, ALPHATECH (later acquired by BAE Systems), Burlington, MA, USA, from 2003 to 2013,and STR,Woburn,MA,USA, from 2013 to present.His cur- rent research interests include multiple target tracking, particularly as applications of theories of random finite sets and finite point processes, distributed data fusion problems in various domains, and applications of theories of information processing and multiple-person decision-making systems to economic and social system analy- sis. He is an IEEE Life Member. He was a member of Program Committee for MSS National Sensor and Data Fusion Symposium, and was an Area/Assistant Editor for the IEEE Transactions on Systems, Man, and Cybernetics, IEEE Transactions onAerospace andElectronic Systems,and Journal of Advances in Information Fu- sion published by International Society of Information Fusion.He was the recipient of 2016 Joseph Mignogna Data Fusion Award.</li>
+</ul>
+
+</body>
+</html>

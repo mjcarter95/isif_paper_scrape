@@ -1,0 +1,293 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237227.4697924</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<journal_volume>
+<volume>13</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Assessing uncertainty handling representations of HLIF systems with URREF</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Mark </given_name>
+<surname>Locher</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Paulo </given_name>
+<surname>Costa</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<pages>
+<first_page>179</first_page>
+<last_page>197</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>R. G. Almond Graphical Belief Modeling CRC Press, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>The Omnibus model: a new model of data fusion? IEEE Aerospace and Electronic Systems Magazine, 15 (2000), 30—36.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Against the Gods: The Remarkable Story of Risk. New York: John Wiley & Sons, 1985.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Vagueness: An Exercise in Logical Analysis. Philosophy of Science, 4 (1937), 427—455.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Powell, D. D. Corkill, and E. H. Ruspini Issues and challenges of knowledge representation and reasoning methods in situation assessment (Level 2 Fusion). in Proceedings: Signal Processing, Sensor Fusion, and Tar- get Recognition XV, 6235 (2006).</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Costa, and J. Dezert URREF reliability versus credibility in information fusion (STANAG 2511). in Proceedings of the 16th International Conference On Information Fusion, 2013, 1600—1607.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Level 5: user refinement to aid the fusion process. in Multisensor, Multisource Information Fusion: Architec- tures, Algorithms, and Applications. International Society for Optics and Photonics, 2003, 288—298.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Karlsson, J. van Laere, L. Niklasson, M. Nilsson, A, Persson, and T. Ziemke On the Definition of Information Fusion as a Field of Research. ReportNo.HS-IKI-TR-07-006,UniversityofSkovde,School of Humanities and Informatics, Skovde, Sweden, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Knowledge Representation and Reasoning. Amsterdam: Morgan Kaufmann, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Verification of forecasts expressed in terms of probability. Monthly Weather Review, 28 (1950), 1—3.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>A general data fusion architecture. in Proceedings of the 6th International Conference on In- formation Fusion, 2003, 1465—1472.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>A review of data fusion techniques. The Scientific World Journal, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Towards unbiased evaluation of uncertainty reasoning: the URREF ontology. in Proceedings of the 15th International Conference on Information Fusion, 2012, 2301—8.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Dynamic decision making: a comparison of approaches. Journal of Multi-Criteria Decision Analysis, 9 (2000), 243—262.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>High-Level Data Fusion. Artech House, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Sensor fusion potential exploitation-innovative architec- tures and illustrative applications. Proceedings of the IEEE, 85 (1997), 24—38.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Waal, G. Pavlin, and P. Costa Uncertainty representation, quantification and evaluation for data and information fusion. in Proceedings of the 18th International Conference on Information Fusion, 2015, 50—57.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Presentation of DSmT. in J. Dezert and F. Smarandache (Eds.). Advances and Applications of DSmT for Information Fusion. American Research Press, 2004, 3—35.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Canonical probabilistic models for knowledge engineering. Report No. CISIAD-06-01, Madrid, Spain: Universidad Nacional de Educación a Distancia, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>S. Sun, and W. Zhang From data fusion to knowledge fusion. Proceedings of the Very Large Database Endowment, 7 (2014), 881—892.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Measuring confirmation and evidence. The Journal of Philosophy, 97 (2000), 663—672.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Toward a Theory of Situation Awareness in Dynamic Sys- tems. Human Factors, 37 (1995), 32—64.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Theoretical underpinnings of situation awareness: A critical review. in M. R. Endsley and D. J. Garland (Eds.) Situation Aware- ness Analysis and Measurement. Mahwah, NJ: Lawrence Earlbaum Associates, 2000, pp. 3—32.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Cross A review of data fusion models and architectures: towards engineering guidelines. Neural Computing & Applications, 14 (2005), 273—281.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Working Group (ETURWG) Homepage: http://eturwg.c4i.gmu.edu.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>High-level information fusion: An overview. Journel of Advances in Information Fusion, 8 (2013), 33—72. 194 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 13, NO. 2 DECEMBER 2018</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Architectural aspects for context exploitation in information fusion. in Context-Enhanced Information Fusion. Springer, 2016, 185—203.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Probabilistic relational models. in L. Getoor and B. Taskar (Eds.) Introduction to Relational Statistical Models. The MIT Press, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Strictly proper scoring rules, prediction, and estimation. Journal of the American Statistical Association, 102 (2007), 359—378.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>An introduction to multisensor data fusion. Proceedings of the IEEE, 85 (1997), 6—23.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Multi-sensor data fusion. in M. E. Liggins, D. L. Hall and J. Llinas (Eds.) Handbook of Multisensor Data Fusion: Theory and Practice. Boca Raton, FL: CRC Press, 2009, 1—14.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Hypothesis management for information fusion. in Proceedings of the Fifth International Conference On Information Fusion, 2002, 894—899.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Subjective Logic. Springer, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Determining model correctness for situations of belief fu- sion. in Proceedings of the 16th International Conference On Information Fusion, 2013, 1886—1893.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Knowledge, belief and uncertainty. in E. Bossé, J. Roy, and S. Wark (Eds.) Concepts, Models, and Tools for Information Fusion. Artech House, 2007, 141—150.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Semantic criteria for the assessment of uncertainty handling fusion models. in Proceedings of the 19th International Conference On Information Fusion, 2016, 488—495.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Prevost Characterization of hard and soft sources of information: a practical illustration. in Proceedings of the 17th International Conference On Information Fusion, 2014, 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Dissecting uncertainty-based fusion techniques for mar- itime anomaly detection. in Proceedings of the 18th International Conference On Information Fusion, 2015, 34—41.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Towards Visual Data Fusion. in Proceedings of the National Symposium of Sensor and Data Fusion, 1998, Lexington, MA, USA.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Multisensor data fusion: A review of the state-of-the-art. Information Fusion, 14 (2013), 28—44.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Risk, Uncertainty, and Profit. Boston, MA: Hart, Schaffner & Marx; Houghton Mifflin Co., 1921.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>P-CLASSIC: a tractable probabilistic description logic. Proceedings of the Fourteenth National Conference on Artificial Intelligence and Ninth Conference on Innovative Applications of Artificial Intelligence, 1997, 390—397.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>Representing Uncertain Knowledge: An Artificial Intelli- gence Approach. Kluwer Academic Publishers, Dordrecht, Boston, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>Grand challenges of information fusion. in Proceedings of the Sixth International Conference on Information Fusion, 2003, 213—220.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>The state transition data fusion model. in E. Blasch, E. Bossé, and D. A. Lambert. (Eds.) High- Level Information Fusion Management and Systems De- sign. Artech House, 2012, 33—79.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Probabilistic ontologies for knowledge fusion. in Proceedings of the 11th International Conference On Information Fusion, 2008, 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>Martin, and T. Lukasiewicz Uncertainty Reasoning for the World Wide Web. W3C Incubator Group Report 31, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Law of Armed Conflict Deskbook, 5th ed. The Judge Advocate General’s Legal Center and School, U.S. Army, Charlottesville, Virginia, USA, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>Multiple hypotheses situation assessment. in Proceedings of the Sixth International Conference of Information Fusion, 2003, 972—978.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>Statistical Multisource-Multitarget Information Fusion. Artech House, Inc, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>Scoring rules for continuous probability distributions. Management Science 22 (1976), 1087—1096.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>Kolobov BLOG: Probabilistic Models with Unknown Objects. in L. Getoor and B. Taskar (Eds.) Statistical Relational Learning. The MIT Press, 2007, 373—398.</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>Oxford English Dictionary (Online version). https://en.oxforddictionaries.com/definition/opinion.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>Identity uncertainty and citation matching. in Advances in Neural Information Processing Systems, 2002, 1401—1408.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>Sensor data fusion. Journal of Intelligent and Robotic Systems, 1 (1988), 103— 116.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>Information extraction: past, present and future. in Multi-Source, Multilingual Information Extraction and Summarization. Springer, 2013, 23—49.</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>M. Hinman Data- and Information-fusion models. in E. Bosse, J. Roy and S. Wark, (Eds.) Concepts, Models, and Tools for Information Fusion. Artech House, Boston, 2007, 69—118. ASSESSING UNCERTAINTY HANDLING REPRESENTATIONS OF HLIF SYSTEMS WITH URREF 195</unstructured_citation>
+</citation>
+<citation key="ref-58">
+<unstructured_citation>Information fusion: a high-level architecture overview. in Proceedings of the Fifth International Conference On Information Fusion, 2002, 680—686.</unstructured_citation>
+</citation>
+<citation key="ref-59">
+<unstructured_citation>The Evidential Foundations of Probabilistic Reasoning. Northwestern University Press, 1994.</unstructured_citation>
+</citation>
+<citation key="ref-60">
+<unstructured_citation>Evidence marshaling for imaginative fact investigation. Artificial Intelligence and Law, 9 (2001), 165—188.</unstructured_citation>
+</citation>
+<citation key="ref-61">
+<unstructured_citation>A science of evidence: contributions from law and proba- bility. Law, Probability & Risk, 8 (2009), 197—231.</unstructured_citation>
+</citation>
+<citation key="ref-62">
+<unstructured_citation>A Mathematical Theory of Evidence. Princeton University Press, 1976.</unstructured_citation>
+</citation>
+<citation key="ref-63">
+<unstructured_citation>The extended OODA model for data fusion systems. Proceedings of the Fourth International Conference On Information Fusion, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-64">
+<unstructured_citation>Valuation-based systems for Bayesian decision analysis. Operations Research, 40 (1992), 463—484.</unstructured_citation>
+</citation>
+<citation key="ref-65">
+<unstructured_citation>Advances and Applications of DSmT for Information Fu- sion, Vol. IV: Collected Works. Infinite Study, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-66">
+<unstructured_citation>The combination of evidence in the transferable belief model. IEEE Transactions on Pattern Analysis and Machine Intel- ligence, 12 (1990), 447—458.</unstructured_citation>
+</citation>
+<citation key="ref-67">
+<unstructured_citation>Patterns for context-based knowledge fusion in decision support systems. Information Fusion, 21 (2015), 114—129.</unstructured_citation>
+</citation>
+<citation key="ref-68">
+<unstructured_citation>Ignorance and Uncertainty: Emerging Paradigms. New York: Cognitive Science. Springer-Verlag, 1989.</unstructured_citation>
+</citation>
+<citation key="ref-69">
+<unstructured_citation>K. Bryan, D. D. Bloisi, and D. Nardi A framework for dynamic context exploitation. in Proceedings of the 18th International Conference On Information Fusion, 2015, 1160—1167.</unstructured_citation>
+</citation>
+<citation key="ref-70">
+<unstructured_citation>Knowledge Representation: Logical, Philosophical, and Computational Foundations. Pacific Grove: Brooks/Cole, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-71">
+<unstructured_citation>Foundations of situation and threat assessment. in M. E. Liggins, D. L. Hall, and J. Llinas (Eds.) Handbook of Multisensor Data Fusion: Theory and Practice. Boca Raton, FL: CRC Press, 2009, 691—699.</unstructured_citation>
+</citation>
+<citation key="ref-72">
+<unstructured_citation>Revisions to the JDL data fusion model. in Sensor Fusion: Architectures, Algorithms, and Applica- tions III. International Society for Optics and Photonics, 1999, 430—442.</unstructured_citation>
+</citation>
+<citation key="ref-73">
+<unstructured_citation>Traceable uncertainty. in Proceedings of the 16th International Conference On Information Fusion, 2013, 1582—1589.</unstructured_citation>
+</citation>
+<citation key="ref-74">
+<unstructured_citation>Sensor integration and data fusion. Journal of Robotic Systems, 7 (1990), 337—372.</unstructured_citation>
+</citation>
+<citation key="ref-75">
+<unstructured_citation>Air Force Distributed Common Ground System. Website: http://www.af.mil/About-Us/Fact-Sheets/Display/ Article/104525/air-force-distributed-common-ground- system.</unstructured_citation>
+</citation>
+<citation key="ref-76">
+<unstructured_citation>Rule 401. Federal Rules of Evidence, 1975.</unstructured_citation>
+</citation>
+<citation key="ref-77">
+<unstructured_citation>Weight of evidence: a review of concept and methods. Risk Analysis, 25 (2005), 1545—1557.</unstructured_citation>
+</citation>
+<citation key="ref-78">
+<unstructured_citation>Toward a Unified Approach to Information Integration: a Review Paper on Data/Information Fusion. Report No. PNNL-15428, Pacific Northwest National Lab- oratory, Richland, WA, USA, 2005. 196 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 13, NO. 2 DECEMBER 2018</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

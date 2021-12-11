@@ -1,0 +1,233 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237325.97131</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2012</year>
+</publication_date>
+<journal_volume>
+<volume>7</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>A Probabilistic Computational Model for Identifying Organizational Structures from Uncertain Activity Data</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Xu </given_name>
+<surname>Han</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Feili </given_name>
+<surname>Yu</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Georgiy </given_name>
+<surname>Levchuck</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Krishna </given_name>
+<surname>Pattipati</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Fang </given_name>
+<surname>Tu</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2012</year>
+</publication_date>
+<pages>
+<first_page>78</first_page>
+<last_page>96</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom, P. Willett, and X. Tian Tracking and Data Fusion: A Handbook of Algorithms. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>An auction algorithm for shortest paths. Society for Industrial and Applied Mathematics Journal on Optimization, 1 (1991), 425—447.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Quadratic and three-dimensional assignment problems. Annotated Bibliographies in Combinatorial Optimization, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Graphical models for graph matching: Approximate models and optimal algorithms. Pattern Recognition Letters, 26 (2005), 339—346.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Structural matching in computer vision using probabilistic relaxation. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 17, 8 (Aug. 1995), 749—764.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>An exact algorithm for the quadratic assignment problem. Operations Research, 37 (1980), 760—768.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Spectral graph theory. American Mathematic Society, CBMS Series, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Solving large quadratic assignment problems in parallel. Computational Optimization and Applications, 8 (1997), 111—127.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Dynamic classification of groups through social network analysis and HMMs. In The Proceedings of IEEE Aerospace Conference, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>A survey of the quadratic assignment problem with appli- cations. Morehead Electronic Journal of Applicable Mathematics, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Netest: estimating a terrorist network’s structure. Computational & Mathematical Organization Theory, 8 (2002), 235—241.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>NETSTAR: An intelligence analyst’s decision tool. Aptima Inc., 2007.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>An image understanding system using attributed symbolic representation and inexact graph-matching. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 8, 5 (1986), 604—618.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>A graph distance metric combining maximum common sufgraph and minimum common supergraph. Pattern Recognition Letter, 22, 6—7 (2001), 753—758.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>An energy function and continues edit process for graph matching. Neural Computation, 10, 7 (Oct. 1998), 1873—94.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Sampling and inference in a population graph. International Statistical Review, 48 (1980), 33—41.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Network sampling and model fitting. Models and Methods in Social Network Analysis, Cambridge University Press, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Centrality in social networks: Conceptual clarification. Social Networks, (1979), 215—240.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Computers and Intractability: A Guide to the Theory of NP- Completeness. New York: Freeman, 1979.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>An introduction to probabilistic graphical models for rela- tional data. Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, 29, 1 (2006), 32—39.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Heuristics and Biases: The Psychology of Intuitive Judgment. Cambridge University Press, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>A graduated assignment algorithm for graph matching. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 18, 4 (Apr. 1996), 377—388.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Genetic Algorithms in Search, Optimization and Machine Learning. Addison-Wesley, 1989. HAN, ET AL.: A PROBABILISTIC COMPUTATIONAL MODEL FOR IDENTIFYING ORGANIZATIONAL STRUCTURES 93</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>A new lower bound via projection for the quadratic assign- ment problem. Mathematics of Operations Research, 17 (1992), 727—739.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Organizational structure identification using a hidden Markov random field model and a novel algorithm for quadratic assignment problem. IEEE International Conference on System, Man, and Cyber- netics, Singapore, Oct. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Discrete relaxation. Pattern Recognition, 23 (1990), 711—733.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>A novel chaotic search for quadratic assignment problems. European Journal of Operational Research, 139, 3 (2002), 543—556.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>An exponential family of probability distributions for di- rected graphs (with discussion). Journal of the American Statistical Association, 76, 373 (1981), 33—50.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Probabilistic relaxation for matching problems in machine vision. Proceedings of Fourth International Conference on Computer Vision, 1993, pp. 666—673.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Probabilistic frame-based systems. Proceedings of the Fifteenth National Conference on Artifi- cial Intelligence, 1998, pp. 580—587.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>NetSTAR: Methodology to identify enemy network struc- ture, tasks, activities, and roles. 10th International Command and Control Research and Tech- nology Symposium, McLean, VA, June 13—16, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>A greedy randomized adaptive search procedure for the quadratic assignment problem. The Center for Discrete Mathematics and Theoretical Com- puter Science Series in Discrete Mathematics and Theoretical Computer Science, 1994.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>T. Querido A survey for the quadratic assignment problem. European Journal of Operational Research, 176 (2007), 657—690.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Structural graph matching using the EM algorithm and singular value decomposition. IEEE Transactions on Pattern Analyses and Machine Intelli- gence, 23, 10 (2001), 1120—1136.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>A GRASP for the bi-quadratic assignment problem. Theory and Methodology, 105 (1998), 613—621.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>A modified simulated annealing algorithm for the quadratic assignment problem. Informatica, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Dutra, D. Page, and V. S. Costa Relational data mining with inductive logic programming for link discovery. In Proceedings of the National Science Foundation Workshop on Next Generation Data Mining, Baltimore, MD, Nov. 2002.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Social networks and information systems: Ongoing and future research streams. Journal of the Association for Information Systems, 11 (Feb. 2010), special issue, 61—68.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Hidden Markov models and bayesian networks for counter- terrorism. In R. Popp, J.Yen. Emergent Information Technologies and Enabling Policies for Counter-Terrorism, Wiley-IEEE Press, June 2006.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Model-based scene recognition using graph fuzzy homo- morphism solved by genetic algorithm. 2nd International Workshop on Graph-Based Representations in Pattern Recognition, Castle of Haindorf, Austria, 1999, pp. 61—70.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>An m-Best S-D assignment algorithm and parallelization with application to multitarget tracking. IEEE Transactions on Aerospace and Electronic Systems, 37 (Jan. 2001), 22—39.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>Computing lower bounds for the quadratic assignment problem with an interior point algorithm for linear pro- gramming. Operations Research, 43 (1995), 781—791.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>An algorithm for associating the features of 2 images. In Proceedings of Royal Society, London Series B, 244, 1309 (1991), 21—26.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>Feature-based correspondence–An eigenvector approach. Image and Vision Computing, 10 (1992), 283—288.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Social network analysis via matrix decompositions: Al Qaeda. Available from http://www.cs.queensu.ca/home/skill/ alqaeda.pdf, Aug. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Information integration via hierarchical and hybrid Bayesian networks. IEEE Transactions on System, Man and Cybernetics, Part A: Systems and Humans, special issue on Advances in Hetero- geneous and Complex System Integration, 1, 1 (Jan. 2006), 19—34.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>Solution procedures for the dynamic facility layout prob- lem. Annals of Operations Research, 76 (1998), 323—342.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>MAP estimation via Agreement on (hyper) trees: Message- passing and linear-programming approaches. IEEE transactions on Information Theory, 51, 11 (Oct. 2005), 3697—3717.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>Logit models and logistic regressions for social networks: I. An introduction to Markov random graphs and p*. Psychometrika, 60 (1996), 3—18.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>A Bayesian compatibility model for graph matching. Pattern Recognition Letters, 17 (1996), 263—276.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>A new linearization method for quadratic assignment prob- lems. Optimization Methods and Software, 21 (2006), 805—818.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>CrimeNet explorer: A framework for criminal network knowledge discovery. Association for Computing Machinery Transactions on Infor- mation Systems, 23, 2 (Apr. 2005), 201—226. 94 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 7, NO. 1 JUNE 2012</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>A probabilistic computational model for identifying orga- nizational structures from uncertain message data. 10th international Conference on Information Fusion, Que- bec, Canada, 2007.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

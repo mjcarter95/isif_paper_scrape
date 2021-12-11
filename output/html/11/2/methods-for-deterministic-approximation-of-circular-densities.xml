@@ -1,0 +1,72 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 11</li>
+<li>Issue 2</li>
+<li>Pages 138 - 156</li>
+<li>December, 2016</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Methods for Deterministic Approximation of Circular Densities</h1>
+<p class="article-authors">Gerhard  Kurz, Igor  Gilitschenski, Roland Y.  Siegwart and Uwe D.  Hanebeck</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">Abramowitz, M., and Stegun, I. A. Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables, 10th ed. Dover, New York, 1972.</li>
+<li class="ref-2">Wrapped Gaussian Mixture Models for Modeling and High-Rate Quantization of Phase Data of Speech. IEEE Transactions on Audio, Speech, and Language Process- ing 17, 4 (2009), 775—786.</li>
+<li class="ref-3">Computation of Modified Bessel Functions and Their Ra- tios. Mathematics of Computation 28, 125 (1974), 239—251.</li>
+<li class="ref-4">Cubature Kalman Filters. IEEE Transactions on Automatic Control 54, 6 (2009), 1254—1269.</li>
+<li class="ref-5">A Tutorial on Particle Filters for Online Nonlinear/Non- Gaussian Bayesian Tracking. IEEE Transactions on Signal Processing 50, 2 (2002), 174— 188.</li>
+<li class="ref-6">A Recursive Fusion Filter for Angular Data. In IEEE International Conference on Robotics and Biomimet- ics (ROBIO 2009) (2009), pp. 882—887.</li>
+<li class="ref-7">An Optimal Phase Demodulator. Stochastics 1, 1—4 (1975), 3—23.</li>
+<li class="ref-8">Statistical Modelling of Directional Wind Speeds Using Mixtures of von Mises Distributions: Case Study. Energy Conversion and Management 49, 5 (May 2008), 897— 907.</li>
+<li class="ref-9">Estimating Directional Statistics Using Wavefield Modeling and Mixtures of von-Mises Distributions. IEEE Signal Processing Letters 21, 12 (2014), 1496—1500.</li>
+<li class="ref-10">Circular Distributions Based on Nonnegative Trigonometric Sums. Biometrics 60, 2 (2004), 499—503.</li>
+<li class="ref-11">Problems with the Current Definitions of the Standard Deviation of Wind Direction. Journal of Climate and Applied Meteorology 26, 11 (1987), 1522—1529.</li>
+<li class="ref-12">Bearings-Only Sensor Scheduling Using Circular Statistics. In Proceedings of the 16th International Conference on Infor- mation Fusion (Fusion 2013) (Istanbul, Turkey, July 2013).</li>
+<li class="ref-13">A Stochastic Filter for Planar Rigid-Body Motions. In Proceedings of the 2015 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2015) (San Diego, California, USA, Sept. 2015). METHODS FOR DETERMINISTIC APPROXIMATION OF CIRCULAR DENSITIES 153</li>
+<li class="ref-14">Non-Identity Measurement Models for Orientation Estima- tion Based on Directional Statistics. In Proceedings of the 18th International Conference on In- formation Fusion (Fusion 2015) (Washington D. C., USA, July 2015).</li>
+<li class="ref-15">Unscented Orientation Estimation Based on the Bingham Distribution. IEEE Transactions on Automatic Control 61, 1 (Jan. 2016), 172—177.</li>
+<li class="ref-16">Localized Cumulative Distributions and a Multivariate Gen- eralization of the Cramér-von Mises Distance. In Proceedings of the 2008 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2008) (Seoul, Republic of Korea, Aug. 2008), pp. 33— 39.</li>
+<li class="ref-17">Moment-based Dirac Mixture Approximation of Circular Densities. In Proceedings of the 19th IFAC World Congress (IFAC 2014) (Cape Town, South Africa, Aug. 2014).</li>
+<li class="ref-18">Incomplete Bessel Funcion I 0 : The von Mises Distribution. ACM Transactions On Mathematical Software 3, 3 (Sept. 1977), 279—284.</li>
+<li class="ref-19">Gaussian Filter based on Deterministic Sampling for High Quality Nonlinear Estimation. In Proceedings of the 17th IFAC World Congress (IFAC 2008) (Seoul, Republic of Korea, July 2008), vol. 17.</li>
+<li class="ref-20">New Families of Wrapped Distributions for Modeling Skew Circular Data. Communications in Statistics–Theory and Methods 33, 9 (2004), 2059—2074.</li>
+<li class="ref-21">Topics in Circular Statistics. World Scientific, 2001.</li>
+<li class="ref-22">Adaptive Radial Rule based Cubature Kalman Filter. In American Control Conference (ACC), 2015 (2015), pp. 3156—3161.</li>
+<li class="ref-23">High-degree cubature Kalman filter. Automatica 49, 2 (2013), 510—518.</li>
+<li class="ref-24">Unscented Filtering and Nonlinear Estimation. Proceedings of the IEEE 92, 3 (Mar. 2004), 401—422.</li>
+<li class="ref-25">Gaussian Particle Filtering. IEEE Transactions on Signal Processing 51, 10 (2003), 2592—2601.</li>
+<li class="ref-26">Benjelloun, M. Circular Multiple Change-points Estimation Applied to the GPS-L2C Phase Signal. In Proceedings of the 17th International Conference on Infor- mation Fusion (Fusion 2014) (Salamanca, Spain, July 2014).</li>
+<li class="ref-27">Directional Estimation for Robotic Beating Heart Surgery. PhD thesis, Karlsruhe Institute of Technology, Intelligent Sensor-Actuator-Systems Laboratory, Karlsruhe, Germany, 2015.</li>
+<li class="ref-28">Nonlinear Stochastic Model Predictive Control in the Cir- cular Domain. In Proceedings of the 2015 American Control Conference (ACC 2015) (Chicago, Illinois, USA, July 2015).</li>
+<li class="ref-29">Constrained Object Tracking on Compact One-dimensional Manifolds Based on Directional Statistics. In Proceedings of the Fourth IEEE GRSS International Con- ference on Indoor Positioning and Indoor Navigation (IPIN 2013) (Montbeliard, France, Oct. 2013).</li>
+<li class="ref-30">Bivariate Angular Estimation Under Consideration of De- pendencies Using Directional Statistics. In Proceedings of the 53rd IEEE Conference on Decision and Control (CDC 2014) (Los Angeles, California, USA, Dec. 2014).</li>
+<li class="ref-31">Recursive Nonlinear Filtering for Angular Data Based on Circular Distributions. In Proceedings of the 2013 American Control Conference (ACC 2013) (Washington D. C., USA, June 2013).</li>
+<li class="ref-32">Deterministic Approximation of Circular Densities with Symmetric Dirac Mixtures Based on Two Circular Mo- ments. In Proceedings of the 17th International Conference on Infor- mation Fusion (Fusion 2014) (Salamanca, Spain, July 2014).</li>
+<li class="ref-33">Efficient Evaluation of the Probability Density Function of a Wrapped Normal Distribution. In Proceedings of the IEEE ISIF Workshop on Sensor Data Fusion: Trends, Solutions, Applications (SDF 2014) (Bonn, Germany, Oct. 2014).</li>
+<li class="ref-34">Nonlinear Measurement Update for Estimation of Angular Systems Based on Circular Distributions. In Proceedings of the 2014 American Control Conference (ACC 2014) (Portland, Oregon, USA, June 2014).</li>
+<li class="ref-35">Recursive Bayesian Filtering in Circular State Spaces. IEEE Aerospace and Electronic Systems Magazine 31, 3 (Mar. 2016), 70—87.</li>
+<li class="ref-36">Unscented von Mises-Fisher Filtering. IEEE Signal Processing Letters 23, 4 (Apr. 2016), 463—467.</li>
+<li class="ref-37">libDirectional, 2015. https://github.com/libDirectional.</li>
+<li class="ref-38">Dynamic Surface Reconstruction by Recursive Fusion of Depth and Position Measurements. Journal of Advances in Information Fusion 9, 1 (June 2014), 13—26.</li>
+<li class="ref-39">Heart Phase Estimation Using Directional Statistics for Robotic Beating Heart Surgery. In Proceedings of the 18th International Conference on In- formation Fusion (Fusion 2015) (Washington D. C., USA, July 2015).</li>
+<li class="ref-40">Toroidal Information Fusion Based on the Bivariate von Mises Distribution. In Proceedings of the 2015 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2015) (San Diego, California, USA, Sept. 2015).</li>
+<li class="ref-41">A Multivariate von Mises Distribution with Applications to Bioinformatics. Canadian Journal of Statistics 36, 1 (2008), 99—109. 154 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 11, NO. 2 DECEMBER 2016</li>
+<li class="ref-42">Directional Statistics, 1st ed. Wiley, Baffins Lane, Chichester, West Sussex, Eng- land, 1999.</li>
+<li class="ref-43">On Wrapping the Kalman Filter and Estimating with the SO(2) Group. In Proceedings of the 19th International Conference on In- formation Fusion (Fusion 2016) (Heidelberg, Germany, July 2016).</li>
+<li class="ref-44">Bearing-Only Tracking with a Mixture of von Mises Dis- tributions. In Proceedings of the 2012 IEEE/RSJ International Confer- ence on Intelligent Robots and Systems (IROS 2012) (Oct. 2012), pp. 707—712.</li>
+<li class="ref-45">Numerical Optimization, 2nd ed. Springer Series in Operations Research and Fi- nancial Engineering. Springer Science & Business Media, 2006.</li>
+<li class="ref-46">Multimodal Circular Filtering Using Fourier Series. In Proceedings of the 18th International Conference on In- formation Fusion (Fusion 2015) (Washington D. C., USA, July 2015).</li>
+<li class="ref-47">Nonlinear Prediction for Circular Filtering Using Fourier Series. In Proceedings of the 19th International Conference on In- formation Fusion (Fusion 2016) (Heidelberg, Germany, July 2016).</li>
+<li class="ref-48">Statistische Methoden beim Gefügestudium krystalliner Schiefer. Sitzungsberichte Akademie der Wissenschaften in Wien 126 (July 1917), 515—539.</li>
+<li class="ref-49">Density Approximation Based on Dirac Mixtures with Re- gard to Nonlinear Estimation and Filtering. In Proceedings of the 2006 IEEE Conference on Decision and Control (CDC 2006) (San Diego, California, USA, Dec. 2006).</li>
+</ul>
+
+</body>
+</html>

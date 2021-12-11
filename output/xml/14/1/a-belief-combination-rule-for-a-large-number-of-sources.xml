@@ -1,0 +1,229 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237216.4838784</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2019</year>
+</publication_date>
+<journal_volume>
+<volume>14</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>A Belief Combination Rule for a Large Number of Sources</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Kuang </given_name>
+<surname>Zhou</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Arnaud </given_name>
+<surname>Martin</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Quan </given_name>
+<surname>Pan</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2019</year>
+</publication_date>
+<pages>
+<first_page>22</first_page>
+<last_page>40</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>K. Zhou, A. Martin, and Q. Pan “Evidence combination for a large number of sources,” in 20th International Conference on Information Fusion. IEEE, 2017, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“A k-nearest neighbor classification rule based on dempster- shafer theory,” Systems, Man and Cybernetics, IEEE Transactions on, vol. 25, no. 5, pp. 804—813, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“An improved method to construct basic probability as- signment based on the confusion matrix for classification problem,” Information Sciences, vol. 340, pp. 250—261, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“ECM: An evidential version of the fuzzy c-means algo- rithm,” Pattern Recognition, vol. 41, no. 4, pp. 1384—1397, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Ecmdd: Evidential c-medoids clustering with multiple pro- totypes,” Pattern Recognition, vol. 60, pp. 239—257, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Median evidential c-means algorithm and its application to community detection,” Knowledge-Based Systems, vol. 74, pp. 69—88, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“Analyzing the combination of conflicting belief func- tions,” Information Fusion, vol. 8, pp. 387—412, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“The combination of evidence in the transferable belief model,” Pattern Analysis and Machine Intelligence, IEEE Transac- tions on, vol. 12, no. 5, pp. 447—458, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“The transferable belief model,” Artificial intelligence, vol. 66, no. 2, pp. 191—234, 1994. A BELIEF COMBINATION RULE FOR A LARGE NUMBER OF SOURCES 37</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Conflict measure for the discounting operation on belief functions,” in Information Fusion, 2008 11th International Conference on. IEEE, 2008, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Analyzing the degree of conflict among belief functions,” Artificial Intelligence, vol. 170, no. 11, pp. 909—924, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Toward an axiomatic definition of conflict between belief functions,” Cybernetics, IEEE Transactions on, vol. 43, no. 2, pp. 585— 596, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Human experts fusion for image classification,” Information & Security: An International Journal, Special issue on Fusing Uncertain, Imprecise and Paradoxist Infor- mation (DSmT), vol. 20, pp. 122—143, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“How to preserve the conflict as an alarm in the combina- tion of belief functions,” Decision Support Systems, vol. 56, pp. 326—333, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“On the dempster-shafer framework and new combination rules,” Information sciences, vol. 41, no. 2, pp. 93—137, 1987.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Representation and combination of uncertainty with belief functions and possibility measures,” Computational Intelligence, vol. 4, no. 3, pp. 244—264, 1988.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Information fusion with belief functions: A comparison of proportional conflict redistribution PCR5 and PCR6 rules for networked sensors,” in 18th International Conference on Information Fusion. IEEE, 2015, pp. 2084—2091.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“General combination rules for qualitative and quantitative beliefs,” Journal of Advances in Information Fusion, vol. 3, no. 2, pp. 67—89, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“A novel combination method for conflicting evidence based on inconsistent measurements,” Information Sciences, vol. 367—368, pp. 125—142, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“Dempster’s rule of combination is #P-complete,” Artificial Intelligence, vol. 44, pp. 245—253, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“Algorithms for combining belief functions,” International Journal of Approximate Reasoning, vol. 7, no. 1—2, pp. 73—94, 1992.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Toward a combination rule to deal with partial conflict and specificity in belief functions theory,” in 10th International Conference on Information Fusion. IEEE, 2007, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“The ®-junctions: the commutative and associative non in- teractive combination operators applicable to belief func- tion,” in 1st International Joint Conference on Qualitative and Quantitative Practical Reasoning, 1997, pp. 131—153.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>“An integrated information fusion approach based on the theory of evidence and group decision-making,” Information Fusion, vol. 14, no. 4, pp. 410—422, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>A mathematical theory of evidence. Princeton University Press, 1976.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“The application of the matrix calculus to belief functions,” International Journal of Approximate Reasoning, vol. 31, no. 1, pp. 1—30, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“Decision making in the TBM: the necessity of the pignistic transformation,” International Journal of Approximate Reasoning, vol. 38, no. 2, pp. 133—147, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“Combination of evidence in dempster-shafer theory,” Sandia National Laboratorie, Tech. Rep., 2002.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>“Belief Functions: the Disjunctive Rule of Combination and the Generalized Bayesian Theorem,” International Journal of Approximate Reasoning, vol. 9, pp. 1—35, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>“Comparative study of information fusion methods for sonar images classification,” in Information Fusion, 2005 8th International Conference on, vol. 2. IEEE, 2005, pp. 7—pp.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>“Reliability estimation with extrinsic and intrinsic measure in belief function theory,” in 5th International Conference on Modeling, Simulation and Applied Optimization. IEEE, 2013, pp. 1—6.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>“Conflict management in dempster-shafer theory using the degree of falsity,” International Journal of Approximate Reasoning, vol. 52, no. 3, pp. 449—460, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>“The evaluation of sensors’ reliability and their tuning for multisensor data fusion within the transferable belief model,” in Symbolic and Quantitative Approaches to Reasoning with Uncertainty. Springer, 2001, pp. 350—361.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>“Reliability estimation measure: Generic discounting ap- proach,” International Journal of Pattern Recognition and Artificial Intelligence, vol. 29, no. 07, p. 1559011, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>“Discounted combination of unreliable evidence using de- gree of disagreement,” International Journal of Approximate Reasoning, vol. 54, no. 8, pp. 1197—1216, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>“Singular sources mining using evidential conflict analy- sis,” International Journal of Approximate Reasoning, vol. 52, no. 9, pp. 1433—1451, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>“The canonical decomposition of a weighted belief,” in 14th International Joint Conference on Artificial Intelli- gence, vol. 95, 1995, pp. 1896—1901.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>“Conjunctive and disjunctive combination of belief func- tions induced by nondistinct bodies of evidence,” Artificial Intelligence, vol. 172, no. 2, pp. 234—264, 2008. 38 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 14, NO. 1 JUNE 2019</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>“Some notes on canonical decomposition and separability of a belief function,” in Belief Functions: Theory and Applications, ser. Lecture Notes in Computer Science, F. Cuzzolin, Ed., vol. 8764. Springer International Publishing, 2014, pp. 153—160.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>“Computational aspects of the möbius transformation of graphs,” Systems, Man and Cybernetics, IEEE Transactions on, vol. 22, no. 2, pp. 201—223, 1992.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>“Upper and lower probabilities induced by a multivalued mapping,” The annals of mathematical statistics, pp. 325—339, 1967.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>“Understanding the large family of dempster-shafer the- ory’s fusion operators–a decision-based measure,” in 9th International Conference on Information Fusion. IEEE, 2006, pp. 1—7.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>“Belief functions: the disjunctive rule of combination and the generalized bayesian theorem,” International Journal of approximate reasoning, vol. 9, no. 1, pp. 1—35, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>“Algorithms for Dempster-Shafer theory,” in Hanbook of defeasible reasoning and uncertainty manage- ment, D. Gabbay and P. Smets, Eds. Boston: Kluwer Aca- demic Publisher, 2000, vol. 5: Algorithms for uncertainty and Defeasible Reasoning, pp. 421—475.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>“Approximating the combination of belief functions using the fast Möbius transform in a coarsened frame,” International Journal of Approximate Reasoning, vol. 30, no. 1—2, pp. 77—101, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>“Implementing general belief function framework with a practical codification for low complexity,” in Advances and Applications of DSmT for Information Fu- sion, F. Smarandache and J. Dezert, Eds. American Re- search Press Rehoboth, 2009, vol. 3, ch. 7, pp. 217—274.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>“The cautious rule of combination for belief functions and some extensions,” in 9th International Conference on Information Fusion. IEEE, 2006, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>“Weighted cautious conjunctive rule for belief functions combination,” Information Sciences, vol. 325, pp. 70—86, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>“Combining belief functions when evidence conflicts,” Decision support systems, vol. 29, no. 1, pp. 1—9, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>Advances and Applications of DSmT for Information Fusion. American Research Press, Rehoboth, 2004—2009, vol. 1—3.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>“Consonant approximation of belief functions,” International Journal of Approximate Reasoning, vol. 4, no. 5—6, pp. 419—449, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>“Constructing consonant belief functions from sample data using confidence sets of pignistic probabilities,” International Journal of Approximate Reasoning, vol. 49, no. 3, pp. 575—594, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>ibelief: Belief Function Implementation,</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>CRAN.R-project.org/package=ibelief.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>“How to randomly generate mass functions,” International Journal of Uncertainty, Fuzziness and Knowl- edge-Based Systems, vol. 21, no. 05, pp. 645—673, 2013. A BELIEF COMBINATION RULE FOR A LARGE NUMBER OF SOURCES 39</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

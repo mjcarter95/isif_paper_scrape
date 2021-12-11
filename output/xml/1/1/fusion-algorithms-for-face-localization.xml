@@ -1,0 +1,184 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237400.4676158</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2006</year>
+</publication_date>
+<journal_volume>
+<volume>1</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Fusion Algorithms for Face Localization</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Rachid </given_name>
+<surname>Belaroussi</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Lionel </given_name>
+<surname>Prevost</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Maurice </given_name>
+<surname>Milgram</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2006</year>
+</publication_date>
+<pages>
+<first_page>35</first_page>
+<last_page>51</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>R. Belaroussi, L. Prevost and M. Milgram Combining model-based classifiers for face localization. In Proceedings of the IAPR Conference on Machine Vision Application, 2005, 290—293.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Advances in component based face detection. In Proceedings of the IEEE International Workshop on Anal- ysis and Modeling of Faces and Gestures, 2003, 149—156.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>A probabilistic approach to object recognition using local photometry and global geometry. In Proceedings of the European Conference on Computer Vision, Vol. 2, 1998, 628—642.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Face and facial feature localization. In Proceedings of the International Conference on Image Analysis and Processing, Vol. 3617 of Lecture Notes in Computer Science, 2005, 1002—1009.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Locating facial region of a head-and-shoulders color image. In Proceedings of the IEEE International Conference on Automatic Face and Gesture Recognition, 1998, 124—129.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Face detection and tracking in a video by propagating detection probabilities. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 25, 10 (Oct. 2003), 1215—1228.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Combining face verification experts. In Proceedings of the IAPR International Conference on Pattern Recognition, Vol. 2, 2002, 28—31.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Non-linear dimensionality reduction. In Proceedings of the Conference on Neural Information Processing Systems, Vol. 5, 1993, 580—587.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Face detection in the near-IR spectrum. Image and Vision Computing, 21, 7 (July 2003), 565—578.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Pattern Classification. New York: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Tracking human faces in infrared video. Image and Vision Computing, 21, 7 (July 2003), 579—590.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Efficient matching of pictorial structures. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2000, 66—73.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>A fast and accurate face detector based on neural networks. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 23, 1 (Jan. 2001), 42—53.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>On the combination of different template strategies for fast face detection. In Proceedings of the International Workshop on Multiple Classifier Systems, 2001, 418—428.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>A Theoretical and experimental analysis of linear combin- ers for multiple classifier systems. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 27, 6 (June 2005), 942—956.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Convolutional face finder: A neural architecture for fast and robust face detection. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 26, 11 (Nov. 2004), 1408—1423. BELAROUSSI ET AL.: ALGORITHMS FUSION FOR FACE LOCALIZATION 49</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Kalviainen and J. Matas Feature-based affine-invariant localization of faces. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 27, 9 (Sept. 2005), 1490—1495.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Automatic scalable face model design for 2D model-based video coding. Signal Processing: Image Communication, 19 (2004), 421— 436.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Open Source Computer Vision Library–Reference Man- ual, 2001, homepage: http://developer.intel.com.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Robust face detection using the Hausdorff distance. In Proceedings of the IEEE International Conference on Audio- and Video-based Biometric Person Authentication, 2001, 90—95.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Statistical color models with application to skin detection. International Journal of Computer Vision, 46, 1 (Jan. 2002), 81—96.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>An experiment in linguistic synthesis with a fuzzy logic controller. International Journal of Man-Machine Studies, 7, (1) 1975, 1—13.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Modeling facial color and identity with gaussian mixtures. Pattern Recognition, 31, 12 (Dec. 1998), 1883—1892.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>XM2VTSDB: The extended M2VTS database. In Proceedings of the International Conference on Audio- and Video-based Biometric Person Authentication, 1999, 72—77.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Homepage: http://research.microsoft.com/vision/cambridge/ i2i/DSWeb.htm.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Skin segmentation using color pixel classification: Analysis and comparison. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 27, 1 (Jan. 2005), 148—154.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Automatic allograph selection and multiple expert clas- sification for totally unconstrained handwritten character recognition. In Proceedings of the IAPR International Conference on Pattern Recognition, Vol. 1, 1998, 381—383.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Multiple classifier decision combination strategies for char- acter recognition: A review. International Journal on Document Analysis and Recogni- tion, 5, 4 (July 2003), 166—194.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Neural network-based face detection. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 20, 1 (Jan. 1998), 23—38.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Transformation invariant auto-association with application to handwritten character recognition. In Proceedings of the Conference on Neural Information Processing Systems, Vol. 7, 1995, 991—998.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Robust face tracking using color. In Proceedings of the International Conference on Automatic Face and Gesture Recognition, 2000, 90—95.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>A very fast adaptive face detection system. In Proceedings of the International Conference on Visualiza- tion, Imaging, and Image Processing, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Retinal vision applied to facial features detection and face authentication. Pattern Recognition Letters, 23, 4 (Feb. 2002), 463—475.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Example-based learning for view-based human face detec- tion. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 20, 1 (Jan. 1998), 39—51.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Analysis of decision boundaries in linearly combined neu- ral classifiers. Pattern Recognition 29, 2 (Feb. 1996), 341—348.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Rapid object detection using a boosted cascade of simple features. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Vol. 1, 2001, 511—518</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Human face detection in complex background. Pattern Recognition, 27, 1 (Jan. 1994), 53—63.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Detecting faces in images: A survey. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 24, 1 (Jan. 2002), 34—58.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Feature extraction from faces using deformable templates. International Journal of Computer Vision, 8, 2 (Aug. 1992), 99—111.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Outline of a new approach to the analysis of complex systems and decision processes. IEEE Transactions on Systems, Man, and Cybernetics, 3, 1 (Jan. 1973), 28—44. 50 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 1, NO. 1 JULY 2006</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

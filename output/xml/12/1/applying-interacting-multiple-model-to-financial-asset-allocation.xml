@@ -1,0 +1,135 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237251.7315693</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<journal_volume>
+<volume>12</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Applying Interacting Multiple Model to Financial Asset Allocation</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Shozo </given_name>
+<surname>Mori</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>K. C. </given_name>
+<surname>Chang</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Hajime </given_name>
+<surname>Takahashi</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Chee-Yee </given_name>
+<surname>Chong</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<pages>
+<first_page>95</first_page>
+<last_page>109</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom, P. K. Willet, and X. Tian Tracking and Data Fusion: A Handbook of Algorithms YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Continuous-Time Markov Jump Linear Systems, Springer, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Survey of Maneuvering Target Tracking, Part V: Multiple- Model Methods IEEE Transactions on Aerospace and Electronic Systems, 41, 4, (October 2005), 1255—1321.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>A Sophisticated Tracking Algorithm for ATC Surveillance Data In Proceeding of International Radar Conference, Paris, France, May 1984.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>An Efficient Filter for Abruptly Changing Systems In Proceedings of 23rd Conference on Decision and Control, Las Vegas, NV, December 1984, 656—658.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Engineer’s Guide to Variable-Structure Multiple-Model Es- timation for Tracking In Multitarget-Multisensor Tracking: Applications and Ad- vances, Vol. III, ed. by Yaakov Bar-Shalom and William Dale Blair, Chap. 10, Artech House, 2000, 499—567.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>The Continuous Time Roots of the Interacting Multiple Model Filter In Integrated Tracking, Classification, and Sensor Manage- ment, Theory and Applications, ed. by Mahendra Mallick, et al., IEEE Press, 2013, 127—161.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Mover-Sitter Analysis Using Stochastic Differential Equa- tion Driven by Poisson Counters Technical Report, BAE Systems, Advanced Information Technologies, TR 2193, Burlington, MA, July 2007.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Variable Dimension Filter for Maneuvering Target Tracking IEEE Transactions on Aerospace and Electronic Systems, 18, 5, September 1982, 621—628.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Overlooked Potential of System with Markovian Coeffi- cients In Proceedings of 25th Conference on Decision and Control, Athens, Greece, December 1986, 1758—1764.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Essentials of Stochastic Processes (translation of the original book, Kakuritsu Katei Ron, in Japanese, Iwanami Shoten, 1957) Translation of Mathemat- ical Monograph Series, Vol. 231, American Mathematical Society, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Stochastic Stability and Control Academic Press, 1967.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Markov processes Springer, 1965.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Continuous-Time Interacting Multiple Model Extrapolation In Proceedings of 11th International Conference on Informa- tion Fusion, Cologne, Germany, July 2008.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>http://finance.yahoo.com.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>http://www.investopedia.com/terms/t/technicalindicator.asp.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Investment Science Oxford University Press, 1998.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Markov Switching Models in Empirical Finance Working Paper 415, IGIER, Università Bocconi, Milano, Italy, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>State-Space Models with Regime Switching: Classical and Gibbs-Sampling Approaches with Applications MIT Press, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Components of Bull and Bear Markets: Bull Corrections and Bear Rallies Journal of Business & Economic Statistics, Taylor & Francis Journals, 30, 3 February 2012, 391—403.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>The Interacting Multiple Model Algorithm for Systems with Markovian Switching Coefficients IEEE Transactions on Automatic Control, 33, 8, August 1988, 780—783.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>IMMAlgorithm for Tracking Targets That Maneuver through Coordinated Turns In Proceedings of SPIE Symposium on Signal and Data Processing of Small Targets Date Published, Orlando, FL, August 1992. APPLYING INTERACTING MULTIPLE MODEL TO FINANCIAL ASSET ALLOCATION 107</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

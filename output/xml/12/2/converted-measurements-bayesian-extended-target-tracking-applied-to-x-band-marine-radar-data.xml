@@ -1,0 +1,212 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237242.4264235</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<journal_volume>
+<volume>12</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Converted Measurements Bayesian Extended Target Tracking Applied to X-band Marine Radar Data</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Gemine </given_name>
+<surname>Vivone</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Paolo </given_name>
+<surname>Braca</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Karl </given_name>
+<surname>Granstrom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Antonio </given_name>
+<surname>Natale</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Jocelyn  </given_name>
+<surname>Chanussot</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<pages>
+<first_page>189</first_page>
+<last_page>210</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Safety of Life at Sea (SOLAS) Convention. Chapter V, Regulation 19.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Extended object tracking using Monte Carlo methods, IEEE Transactions on Signal Processing, vol. 56, no. 2, pp. 825—832, Feb. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Tracking and Data Fusion: A Handbook of Algorithms. Storrs, CT: YBS Publishing, Apr. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>J. W. Koch Extended object and group tracking: A comparison of random matrices and random hypersurface models, in Proceedings of IEEE International Society of Information Fusion 7th Workshop Sensor Data Fusion, Leipzig, Ger- many, Oct. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Extended object tracking with random hypersurface mod- els, IEEE Transactions on Aerospace and Electronic Systems, vol. 50, no. 1, pp. 149—159, Jan. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Shape tracking of extended objects and group targets with star-convex RHMs, in 14th International Conference on Information Fusion (FU- SION), Jul. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Multiple hypothesis tracking for multiple target tracking, IEEE Aerospace and Electronic Systems Magazine, vol. 19, no. 1, pp. 5—18, Jan. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>and F. Gustafsson Track before Detect algorithm for tracking extended targets, IEE Proceedings Radar, Sonar and Navigation, vol. 153, no. 4, pp. 345—351, Aug. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Experimental evaluation of the range-Doppler coupling on HF surface wave radars, IEEE Geoscience and Remote Sensing Letters, vol. 10, no. 4, pp. 850—854, Jul. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Bayesian methods for multiaspect target tracking in image sequences, IEEE Transactions on Signal Processing, vol. 52, no. 7, pp. 1848—1861, Jul. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Track before Detect algorithm for tracking extended targets applied to real-world data of X-band marine radar, in 17th International Conference on Information Fusion (FU- SION), Salamanca, Spain, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Tracking of extended objects and group targets using ran- dom matrices, IEEE Transactions on Signal Processing, vol. 59, no. 4, pp. 1409—1420, Apr. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Poisson models for extended target and group tracking, in Proceedings SPIE, Signal and Data Processing of Small Targets, San Diego, CA, Aug. 2005, pp. 230—241.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Spatial distribution model for tracking extended objects, IEE Proceedings Radar, Sonar and Navigation, vol. 152, no. 5, pp. 364—371, Oct. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Random set methods: Estimation of multiple extended ob- jects, IEEE Robotics and Automation Magazine, vol. 21, no. 2, pp. 73—82, Jun. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>PHD extended target tracking using an incoherent X-band radar: Preliminary real-world experimental results, in 17th International Conference on Information Fusion (FU- SION), Salamanca, Spain, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Gamma Gaussian inverse Wishart probability hypothesis density for extended target tracking using X-band marine radar data, IEEE Transactions on Geoscience and Remote Sensing, vol. 53, no. 12, pp. 6617—6631, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Estimation and maintenance of measurement rates for mul- tiple extended target tracking, in 15th International Conference on Information Fusion (FU- SION), Singapore, Jul. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>A PHD filter for tracking multiple extended targets using random matrices, IEEE Transactions on Signal Processing, vol. 60, no. 11, pp. 5657—5671, Nov. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Extended target tracking using a Gaussian-mixture PHD filter, IEEE Transactions on Aerospace and Electronic Systems, vol. 48, no. 4, pp. 3268—3286, Oct. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>New prediction for extended targets with random matrices, IEEE Transactions on Aerospace and Electronic Systems, vol. 50, no. 2, pp. 1577—1589, Apr. 2014. MEASUREMENTS BAYESIAN EXTENDED TARGET TRACKING APPLIED TO X-BAND MARINE RADAR DATA 207</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>HFSW radar model: Simulation and measurement, IEEE Transactions on Geoscience and Remote Sensing, vol. 48, no. 9, pp. 3539—3549, Sep. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Data clustering: a review, Association for Computing Machinery Computing Surveys, vol. 31, no. 3, pp. 264—323, Sep. 1999.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Multiassignment for tracking a large number of overlapping objects, IEEE Transactions on Aerospace and Electronic Systems, vol. 37, no. 1, pp. 2—21, Jan. 2001.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Bayesian approach to extended object and cluster tracking using random matrices, IEEE Transactions on Aerospace and Electronic Systems, vol. 44, no. 3, pp. 1042—1059, Apr. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Cluster tracking under kinematical constraints using ran- dom matrices, Robotics and Autonomous Systems, vol. 57, no. 3, pp. 296— 309, Mar. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Tracking of maneuvering non-ellipsoidal extended object or target group using random matrix, IEEE Transactions on Signal Processing, vol. 62, no. 9, pp. 2450—2463, May 2014.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Multitarget Bayes filtering via first-order multitarget mo- ments, IEEE Transactions on Aerospace and Electronic Systems, vol. 39, no. 4, pp. 1152—1178, Jan. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Statistical Multisource-Multitarget Information Fusion. Artech House, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>PHD filters for nonstandard targets, I: Extended targets, in 12th International Conference on Information Fusion (FU- SION), Seattle, WA, Jul. 2009, pp. 915—921.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Maritime surveillance using multiple high-frequency surface-wave radars, IEEE Transactions on Geoscience and Remote Sensing, vol. 52, no. 8, pp. 5056—5071, Aug. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>and S. Godsill Overview of Bayesian sequential Monte Carlo methods for group and extended object tracking, Digital Signal Processing, vol. 25, pp. 1—16, Feb. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>A variational measurement update for extended target track- ing with random matrices, IEEE Transactions on Signal Processing, vol. 60, no. 7, pp. 3827—3834, Jul. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Detection and tracking of coordinated groups, IEEE Transactions on Aerospace and Electronic Systems, vol. 47, no. 1, pp. 472—502, Jan. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Pedestrian tracking using random finite sets, in 14th International Conference on Information Fusion (FU- SION), Jul. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Radar CFAR thresholding in clutter and multiple target situations, IEEE Transactions on Aerospace and Electronic Systems, vol. AES-19, no. 4, pp. 608—621, Jul. 1983.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Particle filter tracking for banana and contact lens prob- lems, IEEE Transactions on Aerospace and Electronic Systems, vol. 51, no. 2, pp. 1098—1110, Apr. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Radar handbook. McGraw-Hill, Incorporated, 1970.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Modeling of extended objects based on support functions and extended Gaussian images for target tracking, IEEE Transactions on Aerospace and Electronic Systems, vol. 50, no. 4, pp. 3021—3035, Oct. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>sot Converted measurements random matrix approach to ex- tended target tracking using X-band marine radar data, in 18th International Conference on Information Fusion (FU- SION), 2015.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Knowledge-based multi-target ship tracking for HF surface wave radar systems, IEEE Transactions on Geoscience and Remote Sensing, vol. 53, no. 7, pp. 3931—3949, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>The Gaussian mixture probability hypothesis density filter, IEEE Transactions on Signal Processing, vol. 54, no. 11, pp. 4091—4104, Nov. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>Sequential Monte Carlo methods for multitarget filtering with random finite sets, IEEE Transactions on Aerospace and Electronic Systems, vol. 41, no. 4, pp. 1224—1245, Oct. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>High resolution radar. Artech House, 1987.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Probabilistic tracking of multiple extended targets using random matrices, in Proceedings SPIE, Signal and Data Processing of Small Targets, Orlando, FL, Apr. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>A PMHT approach for extended objects and object groups, IEEE Transactions on Aerospace and Electronic Systems, vol. 48, no. 3, pp. 2349—2370, Jul. 2012. 208 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 12, NO. 2 DECEMBER 2017</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

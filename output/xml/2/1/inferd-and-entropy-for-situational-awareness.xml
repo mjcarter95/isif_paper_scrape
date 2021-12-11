@@ -1,0 +1,149 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237386.4725926</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2007</year>
+</publication_date>
+<journal_volume>
+<volume>2</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>INFERD and Entropy for Situational Awareness</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>M. </given_name>
+<surname>Sudit</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>M. </given_name>
+<surname>Holender</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>A. </given_name>
+<surname>Statz</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>T. </given_name>
+<surname>Rickard</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>R. </given_name>
+<surname>Yager</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2007</year>
+</publication_date>
+<pages>
+<first_page>3</first_page>
+<last_page>21</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>D. Ballard and L. Owsley Artificial intelligence in the helicopter cockpit of the future. In IEEE/AIAA 10th Digital Avionics Systems Conference, 1991, 125—130.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>A knowledge-based decision aid for enhanced situational awareness. In IEEE/AIAA 13th Digital Avionics Systems Conference, 1994, 340—347.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Pilot’s associate: A cooperative, knowledge-based system application. IEEE Intelligent Systems and Their Applications, 6, 3 (1991), 18—29.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Estimation of distribution algorithms: A new evolutionary computation approach for graph matching problems. In EMMCVPR ’01: Proceedings of the Third International Workshop on Energy Minimization Methods in Computer Vision and Pattern Recognition, London, UK, 2001, 454— 468.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>C. Boeres Inexact graph matching using learning and simulation of Bayesian networks. In Proceedings of CaNew workshop, ECAI, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Neural Networks for Pattern Recognition. New York: Oxford University Press, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Mathematical programming for data mining: Formulations and challenges. INFORMS Journal on Computing, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Hybrid fuzzy-genetic technique for multisensor fusion. Information Sciences, 93, 3—4 (1996), 265—281.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Reinforcement structure/parameter learning for neural- network-based fuzzy logic control systems. IEEE Transactions on Fuzzy Systems, 2, 1 (1994), 46—63.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Thirty years of graph matching in pattern recognition. International Journal of Pattern Recognition & Artificial Intelligence, 18, 3 (May 2004), 265—298.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Alert correlation in a cooperative Intrusion Detection Framework, In Proceedings of the 2002 IEEE Symposium on Security and Privacy, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Representing uncertainties using Bayesian networks. (DSTO-TR0918), 1999.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Spatio-temporal pattern detection using dynamic Bayesian networks. In 42nd IEEE Conference on Decision and Control, 5 (2003), 4533—4538.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Optimal Statistical Decisions. New York: McGraw-Hill, 1970.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>On bias, variance, 0/1-loss, and the curse of dimensionality. Data Mining and Knowledge Discovery, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>An introduction to multisensor data fusion. Proceedings of the IEEE, 85, 1 (1997), 6.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Handbook of Multisensor Data Fusion. CRC Press, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Data fusion algorithm based on fuzzy logic.par In Fifth World Congress on Intelligent Control and Automation, 4 (2004), 3101—3103.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Bayesian Networks for Data Mining, Data Mining and Knowledge Discovery. 1997.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Hybrid fuzzy connectionist rule-based systems and the role of fuzzy fules extraction. In International Joint Conference of the Fourth IEEE Inter- national Conference on Fuzzy Systems and The Second Inter- national Fuzzy Engineering Symposium, 1 (1995), 49—56.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Optimization by simulated annealing. Science, 220, 4598 (May 13, 1983), new series, 671—680.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Graph-matching intrusion detection system (GMIDS) whitepaper. 21st Century Technologies, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Multisensor integration and fusion model that uses a fuzzy inference system. IEEE/ASME Transactions on Mechatronics, 6, 2 (2001), 188—196.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Multi-sensor fusion: An evolutionary algorithm approach. Information Fusion, in press, corrected proof, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>An alert fusion framework for situation awareness of coor- dinated multistage attacks. Technical Report 2004-18, CSE Department, SUNY at Buf- falo, 2004.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

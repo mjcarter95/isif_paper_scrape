@@ -1,0 +1,143 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237357.4805162</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2009</year>
+</publication_date>
+<journal_volume>
+<volume>4</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Track-to-Track Fusion Configurations and Association in a Sliding Window</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Xin </given_name>
+<surname>Tian</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2009</year>
+</publication_date>
+<pages>
+<first_page>146</first_page>
+<last_page>164</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom On the track-to-track correlation problem. IEEE Transactions on Automatic Control, 26, 2 (Apr. 1981), 571—572.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Update with out-of-sequence measurements in tracking: Exact solution. IEEE Transactions on Aerospace and Electronic Systems, 38, 3 (July 2002), 769—778.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>On hierarchical tracking for the real world. IEEE Transactions on Aerospace and Electronic Systems, 42, 3 (July 2006), 846—850.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>On the sequential track correlation algorithm in a multisen- sor data fusion system. IEEE Transactions on Aerospace and Electronic Systems, 43, 1 (Jan. 2008), 396.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>The effect of the common process noise on the two-sensor fused-track covariance. IEEE Transactions on Aerospace and Electronic Systems, 22, 6 (Nov. 1986), 803—804.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Multitarget-Multisensor Tracking: Principles and Techniques. YBS Publishing, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Algorithms and Software for Information Extraction. Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Performance evaluation of multisensor track-to-track fu- sion. In Proceedings of 1996 IEEE/SICE/RSJ International Conference on Multisensor Fusion and Integration for Intel- ligent Systems, Dec. 1996, 627—632.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>On optimal track-to-track fusion. IEEE Transactions on Aerospace and Electronic Systems, 33, 4 (Oct. 1997), 1271—1276.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Performance evaluation of track fusion with information matrix filter. IEEE Transactions on Aerospace and Electronic Systems, 38, 2 (Apr. 2002), 455—466.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Performance limits of track-to-track fusion vs. centralized estimation. IEEE Transactions on Aerospace and Electronic Systems, 39, 2 (Apr. 2003), 386—400.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Track fusion with legacy track sources. In Proceedings of the 9th International Conference on Infor- mation Fusion, Florence, Italy, July 2006.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Distributed multitarget multisensor tracking. In Y. Bar-Shalom (Ed.), Multitarget-Multisensor Tracking: Advanced Applications, MA: Artech House, 1990, ch. 8.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>A First Course in Linear Model Theory. Chapman & Hall/CRC, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>A Hybrid sensor fusion algorithm architecture and tracklets. In Proceedings of 1997 SPIE Conference on Signal and Data Processing of small Targets, vol. 3163, July 1997, 512—524.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>New track correlation algorithms in a multisensor data fusion system. IEEE Transactions on Aerospace and Electronic Systems, bf 42, 4 (Oct. 2006), 1359—1371.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Unified optimal linear estimation fusion–Part II: Discus- sions and examples. In Proceedings of the Third International Conference on Information Fusion, Paris, France, July 2000, MoC2.18— MoC2.25.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Unified optimal linear estimation fusion–Part I: Unified model and fusion rules. IEEE Transactions on Information Theory, 49, 9 (Sept. 2003), 2192—2207.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Optimal linear estimation fusion–Part III: Crosscorrelation of local estimation errors. In Proceedings of the Fourth International Conference on Information Fusion, Montreal, QC, Canada, Aug. 2001, WeB1.11—WeB1.18.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Optimal linear estimation fusion–Part IV: Optimality and efficiency of distributed fusion. In Proceedings of the Fourth International Conference on Information Fusion, Montreal, QC, Canada, Aug. 2001, WeB1.19—WeB1.26.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Optimal linear estimation fusion–Part V: Relationships. In Proceedings of the Fifth International Conference on Information Fusion, Annapolis, MD, July 2002, 497—504.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Optimal linear estimation fusion–Part VII: Dynamic sys- tems. In Proceedings of the Sixth International Conference on Information Fusion, Cairns, Australia, July 2003, 445—462.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Track association and track fusion with nondeterministic target dynamics. IEEE Transactions on Aerospace and Electronic Systems, 38, 2 (Apr. 2002), 659—668. 162 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 4, NO. 2 DECEMBER 2009</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Effects of cross-covariance and resolution on track associ- ation. In Proceedings of the Third International Conference on In- formation Fusion, vol. 2, Paris, France, July 2000, WED1/10—WED1/16.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Computation and transmission requirements for a decen- tralized linear-quadratic-Gaussian control problem. IEEE Transactions on Automatic Control, 24, 2 (Apr. 1979), 54—57.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>The exact algorithm for asynchronous track-to-track fusion. In Proceedings of SPIE Conference on Signal and Data Processing of small Targets, Orlando, FL, Apr. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Optimal linear estimation fusion–Part VI: Sensor data compression. In Proceedings of the Sixth International Conference on Information Fusion, Cairns, Australia, July 2003, 221—228.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>http://en.wikipedia.org/wiki/Noncentral chi-square distribution. TRACK-TO-TRACK FUSION CONFIGURATIONS AND ASSOCIATION IN A SLIDING WINDOW 163</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,71 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 1</li>
+<li>Issue 1</li>
+<li>Pages 15 - 34</li>
+<li>June, 2006</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Joint Particle Filtering of Multiple Maneuvering Targets From Unassociated Measurements</h1>
+<p class="article-authors">Henk  Blom and Edwin  Bloem</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">M. S. Arulampam, S. Maskell, N. Gordon and J. Clapp A tutorial on particle filters for online nonlinear/non- Gaussian Bayesian trackers. IEEE Transactions on Signal Procesing, 50 (2002), 174—188.</li>
+<li class="ref-2">Stochastic simulation Bayesian approach to multitarget tracking. IEE Proceedings–Radar, Sonar and Navigation, 142 (1995), 41—44.</li>
+<li class="ref-3">IMM estimator versus optimal estimator for hybrid systems. IEEE Transactions on Aerospace and Electronic Systems, 41 (2005), 986—991.</li>
+<li class="ref-4">Tracking splitting targets in clutter using an interacting multiple model joint probabilistic data association filter. Multitarget Multisensor Tracking, Vol. II, Artech House, 1992, 93—110.</li>
+<li class="ref-5">Multitarget-multisensor tracking: Principles and techniques. 1995.</li>
+<li class="ref-6">An efficient filter for abruptly changing systems. In Proceedings of 23th IEEE Conference on Decision and Control, 1984, 656—658.</li>
+<li class="ref-7">The interacting multiple model algorithm for systems with Markovian switching coefficients. IEEE Transactions on Automatic Control, 33 (1988), 780— 783.</li>
+<li class="ref-8">Probabilistic data association avoiding track coalescence. IEEE Transactions on Automatic Control, 45 (2000), 247— 259.</li>
+<li class="ref-9">Combining IMM and JPDA for tracking multiple maneu- vering targets in clutter. In Proceedings of 5th International Conference on Informa- tion Fusion, Annapolis, MD, July 8—11, 2002, Vol. 1, 705— 712.</li>
+<li class="ref-10">Interacting multiple model joint probabilistic data associa- tion avoiding track coalescence. In Proceedings of IEEE Conference on Decision and Control, Dec, 2002, 3408—3415.</li>
+<li class="ref-11">Joint IMMPDA particle filter. In Proceedings of Fusion 2003, Cairns, Australia, July 2003.</li>
+<li class="ref-12">Tracking multiple maneuvering targets by joint combina- tions of IMM and PDA. In Proceedings of 42nd IEEE Conference on Decision and Control, Maui, 2003.</li>
+<li class="ref-13">Joint IMM and coupled PDA to track closely spaced targets and to avoid track coalescence. In Proceedings of Fusion 2004, Stockholm, Sweden.</li>
+<li class="ref-14">Exact Bayesian filter and joint IMM coupled PDA tracking of maneuvering targets from possibly missing and false measurements. Automatica, 42 (2006), 127—135.</li>
+<li class="ref-15">Particle filter based detection for tracking. In Proceedings of American Control Conference, June 2001, 4393—4397.</li>
+<li class="ref-16">Hybrid state estimation: A target tracking application. Automatica, 38 (2002), 2153—2158.</li>
+<li class="ref-17">and A. Juloski A multi target track before detect application. In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition, June 2003.</li>
+<li class="ref-18">Tracking of multiple maneuvering targets in clutter using IMM/JPDA filtering and fixed-lag smoothing. Automatica, 37 (2001), 239—249.</li>
+<li class="ref-19">Singular control systems. Lecture notes in Control and Information Sciences, Vol. 118, Springer, 1989.</li>
+<li class="ref-20">IMMJPDA versus MHT and Kalman filter with NN corre- lation: Performance comparison. IEE Proceedings–Radar, Sonar and Navigation, 144 (1997), 49—56.</li>
+<li class="ref-21">On sequential simulation-based methods for Bayesian fil- tering. Technical Report CUED/F-INFENG/TR.310, Department of Engineering, University of Cambridge, 1998.</li>
+<li class="ref-22">Particle filters for state estimation of jump Markov linear systems. IEEE Transactions on Signal Processing, 49 (2001), 613— 624.</li>
+<li class="ref-23">Exact hybrid filters in discrete time. IEEE Transactions Automatic Control, 41 (1996), 1807— 1810.</li>
+<li class="ref-24">Development of practical PDA logic for multitarget track- ing by micro processor,” In Y. Bar-Shalom (Ed.), Multi- target-Multisensor Tracking, Artech House, 1990, 1—23.</li>
+<li class="ref-25">Bayesian adaptive filter for tracking with measurements of uncertain origin. Automatica, 20 (1984), 217—224.</li>
+<li class="ref-26">A hybrid bootstrap filter for target tracking in clutter. IEEE Transactions on Aerospace and Electronic Systems, 33 (1997), 353—358.</li>
+<li class="ref-27">Bayesian target tracking after group pattern distortion. In Proceedings of SPIE, 1997, 238—248. 32 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 1, NO. 1 JULY 2006</li>
+<li class="ref-28">Novel approach to nonlinear/non-Gaussian Bayesian state estimation. IEE Proceedings, Part F, 140 (1993), 107—113.</li>
+<li class="ref-29">Tracking multiple objects with particle filtering. IEEE Transactions on Aerospace and Electronic Systems, 38 (2002), 791—811.</li>
+<li class="ref-30">Monte Carlo data association for multiple target tracking. In Proceedings of IEE Seminar Target Tracking: Algorithms and Applications, Oct. 2001, 13/1—13/5.</li>
+<li class="ref-31">MHTmaintenance with possibly unresolved measurements. IEEE Transactions on Aerospace and Electronic Systems, 33 (1997), 883—892.</li>
+<li class="ref-32">Tracking multiple targets using a particle filter representa- tion of the joint multitarget probability density. In Proceedings of SPIE International Symposium on Optical Science and Technology, San Diego, CA, Aug. 2003.</li>
+<li class="ref-33">A probabilistic exclusion principle for tracking multiple objects. In Proceedings of 7th International Conference on Computer Vision, Greece, 1999, 572—580.</li>
+<li class="ref-34">Bramble: A Bayesian multiple-blob tracker. In Procedings of 8th International Conference on Computer Vision, Vancouver, July 2001, 34—41.</li>
+<li class="ref-35">Efficient particle filtering for multiple target tracking with application to tracking in structured images. In Proceedings on Signal and Data Processing of Small Targets, Orlando, FL, 2002, SPIE, Vol. 4728.</li>
+<li class="ref-36">Multiple model bootstrap filter for maneuvering target tracking. IEEE Transactions on Aerospace and Electronic Systems, 36 (2000), 1006—1012.</li>
+<li class="ref-37">Maneuvering target tracking using a multiple-model boot- strap filter. In A. Doucet, N. de Freitas and N. Gordon (Eds.), Sequen- tial Monte Carlo Methods in Practice, Springer, 2001, 479— 497.</li>
+<li class="ref-38">Maneuvering target tracking in clutter using particle filters. IEEE Transactions on Aerospace and Electronic Systems, 41 (2005), 252—270.</li>
+<li class="ref-39">Clutter map information for data association and track initiation. IEEE Transactions on Aerospace and Electronic Systems, 40 (2004), 387—398</li>
+<li class="ref-40">A Bayesian approach to tracking multiple targets using sensor arrays and particle filters. IEEE Transactions on Signal Processing, 50 (2002), 216— 223.</li>
+<li class="ref-41">A Bayesian approach to multi-target tracking and data fusion with out-of-sequence measurements. In Proceedings of IEE Seminar Target Tracking: Algorithms and Applications, Oct. 2001, 15/1—15/5.</li>
+<li class="ref-42">Beyond the Kalman Filter–Particle Filters for Tracking Ap- plications. Artech House, 2004.</li>
+<li class="ref-43">Using the SIR Algorithm to Simulate Posterior Distributions. Bayesian Statistics, vol. 3, Oxford University Press, 1988, 395—402.</li>
+<li class="ref-44">A particle filter for track-before-detect. In Proceedings of American Control Conference, June 2001, 3755—3760.</li>
+<li class="ref-45">Tracking and identification for closely spaced objects in clutter. In Proceedings of European Control Conference, 1997.</li>
+<li class="ref-46">People tracking with mobile robots using sample-based joint probabilistic data association filters. The International Journal of Robotics Research, 22 (2003), 99—116.</li>
+<li class="ref-47">Tracking of multiple maneuvering targets in clutter using multiple sensors, IMM and JPDA coupled filtering. IEEE Transactions on Aerospace and Electronic Systems, 40 (2004), 320—330.</li>
+<li class="ref-48">Monte Carlo filtering for multi-target tracking and data association. IEEE Transactions on Aerospace and Electronic Systems, 41 (2005), 309—331. BLOM & BLOEM: JOINT PARTICLE FILTERING OF MULTIPLE MANEUVERING TARGETS 33</li>
+</ul>
+
+</body>
+</html>

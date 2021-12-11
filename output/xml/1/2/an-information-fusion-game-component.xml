@@ -1,0 +1,224 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237392.2596455</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2006</year>
+</publication_date>
+<journal_volume>
+<volume>1</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>An Information Fusion Game Component</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Joel </given_name>
+<surname>Brynielsson</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Stefan </given_name>
+<surname>Arnborg</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2006</year>
+</publication_date>
+<pages>
+<first_page>108</first_page>
+<last_page>121</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>D. S. Alberts Network centric warfare: Current status and way ahead. Journal of Defence Science, 8, 3 (Sept. 2003), 117—119.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Network Centric Warfare: Developing and Leveraging Infor- mation Superiority. Washington, D.C.: CCRP, DoD, 2nd ed., 1999.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Information awareness in command and control: Precision, quality, utility. In Proceedings of the Third International Conference on Information Fusion (FUSION 2000), Paris, France, July 2000, ThB1/25—32.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Negotiation on data allocation in multi-agent environments. Autonomous Agents and Multi-Agent Systems, 5, 2 (June 2002), 123—172.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>T. Schauenberg and D. Szafron Approximating game-theoretic optimal strategies for full- scale poker. In Proceedings of the 2003 International Joint Conference on Artificial Intelligence (IJCAI 2003), 2003, 661—668.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Using AI and games for decision support in command and control. Decision Support Systems, in press.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Bayesian games for threat prediction and situation analysis. In P. Svensson and J. Schubert (Eds.), Proceedings of the Seventh International Conference on Information Fusion (FUSION 2004), Stockholm, Sweden, vol. 2, June 28— July 1, 2004, 1125—1132.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Refinements of the command and control game component. In Proceedings of the Eighth International Conference on Information Fusion (FUSION 2005), Philadelphia, PA, July 2005.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Enhanced situation awareness using random particles. In Proceedings of the Tenth International Command and Control Research and Technology Symposium (ICCRTS), McLean, VA, June 2005.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Game environment for command and control operations (GECCO). In Proceedings of the First International Workshop on Cogni- tive Research With Microworlds, Granada, Spain, Nov. 2001, 85—95.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Linear Programming. New York: W. H. Freeman and Company, 1983.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Command and Control for War and Peace. Washington, D.C.: National Defense University Press, 1991.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>The Linear Complementarity Problem. Boston, MA: Academic Press, 1992.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>halter Probabilistic Networks and Expert Systems. Statistics for Engineering and Information Science, New York: Springer-Verlag, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Playing the wrong game: An experimental analysis of relational complexity and strategic misrepresentation. CEEL Working Paper 0504, Computable and Experimental Economics Laboratory, Department of Economics, Univer- sity of Trento, Italy, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>The Hinge Factor: How Chance and Stupidity Have Changed History. London: Coronet Books, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Using microworlds to study intuitive battle dynamics: A concept for the future. In Proceedings of Command and Control Research and Tech- nology Symposium (CCRTS), Newport, RI, June 29—July 1, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>A language for modeling agents’ decision making pro- cesses in games. In Proceedings of the Second International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS’03), Melbourne, Australia, July 2003, 265—272.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Nash and correlated equilibria: Some complexity consider- ations. Games and Economic Behavior, 1, 1 (Mar. 1989), 80—93.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Rational coordination in multi-agent environments. Autonomous Agents and Multi-Agent Systems, 3, 4 (Dec. 2000), 319—350.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Games with incomplete information played by “Bayesian” players. Management Science, 14, 3,5,7 (1967—1968), 159—182, 320—334, 486—502.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Maneuver warfare distillations: Essence not verisimilitude. In P. A. Farrington, H. B. Nembhard, D. T. Sturrock and G. W. Evans (Eds.), Proceedings of the 1999 Winter Simu- lation Conference, 1999. BRYNIELSSON & ARNBORG: AN INFORMATION FUSION GAME COMPONENT 119</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>melse The Lumière project: Bayesian user modeling for inferring the goals and needs of software users. In G. F. Cooper and S. Moral (Eds.), Proceedings of the 14th Conference on Uncertainty in Artificial Intelligence (UAI-98), Madison, WI, July 1998, 256—265.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Influence diagrams. In R. A. Howard and J. E. Matheson (Eds.), Readings on the Principles and Applications of Decision Analysis, Menlo Park, CA: Strategic Decisions Group, 1984, 721—762.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Particle filter-based information acquisition for robust plan recognition. In Proceedings of the Eighth International Conference on Information Fusion (FUSION 2005), Philadelphia, PA, July 2005.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>A game theoretic model for management of mobile sensors. In Proceedings of the Sixth International Conference on Information Fusion (FUSION 2003), Cairns, Australia, July 2003, 583—590.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“Game commander”–Applying an architecture of game theory and tree lookahead to the command and control process. In Proceedings of the Fifth Annual Conference on AI, Sim- ulation, and Planning in High Autonomy Systems (AIS94), Gainesville, FL, 1994.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Recognition-primed decisions. In W. B. Rouse (Ed.), Advances in Man-Machine Systems Research, Greenwich, UK: JAI Press, 1989, 47—92.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>An analysis of alpha-beta pruning. Artificial Intelligence, 6, 4 (Winter 1975), 293—326.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Fast algorithms for finding randomized strategies in game trees. In Proceedings of the 26th Annual ACM Symposium on Theory of Computing (STOC), Montréal, Québec, Canada, May 1994, 750—759.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Efficient computation of equilibria for extensive two-person games. Games and Economic Behavior, 14, 2 (June 1996), 247—259.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Multi-agent influence diagrams for representing and solv- ing games. Games and Economic Behavior, 45, 1 (Oct. 2003), 181—221.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Representations and solutions for game-theoretic problems. Artificial Intelligence, 94, 1 (July 1997), 167—215.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Game Theory and Economic Modelling. Clarendon Lectures in Economics, Oxford University Press, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Some research results obtained with DKE: A dynamic war- game for experiments. In Proceedings of the Ninth International Command and Control Research and Technology Symposium (ICCRTS), Copenhagen, Denmark, Sept. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Equilibrium points of bimatrix games. Journal of the Society for Industrial and Applied Mathemat- ics, 12, 2, (June 1964), 413—423.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>F. E. White, Jr. Revisiting the JDL data fusion model II. In P. Svensson and J. Schubert (Eds.), Proceedings of the Seventh International Conference on Information Fusion (FUSION 2004), Stockholm, Sweden, vol. 2, June 28— July 1, 2004, 1218—1230.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Formulation of Bayesian analysis for games with incom- plete information. International Journal of Game Theory, 14, 1 (Mar. 1985), 1—29.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Complexity Theory and Network Centric Warfare. Washington, D.C.: CCRP, DoD, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Dynamic Bayesian Networks: Representation, Inference and Learning. Ph.D. thesis, University of California, Berkeley, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Game Theory: Analysis of Conflict. Cambridge, MA: Harvard University Press, 1991.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>Non-cooperative games. Annals of Mathematics, 54, 2 (Sept. 1951), 286—295.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>Game theory and decision theory in multi-agent systems. Autonomous Agents and Multi-Agent Systems, 5, 3 (Sept. 2002), 243—254.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. San Mateo, CA: Morgan Kaufmann Publishers, Inc., 1988.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Artifical Intelligence: A Modern Approach. Upper Saddle River, NJ: Prentice Hall, 2nd ed., 2003.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Evaluating influence diagrams. Operations Research, 34, 6 (Nov.—Dec. 1986), 871—882.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>Revisions to the JDL data fusion model. In Proceedings of SPIE AeroSense (Sensor Fusion: Archi- tectures, Algorithms, and Applications III), Orlando, FL, vol. 3719, Apr. 1999, 430—441.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Efficient computation of behavior strategies. Games and Economic Behavior, 14, 2 (June 1996), 220—246.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>Computing equilibria for two-person games. In R. J. Aumann and S. Hart (Eds.), Handbook of Game Theory with Economic Applications, Elsevier Science, vol. 3 of Handbooks in Economics, 2002, 1723—1759.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>Representation and recognition of uncertain enemy policies using statistical models. In Proceedings of the NATO RTO Symposium on Military Data and Information Fusion, Prague, Czech Republic, Oct. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>Military Decision Making and Planning: Towards a New Prescriptive Model. Ph.D. thesis, Department of Psychology, Stockholm Uni- versity, Sweden, June 2003.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>Intelligence Preparation of the Battlefield. Field Manual FM 34—130, Headquarters, Dept. of the Army, Washington, D.C., July 1994. 120 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 1, NO. 2 DECEMBER 2006</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>Using hypergames to increase planned payoff and reduce risk. Autonomous Agents and Multi-Agent Systems, 5, 3 (Sept. 2002), 365—380.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>Modeling air combat by a moving horizon influence dia- gram game. Journal of Guidance, Control, and Dynamics, 29, 5 (Sept.— Oct. 2006), 1080—1091.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>Support for situation awareness in command and control. In P. Svensson and J. Schubert (Eds.), Proceedings of the Seventh International Conference on Information Fusion (FUSION 2004), Stockholm, Sweden, vol. 2, June 28— July 1, 2004, 1117—1124.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,47 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 16</li>
+<li>Issue 2</li>
+<li>Pages 75 - 91</li>
+<li>December, 2021</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Data-association-free Characterization of Labeling Uncertainty: the Cross Modeling Tracker</h1>
+<p class="article-authors">CARLOS MORENO LEON, HANS  DRIESSEN and ALEXANDER  YAROVOY</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">E. H. Aoki, P. K.Mandal, L. Svensson, Y. Boers, and A. Bagchi “Labeling uncertainty in multitarget tracking,” IEEE Trans. Aerosp. Electron. Syst., vol. 52, no. 3, pp. 1006–1020, Jun. 2016.</li>
+<li class="ref-2">Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. Canada:Wiley, 2001.</li>
+<li class="ref-3">Design and Analysis ofModern Tracking Systems.Norwood, MA:Artech House, 1999.</li>
+<li class="ref-4">“Permutation invariance in Bayesian estimation of two targets that maneuver in and out formation flight,” in Proc. 12th Int. Conf. Inf. Fusion, Seattle, 2009, pp. 1296– 1303</li>
+<li class="ref-5">“Tracking closely spaced targets: Bayes outperformed by an approximation?,” in Proc. 11th Int. Conf. Inf. Fusion, Cologne, 2008, pp. 1–8.</li>
+<li class="ref-6">“Multitarget particle filter track before detect application,” IEE Proc. Radar Sonar Navig., vol. 151, no. 6, pp. 351–357, Dec. 2004.</li>
+<li class="ref-7">“The mixed labeling problem in multi target particle filtering,” in Proc. 10th Int. Conf. Inf. Fusion, Quebec, 2007, pp. 1–7.</li>
+<li class="ref-8">“Mixed labelling in multitarget particle filtering,” IEEE Trans. Aerosp. Electron. Syst., vol. 46, no. 2, pp. 792–802, Apr. 2010.</li>
+<li class="ref-9">“Generalizations of Blom and Bloem’s PDF decomposition for permutation-invariant estimation,” Proc. 2011 IEEE Int. Conf. Acoust. Speech Signal Process., 2011, pp. 3840–3843</li>
+<li class="ref-10">“Developing a real-time track display that operators do not hate,” in IEEE Trans. Signal Process., vol. 59, no. 7, pp. 3441–3447, Jul. 2011.</li>
+<li class="ref-11">M.Guerriero “The Set MHT,” in 14th Int. Conf. Inf. Fusion, Chicago, IL, 2011, pp. 1–8.</li>
+<li class="ref-12">“Particle filters for tracking closely spaced targets,” in Proc. 10th Int. Conf. Inf. Fusion, Quebec, 2007, pp. 1–8.</li>
+<li class="ref-13">“Sonar tracking of multiple targets using joint probabilistic data association,” IEEE J. Ocean. Eng., vol. 8, no. 3, pp. 173–184, Jul. 1983.</li>
+<li class="ref-14">“Track-before-detect labeled multi-bernoulli particle filter with label switching,” IEEE Trans. Aerosp. Electron. Syst., vol. 52, no. 5, pp. 2123–2138, Oct. 2016.</li>
+<li class="ref-15">“Particle filter for extracting target label information when targets move in close proximity,” in Proc. 14th Int. Conf. Inf. Fusion, Chicago, 2011, pp. 1–8.</li>
+<li class="ref-16">“Multiple target tracking based on sets of trajectories,” IEEE Trans. Aerosp. Electron. Syst. vol. 56, no. 3, pp. 1685–1707, Jun. 2020.</li>
+<li class="ref-17">“Efficient characterization of labeling uncertainty in closely-spaced targets tracking,” in Proc. 19th Int. Conf. Inf. Fusion, Heidelberg, 2016, pp. 449–456.</li>
+<li class="ref-18">“Evaluation of labeling uncertainty in multiple target tracking with track-before-detect radars,” in Proc. 22nd Int. Conf. Inf. Fusion, Ottawa, 2019, pp. 1–8.</li>
+<li class="ref-19">“Multitarget Bayes filtering via first-order multitarget moments,” IEEE Trans. Aerosp. Electron. Syst., vol. 39, no. 4, pp. 1152–1178, Oct. 2003.</li>
+<li class="ref-20">“Uniform sampling for multiple target tracking,” in Proc. 14th Int. Conf. Inf. Fusion, Chicago, 2011, pp. 1–7.</li>
+<li class="ref-21">“An algorithm for tracking multiple targets,” IEEE Trans. Automat. Contr., vol. 24, no. 6, pp. 843–854, 1979.</li>
+<li class="ref-22">Beyond the Kalman Filter: Particle Filters for Tracking Applications. Norwood,MA,USA:Artech House, 2004.</li>
+<li class="ref-23">“Target tracking based on estimation of sets of trajectories,” in Proc. 17th Int. Conf. Inf. Fusion, Salamanca, 2014, pp. 1–8.</li>
+<li class="ref-24">and J. L.Williams “Backward simulation for sets of trajectories,” in Proc. 23rd Int. Conf. Inf. Fusion, virtual, 2020, pp. 1–8. DATA-ASSOCIATION-FREE CHARACTERIZATION OF LABELING UNCERTAINTY: THE CROSS MODELING TRACKER 89 Carlos Moreno Leon received his MSc in Telecommunications Engineering in 2013 from the University of Alcalá (UAH) in Madrid. From 2012 to 2014 he was em- ployed with the Polytechnic University of Madrid (UPM) as a research assistant in the Signal, Systems and Radiocommunications department. From 2014 to 2017 he held a European Commission Marie Curie research fellowship while working at Thales Nederland BV. Since 2017 he is with the Cognitive Radar department in the German Fraunhofer Institute for High Frequency Physics and Radar Techniques (FHR). Parallel to his work at Fraunhofer FHR, he is pursuing a PhD at TU-Delft since November 2017 (in the Microwave Signals Sensor and Systems group).He has been involved in several international research and development projects in the area of signal/data processing with applications in Wireless Sensor Networks and Radar Technology both within civilian and military contexts. Hans Driessen obtained the MSc and PhD degree in 1987 and 1992, respectively, both from the department of Electrical Engineering at the TU-Delft. Since then he has been employed with Thales Nederland BV. He has been and is still involved in various (international) research projects and radar development programs in the area of signal/data processing and radar management. Since January 2015, he ad- ditionally holds a part-time position as associate professor at the EEMCS faculty in the Microwave Signals Sensor and Systems group in the field of radar systems; waveforms and processing. His interest is in the practical application of detection, estimation, information and control theory to various problems in sensor systems. 90 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 16, NO. 2 DECEMBER 2021 Alexander Yarovoy (FIEEE’2015) graduated from the Kharkov State University, Ukraine, in 1984 with the Diploma with honor in radiophysics and electronics. He received the Candidate Phys. & Math. Sci. and Doctor Phys. & Math. Sci. degrees in radiophysics in 1987 and 1994, respectively. In 1987 he joined the Department of Radiophysics at the Kharkov State University as a Researcher and became a Full Professor there in 1997. From September 1994 through 1996 he was with Techni- cal University of Ilmenau, Germany as a Visiting Researcher. Since 1999 he is with the Delft University of Technology, the Netherlands. Since 2009 he leads there a chair of Microwave Sensing, Systems and Signals. His main research interests are in high-resolution radar, microwave imaging and applied electromagnetics (in partic- ular, UWB antennas). He has authored and co-authored more than 450 scientific or technical papers, six patents and fourteen book chapters. He is the recipient of the European Microwave Week Radar Award for the paper that best advances the state-of-the-art in radar technology in 2001 (together with L.P. Ligthart and P. van Genderen) and in 2012 (together with T.Savelyev). In 2010 together withD.Caratelli Prof. Yarovoy got the best paper award of the Applied Computational Electromag- netic Society (ACES). Prof. Yarovoy served as the General TPC chair of the 2020 European Microwave Week (EuMW’20), as the Chair and TPC chair of the 5th Eu- ropean Radar Conference (EuRAD’08), as well as the Secretary of the 1st European Radar Conference (EuRAD’04).He served also as the co-chair and TPC chair of the Xth International Conference on GPR (GPR2004).He served as an Associated Ed- itor of the International Journal of Microwave and Wireless Technologies from 2011 till 2018 and as a Guest Editor of five special issues of the IEEE Transactions and other journals. In the period 2008-2017 Prof. Yarovoy served as Director of the Eu- ropean Microwave Association (EuMA). DATA-ASSOCIATION-FREE CHARACTERIZATION OF LABELING UNCERTAINTY: THE CROSS MODELING TRACKER 91</li>
+</ul>
+
+</body>
+</html>

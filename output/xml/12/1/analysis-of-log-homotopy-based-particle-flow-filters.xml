@@ -1,0 +1,199 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237251.7285767</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<journal_volume>
+<volume>12</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Analysis of Log-Homotopy Based Particle Flow Filters</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Muhammad Altamash</given_name>
+<surname>Khan</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Martin </given_name>
+<surname>Ulmke</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Wolfgang </given_name>
+<surname>Koch</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<pages>
+<first_page>73</first_page>
+<last_page>94</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>F. Gustafsson Statistical sensor fusion, 2nd ed. Studentlitteratur AB, May 21, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“A tutorial on Particle Filters for Online Non-linear/Non- gaussian Bayesian Tracking,” in IEEE transaction on signal processing, vol. 50, no. 2. IEEE, February 2002, pp. 174—188.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Novel approach to nonlinear/non-Gaussian bayesian state estimation,” in IEE Proceedings on Radar and Signal Processing., Apr 1993, pp. 107—113.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“Filtering via Simulation: Auxiliary Particle Filters,” in Journal of the American Statistical Association, vol. 94, no. 446, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Improving Regularised Particle Filters,” in Sequential Monte Carlo Methods in Practice, ser. Statis- tics for Engineering and Information Science, A. Doucet, N. de Freitas, and N. Gordon, Eds. Springer New York, 2001, pp. 247—271.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Progressive Bayesian estimation for nonlinear discrete- time systems: the filter step for scalar measurements and multidimensional states,” in IEEE Conference on Decision and Control, vol. 5. IEEE, 9—12 Dec. 2003, pp. 5366—5371.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“Optimal Parameterization of Posterior Densities Using Homotopy,” in Proceedings of the 14th International Conference on Infor- mation Fusion (FUSION). 5—8 July: IEEE, 2011, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Curse of Dimensionality and Particle Filters,” in IEEE Aerospace conference. IEEE, 8—15 March 2003, pp. 1970—1993.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“Nonlinear filters with log-homotopy,” in SPIE Proceedings, September 2007.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Nonlinear filters with particle flow induced by log-homo- topy,” in SPIE Proceedings, May 2009.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Coulomb’s law particle flow for nonlinear filters,” vol. 8137, 2011, pp. 81 370E—81 370E-15.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Zero curvature particle flow for nonlinear filters,” in SPIE Proceedings, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Particle flow with non-zero diffusion for non-linear fil- ters,” in SPIE Proceedings, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Combining Log-Homotopy Flow with Tensor decomposi- tion based solution for Fokker-Planck equation,” in 2016 19th International Conference on Information Fusion (FUSION), July 2016, pp. 2229—2236.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Nonlinear filters with particle flow,” in SPIE Proceedings, September 2009.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Discussion and Application of Homotopy filter,” in SPIE Proceedings, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Numerical experiments on nonlinear filters with exact particle flow induced by log-homotopy,” in Proceeding SPIE, April 2010.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“A study of nonlinear filters with particle flow induced by log-homotopy,” in SPIE Proceedings, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Friendly rebuttal to Chen and Mehra: incompressible par- ticle flow for nonlinear filters,”</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>able: http://dx.doi.org/10.1117/12.915510.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“Generalized particle flow for nonlinear filters,” in SPIE Proceeding, April 2010.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Implementation of Daum-Huang Exact Flow Particle Fil- ter,” in IEEE Statistical Signal Processing Workshop (SSP), 2012.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Implementation of the homotopy particle filter in the JPDA and MAP-PF multi-target tracking algorithms,” in Information Fusion (FUSION), 2014 17th International Conference on, July 2014, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>lande “Comparison of angle-only filtering algorithms in 3d using EKF, UKF, PF, PFF, and ensemble KF,” in Information Fusion (Fusion), 2015 18th International Conference on, July 2015, pp. 1649—1656. 92 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 12, NO. 1 JUNE 2017</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>“A comparison of tracking algorithms for supermaneuver- able targets,” in Information Fusion (Fusion), 2015 18th International Conference on, July 2015, pp. 534—541.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“Multisensor fusion using homotopy particle filter,” in Information Fusion (Fusion), 2015 18th International Conference on, July 2015, pp. 1641—1648.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“The Progressive Proposal Particle Filter: Better Approxi- mations to the Optimal Importance Density,” Tech. Rep., 2014.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“Non-linear and non-Gaussian state estimation using log- homotopy based Particle Flow Filters,” in Sensor Data Fusion: Trends, Solutions, Applications (SDF), 2014, Oct 2014, pp. 1—6.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>“The automatic integration of stiff ordinary differential equations,” in Information processing 68 (Proc. IFIP Congress, Edin- burgh, 1968), vol. 1, 1969, pp. 187—193.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>“A Shrinkage Approach to Large-Scale Covariance Matrix Estimation and Implications for Functional Genomics,” 2005.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>“An empirical Bayes approach to inferring large-scale gene association networks,” Bioinformatics, vol. 21, pp. 754—764, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>“Inadmissibility of the usual estimator for the mean of a multivariate normal distribution,” in Proceedings of the Third Berkeley Symposium on Math- ematical and Statistical Probability., vol. 1, no. 446, 1956, pp. 197—206.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>“Well-conditioned estimator for large-dimensional covari- ance matrices,” Journal of Multivariate Analysis, vol. 88, no. 2, pp. 365—411, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>“Honey, I shrunk the sample covariance matrix,” The Journal of Portfolio Management, vol. 30, no. 4, pp. 110—119, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>“Improved estimation of the covariance matrix of stock returns with an application to portfolio selection,” Journal of Empirical Finance, vol. 10, no. 5, pp. 603—621, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>“Emprirical Bayes Estimation of the Multivariate Normal Covariance Matrix,” Ann. Statist., vol. 8, no. 3, pp. 586—597, 1980.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>“Estimation of a covariance matrix, Rietz Lecture,” 39th Annual Meeting IMS, Atlanta, GA, Tech. Rep., 1975.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>“A Monte Carlo Comparison of four estimators of a Co- variance Matrix,” Tech. Rep. 44, 1984.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>“Series of lectures given at the University of Washington,” Seattle, Tech. Rep., 1982.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>“Nonlinear shrinkage estimation of large-dimensional co- variance matrices,” The Annals of Statistics, vol. 40, no. 2, pp. 1024—1060, April 2012.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Pattern Recognition and Machine Learning. Springer, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>“Multivariate Online Kernel Density Estimation with Gaus- sian Kernels,” Pattern Recognition, vol. 44, pp. 2630—2642, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>“Improvements in the Implementation of Log-Homotopy based Particle Flow Filters,” in Information Fusion (Fusion), 2015 18th International Conference on, July 2015, pp. 74—81.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>and Online Discriminative Kernel Density Estimation with Gaussian Kernels,” http://www.vicos.si/File:Maggot v3.4.zip.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>“Numerical experiments for Coulomb’s law particle flow for nonlinear filters,” vol. 8137, 2011. ANALYSIS OF LOG-HOMOTOPY BASED PARTICLE FLOW FILTERS 93 Muhammad Altamash Ahmed Khan received his B.E. in electrical engineering from the National University of Sciences and Technology (NUST), Islamabad, Pakistan, in 2006 and the M.Sc. in wireless systems from KTH Royal Institute of Technology, Stockholm, Sweden in 2011. From 2011 to 2013, he worked as Research Engineer with the Lab for Automatic Control and at the Lab for Communication Networks, KTH. During that period he worked on the statistical characterization of image/video feature extraction, implementation and testing of motion control for networked robots, and implementing the routing and MAC protocols for wireless sensor networks. Since April 2014, he has been working as a Marie Curie Fellow at FKIE Fraunhofer, Wachtberg Germany. His research interests include non-linear state estimation methods, multi-target tracking, and wireless sensors networks.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

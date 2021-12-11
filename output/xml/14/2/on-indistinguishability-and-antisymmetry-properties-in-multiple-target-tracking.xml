@@ -1,0 +1,141 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237208.3826559</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2019</year>
+</publication_date>
+<journal_volume>
+<volume>14</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>On Indistinguishability and Antisymmetry Properties in Multiple Target Tracking</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Wolfgang </given_name>
+<surname>Koch</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2019</year>
+</publication_date>
+<pages>
+<first_page>199</first_page>
+<last_page>212</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>S. Blackman Design and Analysis ofModern Tracking Systems.Norwood, MA,USA:Artech House Radar Library, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Statistical Multisource–Multitarget Information Fusion. Norwood, MA, USA: Artech House Information Warfare Library, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Poisson Point Processes. Imaging, Tracking, and Sensing (Electrical Engineering Series). Berlin, Germany: Springer, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Tracking and Data Fusion. A Handbook of Algorithms. Storrs, CT, USA: YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Bayesian Multiple Target Tracking. Norwood, MA, USA: Artech House Radar Library, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Tracking and Sensor Data Fusion. Methodological Framework and Selected Applications (Mathematical Engineering Series). Berlin, Germany: Springer, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“Towards cognitive tools: Systems engineering aspects for public safety and security,” IEEE Aerosp. Electron. Syst. Mag., vol. 29, no. 9, pp. 14–26, Sep. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Indistinguishable Classical Particles (Lecture Notes in Physics). Berlin, Germany: Springer, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“Indistinguishable particles in quantum mechanics: An introduction,” Contemp. Phys., vol. 46, no. 6, pp. 437–448, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Multiple hypothesis track maintenance with possibly unresolved measurements,” IEEE Trans. Aerosp. Electron. Syst., vol. 33, no. 4, pp. 883–892, Jul. 1997.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>The Principles of Quantum Mechanics (International Series of Monographs on Physics, Book 27). Oxford, U.K.: Oxford University Press, 1st ed., 1930; 4th ed., 1958; 20th reprint, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Eds., Out of the Crystal Maze. Chapters from the History of Solid-State Physics. Oxford, U.K.: Oxford University Press, 1992.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Identity and individuality in quantum theory,” in The Stanford Encyclopedia of Philosophy, Fall 2015 ed., E. N. Zalta Ed., https://plato.stanford.edu/archives/fall2015/ entries/qt-idind/.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Point process formalism for multiple target tracking,” in Proc. 5th Int. Conf. Inf. Fusion, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Tracking ‘bunching’ multitarget correlations,” in Proc. IEEE Int. Conf. Multisensor Fusion lntegr. Intell. Syst., 2015.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Labeled random finite sets and multi-object conjugate priors,” IEEE Trans. Signal Process., vol. 61, no. 13, pp. 3460–3475, Jul. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“The labeled multi-Bernoulli filter,” IEEE Trans. Signal Process., vol. 62, no. 12, pp. 3246–3260, Jun. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>P. Braca, and M. Z.Win “Message passing algorithms for scalable multitarget tracking,” Proc. IEEE, vol. 106, no. 2, pp. 221–259, Feb. 2018.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Second order multi-object filtering with target interaction using determinantal point processes,” arXiv:1906.06522, 2019.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Nobel Media AB, 2014, http://www.nobelprize.org/ nobel_prizes/physics/laureates/1945/.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“On anti-symmetry in target tracking,” in Proc. 21st Int. Conf. Inf. Fusion, 2018.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Exclusion principle and quantum mechanics” (Nobel Lecture on December 13, 1946, Stockholm), in Nobel Lectures, Physics 1942–1962. Amsterdam, the Netherlands: Elsevier, 1964, pp. 27–43.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Bayesian approach to extended object and cluster tracking using random matrices,” IEEE Trans. Aerosp. Electron. Syst., vol. 44, no. 3, pp. 1042–1059, Jul. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>“Combining log-homotopy flow with tensor decomposition based solution for Fokker–Planck equation,” in 19th Int. Conf. Inf. Fusion, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Speed TRAIN Network (RE(H)STRAIN), http://rehstrain.w3.rz.unibw-muenchen.de, last accessed August 26, 2019.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“A detection system for dirty bombs in open environments,” in Proc. Transport Res. Arena, Vienna, 2018.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“A classify-while-track approach using dynamical tensors,” in Proc. 7th IEEE Int.Workshop Comput.Adv.Multi-Sensor Adaptive Process., Curacao, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“‘Spooky action at a distance’ in the cardinalized probability hypothesis density filter,” IEEE Trans. Aerosp. Electron. Syst., vol. 45, no. 4, pp. 1657–1664, Oct. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>T. Jennewein, and A. Zeilinger “Anti-symmetrization reveals hidden entanglement,” New J. Phys., vol. 11, p. 103052, 2009. ON INDISTINGUISHABILITY AND ANTISYMMETRY PROPERTIES IN MULTIPLE TARGET TRACKING 211 https://plato.stanford.edu/archives/fall2015/entries/qt-idind/ https://plato.stanford.edu/archives/fall2015/entries/qt-idind/ http://www.nobelprize.org/nobel_prizes/physics/laureates/1945/ http://www.nobelprize.org/nobel_prizes/physics/laureates/1945/ http://rehstrain.w3.rz.unibw-muenchen.de</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

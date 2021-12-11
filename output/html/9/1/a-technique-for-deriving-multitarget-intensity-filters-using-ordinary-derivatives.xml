@@ -1,0 +1,34 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 9</li>
+<li>Issue 1</li>
+<li>Pages 3 - 12</li>
+<li>June, 2014</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">A Technique for Deriving Multitarget Intensity Filters Using Ordinary Derivatives</h1>
+<p class="article-authors">Roy  Streit</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">A. Baddeley Spatial point processes and their applications. in Stochastic Geometry, Lecture Notes in Mathematics, Vol. 1892, W. Weil, Editor. Berlin: Springer-Verlag, 2007, pp. 1—75.</li>
+<li class="ref-2">Reduced Palm Intensity for Track Extraction. in Proceedings of the International Conference on Informa- tion Fusion, Istanbul, July 2013.</li>
+<li class="ref-3">An Introduction to the Theory of Point Processes, Volume I: Elementary Theory and Methods. New York: Springer, 1988 (Second Edition, 2003).</li>
+<li class="ref-4">“Spooky action at a distance” in the cardinalized probability hypothesis density filter. IEEE Transactions on Aerospace and Electronic Systems, Vol. 45, no. 4, 2009, 1657—1664.</li>
+<li class="ref-5">Automatic Evaluations of Cross-Derivatives. Mathematics of Computation, Vol. 83, No. 285, January 2014, 251—274.</li>
+<li class="ref-6">Introduction to Fourier Analysis and Generalized Functions. Cambridge, UK: Cambridge University Press, 1958.</li>
+<li class="ref-7">Statistical Multisource-Multitarget Information Fusion. Norwood MA: Artech House, 2007. A TECHNIQUE FOR DERIVING MULTITARGET INTENSITY FILTERS USING ORDINARY DERIVATIVES 11</li>
+<li class="ref-8">PHD Filters for Nonstandard Targets, I: Extended Targets. in Proceedings of the 12th International Conference on In- formation Fusion, Seattle, Washington, USA, July 2009.</li>
+<li class="ref-9">Approximate Multisensor CPHD and PHD Filters. in Proceedings of the 13th International Conference on In- formation Fusion, Edinburgh, Scotland, July 2010.</li>
+<li class="ref-10">The General Theory of Stochastic Population Processes. Acta Mathematica, Vol. 108, 1—31, 1962.</li>
+<li class="ref-11">Extended Target Tracking with a Cardinalized Probability Hypothesis Density Filter. Department of Electrical Engineering, Linköpings Univer- sitet, Technical report LiTH-ISY-R-2999, 14 March 2011.</li>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 10</li>
+<li>Issue 1</li>
+<li>Pages 3 - 12</li>
+<li>June, 2015</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Standard Bayesian Approach to Quantized Measurements and Imprecise Likelihoods</h1>
+<p class="article-authors">Lawrence D Stone and Stephen L. Anderson</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">J. O. Berger Statistical Decsion Theory and Bayesian Analysis, 2nd ed. New York, NY: Springer-Verlag, 1985.</li>
+<li class="ref-2">State estimation with quantized measurements: approxi- mate MMSE approach. In Proceedings of 11th International Conference on Informa- tion Fusion, Cologne, Germany, July 2008, 1067—1072.</li>
+<li class="ref-3">General Bayes filtering of quantized measurements. In Proceedings of 14th International Conference on Informa- tion Fusion, Chicago, USA, July 5—8, 2011, 346—352.</li>
+<li class="ref-4">Bayesian estimation with imprecise likelihoods: Random set approach. IEEE Signal Processing Letters, 18 (July 2011), 394—398.</li>
+<li class="ref-5">Beyond the Kalman Filter. Boston, MA: Artech House, 2004.</li>
+<li class="ref-6">Bayesian Multiple Target Tracking 2nd ed. Boston, MA: Artech House, 2014.</li>
+<li class="ref-7">STANDARD BAYESIAN APPROACH TO QUANTIZED MEASUREMENTS AND IMPRECISE LIKELIHOODS 11 Lawrence D. Stone obtained his B.S. in mathematics from Antioch College in 1964 and his M.S. and Ph.D. in mathematics from Purdue University in 1965 and 1967. He is Chief Scientist at Metron Inc. He is a member of the National Academy of Engineering and a fellow of the Institute for Operations Research and Management Science. In 1975, the Operations Research Society of America awarded the Lanchester Prize to Dr. Stone’s text, Theory of Optimal Search. In 1986, he produced the probability maps used to locate the S.S. Central Americawhich sank in 1857, taking millions of dollars of gold coins and bars to the ocean bottom one and one-half miles below. In 2010 he led the team that produced the probability distribution that guided the French to the location of the underwater wreckage of Air France Flight AF447. He is a coauthor of the 2014 book, Bayesian Multiple Target Tracking. He continues to work on a number of detection and tracking systems for the United States Navy and Coast Guard including the Search And Rescue Optimal Planning System used by the Coast Guard since 2007 to plan searches for people missing at sea.</li>
+</ul>
+
+</body>
+</html>

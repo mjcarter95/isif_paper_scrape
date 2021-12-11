@@ -1,0 +1,68 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237292.3228006</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2014</year>
+</publication_date>
+<journal_volume>
+<volume>9</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>LRKF Revisited- The Smart Sampling Kalman Filter (S²KF)</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Jannik </given_name>
+<surname>Steinbring</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Uwe D.</given_name>
+<surname>Hanebeck</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2014</year>
+</publication_date>
+<pages>
+<first_page>106</first_page>
+<last_page>123</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Branko Ristic, Sanjeev Arulampalam, and Neil Gordon Beyond the Kalman Filter: Particle Filters for Tracking Ap- plications. Artech House Publishers, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>jan Estimation with Applications to Tracking and Navigation. New York Chichester Weinheim Brisbane Singapore Toronto: Wiley-Interscience, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Bayesian Approach to Extended Object and Cluster Track- ing Using Random Matrices,” IEEE Transactions on Aerospace and Electronic Systems, vol. 44, no. 3, pp. 1042—1059, Jul. 2008.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

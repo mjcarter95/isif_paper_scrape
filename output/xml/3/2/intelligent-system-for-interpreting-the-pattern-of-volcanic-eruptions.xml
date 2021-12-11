@@ -1,0 +1,202 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237368.363894</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2008</year>
+</publication_date>
+<journal_volume>
+<volume>3</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Intelligent System for Interpreting the Pattern of Volcanic Eruptions</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Galina </given_name>
+<surname>Rogova</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Marcus </given_name>
+<surname>Bursik</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Sara </given_name>
+<surname>Hanson-Hedgecock</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2008</year>
+</publication_date>
+<pages>
+<first_page>118</first_page>
+<last_page>128</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>J. Aitchison The statistical analysis of compositional data. New York: Wiley, 1986.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Geologic map of Long Valley Caldera, Mono-Inyo craters volcanic chain, and vicinity, eastern California, Miscella- neous Investigations Series. U.S. Geological Survey, 1989, 11.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Volcanism, structure, and geochronology of Long Valley Caldera, Mono County, California. Journal of Geophysical Research, 81 (1976), 725—744.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Nonparametric genetic clustering: Comparison of validity indices. IEEE Transactions on Systems, Man, Cybernetics–Part C: Applications and Reviews, 31, 1 (Feb. 2001), 120—125.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>The interpretation of gravity changes and crustal deforma- tion in active volcanic areas. Pure and Applied Geophysics, 161, 7 (July 2004), 0033— 4553.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Pattern Recognition with Fuzzy Objective Function Algo- rithms. New York: Plenum Press, 1981.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Some new indexes of cluster validity. IEEE Transactions on Systems, Man, Cybernetics–Part C: Cybernetics, 28, 3 (June 1998), 301—315.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Use of neural networks and decision fusion for lithostrati- graphic correlation with sparse data, Mono-Inyo Craters, California. Computers & Geosciences, 32, 10 (Dec. 2006), 1564—1572.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Maximum likelihood from incomplete data via the EM algorithm. Journal of the Royal Statistical Society, B, 39 (1977), 1—38.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>EVCLUS: Evidential clustering of proximity data. IEEE Transactions on Systems, Man and Cybernetics, Part C, 34, 1, (Feb. 2004), 95—109.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Finding consistent clusters in data partitions. In J. Kittler and F. Roli (Eds.), Multiple Classifier Systems, LNCS 2096, Springer, 2001, 309—318.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Combining multiple clusterings using evidence accumula- tion. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 27, 6 (June 2005), 835—850.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Bagging for path-based clustering. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 25, 11, (Nov. 2003), 1411—1415.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Multiclassifier systems: Back to the future. In J. Kittler and F. Roli, (Eds.), Proceedings of the Third International Workshop Multiple Classifier Systems, LNCS, vol. 2364, Springer, 2002, 1—15.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Ensemble Clustering in Medical Diagnostics. Technical Report TCD-CS-2004-12, Dept. of Computer Science, Trinity College, Dublin, Ireland, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Volcanological perspectives on Long Valley, Mammoth Mountain, and Mono Craters: Several contiguous but dis- crete systems. Journal of Volcanology andGeothermal Research, 136 (2004), 169—198.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Data clustering: A review. ACM Computing Surveys, 31, 3, (Sept. 1999), 264—323.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>The geochemistry of the Mono Craters-Mono Lake islands volcanic complex, eastern California. Journal of Geophysical Research, B, Solid Earth and Planets, 95, 17 (1990), 643—659.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Fuzzy and possibilistic shell clustering algorithm and their application to boundary detection and surface approxima- tion. IEEE Transactions on Fuzzy Systems, 3 (1995) 29—60.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Evaluation of stability of k-means cluster ensembles with respect to random initialization. IEEE Transactions on Pattern Analysis and Machine Intelli- gence, 28, 11 (Nov. 2005).</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Numerical Petrology. Amsterdam: Elsevier, 1982.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>ECM: An evidential version of the fuzzy c-means algo- rithm. Pattern Recognition, 41 (2008), 1384—1397. 126 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 3, NO. 2 DECEMBER 2008</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>A comparison of resampling methods for clustering ensem- ble. International Conference on Machine Learning; Models, Technologies and Applications (MLMTA04), June 2004.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>On cluster validity for the fuzzy c-means model. IEEE Transactions on Fuzzy Systems, 3 (Apr. 1995), 370— 376.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Fallout tuffs of Trapper Creek, Idaho–A record of Miocene explosive volcanism in the Snake River Plain volcanic province. GSA Bulletin, 107, 12 (1995), 1484—1506.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Explosive silicic volcanism of the yellow stone hotspot: The ash fall tuff record. GSA Bulletin, 114, 3 (2002), 367—381.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>A new cluster validity index for the fuzzy c-mean. Pattern Recognition Letters, 19 (1998), 237—246.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Geochemistry and stratigraphic correlation of basalt lavas beneath the Idaho Chemical Processing Plant, Idaho Na- tional Engineering Laboratory. Environmental Geology, 30, 1/2 (1997), 108—118.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Normal and lognormal data distribution in geochemistry: Death of a myth. Consequences for the statistical treatment of geochemical and environmental data. Environmental Geology, 39, 9 (2000), 1001—1014.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Factor analysis applied to regional geochemical data: Prob- lems and possibilities. Applied Geochemistry, 17 (2002), 185—206.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Interpreting the pattern of volcano eruptions: Intelligent system for tephra layer correlation. In Proceedings of the FUSION’2007–10th Conference on Multisource Information Fusion, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Hybrid approach to multi-attribute decision making. In Proceedings of the FUSION’99 2nd Conference on Multi- source-Multisensor Information Fusion, 1999, 902—909.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Higher level fusion for post-disaster casualty mitigation operations. In Proceedings of the 8th International Conference on Mul- tisource Information Fusion (FUSION’2005), 2005.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>A Mathematical Theory of Evidence. Princeton University Press, 1976.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>The transferable belief model. Artificial Intelligence, 66 (1994), 191—243.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Kalman filter and joint tracking and classification based on belief functions in the TBM framework. Information Fusion, 8, 1 (Jan. 2007), 16—27.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>H. Sigurdsson and A. W. Woods Volcanic Plumes. London: Wiley, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Cluster ensembles–A knowledge reuse framework for combining multiple partitions. Journal of Machine Learning Research, 3 (2002), 583—618.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Two-way cluster analysis of geochemical data to constrain spring source water. Chemical Geology 179, 1—4 (2001), 73—91.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Cluster analysis applied to regional geochemical data: Prob- lems and possibilities. 2006, Webpage: http://www.statistik.tuwien.ac.at/forschung /CS/CS-2006-5complete.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Analysis of consensus partition in cluster ensemble. In Proceedings of the Fourth IEEE International Conference on Data Mining (ICDM’04), 2004, 225—232.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>A mixture model of clustering ensembles. In Proceedings of the Fourth SIAM International Conference on Data Mining, 2003, 379—390.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>Combining multiple weak clusterings. In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2003.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>Stratigraphic division based on minor elements in the sedi- ment core Q43 from the outer shelf of the East China Sea: Approached through correspondence analysis and fuzzy cluster analysis. Journal of Ocean University of China (English Ed.), 4, 2 (2005), 131—136.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Clustering combination method. In Proceedings of the 15th International Conference on Pat- tern Recognition, 2 (Sept. 2000), 732—735.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>An evidential reasoning approach for multiple-attribute de- cision making with uncertainty. IEEE Transactions on Systems, Man, and Cybernetics, 24, 1 (1994), 1—78. INTELLIGENT SYSTEM FOR INTERPRETING THE PATTERN OF VOLCANIC ERUPTIONS 127</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

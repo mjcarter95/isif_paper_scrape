@@ -1,0 +1,110 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237392.2576547</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2006</year>
+</publication_date>
+<journal_volume>
+<volume>1</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Level I and Level II Target Valuations for Sensor Management</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>K. C.</given_name>
+<surname>Chang</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Joe P.</given_name>
+<surname>Hill</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2006</year>
+</publication_date>
+<pages>
+<first_page>95</first_page>
+<last_page>107</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>T. Allen, D. Castañon and R. Washburn Stochastic dynamic programming for farsighted sensor management. Phase II SBIR Final Report, ALPHATECH Technical Re- port, TR-974, June 2000.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Dynamic airborne sensor resource management for ground moving target tracking and classification. In Proceedings of IEEE Aerospace Conference, Big Sky, MO, Mar. 2000.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Rollout algorithms for stochastic scheduling. Heuristics, 5 (1999).</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Dynamic Programming and Optimal Control vol. I, II. Belmont MA: Athena Scientific, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Approximate dynamic programming for sensor manage- ment. In Proceedings of the 1997 Conference on Decision and Control.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Target identification with Bayesian networks in a multiple hypothesis tracking system. SPIE Optical Engineering Journal, 36, 3 (Mar. 1997), 684— 691.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Improved representation of sensor exploitation for auto- matic sensor management. In Proceedings of Sixth International Conference on Infor- mation Fusion, Cairns, Queensland, Australia, July 2003, 688—694.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Sensor resource management with hierarchical target valu- ation models. In Proceedings of Seventh International Conference on Infor- mation Fusion, Stockholm, Sweden, July 2004.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>An Introduction to Bayesian Networks. Spinger, NY, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Recursive composition inference for force aggregation. In Proceedings of Second International Conference on Infor- mation Fusion, July 1999.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Issues in the design of practical multitarget tracking algo- rithms. In Y. Bar-Shalom (Ed.), Multitarget-Multisensor Tracking: Applications, Artech House, 1990, ch. 2.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Random set theory for target tracking and identification. In D. L. Hall and J. Llinas (Eds.), Handbook of Multisensor Data Fusion, Boca Raton FL: CRC Press, 2002, ch. 14.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Target preference in multitarget sensor management: A unified approach. In Proceedings of SPIE conference, Orlando, FL, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>An information-theoretic approach to data fusion and sen- sor management. Ph.D. thesis, University of Oxford, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Tracking and classifying multiple targets without a priori identification. IEEE Transaction on Automatic Control, AC-31, 5 (1985), 401—409. 106 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 1, NO. 2 DECEMBER 2006</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. Morgan Kaufmann, 1989.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Revisions to the JDL data fusion model. In Proceedings of SPIE, Sensor Fusion: Architectures, Algo- rithms, and Applications III, 1999.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

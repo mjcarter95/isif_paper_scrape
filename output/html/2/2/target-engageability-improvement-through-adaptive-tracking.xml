@@ -1,0 +1,31 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 2</li>
+<li>Issue 2</li>
+<li>Pages 99 - 112</li>
+<li>December, 2007</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Target Engageability Improvement through Adaptive Tracking</h1>
+<p class="article-authors">A.   Benaskeur, F.  Rheaume and S.  Paradis</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">Y. Bar-Shalom (Ed.) Multitarget-Multisensor Tracking: Applications and Advan- ces. Artech House, 1990.</li>
+<li class="ref-2">Multitarget-Multisensor Tracking: Principles and Techniques. Storrs, CT, 1995.</li>
+<li class="ref-3">Estimation with Applications to Tracking and Navigation. New York: Wiley, 2001.</li>
+<li class="ref-4">Design and Analysis of Modern Tracking Systems. Norwod, MA: Artech House, 1999.</li>
+<li class="ref-5">P. Kropf Coordinating plans for agents performing AAW hardkill and softkill for frigates. In Proceedings of The 2001 AAAI Fall Symposium Series, North Falmouth, MA, July 2001, 1—8.</li>
+<li class="ref-6">A method to optimize ship maneuvers for the coordination of hardkill and softkill weapons within a frigate. In 7th International Command and Control Research and Technology Symposium (7th ICCRTS), Quebec, Sept. 2002.</li>
+<li class="ref-7">E. Squire Real-time decision support for the anti-air warfare com- mander. In 6th International Command and Control Research and Technology Symposium (6th ICCRTS), Annapolis, MD, 2001.</li>
+<li class="ref-8">Supporting threat response management in a tactical naval environment. In 8th ICCRTS, June 2003.</li>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,139 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237352.322458</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2010</year>
+</publication_date>
+<journal_volume>
+<volume>5</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Multi-step Look-Ahead Policy for Autonomous Cooperative Surveillance by UAVs in Hostile Environments</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Xin </given_name>
+<surname>Tian</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Krishna R.</given_name>
+<surname>Pattipati</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2010</year>
+</publication_date>
+<pages>
+<first_page>3</first_page>
+<last_page>17</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom, X. R. Li and T. Kirubarajan Estimation with Applications to Tracking and Navigation. New York: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Tracking with classification-aided multiframe data associa- tion. IEEE Transactions on Aerospace and Electronic Systems, 41, 3 (July 2005), 868—878.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Rollout algorithms for combinatorial optimization. Journal of Heuristics, 3, 3 (Nov. 1997), 245—262.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Rollout algorithms for stochastic scheduling problems. Journal of Heuristics, 5, 1 (Apr. 1999), 89—108.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Anderson Coordinated Target assignment and intercept for unmanned air vehicles. IEEE Transactions on Robotics and Automation, 18, 6 (Dec. 2002), 911—922.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>UAV coperative control. In Proceedings of American Control Conference, June 2001, 50—55.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Pattern Classification (2nd ed.). New York: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Dissanayake Dynamic allocation and control of coordinated UAVs to engage multiple targets in a time-optimal manner. In Proceedings of IEEE International Conference on Robotics and Automation, Apr. 2004, 2353—2358.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Recursive Bayesian search-and-tracking using coordinated UAVs for lost targets. In Proceedings of Conference on Robotics and Automation, May 2006, 2521—2526.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Distributed cooperative search using information-theoretic costs for particle filters with quadrotor applications. In Proceedings of AIAA Guidance, Navigation and Control Conference, Keystone, CO, Aug. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Best combination of multiple objectives for UAV search & track path optimization. In Proceedings of the 10th International Confernce on Infor- mation Fusion, July 2007.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Optimal search among false contacts. SIAM Journal of Applied Math, 52, 6 (Dec. 1992), 1722— 1750.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Automonous hierachical control of multiple unmanned combat vehicles. In Proceedings of American Control Conference, May 2002, 274—279.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>A decomposition strategy for optimal coordination of un- manned air vehicles. In Proceedings of American Control Conference, June 2000, 369—373.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Cooperative control of UAV rendezvous. In Proceedings of American Control Conference, June 2001, 2309—2314.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>A cooperative search framework for distributed agents. In Proceedings of the 2001 IEEE International Symposium on Intelligent Control, Sept. 2001.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>UAVs: In space, air, water, and on the ground. IEEE Control Systems Magazine, 20, 6 (Dec. 2000), 15—18.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>A distributed approach to autonomous surveillance by mul- tiple cooperative UAVs. In Proceedings of SPIE Signal and Data Processing of Small Targets, Oct. 2005, #5913-64.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Autonomous search, tracking and classification by multiple cooperative UAVs. In Proceedings of SPIE Conference on Signal Proces- sing, Sensor Fusion, and Target Recognition, Apr. 2006, #6235-09.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Optimal search using uninterrupted contact investigation. SIAM Journal on Applied Mathematics, 20, 2 (Mar. 1971), 241—163.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Rollout strategy for sequential fault diagnosis. IEEE Transactions of System, Man and Cybernetics, Part A, 33, 1 (Jan. 2003), 86—99.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Balancing search and target response in cooperative un- manned aerial vehichle (UAV) teams. IEEE Transactions on Systems, Man and Cybernetics, Part B, 36, 3 (June 2006), 571—587.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Decentralized cooperative search by networked UAVs in an uncertain environment. In Proceedings of American Control Conference, June 2004, 5558—5563.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Track segment association, fine-step IMM and initialization with Doppler for improved track performance. IEEE Transactions on Aerospace and Electronic Systems, 40, 2 (Jan. 2004), 293—309.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Real-time target tracking for autonomous UAVs in adver- arial environments: A gradient search algorithm. IEEE Transactions on Robotics, 23, 2 (Apr. 2007), 294—307. MULTI-STEP LOOK-AHEAD POLICY FOR AUTONOMOUS COOPERATIVE SURVEILLANCE 15</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

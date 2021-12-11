@@ -1,0 +1,75 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 15</li>
+<li>Issue 1</li>
+<li>Pages 57 - 70</li>
+<li>June, 2020</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">A Nonparametric Bayesian Compressive Sensing Classification</h1>
+<p class="article-authors">Ruilong  Chen, Matthew  Hawes and Lyudmila  Mihaylova</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">Y. Ou, H. Zheng, S. Chen, and J. Chen “Vehicle logo recognition based on a weighted spatial pyramid framework,” in Proc. 17th IEEE Int. Conf. Intell. Transp. Syst., Qingdao, China, Oct. 2014, pp. 1238–1244. A NONPARAMETRIC BAYESIAN COMPRESSIVE SENSING CLASSIFICATION 67</li>
+<li class="ref-2">“An improved vehicle logo recognition method for road surveillance images,” in Proc. 7th Int. Symp. Comput. Intell. Des., Hangzhou, China, Dec. 2014, pp. 373–376.</li>
+<li class="ref-3">“Vehicle logo recognition in traffic images using HOG features and SVM,” in Proc. 16th IEEE Int. Conf. Intell. Transp. Syst., The Hague, Netherlands, Oct. 2013, pp. 2229–2234.</li>
+<li class="ref-4">“Robust traffic scene recognition with a limited descriptor length,” in Proc. CVPR Workshop Vis. Place Recognit. Changing Environ., Boston,MA,USA, Jun. 2015.</li>
+<li class="ref-5">“Vehicle logo recognition by spatial-SIFT combined with logistic regression,” in Proc. IEEE Int. Conf. Inf. Fusion, Heidelberg, Germany, Jul. 2016, pp. 1228–1235.</li>
+<li class="ref-6">“Vehicle logo recognition system based on convolutional neural networks with a pretraining strategy,” IEEE Trans. Intell. Transp. Syst., vol. 16, no. 4, pp. 1951–1960, 2015.</li>
+<li class="ref-7">“Learning capsules for vehicle logo recognition,” in Proc. 21st Int. Conf. Inf. Fusion, Jul. 2018, pp. 565–572.</li>
+<li class="ref-8">“On the use of neighbourhood-based non-parametric classifiers,” Pattern Recognit. Lett., vol. 18, no. 11, pp. 1179–1186, 1997.</li>
+<li class="ref-9">Pattern Recognition and Machine Learning. New York, NY, USA: Springer, 2006.</li>
+<li class="ref-10">Machine Learning: A Probabilistic Perspective. Cambridge, MA,USA:MIT Press, 2012.</li>
+<li class="ref-11">“Vehicle logo recognition using a SIFT-based enhanced matching scheme,” IEEE Trans. Intell. Transp. Syst., vol. 11, no. 2, pp. 322–328, 2010.</li>
+<li class="ref-12">“Recognition of low-resolution logos in vehicle images based on statistical random sparse distribution,” IEEE Trans. Intell. Transp. Syst., vol. 16, no. 2, pp. 681–691, 2015.</li>
+<li class="ref-13">, “What is the nearest neighbor in high dimensional spaces?” in Proc. Int. Conf. Very Large Data Bases, San Francisco, CA, USA, Sept. 2000, pp. 506–515.</li>
+<li class="ref-14">“Robust face recognition via sparse representation,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 31, no. 2, pp. 210–227, 2009.</li>
+<li class="ref-15">“For most large underdetermined systems of linear equations the minimal l1-norm solution is also the sparsest solution,” Commun. Pure Appl.Math., vol. 59, no. 6, pp. 797–829, 2006.</li>
+<li class="ref-16">“Bayesian compressive sensing,” IEEE Trans. Signal Process., vol. 56, no. 6, pp. 2346–2356, 2008.</li>
+<li class="ref-17">“SAR target classification using Bayesian compressive sensing with scattering centers features,” Prog. Electromagn. Res., vol. 136, pp. 385–407, 2013.</li>
+<li class="ref-18">“A fast image reconstruction method based on Bayesian compressed sensing for the undersampled AFM data with noise,” Meas. Sci. Technol., vol. 30, no. 2, p. 025402, Jan. 2019.</li>
+<li class="ref-19">“Bayesian nonparametric dictionary learning for compressed sensing MRI,” IEEE Trans. Image Process., vol. 23, no. 12, pp. 5007–5019, Dec. 2014.</li>
+<li class="ref-20">“Bayesian compressive sensing for phonetic classification,” in Proc. IEEE Int. Conf. Acoust. Speech Signal Process., Dallas, TX, USA,Mar. 2010, pp. 4370–4373.</li>
+<li class="ref-21">“Learning with local and global consistency,” in Proc. Adv. Neural Inf. Process. Syst., Whistler, BC, Canada, Dec. 2003, pp. 321–328.</li>
+<li class="ref-22">“A group testing framework for similarity search in high-dimensional spaces,” in Proc. ACM Int. Conf. Multimedia, New York, NY, USA, Nov. 2014, pp. 407–416.</li>
+<li class="ref-23">“Efficient large-scale similarity search using matrix factorization,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., Las Vegas, NV, USA, Jun. 2016, pp. 2073–2081.</li>
+<li class="ref-24">“CUR matrix decompositions for improved data analysis,” Proc. Natl Acad. Sci. USA, vol. 106, no. 3, pp. 697–702, 2009.</li>
+<li class="ref-25">“See all by looking at a few: Sparse modeling for finding representative objects,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., Providence, RI, USA, Jun. 2012, pp. 1600–1607.</li>
+<li class="ref-26">“An improved approximation algorithm for the column subset selection problem,” in Proc. Annu. ACMSIAM Symp. Discrete Algorithms, New York, NY,USA, Jan. 2009, pp. 968–977.</li>
+<li class="ref-27">“Distinctive image features from scale-invariant keypoints,” Int. J. Comput. Vis., vol. 60, no. 2, pp. 91–110, 2004.</li>
+<li class="ref-28">“ImageNet classification with deep convolutional neural networks,” in Proc. 25th Int. Conf.Neural Inf. Process. Syst., Lake Tahoe, NV, USA,Dec. 2012, pp. 1097–1105.</li>
+<li class="ref-29">“Bayesian inference and compressed sensing,” Bayesian Inference, J. P. Tejedor, Ed. London, U.K.: IntechOpen, Nov. 2017.</li>
+<li class="ref-30">“On the approximability of minimizing nonzero variables or unsatisfied relations in linear systems,” Theor. Comput. Sci., vol. 209, no. 1, pp. 237–260, 1998.</li>
+<li class="ref-31">“Robust uncertainty principles: Exact signal reconstruction from highly incomplete frequency information,” IEEE Trans. Inf. Theory, vol. 52, no. 2, pp. 489–509, 2006.</li>
+<li class="ref-32">“Atomic decomposition by basis pursuit,” SIAM J. Sci. Comput., vol. 20, no. 1, pp. 33–61, 1998. 68 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 15, NO. 1 JUNE 2020</li>
+<li class="ref-33">“Sparse solution of underdetermined systems of linear equations by stagewise orthogonal matching pursuit,” IEEE Trans. Inf. Theory, vol. 58, no. 2, pp. 1094–1121, 2012.</li>
+<li class="ref-34">“Sparse Bayesian learning and the relevance vector machine,” J. Mach. Learn. Res., vol. 1, pp. 211–244, 2001.</li>
+<li class="ref-35">J.M. De Carvalho “Towards the development of intelligent transportation systems,” in Proc. IEEE Intell. Transp. Syst., Oakland, CA, USA,Aug. 2001, pp. 1206–1211.</li>
+<li class="ref-36">“A comparison of moments-based logo recognition methods,” in Proc. Abstr. Appl. Anal., vol. 2014, 2014, pp. 1–8.</li>
+<li class="ref-37">“Atomic scenes for scalable traffic scene recognition in monocular videos,” in Proc. IEEEWinter Conf. Appl. Comput. Vis., Lake Placid, NY, USA,Mar. 2016, pp. 1–9.</li>
+<li class="ref-38">S. J. Russell, and J.Weber “Automatic symbolic traffic scene analysis using belief networks,” Adv. Artif. Intell., vol. 94, 1994, pp. 966–972.</li>
+<li class="ref-39">“Visual categorization with bags of keypoints,” in Proc. Workshop Statist. Learn. Comput. Vis., Prague, Czech Republic, May 2004, pp. 1–22.</li>
+<li class="ref-40">“Action recognition via spatio-temporal local features: A comprehensive study,” Image Vis. Comput., vol. 50, pp. 1–13, 2016.</li>
+<li class="ref-41">“Towards effective image classification using class-specific codebooks and distinctive local features,” IEEE Trans. Multimedia, vol. 17, no. 3, pp. 323–332, 2015.</li>
+<li class="ref-42">“VLFeat: An open and portable library of computer vision algorithms,” in Proc. 18th ACM Conf Int. Multimedia, New York, NY, USA,Oct. 2010, pp. 1469–1472.</li>
+<li class="ref-43">“CVX: Matlab software for disciplined convex programming, version 2.1,” http://cvxr.com/cvx, Mar. 2014.</li>
+<li class="ref-44">“Graph implementations for nonsmooth convex programs,” in Recent Advances in Learning and Control. Vincent D. Blondel, Stephen P. Boyd, and Hidenori Kimura, Eds. London, U.K.: Springer, 2008, pp. 95–110.</li>
+<li class="ref-45">“Image representations on a budget: Traffic scene classification in a restricted bandwidth scenario,” in Proc. IEEE Intell. Veh. Symp., Dearborn, MI, USA, Jun. 2014, pp. 845–852.</li>
+<li class="ref-46">“One pixel attack for fooling deep neural networks,” IEEE Transactions on Evolutionary Computation, vol. 23, no. 5, pp. 828–841, 2019.</li>
+<li class="ref-47">“Learning multiple layers of features from tiny images,” Masters thesis, Dept. Computer Science, Univ. Toronto, 2009.</li>
+<li class="ref-48">“The matrix reference manual,” Imperial College</li>
+<li class="ref-49">http://www.ee.imperial.ac.uk/hp/staff/dmb/matrix/intro.html.</li>
+<li class="ref-50">“Bayesian interpolation,” Neural Comput., vol. 4, no. 3, pp. 415–447, 1992.</li>
+<li class="ref-51">“Relevance vector machines explained,” University</li>
+<li class="ref-52">http://home.mit.bme.hu/horvath/IDA/RVM.pdf.</li>
+</ul>
+
+</body>
+</html>

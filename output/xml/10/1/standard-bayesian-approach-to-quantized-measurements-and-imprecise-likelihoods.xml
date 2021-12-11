@@ -1,0 +1,80 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237286.0481725</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<journal_volume>
+<volume>10</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Standard Bayesian Approach to Quantized Measurements and Imprecise Likelihoods</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Lawrence D</given_name>
+<surname>Stone</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Stephen L.</given_name>
+<surname>Anderson</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<pages>
+<first_page>3</first_page>
+<last_page>12</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>J. O. Berger Statistical Decsion Theory and Bayesian Analysis, 2nd ed. New York, NY: Springer-Verlag, 1985.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>State estimation with quantized measurements: approxi- mate MMSE approach. In Proceedings of 11th International Conference on Informa- tion Fusion, Cologne, Germany, July 2008, 1067—1072.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>General Bayes filtering of quantized measurements. In Proceedings of 14th International Conference on Informa- tion Fusion, Chicago, USA, July 5—8, 2011, 346—352.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Bayesian estimation with imprecise likelihoods: Random set approach. IEEE Signal Processing Letters, 18 (July 2011), 394—398.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Beyond the Kalman Filter. Boston, MA: Artech House, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Bayesian Multiple Target Tracking 2nd ed. Boston, MA: Artech House, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>STANDARD BAYESIAN APPROACH TO QUANTIZED MEASUREMENTS AND IMPRECISE LIKELIHOODS 11 Lawrence D. Stone obtained his B.S. in mathematics from Antioch College in 1964 and his M.S. and Ph.D. in mathematics from Purdue University in 1965 and 1967. He is Chief Scientist at Metron Inc. He is a member of the National Academy of Engineering and a fellow of the Institute for Operations Research and Management Science. In 1975, the Operations Research Society of America awarded the Lanchester Prize to Dr. Stone’s text, Theory of Optimal Search. In 1986, he produced the probability maps used to locate the S.S. Central Americawhich sank in 1857, taking millions of dollars of gold coins and bars to the ocean bottom one and one-half miles below. In 2010 he led the team that produced the probability distribution that guided the French to the location of the underwater wreckage of Air France Flight AF447. He is a coauthor of the 2014 book, Bayesian Multiple Target Tracking. He continues to work on a number of detection and tracking systems for the United States Navy and Coast Guard including the Search And Rescue Optimal Planning System used by the Coast Guard since 2007 to plan searches for people missing at sea.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,87 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 1</li>
+<li>Issue 1</li>
+<li>Pages 75 - 90</li>
+<li>June, 2006</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Robust Bayesianism: Relation to Evidence Theory</h1>
+<p class="article-authors">Stefan  Arnborg</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">S. Arnborg Robust Bayesianism: Imprecise and paradoxical reasoning. In P. Svensson and J. Schubert (Eds.), Proceedings of the Seventh International Conference on Information Fusion, Vol. I, Stockholm, Sweden, International Society of Infor- mation Fusion, June 2004, 407—414.</li>
+<li class="ref-2">Bayes rules in finite models. In Proceedings of European Conference on Artificial Intelli- gence, Berlin, 2000, 571—575.</li>
+<li class="ref-3">Global and local priors, and the location of lesions using gamma camera imagery. Philosophical Transactions of the Royal Society of London A, 337 (1991), 323—342.</li>
+<li class="ref-4">Statistical Decision Theory and Bayesian Analysis. New York: Springer-Verlag, 1985.</li>
+<li class="ref-5">An overview of robust Bayesian analysis (with discussion). Test, 3 (1994), 5—124.</li>
+<li class="ref-6">Recursive Bayesian Estimation. Ph.D. thesis, Linköping University, Linköping, 1999.</li>
+<li class="ref-7">Bayesian Theory. New York: Wiley, 1994.</li>
+<li class="ref-8">Design and Analysis of Modern Tracking Systems. Boston, London: Artech House, 1999.</li>
+<li class="ref-9">Bayesian games for threat prediction and situation analysis. In P. Svensson and J. Schubert (Eds.), Proceedings of the Seventh International Conference on Information Fusion, Vol. II, Stockholm, Sweden, International Society of In- formation Fusion, June 2004, 1125—1132.</li>
+<li class="ref-10">Bayesian and Dempster-Shafer fusion. Sãdhãna, 2004, 145—174.</li>
+<li class="ref-11">A comparison of Bayesian and belief function reasoning. Technical Report, University of Kansas School of Business, 2003.</li>
+<li class="ref-12">A comparison of methods for transforming belief function models to probability models. In Symbolic and Quantitative Approaches to Reasoning with Uncertainty, Vol. 2711, LNCS, Berlin: Springer, 2004, 255— 266.</li>
+<li class="ref-13">On the plausibility transformation method for translating belief function models to probability models. International Journal of Approximate Reasoning, to appear. ARNBORG: ROBUST BAYESIANISM: RELATION TO EVIDENCE THEORY 87</li>
+<li class="ref-14">A unified approach to joint modeling of multiple quantita- tive and qualitative traits in gene mapping. Journal of Theor. Biology, 218 (2002), 435—446.</li>
+<li class="ref-15">Probability, frequency, and reasonable expectation. Am. Journal of Physics, 14 (1946), 1—13.</li>
+<li class="ref-16">Updating beliefs with incomplete observations. Artificial Intelligence, 159, 1—2 (2004), 75—125.</li>
+<li class="ref-17">Theory of Probability. London: Wiley, 1974.</li>
+<li class="ref-18">Upper and lower probabilities induced by a multi-valued mapping. Annals of Mathematical Statistics, 38 (1967), 325—339.</li>
+<li class="ref-19">A generalization of Bayesian inference (with discussion). Journal of the Royal statistical Society B, 30 (1968), 205— 247.</li>
+<li class="ref-20">Representing partial ignorance. IEEE Transactions on Systems, Man, and Cybernetics, Pt. A, 1996, 361—377.</li>
+<li class="ref-21">Constructing probability boxes and Dempster-Shafer struc- tures. Technical Report, Sandia National Laboratories, 2003.</li>
+<li class="ref-22">The modified Dempster-Shafer approach to classification. IEEE Transactions on SMC-A, 27, 1 (Jan. 1997), 96—104.</li>
+<li class="ref-23">Fast and robust smallest enclosing balls. In ESA, Vol. 1643, LNCS, Berlin: Springer, 1999, 325—338.</li>
+<li class="ref-24">Bayesian Data Analysis (2nd ed.). New York: Chapman & Hall, 2003.</li>
+<li class="ref-25">On the scoring approach to admissibility of uncertainty measures in expert systems. Journal of Math. Analysis Appl., 159 (1991), 550—594.</li>
+<li class="ref-26">Reversible jump Markov chain Monte Carlo computation and Bayesian model determination. Biometrika, 82 (1995), 711—732.</li>
+<li class="ref-27">Markov Chain Monte Carlo in image analysis. In W. R. Gilks, S. Richardson and D. J. Spiegelhalter (eds.), Markov Chain Monte Carlo in Practice, London: Chapman & Hall, 1996.</li>
+<li class="ref-28">Game theory, maximum entropy, minimum discrepancy, and robust Bayesian decision theory. Annals of Statistics, 32, 4 (2004).</li>
+<li class="ref-29">Geometric foundations for interval-based probabilities. Annals of Mathematics and Artificial Intelligence, 1998.</li>
+<li class="ref-30">Handbook of Multisensor Data Fusion. Boca Raton: CRC Press, May 2001.</li>
+<li class="ref-31">A counterexample to theorems of Cox and Fine. Journal of AI Research, 10 (1999), 67—85.</li>
+<li class="ref-32">Two views of belief: Belief as generalized probability and belief as evidence. Artificial Intelligence, 54 (1992), 275—318.</li>
+<li class="ref-33">On finitely additive priors, coherence, and extended admis- sibility. Annals of Statistics, 6 (1978), 233—345.</li>
+<li class="ref-34">Special issue on alternative representations of epistemic uncertainty. Reliability Engineering and System Safety, 2004, 1—369.</li>
+<li class="ref-35">Scientific Inference: The Bayesian Approach. Chicago: Open Court Publishing Company, 1989.</li>
+<li class="ref-36">Robust Bayesian Analysis. La Salle: Springer-Verlag, 2000.</li>
+<li class="ref-37">Bayesian updating and belief functions. IEEE Transactions on Systems, Man, and Cybernetics, 1996, 1144—1152.</li>
+<li class="ref-38">Probability Theory: The Logic of Science. Cambridge: Cambridge University Press, 2003.</li>
+<li class="ref-39">Scientific Inference. Cambridge: Cambridge University Press, 1931.</li>
+<li class="ref-40">Judgment Under Uncertainty: Heuristics and Biases. Cambridge: Cambridge University Press, 1982.</li>
+<li class="ref-41">Set-based Bayesianism. IEEE Transactions on Systems, Man, and Cybernetics, 1996, 324—339.</li>
+<li class="ref-42">Scoring rules and the inevitability of probability (with discussion). Internat. Stat. Rev., 50 (1982), 1—26.</li>
+<li class="ref-43">Can the Bayesian and Dempster-Shafer approaches be rec- onciled? Yes. In FUSION 2005, International Society of Information Fu- sion, 2005, C7-3.</li>
+<li class="ref-44">Decentralised fusion of disparate identity estimates for shared situation awareness. In P. Svensson and J. Schubert (Eds.), Proceedings of the Seventh International Conference on Information Fusion, vol. I, Stockholm, Sweden, International Society of Infor- mation Fusion, June 2004, 167—174.</li>
+<li class="ref-45">Fusion of disparate identity estimates for shared situation awareness in a network-centric environment. Information Fusion, to appear.</li>
+<li class="ref-46">The Uncertain Reasoner’s Companion. Cambridge: Cambridge University Press, 1994.</li>
+<li class="ref-47">A review of uncertainty handling formalisms. In Applications of Uncertainty Formalisms, Vol. 1455, LNCS, Berlin: Springer, 1998, 266—302.</li>
+<li class="ref-48">Inference and missing data. Biometrika, 63 (1976), 581—592.</li>
+<li class="ref-49">Foundations of Statistics. New York: Wiley, 1954.</li>
+<li class="ref-50">Methodology for guaranteed and robust high level fusion performance: A literature study. Technical Report FOI-D-0216-SE, Swedish Defence Re- search Agency, 2005. 88 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 1, NO. 1 JULY 2006</li>
+<li class="ref-51">A Mathematical Theory of Evidence. Princeton: Princeton University Press, 1976.</li>
+<li class="ref-52">Bayesian Data Analysis, A Bayesian Tutorial. Oxford: Clarendon Press, 1996.</li>
+<li class="ref-53">Advances and Applications of DSmT for Information Fusion. Rehoboth: American Research Press, 2004.</li>
+<li class="ref-54">Decision making in the TBM: The necessity of the pignistic transformation. International Journal of Approximate Reasoning, 38, 2 (2005), 133—214.</li>
+<li class="ref-55">The transferable belief model. Artificial Intelligence, 66 (1994), 191—234.</li>
+<li class="ref-56">Kalman filter and joint tracking and classification in the TBM framework. In P. Svensson and J. Schubert (Eds.), Proceedings of the Seventh International Conference on Information Fusion, Vol. I, Stockholm, Sweden, International Society of Infor- mation Fusion, June 2004, 46—53.</li>
+<li class="ref-57">Convex Bayesianism decision theory. IEEE Transactions on Systems, Man, and Cybernetics, (1991), 173—183.</li>
+<li class="ref-58">Inverse pignistic probability transforms. In FUSION 2002, International Society of Information Fu- sion, 2002, 763—768.</li>
+<li class="ref-59">An unsupervised ensemble learning method for nonlinear dynamic state-space models. Neural Computation, 14, 11 (2002), 2647—2692.</li>
+<li class="ref-60">A computationally efficient approximation of Dempster- Shafer theory. International Journal of Man-Machine Studies, (1989), 525— 536.</li>
+<li class="ref-61">Partial probability: Theory and applications. In G. de Cooman, F. G. Cozman, S. Moral, and P. Walley (Eds.), Proceedings of the First International Symposium on Imprecise Probabilities and their Applications, Gent Univer- sity, 1999.</li>
+<li class="ref-62">Statistical Reasoning with Imprecise Probability. London: Chapman and Hall, 1991.</li>
+<li class="ref-63">Measures of uncertainty in expert systems. Artificial Intelligence, 83 (1996), 1—58.</li>
+<li class="ref-64">Extended probability. In Proceedings of the 12th European Conference on Artificial Intelligence, 1996, 667—671. ARNBORG: ROBUST BAYESIANISM: RELATION TO EVIDENCE THEORY 89</li>
+</ul>
+
+</body>
+</html>

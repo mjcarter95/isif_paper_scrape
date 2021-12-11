@@ -1,0 +1,54 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 9</li>
+<li>Issue 2</li>
+<li>Pages 124 - 135</li>
+<li>December, 2014</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">An Exploration of the Impacts of Three Factors in Multimodal Biometric Score Fusion: Score Modality, Recognition Method, and Fus</h1>
+<p class="article-authors">Yufeng  Zheng and Erik  Blasch</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">S. Alsing, E. P. Blasch, and R. Bauer Three-Dimensional Receiver Operating Characteristic (ROC) Trajectory Concepts for the Evaluation of Target Recognition Algorithms Faced with the Unknown Target Detection Problem, Proc. SPIE. 3718, 1999.</li>
+<li class="ref-2">Statistical Inference for Probability Functions of Finite State Markov Chains, Ann. Math. Stat., 37:1554—1563, 1966.</li>
+<li class="ref-3">Pattern Recognition with Fuzzy Objective Function Algo- rithms, Plenum Press, New York, 1981.</li>
+<li class="ref-4">Person Identification Using Multiple Cues, IEEE Trans. Pattern Anal. Mach. Intell., 17(10): 955—966, 1995.</li>
+<li class="ref-5">Hidden Markov Models: Applications in Computer Vision, World Scientific, River Edge, New Jersey, 2001.</li>
+<li class="ref-6">A Tutorial on Support Vector Machines for Pattern Recog- nition, Data Mining and Knowledge Discovery, 2:121—167, 1998.</li>
+<li class="ref-7">P. M. Jokich Image Feature Analysis and Computer-aided Diagnosis in Digital Radiography. I. Automated Detection of Microcal- cifications in Mammography, Med. Physics, 14:538—548, 1987.</li>
+<li class="ref-8">Pattern Classification and Scene Analysis, Wiley, New York, 1973.</li>
+<li class="ref-9">Bigun Discriminative Multimodal Biometric Authentication based on Quality Measures, Pattern Recognition, 38(5):777—779, 2005.</li>
+<li class="ref-10">Unsupervised Learning of Finite Mixture Models, IEEE Trans. Pattern Anal. Mach. Intell. 24 (3), 381—396, 2002.</li>
+<li class="ref-11">The Viterbi Algorithm, Proc. IEEE 61, 268—278, 1973.</li>
+<li class="ref-12">Landmine Detection with Ground Penetrating Radar using Hidden Markov Models, IEEE Trans. Geosci. Remote Sens., 39:1231—1244, 2001.</li>
+<li class="ref-13">Score Normalization in Multimodal Biometric Systems, Pattern Recognition, 38(12):2270—2285, 2005.</li>
+<li class="ref-14">Optimization of a Network with Gaussian Kernel Functions Based on the Estimation of Error Confidence Intervals, Proc. of IJCNN 2001, 3:1762—176, 2001.</li>
+<li class="ref-15">A Theoretical Study on Six Classifier Fusion Strategies, IEEE Trans. Pattern Anal. Mach. Intell., 24(2):281—286, 2002.</li>
+<li class="ref-16">Switching between Selection and Fusion in Combining Classifiers: an Experiment, IEEE Trans. on Systems, Man, and Cybernetics, Part B, 32(2):146—156, 2002.</li>
+<li class="ref-17">Objective Assessment of Multiresolution Image Fusion Al- gorithms for Context Enhancement in Night Vision: A Comparative Survey, IEEE Trans. Pattern Anal. Mach. Intell., 34(1):94—109, 2012.</li>
+<li class="ref-18">Face Recognition Using LDA-Based Algorithms, IEEE Trans. on Neural Networks, 14(1):195—200, 2003.</li>
+<li class="ref-19">Generalized Hidden Markov Models part 2: Applications to Handwritten Word Recognition, IEEE Trans. Fuzzy Systems, 8:186—194, 2000.</li>
+<li class="ref-20">Machine Learning: a Probabilistic Perspective, MIT Press, Cambridge, Massachusetts, 2012.</li>
+<li class="ref-21">Likelihood ratio-based biometric score fusion, IEEE Trans. Pattern Anal. Mach. Intell., 30(2): 342—347, 2008.</li>
+<li class="ref-22">NIST Biometric Scores Set–release 1, http://www.itl.nist.gov/iad/894.03/biometricscores, 2004.</li>
+<li class="ref-23">Decision-level Fusion in Fingerprint Verification, Pattern Recognition, 35(4):861—874, 2002.</li>
+<li class="ref-24">Tutorial on Hidden Markov Models and Selected Applica- tions in Speech Recognition, Proc. IEEE 77, 257—286, 1989.</li>
+<li class="ref-25">Statistical and Neural Classifiers: an Integrated Approach to Design, Springer, London, 2001.</li>
+<li class="ref-26">Information Fusion in Biometrics, Pattern Recognition Letters, 24:2115—2125, 2003. 134 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 9, NO. 2 DECEMBER 2014</li>
+<li class="ref-27"></li>
+<li class="ref-28">Exploiting Global and Local Decisions for Multimodal Biometrics Verification, IEEE Trans. on Signal Processing, 52(10):3059—3072, 2004.</li>
+<li class="ref-29">Studies of Biometric Fusion, NIST Interagency Report, 2006.</li>
+<li class="ref-30">Face Recognition by Elastic Bunch Graph Matching, IEEE Trans. Pattern Anal. Mach. Intell., 19 (7):775—779, 1997.</li>
+<li class="ref-31">Fusing Local Patterns of Gabor Magnitude and Phase for Face Recognition, IEEE Trans. Image Process., 19(5):1349—1361, 2010.</li>
+</ul>
+
+</body>
+</html>

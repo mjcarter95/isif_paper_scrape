@@ -1,0 +1,185 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237216.4918578</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2019</year>
+</publication_date>
+<journal_volume>
+<volume>14</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Arabic Dynamic Gesture Recognition Using Classifier Fusion</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Basma </given_name>
+<surname>Hisham</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Alaa </given_name>
+<surname>Hamouda</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2019</year>
+</publication_date>
+<pages>
+<first_page>66</first_page>
+<last_page>85</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>R. Hoopers et al. “Analyzing variation in sign languages: Theoretical and methodological issues,” in Signed Languages:Discoveries From International Research,M.Metzger, S. Taub, A.M. Baer, and V. Dively Eds., Washington, DC: Gallaudet University Press, 2001, pp. 135–162.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“Prototype Arabic sign language recognition using multi-sensor data fusion of two Leap Motion controllers,” in Proc. 12th Int. Multi-Conf. Syst., Signals Devices, Piscataway, NJ: IEEE, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Evaluation of the KinectTM sensor for 3-D kinematic measurement in the workplace,” Appl. Ergonom., vol. 43, no. 4, pp. 645–649, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“RGB-D datasets using Microsoft Kinect or similar sensors: A survey,” Multimedia Tools Appl., vol. 76, no. 3, pp. 4313–4355, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“American sign language recognition using Leap Motion sensor,” in Proc. 13th Int. Conf. Mach. Learn. Appl., Piscataway, NJ: IEEE, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“A system for a hand gesture-manipulated virtual reality environment,” in Proc. Annu. Conf. South Afr. Inst. Comput. Scientists Inf. Technologists, New York: ACM, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>C. Neidle “Recognition of nonmanual markers in American sign language (ASL) using non-parametric adaptive 2D–3D face tracking,” in Proc. Int. Conf. Lang. Resour. Eval., 2012.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Arabic sign language: A perspective,” J. Deaf Stud. Deaf Educ., vol. 10, no. 2, pp. 212–221, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Machine Learning in Radiation Oncology: Theory and Applications. Cham, Switzerland: Springer, 2015, pp. 57–70.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Comparison of four SVM classifiers used with depth sensors to recognize Arabic sign language words,” Computers, vol. 6, no. 2, p. 20, 2017. ARABIC DYNAMIC GESTURE RECOGNITION USING CLASSIFIER FUSION 83</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Representation learning: A review and new perspectives,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 35, no. 8, pp. 1798–1828, Aug. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Image-based and sensor-based approaches to Arabic sign language recognition,” IEEE Trans. Human–Mach. Syst., vol. 44, no. 4, pp. 551–557, Aug. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Monocular vision-based signer-independent Pakistani sign language recognition system using supervised learning,” Indian J. Sci. Technol., vol. 9, no. 25, pp. 1–16, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Recognition of Arabic sign language (ArSL) using recurrent neural networks,” in Proc. 1st Int. Conf. Appl. Digit. Inf. Web Technol., Piscataway, NJ: IEEE, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Recognition of Arabic sign language alphabet using polynomial classifiers,” EURASIP J. Adv. Signal Process., vol. 2005, no. 13, p. 507614, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Improving gesture recognition in the Arabic sign language using texture analysis,” Appl. Artif. Intell., vol. 21, no. 1, pp. 11–33, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>and K. Nakamatsu “ArSLAT:Arabic sign language alphabets translator,” in Proc. Int. Conf. Comput. Inf. Syst. Ind. Manage. Appl., Piscataway, NJ: IEEE, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Low complexity classification system for glove-based Arabic sign language recognition,” in Proc. 19th Int. Conf. Neural Inf. Process., 2012, pp. 262–268.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Recognition of two-handed Arabic signs using the CyberGlove,” Arabian J. Sci. Eng., vol. 38, no. 3, pp. 669–677, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“A new approach for designing a smart glove for Arabic sign language recognition system based on the statistical analysis of the sign language,” in Proc. 34th Nat. Radio Sci. Conf., Piscataway, NJ: IEEE, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“Edge-based recognizer for Arabic sign language alphabet (ArS2V-Arabic sign to voice),” in Proc. Int. Comput. Eng. Conf., Piscataway, NJ: IEEE, 2010</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Using the Hausdorff algorithm to enhance Kinect’s recognition of Arabic sign language gestures,” Int. J. Comput. Sci. Secur., vol. 7, no. 1, p. 2, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“A proposed hybrid sensor architecture for Arabic sign language recognition,” in Intelligent Systems’ 2014. Cham, Switzerland: Springer, 2015, pp. 721–730.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>“Arabic sign language recognition using the Microsoft Kinect,” in Proc. 13th Int. Multi-Conf. Syst., Signals Devices, Piscataway, NJ: IEEE, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>“Arabic sign language recognition based on HOG descriptor,” in Proc. 8th Int. Conf. Graph. Image Process., vol. 10225. Bellingham, WA: International Society for Optics and Photonics, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“Arabic sign language recognition using multi-sensor data fusion,” U.S. Patent 9 672 418, Jun. 6, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“A framework for the integration of gesture and posture recognition using HMM and SVM,” in Proc. IEEE Int. Conf. Intell. Comput. Intell. Syst., vol. 4. Piscataway, NJ: IEEE, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“A Kinect based gesture recognition algorithm using GMM and HMM,” in Proc. 6th Int. Conf. Biomed. Eng. Inform., Piscataway, NJ: IEEE, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>“A video based Indian sign language recognition system (INSLR) using wavelet transform and fuzzy logic,” Int. J. Eng. Technol., vol. 4, no. 5, p. 537, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>“Multi-sensor data fusion for hand tracking using Kinect and Leap Motion,” in Proc. Virtual Reality Int. Conf., New York: ACM, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>“Hand gesture recognition with jointly calibrated Leap Motion and depth sensor,” Multimedia Tools Appl., vol. 75, no. 22, pp. 14991–15015, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>“Live demonstration: A HMM-based real-time sign language recognition system with multiple depth sensors,” in Proc. IEEE Int. Symp. Circuits Syst., Piscataway, NJ: IEEE, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>“Chinese sign language recognition based on an optimized tree-structure framework,” IEEE J. Biomed.Health Inform., vol. 21, no. 4, pp. 994–1004, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>“Coupled HMM-based multi-sensor data fusion for sign language recognition,” Pattern Recognit. Lett., vol. 86, pp. 1–8, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>“Gesture recognition based on Kinect and sEMG signal fusion,” Mobile Netw. Appl., vol. 23, no. 4, pp. 797–805, 2018.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Character Recognition Systems: A Guide for Students and Practitioners. Hoboken, NJ:Wiley, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>“Fingers and gesture recognition with Kinect v2 sensor,” Inf. Technol. Control, vol. 14, no. 3, pp. 24–30, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Advances and Applications of DSmT for Information Fusion, Collected Works, vol. 3. Rehoboth, DE: American Research Press, 2009, 760 pp.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>“Efficient combination rule of Dezert–Smarandache theory,” J. Syst. Eng. Electron., vol. 19, no. 6, pp. 1139–1144, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>“Probability-based dynamic time warping for gesture recognition on RGB-D data,” in Advances in Depth Image Analysis and Applications. Berlin, Germany: Springer, 2013, pp. 126–135. 84 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 14, NO. 1 JUNE 2019</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>“Gesture recognition: A survey,” IEEE Trans. Syst., Man, Cybern., Part C: Appl. Rev., vol. 37, no. 3, pp. 311–324, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>“Albanian sign language (AlbSL) number recognition from both hand’s gestures acquired by Kinect sensors,” Int. J. Adv. Comput. Sci. Appl., vol. 7, no. 7, pp. 777–780, 2016.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,147 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237216.4978433</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2019</year>
+</publication_date>
+<journal_volume>
+<volume>14</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>CRLB for Estimation of 3D Sensor Biases in Spherical Coordinates and Its Attainability</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Michael </given_name>
+<surname>Kowalski</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Djedjiga </given_name>
+<surname>Belfadel</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Peter </given_name>
+<surname>Willett</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2019</year>
+</publication_date>
+<pages>
+<first_page>98</first_page>
+<last_page>111</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>T. Asparouhov and B.Muthén “Weighted least squares estimation with missing data,” Mplus Technical Appendix, Jan. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“Maximum likelihood estimation for compound-Gaussian clutter with inverse gamma texture,” IEEE Trans. Aerosp. Electron. Syst., vol. 43, no. 2, PP. 775–779, Apr. 2007.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Estimation With Applications to Tracking and Navigation: Theory, Algorithms and Software, New York: Wiley–Interscience, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Tracking and Data Fusion: A Handbook of Algorithms. Storrs, CT: YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>S. Giompapa “Least squares estimation and Cramér–Rao type lower bounds for relative sensor registration process,” IEEE Trans. Signal Process., vol. 59, no. 3, pp. 1075–1087, Mar. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>S. Giompapa “On the application of the expectation–maximisation algorithm to the relative sensor registration problem,” IET Radar, Sonar Navigation, vol. 7, no. 2, pp. 191–203, Feb. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>S. Giompapa “An identifiability criterion in the presence of random nuisance parameters,” in Proc. 20th Eur. Signal Process. Conf., Aug. 2012, pp. 1194–1198.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>S. Giompapa “An EM-based approach to the relative sensor registration in multi-target scenarios,” in Proc. IEEE Radar Conf., May 2012, pp. 602–607.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>S. Giompapa “Least squares estimation and hybrid Cramér–Rao lower bound for absolute sensor registration,” in Proc. Tyrrhenian Workshop Adv. Radar Remote Sens., Sep. 2012, pp. 30–35.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Treatment of bias in recursive filtering,” IEEE Trans. Autom. Control, vol. 14, no. 4, pp. 359–367, Aug. 1969.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“A pseudo-measurement approach to simultaneous registration and track fusion,” IEEE Trans. Aerosp. Electron. Syst., vol. 48, no. 3, pp. 2315–2331, Jul. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Bias modeling and estimation for GMTI applications,” in Proc. Int. Conf. Inf. Fusion, Aug. 2000.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“CRLB for estimation of 3D sensor biases in spherical coordinates,” Proc. SPIE Defense Secur.: Signal Process., Sensor/Inf. Fusion, and Target Recognit. XXVII, vol. 10646, no. 63, Apr. 2018.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Explicit pattern matching assignment algorithm,”</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>https://doi.org/10.1117/12.478526.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Exact multisensor dynamic bias estimation with local tracks,” IEEE Trans. Aerosp. Electron. Syst., vol. 40, no. 2, pp. 576–590, Apr. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Multisensor–multitarget bias estimation of asynchronous sensors,”</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>https://doi.org/10.1117/12.542272.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Multisensor multitarget bias estimation for general asynchronous sensors,” IEEE Trans. Aerosp. Electron. Syst., vol. 41, no. 3, pp. 899–921, Jul. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Y. Bar-Shalom “Unbiased converted measurements for tracking,” IEEE Trans. Aerosp. Electron. Syst., vol. 34, no. 3, pp. 1023–1027, Jul. 1998.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“Joint sensor registration and track-to-track fusion for distributed trackers,” IEEE Trans. Aerosp. Electron. Syst., vol. 40, no. 3, pp. 808–823, Jul. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Maximum likelihood registration for multiple dissimilar sensors,” IEEE Trans. Aerosp. Electron. Syst., vol. 39, no. 3, pp. 1074–1083, Aug. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Simultaneous track-to-track association and bias removal using multistart local search,” in Proc. IEEE Aerosp. Conf., Mar. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Gaussian Markov Random Fields: Theory and Applications. London, UK: Chapman & Hall/CRC, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>K. Kastella “Precision tracking of ground targets,” in Proc. IEEE Aerosp. Conf. (Cat. No. 00TH8484), vol. 3, 2000, pp. 473–482.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“Systematic error estimation in multisensor fusion systems,” Proc. SPIE, vol. 1954, pp. 450–461, Oct. 1993. CRLB FOR ESTIMATION OF 3D SENSOR BIASES IN SPHERICAL COORDINATES AND ITS ATTAINABILITY 109 https://doi.org/10.1117/12.478526 https://doi.org/10.1117/12.542272</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

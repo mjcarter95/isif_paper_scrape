@@ -1,0 +1,122 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237325.965326</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2012</year>
+</publication_date>
+<journal_volume>
+<volume>7</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Performance Prediction of Multisensor Tracking Systems for Single Maneuvering Targets</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>William Dale</given_name>
+<surname>Blair</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Paul </given_name>
+<surname>Miceli</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2012</year>
+</publication_date>
+<pages>
+<first_page>28</first_page>
+<last_page>45</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom, X. R. Li, and T. Kirubarajan Estimation with Applications to Tracking and Navigation. John Wiley and Sons, Inc., New York, NY, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Multitarget-Multisensor Tracking: Applications and Advances III. Norwood, Massachusetts: Artech House, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>P. D. West, and D. Mavris Systems-of-systems analysis of ballistic missile defense architecture effectiveness though surrogate modeling and simulation. In Proceedings of the 2nd IEEE International Systems Con- ference, 23 (Apr. 2008), 333—340.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Posterior Cramer-Rao bounds for discrete-time nonlinear filtering. IEEE Transactions on Signal Processing, 46 (May 1998), 1386—1396.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>CRLB with P d < 1 for fused tracks. 2005 8th International Conference on Information Fusion, July 2005, 25—28.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Posterior Cramer-Rao bounds for multi-target tracking. IEEE Transactions on Aerospace and Electronic Systems, 42, 1 (Jan. 2006), 37—49.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>A performance bound for manoeuvring target tracking using best-fitting Gaussian distributions. 2005 7th International Conference on Information Fusion, July 2005, 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>A hybrid conditional averaging technique for performance prediction of algorithms with continuous and discrete un- certainties. Proceedings 1994 American Control Conference, June 1994, 1530—1534.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Performance prediction of the interacting multiple model algorithm. IEEE Transactions on Aerospace and Electronic Systems, 29, 3 (July 1993), 755—770.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Non-simulation performance prediction methods for differ- ent implementations of a multisensor fusion algorithm. Proceedings 13th World Congress of the International Fed- eration of Automatic Control, July 1996, 269—274.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Stability evaluation and track life of the PDAF for tracking in clutter. IEEE Transactions on Automatic Control, 36, 5 (May 1991), 588—602.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Update to the hybrid conditional averaging performance prediction of the IMM algorithm. IEEE Transactions on Aerospace and Electronic Systems, 47, 4 (Oct. 2011), 2967—2974.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Fixed-gain, two-stage estimators for tracking maneuvering targets. Technical report NSWCDD/TR-92/297, Naval Surface Warfare Center Dahlgren Division, Dahlgren, VA, July 1992.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Fixed-gain, two-stage estimators for tracking maneuvering targets. IEEE Transactions on Aerospace and Electronic Systems, (July 1993), 1004—1014.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Tracking maneuvering targets with multiple sensors: Does more data always mean better estimates? IEEE Transactions on Aerospace and Electronic Systems, 32 (Jan. 1996), 450—456.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Aeolotropic filter design and measurement gating for re- mote tracking with gridlock error. Proceedings of 29th IEEE Southeastern Symposium on System Theory, Cookeville, TN, Mar. 1997.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Y. Bar-Shalom, R. L. Cooperman, and W. H. Barker Performance assessment and comparison of various tracklet methods for maneuvering targets. Signal Processing, Sensor Fusion, and Target Recognition XII, 5096 (2003), 1—26.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Tracking with LFM waveforms. IEEE Transactions on Aerospace and Electronic Systems, (Apr. 2009).</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>The response of the transfer function of an alpha-beta filter to various measurement models. Proceedings Southeastern Symposium on System Theory, 23 (Mar. 1991), 389—393.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Design of nearly constant velocity track filters for tracking maneuvering targets. 11th International Conference on Information Fusion, July 2008, 1—7.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Applied Optimal Estimation. The M.I.T. Press, Cambridge, MA, 1974. PERFORMANCE PREDICTION OF MULTISENSOR TRACKING SYSTEMS FOR SINGLE MANEUVERING TARGETS 43 W. Dale Blair received the B.S. and M.S. degrees in electrical engineering from Tennessee Technological University, Cookeville, in 1985 and 1987, and the Ph.D. degree in electrical engineering from the University of Virginia, Charlottesville, in 1998. He is a principal research engineer with the Georgia Tech Research Institute (GTRI) and currently serves as the technical director for the C2BMC Knowledge Center of the Missile Defense Agency (MDA). While a graduate research assis- tant, Dr. Blair performed robotic controls research for the Center of Excellence of Manufacturing Research and Technology Utilization at Tennessee Technological University. In 1987, he joined the Naval Systems Division of FMC Corporation in Dahlgren, VA as an electrical engineer, where his work involved the development and evaluation of new algorithms for weapons control. In 1990, Dr. Blair joined the Naval Surface Warfare Center, Dahlgren Division (NSWCDD) in Dahlgren, VA. At NSWCDD, he originated two benchmark problems for target tracking and radar re- source allocation, which served as themes for invited sessions at the 1994 and 1995 American Control Conferences. He also led a project that demonstrated through a real-time tracking experiment that modern tracking algorithms can be utilized to reduce the radar time and energy required by a phased array radar to support surveillance tracking. Since joining GTRI in 1997, he has led a multiorganizational team in the development of multiplatform-multisensor-multitarget benchmarks to both air defense and ballistic missile defense. His projects at GTRI focus mostly the modeling and simulation and algorithm assessment associated with the sensor netting for the battle management, command, and control for the ballistic missile de- fense system. He also leads projects related multiple input, multiple output (MIMO) radar, advanced radar data processing, and sensor netting for detection of chemical and biological weapons. Dr. Blair is a Fellow of the IEEE and recipient of the 2001 IEEE Nathanson Award for Outstanding Young Radar Engineer. He served as the Editor for Radar System for IEEE Transactions on Aerospace and Electronic Systems (T-AES) 1996— 99 and Editor-In-Chief (EIC) for IEEE T-AES from 1999—2005. He is the founding Editor-In-Chief for the International Journal on Advances in Information Fusion under the International Society for Information Fusion. Dr. Blair also serves on the Board of Governors of IEEE Aerospace and Electronic Systems Society (AESS) from 1998—2003 and 2005—2010. While a member of the IEEE AESS BoG, he served as Associate Vice President for Publications for 2007—10 and Chair of the Strategic Planning Committee for 2009—10, originated the Target Tracking System Panel, and initiated the Systems Panel for Cyber Security Systems. He has received technical awards that include the NSWCDD Technical Excellence Award in 1991 for his contributions to the development of innovative techniques for target trajectory estimation and prediction and the NSWCDD Independent Exploratory Development Excellence Award in 1993. His research interests include radar signal processing and control, resource allocation for multifunction radars, multisensor resource allocation, tracking maneuvering targets, and multisensor integration and data fusion. Dr. Blair’s research is reported in over two hundred articles which include 38 refereed journal articles. He served as a lecturer in 1993, 1994, and 1998 for the UCLA Extension Program in three short courses related to advanced topics in target tracking. He recently originated and coordinates three short courses, Target Tracking in Sensor Systems, Target Tracking Concepts, and Advanced Target Tracking for Ballistic Missile Defense, for the Profession Education Department of the Georgia Institute of Technology. Dr. Blair is coeditor and coauthor of the book, Multitarget-Multisensor Tracking: Advances and Applications III, and the author of chapter 19 “Radar Tracking Algorithms” of the new edition of Principles of Modern Radar. He is also the host and coordinator of the ONR/GTRI Workshop on Target Tracking and Sensor Fusion for 1998 through 2011. 44 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 7, NO. 1 JUNE 2012</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

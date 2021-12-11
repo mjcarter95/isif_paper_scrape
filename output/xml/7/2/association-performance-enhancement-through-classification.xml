@@ -1,0 +1,95 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237316.5075758</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2012</year>
+</publication_date>
+<journal_volume>
+<volume>7</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Association Performance Enhancement Through Classification</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Q. </given_name>
+<surname>Hamp</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>L. M.</given_name>
+<surname>Reindl</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2012</year>
+</publication_date>
+<pages>
+<first_page>131</first_page>
+<last_page>140</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>A. Ayoun and P. Smets Data association in multi-target detection using the trans- ferable belief model. International Journal of Intelligent Systems, 16, 10 (Oct. 2001), 1167—1182.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Mulitple-Target Tracking with Radar Applications. Artech House, 1986.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Multitarget Multisensor Tracking: Principles and Techniques. Danvers, MA: YBS, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>A technique for computer detection and correction of spelling errors. Communication ACM, 7, 3 (1964), 171—176.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>High-Level Data Fusion. Norwood, MA: Artech House, Inc., 2008.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>A generalized S-D assignment algorithm for multisensor- multitarget state estimation. IEEE Transactions on Aerospcae and Electronic Systems, 33, 2, Part 1, (Apr. 1997), 523—538.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Target Type Tracking with PCR5 and Dempster’s rules: A Comparative Analysis. Technical report, ArXiv, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Sensor Models and Multisensor Integration. The International Journal of Robotics Research, 7, 6 (1988), 97—113.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>On upper bounds for code distance and covering radius of designs in polynomial metric spaces. Journal of Combinatorial Theory, Series A, 70, 2 (1995), 267—288.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Robust combination rules for evidence theory. Information Fusion, 10 (Apr. 2009), 183—197.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Mathematical Techniques in Multisensor Data Fusion. Artech House, Inc., 2004.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>An introduction to multisensor data fusion. In Proceedings of the IEEE, 85 (Jan. 1997), 6—23.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

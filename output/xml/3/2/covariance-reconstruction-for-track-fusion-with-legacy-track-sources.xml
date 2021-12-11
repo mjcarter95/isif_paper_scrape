@@ -1,0 +1,119 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237368.361899</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2008</year>
+</publication_date>
+<journal_volume>
+<volume>3</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Covariance Reconstruction for Track Fusion with Legacy Track Sources</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Huimin </given_name>
+<surname>Chen</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2008</year>
+</publication_date>
+<pages>
+<first_page>107</first_page>
+<last_page>117</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>A. T. Alouani and J. E. Gray Theory of Distributed Estimation Using Multiple Asyn- chronous Sensors. IEEE Transactions on Aerospace and Electronic Systems, 41, 2 (Apr. 2005), 717—722.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. New York: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Multisensor, Multitarget Tracking: Principles and Techniques. Storrs, CT: YBS Publishing, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Hierarchical tracking for the real world. IEEE Transactions on Aerospace and Electronic Systems, 42, 3 (July 2006), 846—850.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Multisensor track-to-track association for tracks with de- pendent errors. Journal of Advances in Information Fusion, 1, 1 (July 2006), 3—15.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Benchmark for radar allocation and tracking targets in ECM. IEEE Transactions on Aerospace and Electronic Systems, 34, 4 (Oct. 1998), 1097—1114.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>MAP track fusion performance evaluation. In Proceedings of the 2002 International Conference on Information Fusion, Annapolis, MD, USA, July 2002.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Performance limits of track-to-track fusion vs. centralized estimation: Theory and application. IEEE Transactions on Aerospace and Electronic Systems, 39, 2 (Apr. 2003), 386—400.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Track fusion with legacy track sources. In Proceedings of the 9th International Conference on Infor- mation Fusion, Florence, Italy, July 2006.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Architectures and algorithms for track association and fu- sion. IEEE Aerospace and Electronic Systems Magazine, Jan. 2000, 5—13.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Track fusion with feedback. In Proceedings of the 1996 SPIE Conference on Signal and Data Processing of Small Targets, vol. 2759, 1996, 342—360.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>A hybrid sensor fusion algorithm architecture and tracklets. In Proceedings of the 1997 SPIE Conference on Signal and Data Processing of Small Targets, vol. 3163, 1997, 512—524. COVARIANCE RECONSTRUCTION FOR TRACK FUSION WITH LEGACY TRACK SOURCES 115</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Bar-Shalom, R. L. Cooperman and W. H. Barker Performance assessment and comparison of various tracklet methods for maneuvering targets. In Proceedings of the SPIE Conference on Signal Processing, Sensor Fusion, and Target Recognition XII, vol. 5096, Apr. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>General decentralized data fusion with covariance intersec- tion. In D. L. Hall and J. Llinas (eds.) Handbook of Multisensor Data Fusion, CRC Press, 2001, ch. 12.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Applied Estimation and Filtering. Lecture Notes, University of New Orleans, preprint, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Optimal linear estimation fusion, Part I: Unified fusion rules. IEEE Transactions on Information Theory, 49, 9 (Sept. 2003), 2192—2208.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Optimal linear estimation fusion, Part VII: Dynamic sys- tems. In Proceedings of the 2003 International Conference on Information Fusion, Cairns, Australia, July 2003.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Multisensor bias estimation using local tracks without a priori association. In Proceedings of the SPIE Conference on Signal and Data Processing of Small Targets, vol. 5204, San Diego, CA, Aug. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Probability, Random Variables and Stochastic Processes. McGraw Hill, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Track-to-track association and bias removal. In Proceedings of the SPIE Conference on Signal and Data Processing of Small Targets, vol. 4728, Orlando, FL, Apr. 2002. 116 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 3, NO. 2 DECEMBER 2008</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

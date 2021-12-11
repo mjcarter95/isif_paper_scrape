@@ -1,0 +1,55 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 8</li>
+<li>Issue 1</li>
+<li>Pages 15 - 32</li>
+<li>June, 2013</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Shooter Localization using a Wireless Sensor Network of Soldier-Worn Gunfire Detection Systems</h1>
+<p class="article-authors">Jemin  George and Lance M. Kaplan</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">J. Ash, G. Whipps, and R. Kozick Performance of shockwave-based shooter localization un- der model misspecification. In IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP), Dallas, TX, Mar. 2010, pp. 2694—2697.</li>
+<li class="ref-2">Ferret: A small arms’ fire detection system: Localization concepts. In Proceedings of Society of Photo-Optical Instrumentation Engineers (SPIE) Conference, vol. 5071, Orlando, FL, Apr. 2003, pp. 497—509.</li>
+<li class="ref-3">J. George Fusion solution for soldier wearable gunfire detection sys- tems. In Proceedings of SPIE: Defence, Security, and Sensing, Baltimore, MD, Apr. 23—27, 2012.</li>
+<li class="ref-4">Optimal Estimation of Dynamic System. Boca Raton, FL: Chapman & Hall/CRC, 2004, ch. 1.</li>
+<li class="ref-5">Sniper localization using acoustic asynchronous sensors. Sensors Journal, IEEE, 10, 9 (Sept. 2010), 1469—1478.</li>
+<li class="ref-6">The shock wave-based acoustic sniper localization. Nonlinear Analysis: Theory, Methods & Applications, 65, 5 (2006), 956—962.</li>
+<li class="ref-7">Acoustic counter-sniper system. In Proceedings of Society of Photo-Optical Instrumentation Engineers (SPIE) Conference, vol. 2938, Boston, MA, Nov. 1997, pp. 262—275.</li>
+<li class="ref-8">Physics for Scientists and Engineers, (2nd ed.). Upper Saddle River, NJ: Prentice Hall, 1996, vol. 1, ch. 14, pp. 398—399.</li>
+<li class="ref-9">Multi-sensor data fusion using soldier-worn gunfire detec- tion systems. In Proceedings of MSS Battlespace Acoustic and Magnetic Sensors (BAMS), Washington, D.C., Oct. 2011.</li>
+<li class="ref-10">Shooter localization using soldier-worn gunfire detection systems. In Proceedings of the 12th International Conference on In- formation Fusion (FUSION), Chicago, IL, July 2011, pp. 1—8.</li>
+<li class="ref-11">On exploiting propagation delays for passive target local- ization using bearings-only measurements. Journal of the Franklin Institute, 342, 2 (Mar. 2005), 193— 211.</li>
+<li class="ref-12">QoI for passive acoustic gunfire localization. In 5th IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS), Atlanta GA, Sept.—Oct. 2008, pp. 754—759.</li>
+<li class="ref-13">Centralized fusion of acoustic sensor data for gunfire lo- calization. In Proceedings of MSS Battlespace Acoustic and Magnetic Sensors (BAMS), Washington, D.C., Oct. 2011.</li>
+<li class="ref-14">Accuracy and tradeoff analysis of sniper localization sys- tems with a network of acoustic sensors. In Proceedings MSS Battlespace Acoustics & Seismic Sens- ing, Magnetic & Electric Field Sensors, Laurel, MD, Aug. 2009.</li>
+<li class="ref-15">Sniper fire localization using wireless sensor networks and genetic algorithm based data fusion. In IEEE Military Communications Conference (MILCOM 2007), Orlando, FL, Oct. 2007, pp. 1—8.</li>
+<li class="ref-16">A. Nadas, B. Kusy, S. Dora, and G. Pap Multiple simultaneous acoustic source localization in urban terrain. In Fourth International Symposium on Information Process- ing in Sensor Networks (IPSN), Los Angeles, CA, Apr. 2005, pp. 491—496.</li>
+<li class="ref-17">J. Sallai, G. Pap, S. Dora, K. Molnar, M. Maroti, and G. Simon Countersniper system for urban warfare. ACM Transactions on Sensor Networks, 1 (Nov. 2005), 153— 177.</li>
+<li class="ref-18">Robust acoustic source localization with tdoa based ransac algorithm. In Emerging Intelligent Computing Technology and Appli- cations, ser. Lecture Notes in Computer Science, Springer Berlin/Heidelberg, 2009, vol. 5754, pp. 222—227.</li>
+<li class="ref-19">Shooter localization in wireless sensor networks. In Proceedings of the 12th International Conference on In- formation Fusion (FUSION), Seattle, WA, July 2009, pp. 404—411.</li>
+<li class="ref-20">Shooter localization in wireless microphone networks. EURASIP Journal on Advances in Signal Processing, 2010, 6 (Feb. 2010), 1—25. 30 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 1 JUNE 2013</li>
+<li class="ref-21">Collaborative in-network processing for target tracking. EURASIP Journal on Applied Signal Processing, 2003, 4 (Jan. 2003), 378—391.</li>
+<li class="ref-22">Modeling and signal processing of acoustic gunshot record- ings. In Digital Signal Processing Workshop, 12th-Signal Process- ing Education Workshop, 4th, Teton National Park, WY, Sept. 2006, pp. 257—261.</li>
+<li class="ref-23">Shooter localization and bullet trajectory, caliber, and speed estimation based on detected firing sounds. Applied Acoustics, 71, 10 (2010), 902—913.</li>
+<li class="ref-24">Shooter localization in urban terrain. Computer, 37, 8 (Aug. 2004), 60—61.</li>
+<li class="ref-25">Lessons in Digital Estimation Theory. Englewood Cliffs, NJ: Prentice-Hall, Inc., 1987.</li>
+<li class="ref-26">Latest achievements in gunfire detection systems. In Meeting Proceedings RTO-MP-SET-107, Battlefield Acoustic Sensing for ISR Applications, NeuillysurSeine, France, Oct. 2006, pp. 1—14.</li>
+<li class="ref-27">A simplex method for function minimization. The Computer Journal, 7, 4 (1965), 308—313.</li>
+<li class="ref-28">Measurements of small-caliber ballistic shock waves in air. The Journal of the Acoustical Society of America, 102, 2 (Aug. 1997), 781—787.</li>
+<li class="ref-29">SAIC SENTINEL acoustic counter-sniper system. In Proceedings of Society of Photo-Optical Instrumentation Engineers (SPIE) Conference, vol. 2938, Boston, MA, Nov. 1997, pp. 276—284.</li>
+<li class="ref-30">Statistical efficiency of simultaneous target and sensors location with position dependent noise. In Proceedings of SPIE: Defence, Security, and Sensing, Baltimore, MD, Apr. 23—27, 2012.</li>
+<li class="ref-31">Fast adaptive acoustic localization for sensor networks. IEEE Transactions on Instrumentation and Measurement, 60, 5 (May 2011), 1820—1829.</li>
+<li class="ref-32">Shooter localization and weapon classification with soldier- wearable networked sensors. In Proceedings of the 5th International Conference on Mobile Systems, Applications and Services, New York, NY, June 2007, pp. 113—126. SHOOTER LOCALIZATION USING SOLDIER-WORN GUNFIRE DETECTION SYSTEMS 31</li>
+</ul>
+
+</body>
+</html>

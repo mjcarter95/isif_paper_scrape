@@ -1,0 +1,106 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237279.103263</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<journal_volume>
+<volume>10</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Bistatic Measurement Fusion from Multistatic Configurations for Air Collision Warning</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Wenbo  </given_name>
+<surname>Dou</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov  </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Peter  </given_name>
+<surname>Willett</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<pages>
+<first_page>163</first_page>
+<last_page>182</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>B. M. Albaker, and N. A. Rahim A survey of collision avoidance approaches for unmanned aerial vehicles. In International Conference for Technical Postgraduates, Dec. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. New York: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Tracking and Data Fusion: A Handbook of Algorithms. Storrs, CT: YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Design and Analysis of Modern Tracking Systems. Artech House, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>A novel 3D geometric algorithm for aircraft autonomous collision avoidance. In Proceedings of 45th IEEE Conference on Decision and Control, Dec. 2006, 1580—1585.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Target localization in a multi-static passive radar system through convex optimization. Signal Processing, 102, 0 (2014), 207—215.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Fusion of range-only measurements from multistatic con- figurations for air collision warning. In Proceedings of IEEE Aerospace Conference, March 2015.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Configuration selection for fusion of measurements from multistatic radars for air collision warning. In Proceedings of 18th International Conference on Informa- tion Fusion, July 2015.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>UAV based collision avoidance radar sensor. In IEEE International Geoscience and Remote Sensing Sym- posium, July 2007, 639—642. BISTATIC MEASUREMENT FUSION FROM MULTISTATIC CONFIGURATIONS FOR AIR COLLISION WARNING 179</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Two methods for target localization in multistatic passive radar. IEEE Transactions on Aerospace and Electronic Systems, 48, 1 (Jan. 2012), 572—580.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Statistical efficiency of composite position measurements from passive sensors. IEEE Transactions on Aerospace and Electronic Systems, 49, 4 (Oct. 2013), 2799—2806.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Maximum-likelihood estimation of Rician distribution pa- rameters. IEEE Transactions on Medical Imaging, 17, 3 (June 1998), 357—361.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Negotiation-based approach to unmanned aerial vehicles. In IEEE 2006 Workshop on Distributed Intelligent Systems, June 2006, 279—284.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Target localization by a multistatic UWB radar. In Proceedings of 20th International Conference Radioelek- tronika, April 2010.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

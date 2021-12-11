@@ -1,0 +1,98 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237341.214831</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<journal_volume>
+<volume>6</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Multi-Stage Multiple-Hypothesis Tracking</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Stefano </given_name>
+<surname>Coraluppi</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Craig </given_name>
+<surname>Carthel</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<pages>
+<first_page>57</first_page>
+<last_page>67</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>S. Blackman and R. Popoli Design and Analysis of Modern Tracking Systems. Artech House, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Space-based AIS: Solutions to the simultaneous access issue. In Proceedings of the 3rd Annual Maritime Systems and Technology Conference, Cadiz, Spain, Nov. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Wide-area feature-aided tracking with intermittent multi- sensor data. In Proceedings of the SPIE Conference on Signal and Data Processing of Small Targets, Orlando FL, Apr. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Efficient multiple hypothesis tracking by track segment graph. In Proceedings of the 12th International Conference on In- formation Fusion, Seattle, WA, July 2009.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Recursive track fusion for multi-sensor surveillance. Information Fusion, 5, 1 (Mar. 2004).</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>and T. Luginbuhl The track repulsion effect in automatic tracking. In Proceedings of the 12th International Conference on In- formation Fusion, Seattle, WA, July 2009.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Multiple hypothesis clustering and multiple frame assign- ment tracking. In Proceedings of the SPIE Conference on Signal and Data Processing of Small Targets, San Diego, CA, Aug. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>A scalable method of tracking targets with dependent dis- tributions. In Proceedings of the 12th International Conference on In- formation Fusion, Seattle, WA, July 2009.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Issues in the design of practical multi-target tracking algo- rithms. In Y. Bar-Shalom (Ed.),Multi-Target Multi-Sensor Tracking: Advanced Applications, Artech House, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>M-best S-D assignment algorithm with application to mul- titarget tracking. IEEE Transactions on Aerospace and Electronic Systems, 37, 1 (Jan. 2001).</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>An algorithm for tracking multiple targets. IEEE Transactions on Aerospace and Electronic Systems, 24, 4 (Dec. 1979).</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Use of the automatic identification system (AIS) for mar- itime domain awareness. In Proceedings of OCEANS 2005, Washington, D.C., Sept. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Decentralized detection. In Advances in Signal Processing, vol. 2, JAI Press, 1993. 66 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 6, NO. 1 JUNE 2011</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

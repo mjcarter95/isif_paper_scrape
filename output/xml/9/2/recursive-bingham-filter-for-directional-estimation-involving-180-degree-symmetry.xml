@@ -1,0 +1,198 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237292.3208065</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2014</year>
+</publication_date>
+<journal_volume>
+<volume>9</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Recursive Bingham Filter for Directional Estimation Involving 180 Degree Symmetry</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Gerhard </given_name>
+<surname>Kurz</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Igor </given_name>
+<surname>Gilitschenski</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Simon </given_name>
+<surname>Julier</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Uwe D.</given_name>
+<surname>Hanebeck</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2014</year>
+</publication_date>
+<pages>
+<first_page>90</first_page>
+<last_page>105</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Abramowitz, M., and Stegun, I. A. Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables, 10th ed. Dover, New York, 1972.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Scalable, Absolute Position Recovery for Omni-directional Image Networks. In Computer Vision and Pattern Recognition, 2001. CVPR 2001. Proceedings of the 2001 IEEE Computer Society Con- ference on (2001), vol. 1, pp. I-398—I-405.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>A Recursive Fusion Filter for Angular Data. In IEEE International Conference on Robotics and Biomimet- ics (ROBIO 2009) (2009), pp. 882—887.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Distributions on the Sphere and on the Projective Plane. PhD thesis, Yale University, 1964.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>An Antipodally Symmetric Distribution on the Sphere. The Annals of Statistics 2, 6 (Nov. 1974), 1201—1225.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Statistical Analysis of Spherical Data. Cambridge University Press, 1987.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Dispersion on a Sphere. Proceedings of the Royal Society of London. Series A, Math- ematical and Physical Sciences 217, 1130 (1953), 295—305.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Unscented Orientation Estimation Based on the Bingham Distribution. arXiv preprint: Systems and Control (cs.SY) (2013). 102 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 9, NO. 2 DECEMBER 2014</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>libbingham Bingham Statistics Library, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Monte Carlo Pose Estimation with Quaternion Kernels and the Bingham Distribution. In Proceedings of Robotics: Science and Systems (RSS 2011) (Los Angeles, USA, 2011).</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Tracking 3-D Rotations with the Quaternion Bingham Fil- ter. Tech. rep., MIT, Mar. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Tracking the Spin on a Ping Pong Ball with the Quaternion Bingham Filter. In IEEE Conference on Robotics and Automation (ICRA) (2014). To Appear.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Integrating Generic Sensor Fusion Algorithms with Sound State Representations Through Encapsulation of Manifolds. Information Fusion 14, 1 (Jan. 2013), 57—77.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Bessel Functions of Matrix Argument. Annals of Mathematics 61, 3 (1955), 474—523.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Topics in Circular Statistics. World Scientific Pub Co Inc, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>On Kalman Filtering With Nonlinear Equality Constraints. IEEE Transactions on Signal Processing 55, 6 (2007), 2774— 2784.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Unscented Filtering and Nonlinear Estimation. Proceedings of the IEEE 92, 3 (Mar. 2004), 401—422.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Maximum Likelihood Estimators for the Matrix Von Mises- Fisher and Bingham Distributions. Annals of Statistics 7 (3) (1979), 599—606.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>A New Approach to Linear Filtering and Prediction Prob- lems. Transactions of the ASME Journal of Basic Engineering 82 (1960), 35—45.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>The Fisher-Bingham Distribution on the Sphere. Journal of the Royal Statistical Society. Series B (Method- ological) 44, 1 (1982), 71—80.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Asymptotic Expansions for the Bingham Distribution. Journal of the Royal Statistical Society. Series C (Applied Statistics) 36 (2) (1987), 139—144.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>The Complex Bingham Distribution and Shape Analysis. Journal of the Royal Statistical Society. Series B (Method- ological) (1994), 285—299.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>The Efficient Evaluation of the Hypergeometric Function of a Matrix Argument. Math. Comp. 75 (2006), 833—846.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Holonomic Gradient Descent for the Fisher-Bingham Dis- tribution on the d-dimensional Sphere. ArXiv e-prints (Jan. 2012).</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Quaternions and Rotation Sequences, vol. 66. Princeton University Press, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Saddlepoint Approximations for the Bingham and Fisher- Bingham Normalising Constants. Biometrika 92, 2 (2005), 465—476.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>On the Derivatives of the Normalising Constant of the Bingham Distribution. Statistics & Probability Letters 77, 8 (2007), 832—837.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>The Bingham Distribution of Quaternions and Its Spherical Radon Transform in Texture Analysis. Mathematical Geology 36 (2004), 917—943.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Constrained Object Tracking on Compact One-dimensional Manifolds Based on Directional Statistics. In Proceedings of the Fourth IEEE GRSS International Con- ference on Indoor Positioning and Indoor Navigation (IPIN 2013) (Montbeliard, France, Oct. 2013).</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Recursive Nonlinear Filtering for Angular Data Based on Circular Distributions. In Proceedings of the 2013 American Control Conference (ACC 2013) (Washington D. C., USA, June 2013).</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Nonlinear Measurement Update for Estimation of Angular Systems Based on Circular Distributions. In Proceedings of the 2014 American Control Conference (ACC 2014) (Portland, Oregon, USA, June 2014).</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Recursive Estimation of Orientation Based on the Bingham Distribution. In Proceedings of the 16th International Conference on Infor- mation Fusion (Fusion 2013) (Istanbul, Turkey, July 2013).</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Encyclopedia of Geomagnetism & Paleomagnetism. Springer, Dordrecht, The Netherlands, 2007, ch. Bingham statistics, pp. 45—47.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Algorithms for the Computation of Mathematical Functions. Computer science and applied mathematics. Academic Press, 1977.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Characterizations of Directional Distributions. In A Modern Course on Statistical Distributions in Scientific Work, vol. 17. Springer Netherlands, 1975, pp. 365—385.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Directional Statistics in Geosciences. Communications in Statistics–Theory and Methods 10, 15 (1981), 1523—1543.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Directional Statistics, 1 ed. Wiley, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Table of Maximum Likelihood Estimates for the Bingham Distribution. Journal of Statistical Computation and Simulation 6, 1 (1977), 29—34.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Which Spheres Admit a Topological Group Structure? Revista de la Academia de Ciencias Exactas, Físico-Químicas y Naturales de Zaragoza 62 (2007), 75—79.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Aspects of Multivariate Statistical Theory. Wiley, 1982. RECURSIVE BINGHAM FILTER FOR DIRECTIONAL ESTIMATION INVOLVING 180 DEGREE SYMMETRY 103</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Computing the Confluent Hypergeometric Function, M(a,b,x). Numerische Mathematik 90, 1 (2001), 179—196.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>Probability, 2nd ed. Springer, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>A Short Note on Parameter Approximation for von Mises- Fisher Distributions: and a Fast Implementation of Is (x). Computational Statistics 27, 1 (2012), 177—190.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

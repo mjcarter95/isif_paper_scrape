@@ -1,0 +1,129 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237227.479764</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<journal_volume>
+<volume>13</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Categories of belief fusion</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Audun </given_name>
+<surname>Jøsang</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<pages>
+<first_page>235</first_page>
+<last_page>254</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>A. Jøsang, P. C. Costa, and E. Blash “Determining model correctness for situations of belief fusion.” in Proceedings of the 16th International Conference on Infor- mation Fusion (FUSION 2013). IEEE, Los Alamitos, 2013, pp. 1225—1232.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>resentation Working Group),” Available from http://eturwg.c4i.gmu.edu/, accessed June 2018.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Towards Unbiased Evaluation of Uncertainty Reasoning: The URREF Ontology.” in Proceedings of the 15th International Conference on In- formation Fusion (FUSION 2012), Singapore, July 2012.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Ng, J. Schubert, R. Nagi, and P. Valin “Issues of Uncertainty Analysis in High-Level Information Fusion: Fusion 2012 Panel Discussion.” in Proceedings of the 15th International Conference on In- formation Fusion (FUSION 2012), Singapore, July 2012.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Subjective Logic: A Formalism for Reasoning Under Uncer- tainty. Springer, Heidelberg, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“High-level information fusion: An overview,” J. Adv. Inf. Fusion, vol. 8, no. 1, pp. 33—72, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“Trust Revision for Conflicting Sources.” in Proceedings of the 18th International Conference on Infor- mation Fusion (FUSION 2015). IEEE, Los Alamitos, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Interpretation and fusion of hyper-opinions in subjective logic.” in Proceedings of the 15th International Conference on Infor- mation Fusion (FUSION 2012). IEEE, Los Alamitos, Sin- gapore, July 2012.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>A Mathematical Theory of Evidence. Princeton University Press, 1976.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>and D. B. Rubin Bayesian Data Analysis, 3rd ed. Chapman and Hall/CRC, Boca Raton, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“A generalization of the Dirichlet distribution,” Journal of Statistical Software, vol. 33, no. 11, pp. 1—18, February 2010.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“Generalising Bayes’ Theorem in Subjective Logic.” in International Conference on Multisensor Fusion and In- tegration for Intelligent Systems (MFI 2016). IEEE, Los Alamitos, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Dempster’s rule as seen by little colored balls,” Computational Intelligence, vol. 28, no. 4, pp. 453—474, November 2012.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Review of Shafer’s ‘A Mathematical Theory of Evi- dence’,” AI Magazine, vol. 5, pp. 81—83, 1984.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Associativity in combination of belief functions,” in Proceedings of 5th Workshop on Uncertainty Processing, J. Vejnarová, Ed. Edi²cní oddel²ení V²SE 2000, Praha, 2000, pp. 41—54.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Representation and combination of uncertainty with belief functions and possibility measures,” Comput. Intell., vol. 4, no. 3, pp. 244—264, 1988.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“The consensus operator for combining beliefs,” Artificial Intelligence, vol. 142, no. 1—2, pp. 157—170, Oc- tober 2002.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Cumulative and averaging fusion of beliefs,” Information Fusion, vol. 11, no. 2, pp. 192—200, 2010, doi:10.1016/j.inffus.2009.05.005.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Belief functions combination and conflict management,” Information Fusion, vol. 3, no. 2, pp. 149—162, June 2002.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“Combining belief functions when evidence conflicts,” Decision Support Systems, vol. 29, pp. 1—9, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“The Combination of Evidence in the Transferable Belief Model,” IEEE Transansactions on Pattern Analysis and Machine In- telligence, vol. 12, no. 5, pp. 447—458, 1990. CATEGORIES OF BELIEF FUSION 253</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“On the Dempster-Shafer framework and new combination rules,” Information Sciences, vol. 41, pp. 93—137, 1987.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Multi-agent preference combination using subjective logic,” in International Workshop on Preferences and Soft Con- straints (Soft’11), Perugia, Italy, 2011, pp. 61—75.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>A Mathematical Theory of Hints. An Approach to Dempster- Shafer Theory of Evidence, ser. Lecture Notes in Economics and Mathematical Sys- tems. Springer-Verlag, 1995, vol. 425.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>“Analsysis of Competing Hypotheses using Subjective Logic,” in Proceedings of the 10th International Command and Con- trol Research and Technology Symposium (ICCRTS). United States Department of Defense Command and Control Re- search Program (DoDCCRP), 2005.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,108 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237380.605421</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2007</year>
+</publication_date>
+<journal_volume>
+<volume>2</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Performance Evaluation for Automated Threat Detection</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>R. </given_name>
+<surname>Schrag</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>M. </given_name>
+<surname>Takikawa</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>P. </given_name>
+<surname>Goger</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>J. </given_name>
+<surname>Eilbert</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2007</year>
+</publication_date>
+<pages>
+<first_page>77</first_page>
+<last_page>98</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>J. Adibi, T. Barrett, S. Bhatt, H. Chalupsky, J. Chame and M. Hall Processing-in-memory technology for knowledge discov- ery algorithms. In Proceedings of the Second International Workshop on Data Management on New Hardware (DaMoN 2006), June 2006, http://www.isi.edu/»hans/publications/DAMON06.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Scalable group detection via a mutual information model. In Proceedings of the First International Conference on Intelligence Analysis (IA-2005), https://analysis.mitre.org/ proceedings/Final Papers Files/355 Camera Ready Paper. pdf. 94 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 2, NO. 2 DECEMBER 2007</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>The KOJAK group finder: Connecting the dots via inte- grated knowledge-based and statistical reasoning. In Proceedings of the Sixteenth Innovative Applications of Artificial Intelligence Conference (IAAI-04), 2004, http:// www.isi.edu/»hans/publications/IAAI04.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Measuring confidence intervals in link discovery: A boot- strap approach. In Workshop on Link Analysis and Group Detection (LinkKDD2004), held at the Tenth Association for Com- puting Machinery (ACM) Special Interest Group on Knowl- edge Discovery and Data Mining (SIGKDD) Internation- al Conference on Knowledge Discovery and Data Min- ing, Aug. 2004, http://crue.isi.edu/files/papers/adibi 2006 1141857733.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Managing terrorist activity hypotheses. Technical Report AIC-03-188, Naval Research Laboratory, Navy Center for Applied Research in Artificial Intelligence, Intelligent Decision Aids Group, Washington, D.C., 2003.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>A forward/reverse auction algorithm for asymmetric assign- ment problems. Technical Report LIDS-P-2159, Massachusetts Institute of Technology, 1993, http://citeseer.ist.psu.edu/bertsekas93 forwardreverse.html.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Automated detection of terrorist activities through link discovery within massive databases. In Proceedings of the American Association for Artificial Intelligence (AAAI) Spring Symposium on A.I. Technologies for Homeland Security, Palo Alto, CA, Mar. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Novel, complementary technologies for detecting threat activities within massive amounts of transactional data. In Proceedings of the First International Conference on Intelligence Analysis (IA-2005), https://analysis.mitre.org/ proceedings/Final Papers Files/ 318 Camera Ready Paper. pdf.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Structure discovery in sequentially-connected data streams. International Journal on Artificial Intelligence Tools, 15, 6 (Dec. 2006), http://www.eecs.wsu.edu/»holder/papers/ CobleIJAIT06.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Iterative structure discovery in graph-based data. International Journal on Artificial Intelligence Tools, 14, 1—2 (Feb.—Mar. 2005), http://www.eecs.wsu.edu/»holder/ papers/CobleIJAIT05.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Fast abductive reasoning over ontologies. In American Association for Artificial Intelligence (AAAI) Fall Symposium on Capturing and Using Patterns for Evi- dence Detection, 2006, http://demo.cs.brandeis.edu/papers/ author.html#viswanathan.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Using Bayesian classifiers to combine rules. In 3rd Association for Computing Machinery (ACM) Spe- cial Interest Group on Knowledge Discovery and Data Min- ing (SIGKDD) Workshop on Multi-Relational Data Min- ing (MRDM 2004), 2004, http://www.cs.wisc.edu/»dpage/ nbayes.pdf.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Establishing identity equivalence in multi-relational do- mains. In Proceedings of the First International Conference on Intel- ligence Analysis (IA-2005), 2005, https://analysis.mitre.org/ proceedings/Final Papers Files/ 378 Camera Ready Paper. pdf.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

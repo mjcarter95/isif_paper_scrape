@@ -1,0 +1,51 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 15</li>
+<li>Issue 2</li>
+<li>Pages 73 - 90</li>
+<li>December, 2020</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Statistically Efficient Multisensor Rotational Bias Estimation for Passive Sensors without Target State Estimation</h1>
+<p class="article-authors">Michael  Kowalski, Yaakov  Bar-Shalom, Peter  Willett, Benny  Milgrom and Ronen  Ben-Dov</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">J. Arvo Graphics Gems II. New York, NY: Academic Press, 1991.</li>
+<li class="ref-2">Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. Hoboken, NJ: Wiley, 2001.</li>
+<li class="ref-3">Tracking and Data Fusion: A Handbook of Algorithms. Storrs, CT: YBS Publishing, 2011.</li>
+<li class="ref-4">“Simultaneous target state and passive sensors bias estimation,” in Proc. 19th Int. Conf. Inf. Fusion, Jul. 2016, pp. 1223–1227.</li>
+<li class="ref-5">“Bias estimation for moving optical sensor measurements with targets of opportunity,” Proc. SPIE, vol. 9092, no. 11, pp. 1805–1812, 2014.</li>
+<li class="ref-6">“Bias estimation and observability for optical sensor measurements with targets of opportunity,” J. Adv. Inf. Fusion, vol. 9, no. 2, pp. 59–74, Dec. 2014.</li>
+<li class="ref-7">“Bias estimation for optical sensor measurements with targets of opportunity,” in Proc. 16th Int. Conf. Inf. Fusion, Jul. 2013, pp. 1805–1812.</li>
+<li class="ref-8">“Bearings-only tracking with biased measurements,” in Proc. 2nd IEEE Int. Workshop Comput. Adv. Multi-Sensor Adaptive Process., 2007, pp. 265–268.</li>
+<li class="ref-9">“Bias estimation for multiple passive sensors,” in Proc. 2012 Int. Conf. Meas., Inf. Control (MIC), vol. 2, May 2012, pp. 1081–1084.</li>
+<li class="ref-10">“Bias correction using background stars for space-based IR tracking,” in Proc. 12th Int. Conf. Inf. Fusion, Jul. 2009, pp. 2028–2035.</li>
+<li class="ref-11">“Sensor calibration using in-situ celestial observations to estimate bias in space-based missile tracking,” IEEE Trans. Aerosp. Electron. Syst., vol. 48, no. 2, pp. 1403–1427, Apr. 2012.</li>
+<li class="ref-12">“Sensor bias estimation in the presence of data association uncertainty,” Proc. SPIE, vol. 7445, no. 28, p. 74450P, Aug. 2009.</li>
+<li class="ref-13">S. Giompapa “Least squares estimation and Cramér–Rao type lower bounds for relative sensor registration process,” IEEE Trans. Signal Process., vol. 59, no. 3, pp. 1075–1087, Mar. 2011.</li>
+<li class="ref-14">S. Giompapa “An identifiability criterion in the presence of random nuisance parameters,” 88 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 15, NO. 2 DECEMBER 2020 in Proc. 20th Eur. Signal Process. Conf. (EUSIPCO), Aug. 2012, pp. 1194–1198.</li>
+<li class="ref-15">Graphics Gems. New York, NY:Academic Press, 1990.</li>
+<li class="ref-16">“Bias fusion estimation for multi-target tracking systems with multiple asynchronous sensors,” Aerosp. Sci. Technol., vol. 27, no. 1, pp. 95–104, 2013.</li>
+<li class="ref-17">“Unbiased conversion of passive sensor measurements,” in Proc. IEEE 8th Int.Workshop Comput.Adv.Multi-Sensor Adaptive Process. (CAMSAP), Dec. 2019, pp. 505–509.</li>
+<li class="ref-18">“Unbiased conversion of passive sensor measurements using closest point of approach,” IEEE Trans. Aerosp. Electron. Syst., to be published.</li>
+<li class="ref-19">R. Ben-Dov “CRLB for multi-sensor rotational bias estimation for passive sensors without target state estimation,” in Proc. SPIE Signal Process., Sensor/Inf. Fusion, Target Recognit. XXVIII, vol. 11018, Apr. 2019, pp. 33–41.</li>
+<li class="ref-20">“Multisensor target tracking performance with bias compensation,” IEEE Trans. Aerosp. Electron. Syst., vol. 42, no. 3, pp. 1139–1149, Jul. 2006.</li>
+<li class="ref-21">“Multisensor multitarget bias estimation for general asynchronous sensors,” IEEE Trans. Aerosp. Electron. Syst., vol. 41, no. 3, pp. 899–921, Jul. 2005.</li>
+<li class="ref-22">“Exact multisensor dynamic bias estimation with local tracks,” IEEE Trans. Aerosp. Electron. Syst., vol. 40, no. 2, pp. 576–590, Apr. 2004.</li>
+<li class="ref-23">Y. Bar-Shalom “Unbiased converted measurements for tracking,” IEEE Trans. Aerosp. Electron. Syst., vol. 34, no. 3, pp. 1023–1027, Jul. 1998.</li>
+<li class="ref-24">“Statistical efficiency of composite position measurements from passive sensors,” IEEE Trans. Aerosp. Electron. Syst., vol. 49, no. 4, pp. 2799–2806, Oct. 2013.</li>
+<li class="ref-25">“A real-time registration algorithm for passive sensors with TOA and angle biases,” in Proc. 3rd Int. Congr. Image Signal Process., vol. 9, 2010, pp. 4170–4173.</li>
+<li class="ref-26">“Multisensor–multitarget bearing-only sensor registration,” IEEE Trans. Aerosp. Electron. Syst., vol. 52, no. 4, pp. 1654–1666, Aug. 2016.</li>
+<li class="ref-27">“Biased bearings-only parameter estimation for bistatic system,” J. Electron. (China), vol. 24, pp. 326–331,May 2007.</li>
+<li class="ref-28">“Cramér–Rao bound for bearing estimation with bias correction,” in Proc. OCEANS 2007, 2007.</li>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,1517 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237309.9149945</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2013</year>
+</publication_date>
+<journal_volume>
+<volume>8</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>High-level Information Fusion: An Overview</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Pek Hui</given_name>
+<surname>Foo</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Gee Wah</given_name>
+<surname>Ng</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2013</year>
+</publication_date>
+<pages>
+<first_page>33</first_page>
+<last_page>72</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>S. Acharya, D. Bucci, and M. Kam Representation and fusion of conditionally refined opinions using evidence trees. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 506.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Evidence combination for hard and soft sensor data fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 133.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Mutual information scheduling for ranking. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 160.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>C. Mårtenson, G. Neider, J. Schubert, P. Svenson, P. Svensson, and J. Walter An information fusion demonstrator for tactical intelligence processing in network-based defense. Information Fusion, 8, 1 (2007), 84—107.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Data fusion and theater undersea warfare–an oceanogra- pher’s perspective. In Proceedings of the MTS/IEEE Oceans Conference, 4 (2004), 2008—2012.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>MidFusion: An adaptive middleware for information fusion in sensor network applications. Information Fusion, 9, 3 (2008), 332—343.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Real-time use of Kohonen’s self-organizing maps for threat stabilization. Information Fusion, 6, 2 (2005), 153—163.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Application of neural network in the field of target threat evaluation. In Proceedings of the IEEE International Joint Conference on Neural Networks, 6 (1999), 4237—4240.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Intelligent systems technology for higher level fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2002), 1316—1323.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>First-principle approach to functionally decomposing the JDL fusion model: Emphasis on soft target data. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS14.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>A theoretical look at information-driven sensor manage- ment criteria. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 156.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>T. Brown, P. Iyer, J. Lavery, S. McElhinny, E. Schmeisser, M. Strand, J. A. Karakowski, M. Scanlon, and N. Srour Research directions in remote detection of covert tactical adversarial intent of individuals in asymmetric operations. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Optimal allocation of multi-platform sensor resources for multiple target tracking. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 157.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Expression of uncertainty in linguistic data. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS14 II.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Measurement prioritization for optimal Bayesian fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1423.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>A market-based approach to sensor management. Journal of Advances in Information Fusion, 4, 1 (2009), 52— 71.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>M. Malczewski Formalization of situation awareness. In Proceedings of the OOPSLA Workshop on Behavioral Semantics, (2002), 1—15.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Bayesian CAR models for syndromic surveillance on mul- tiple data streams: Theory and practice. Information Fusion, 13, 2 (2012), 105—116.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Theory, Algorithms, and Software. John Wiley & Sons, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>J. Daughtry, J. Rimland, and D. Hall Hard sensor fusion for COIN inspired situation awareness. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 135.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Information fusion based decision support via hidden Markov models and time series anomaly detection. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 764—771.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Fault detection for systems with multiple unknown modes and similar units–Part I. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 732—739.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Fault detection for systems with multiple unknown modes and similar units–Part II: Application to HVAC. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 740—747.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Engine fault diagnosis based on multi-sensor information fusion using Dempster-Shafer evidence theory. Information Fusion, 8, 4 (2007), 379—386.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Probabilistic behaviour signatures: Feature-based behaviour recognition in data-scarce domains. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>An information fusion framework for threat assessment. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1903—1910.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>The Omnibus model: A new model of data fusion? IEEE Aerospace and Electronic Systems Magazine, 15, 4 (2000), 30—36.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Making adversary decision modeling tractable with intent inference and information fusion. In Proceedings of the Conference on Computer Generated Forces and Behavioral Representation, (2002), 535—542.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>A new definition of qualified gain in a data fusion process: Application to telemedicine. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2002), 865—872. HIGH-LEVEL INFORMATION FUSION: AN OVERVIEW 55</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Mixed initiative soft data fusion associate. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1897—1902.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Holonic control-based sensor management. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1132.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>An approach to threat assessment based on evidential net- works. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1213.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>An application of evidential networks to threat assessment. IEEE Transactions on Aerospace and Electronic Systems, 45, 2 (2009), 620—639.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Applying fuzzy relation equations to threat analysis. In Proceedings of the Annual Hawaii International Confer- ence on System Sciences, (2002), 684—688.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Information evaluation in fusion using information corre- lation. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 264—269.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>An extension of STANAG2022 for information scoring. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS14.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Design and Analysis of Modern Tracking Systems. Artech House, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>High-level fusion using Bayesian networks: Applications in command and control.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Assembling a distributed fused information-based human- computer cognitive decision making tool. IEEE Aerospace and Electronic Systems Magazine, 15, 5 (2000), 11—17.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Level 5 (user refinement) issues supporting information fusion management. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 130.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>Sensor, user, mission (SUM) resource management and their interaction with Level 2/3 fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 394.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>Introduction to Level 5 fusion: The role of the user.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Ng, J. Schubert, R. Nagi, and P. Valin Issues of uncertainty analysis in high-level information fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Ontology alignment in geographical hard-soft information fusion systems. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>J. Salerno, and S. Das Resource management and its interaction with Level 2/3 fusion–from the Fusion-2006 panel discussion. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1203.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Powell, D. D. Corkill, and E. H. Ruspini Issues and challenges in situation assessment (Level 2 fusion). Journal of Advances in Information Fusion, 1, 2 (2006), 122— 139.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>M. Kokar, and E. Shahbazian High level information fusion developments, issues and grand challenges. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>JDL Level 5 fusion model: User refinement issues and applications in group tracking. Proceedings of SPIE, 4729 (2002), 270—279.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>Level 5: User refinement to aid the fusion process. Proceedings of SPIE, 5099 (2003), 288—297.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>Ontological issues in higher levels of information fusion: User refinement of the fusion process. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2003), 634—641.</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>DFIG Level 5 (user refinement) issues supporting situa- tional assessment reasoning. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2005), xxxv—xliii.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>Track purity and current assignment ratio for target tracking and identification evaluation. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 208.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>Measures of effectiveness for high-level fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>E. Shahbazian Implication of culture: User roles in information fusion for enhanced situational understanding. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1272—1279.</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>Modified Riccati equation and its application to target tracking. IEE Proceedings–Radar, Sonar and Navigation, 153, 1 (2006), 7—12.</unstructured_citation>
+</citation>
+<citation key="ref-58">
+<unstructured_citation>Waxman Associative learning of vessel motion patterns for maritime situation awareness. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 234.</unstructured_citation>
+</citation>
+<citation key="ref-59">
+<unstructured_citation>Sheldon A new approach to higher-level information fusion using associative learning in semantic networks of spiking neu- rons. Information Fusion, 8, 3 (2007), 227—251. 56 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 1 JUNE 2013</unstructured_citation>
+</citation>
+<citation key="ref-60">
+<unstructured_citation>Modeling and simulation in support of the design of a data fusion system. Information Fusion, 1, 2 (2000), 77—87.</unstructured_citation>
+</citation>
+<citation key="ref-61">
+<unstructured_citation>Concepts, Models, and Tools for Information Fusion. Artech House, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-62">
+<unstructured_citation>Exploitation of a priori knowledge for information fusion. Information Fusion, 7, 2 (2006), 161—175.</unstructured_citation>
+</citation>
+<citation key="ref-63">
+<unstructured_citation>Dynamic resource allocation and management for Level 4 fusion. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1459—1466.</unstructured_citation>
+</citation>
+<citation key="ref-64">
+<unstructured_citation>L. Niklasson Evaluating precise and imprecise state-based anomaly de- tectors for maritime surveillance. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-65">
+<unstructured_citation>An ensemble approach for increased anomaly detection performance in video surveillance data. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 694—701.</unstructured_citation>
+</citation>
+<citation key="ref-66">
+<unstructured_citation>Optimal policies search for sensor management: Applica- tion to the ESA radar. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS04.</unstructured_citation>
+</citation>
+<citation key="ref-67">
+<unstructured_citation>The dynamic OODA loop: Amalgamating Boyd’s OODA loop and the cybernetic approach to command and control. In Proceedings of the International Command and Control Research and Technology Symposium, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-68">
+<unstructured_citation>THE C-OODA: A cognitive version of the OODA loop to represent C2 activities. In Proceedings of the International Command and Control Research and Technology Symposium, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-69">
+<unstructured_citation>C4I defensive infrastructure for survivability against multi- mode attacks. In Proceedings of the 21st Century Military Communications Conference, 1 (2000), 417—424.</unstructured_citation>
+</citation>
+<citation key="ref-70">
+<unstructured_citation>Intelligent sensor resource management using evolutionary computing techniques. In Proceedings of the International Conference on Integration of Knowledge Intensive Multi-Agent Systems, (2003), 325— 329.</unstructured_citation>
+</citation>
+<citation key="ref-71">
+<unstructured_citation>Real-time fusion and projection of network intrusion activ- ity. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session RS07.</unstructured_citation>
+</citation>
+<citation key="ref-72">
+<unstructured_citation>A situation and threat assessment model based on group analysis. In Proceedings of the International Conference on Machine Learning and Cybernetics, 1 (2005), 356—361.</unstructured_citation>
+</citation>
+<citation key="ref-73">
+<unstructured_citation>Track-centric metrics for track fusion systems. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1147—1154.</unstructured_citation>
+</citation>
+<citation key="ref-74">
+<unstructured_citation>Berra An architecture for providing information anytime, any- where and on any device–an ontological approach. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2002), 1331—1339.</unstructured_citation>
+</citation>
+<citation key="ref-75">
+<unstructured_citation>Sensor scheduling via compressed sensing. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-76">
+<unstructured_citation>Self-organizing information fusion and hierarchical knowl- edge discovery: A new framework using ARTMAP neural networks. Neural Networks, 18, 3 (2005), 287—295.</unstructured_citation>
+</citation>
+<citation key="ref-77">
+<unstructured_citation>N. Coelho A general data fusion architecture. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2003), 1465—1472.</unstructured_citation>
+</citation>
+<citation key="ref-78">
+<unstructured_citation>A performance evaluation tool for multi-sensor classifica- tion systems. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1123—1130.</unstructured_citation>
+</citation>
+<citation key="ref-79">
+<unstructured_citation>PROGNOS: Predictive situational awareness with proba- bilistic ontologies. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-80">
+<unstructured_citation>K. C. Chang Modeling a probabilistic ontology for maritime domain awareness. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 170.</unstructured_citation>
+</citation>
+<citation key="ref-81">
+<unstructured_citation>G. Raven, M. Sudit, and E. Wright Pedigree information for enhanced situation and threat assessment. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 43.</unstructured_citation>
+</citation>
+<citation key="ref-82">
+<unstructured_citation>A fuzzy logic approach for force aggregation and classifi- cation in situation assessment. In Proceedings of the International Conference on Machine Learning and Cybernetics, 3 (2007), 1220—1225.</unstructured_citation>
+</citation>
+<citation key="ref-83">
+<unstructured_citation>Level I and Level II target valuations for sensor manage- ment. Journal of Advances in Information Fusion, 1, 2 (2006), 95— 107.</unstructured_citation>
+</citation>
+<citation key="ref-84">
+<unstructured_citation>A progressive query language and interactive reasoner for information fusion support. Information Fusion, 8, 1 (2007), 70—83.</unstructured_citation>
+</citation>
+<citation key="ref-85">
+<unstructured_citation>An extensible, ontology-based, distributed information sys- tem architecture. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2003), 642—649.</unstructured_citation>
+</citation>
+<citation key="ref-86">
+<unstructured_citation>Agent-based simulation approach to information warfare in the SEAS (Synthetic Environment for Analysis and Simulation) environment. In Proceedings of the Annual Hawaii International Confer- ence on System Sciences, 2000. HIGH-LEVEL INFORMATION FUSION: AN OVERVIEW 57</unstructured_citation>
+</citation>
+<citation key="ref-87">
+<unstructured_citation>Spatiotemporal fusion of rice actual evapotranspiration with genetic algorithms and an agrohydrological model. IEEE Transactions on Geoscience and Remote Sensing, 44, 11 Part 2 (2006), 3462—3469.</unstructured_citation>
+</citation>
+<citation key="ref-88">
+<unstructured_citation>Game theoretic approach to threat prediction and situation awareness. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 245.</unstructured_citation>
+</citation>
+<citation key="ref-89">
+<unstructured_citation>Information theoretic measures for performance evaluation and comparison. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 874—881.</unstructured_citation>
+</citation>
+<citation key="ref-90">
+<unstructured_citation>Sensor resource management research based on intelligent agent in naval multi-platform cooperative engagement. In Proceedings of the International Conference on Machine Learning and Cybernetics, 1 (2005), 132—136.</unstructured_citation>
+</citation>
+<citation key="ref-91">
+<unstructured_citation>A probabilistic fuzzy method for emitter identification based on genetic algorithm. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 164.</unstructured_citation>
+</citation>
+<citation key="ref-92">
+<unstructured_citation>Multiple behavior information fusion based quantitative threat evaluation. Computers & Security, 24, 3 (2005), 218—231.</unstructured_citation>
+</citation>
+<citation key="ref-93">
+<unstructured_citation>Comparison of the PMHT path planning algorithm with the genetic algorithm for multiple platforms. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-94">
+<unstructured_citation>Opportunistic sensor resource management for extended regions. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 1138—1145.</unstructured_citation>
+</citation>
+<citation key="ref-95">
+<unstructured_citation>Situation/threat assessment fusion system (STAFS). In Proceedings of the International Conference on Informa- tion Fusion, 2 (2002), 1374—1380.</unstructured_citation>
+</citation>
+<citation key="ref-96">
+<unstructured_citation>Fusion technologies for drug interdiction. In Proceedings of the IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems, (1994), 435—441.</unstructured_citation>
+</citation>
+<citation key="ref-97">
+<unstructured_citation>Performance evaluation for particle filters. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 247.</unstructured_citation>
+</citation>
+<citation key="ref-98">
+<unstructured_citation>Distributed data source verification in wireless sensor net- works. Information Fusion, 10, 4 (2009), 342—353.</unstructured_citation>
+</citation>
+<citation key="ref-99">
+<unstructured_citation>Information fusion for computer security: State of the art and open issues. Information Fusion, 10, 4 (2009), 274—284.</unstructured_citation>
+</citation>
+<citation key="ref-100">
+<unstructured_citation>A-L. Jousselme, and G. Powell Uncertainty evaluation: Current status and major chal- lenges. In Proceedings of the International Conference on Informa- tion Fusion, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-101">
+<unstructured_citation>Evaluating uncertainty representation and reasoning in HLF systems. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 26.</unstructured_citation>
+</citation>
+<citation key="ref-102">
+<unstructured_citation>A multi-disciplinary approach to high level fusion in pre- dictive situational awareness. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 248—255.</unstructured_citation>
+</citation>
+<citation key="ref-103">
+<unstructured_citation>W. Sun High-level fusion: Issues in developing a formal theory. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-104">
+<unstructured_citation>Threat assessment without situation assessment. In Proceedings of International Conference on Information, Decision and Control, (1999), 365—370.</unstructured_citation>
+</citation>
+<citation key="ref-105">
+<unstructured_citation>Evaluation of a sentry system against noisy optimal intru- sions. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session RS07.</unstructured_citation>
+</citation>
+<citation key="ref-106">
+<unstructured_citation>Spatio-temporal multi-mode information management for moving target detection. Information Fusion, 5, 3 (2004), 169—178.</unstructured_citation>
+</citation>
+<citation key="ref-107">
+<unstructured_citation>Formal foundations for situation awareness based on de- pendent type theory. Information Fusion, 14, 1 (2013), 87—107.</unstructured_citation>
+</citation>
+<citation key="ref-108">
+<unstructured_citation>High-level Data Fusion. Artech House, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-109">
+<unstructured_citation>Situation assessment via Bayesian belief networks. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 664—671.</unstructured_citation>
+</citation>
+<citation key="ref-110">
+<unstructured_citation>Truth maintenance system with probabilistic constraints for enhanced Level two fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 993—1000.</unstructured_citation>
+</citation>
+<citation key="ref-111">
+<unstructured_citation>K. Sycara Agent based information fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-112">
+<unstructured_citation>Decision Fusion. IEEE Computer Society Press, 1994.</unstructured_citation>
+</citation>
+<citation key="ref-113">
+<unstructured_citation>Sensor fusion potential exploitation–innovative architec- tures and illustrative applications. Proceedings of the IEEE, 85, 1 (1997), 24—38.</unstructured_citation>
+</citation>
+<citation key="ref-114">
+<unstructured_citation>Industrial applications of multi-sensor multi-source infor- mation fusion. In Proceedings of the IEEE International Conference on Industrial Technology, 1 (2000), 5—11.</unstructured_citation>
+</citation>
+<citation key="ref-115">
+<unstructured_citation>Information fusion–what, where, why, when, and how? Information Fusion, 2, 2 (2001), 75—76.</unstructured_citation>
+</citation>
+<citation key="ref-116">
+<unstructured_citation>Information fusion in the context of biomedical applica- tions. Information Fusion, 3, 2 (2002), 89. 58 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 1 JUNE 2013</unstructured_citation>
+</citation>
+<citation key="ref-117">
+<unstructured_citation>Intrusion detection. Information Fusion, 4, 4 (2003), 243—245.</unstructured_citation>
+</citation>
+<citation key="ref-118">
+<unstructured_citation>Information fusion in the context of human-machine inter- faces. Information Fusion, 6, 2 (2005), 117—118.</unstructured_citation>
+</citation>
+<citation key="ref-119">
+<unstructured_citation>Performance evaluation methods for data-fusion capable tactical platforms. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 1427—1435.</unstructured_citation>
+</citation>
+<citation key="ref-120">
+<unstructured_citation>and B. C-B. Wong Information fusion: What can the manufacturing sector learn from the defence industry? In Proceedings of the International Manufacturing Confer- ence, (2005), 363—371.</unstructured_citation>
+</citation>
+<citation key="ref-121">
+<unstructured_citation>Information fusion for simulation based decision support in manufacturing. In Proceedings of the International Conference on Flexible Automation and Intelligent Manufacturing, (2005), 136—144.</unstructured_citation>
+</citation>
+<citation key="ref-122">
+<unstructured_citation>Hierarchical DSmP transformation for decision-making un- der uncertainty. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 96.</unstructured_citation>
+</citation>
+<citation key="ref-123">
+<unstructured_citation>On the validity of Dempster-Shafer Theory. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 97.</unstructured_citation>
+</citation>
+<citation key="ref-124">
+<unstructured_citation>Sensor placement for grid coverage under imprecise detec- tions. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2002), 1581—1587.</unstructured_citation>
+</citation>
+<citation key="ref-125">
+<unstructured_citation>Towards a formal ontology for military coalitions opera- tions. In Proceedings of the International Command and Control Research and Technology Symposium, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-126">
+<unstructured_citation>Toward unsupervised classification of non-uniform cyber attack tracks. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1919—1925.</unstructured_citation>
+</citation>
+<citation key="ref-127">
+<unstructured_citation>Time allocation of a set of radars in a multitarget environ- ment. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1260.</unstructured_citation>
+</citation>
+<citation key="ref-128">
+<unstructured_citation>Information warfare: Are you at risk? IEEE Technology and Society Magazine, 22, 4 (2003/2004), 13—19.</unstructured_citation>
+</citation>
+<citation key="ref-129">
+<unstructured_citation>Towards a theory of situation awareness in dynamic sys- tems. Human Factors, 37, l (1995), 32—64.</unstructured_citation>
+</citation>
+<citation key="ref-130">
+<unstructured_citation>Theoretical underpinnings of situation awareness: A critical review. In M. R. Endsley, D. J. Garland (Eds.), Situation Awareness: Analysis and Measurement, Lawrence Earlbaum Associates, 2000, pp. 3—32.</unstructured_citation>
+</citation>
+<citation key="ref-131">
+<unstructured_citation>The effects of dynamic updating of tactical information on situation awareness and performance in an attack helicopter domain. In Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics, 4 (1998), 3602—3607.</unstructured_citation>
+</citation>
+<citation key="ref-132">
+<unstructured_citation>Data fusion of multimodal cardiovascular signals. In Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, (2005), 4689—4692.</unstructured_citation>
+</citation>
+<citation key="ref-133">
+<unstructured_citation>Information fusion supporting team situation awareness for future fighting aircraft. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-134">
+<unstructured_citation>Cross A review of data fusion models and architectures: Towards engineering guidelines. Neural Computing and Applications, 14, 4 (2005), 273—281.</unstructured_citation>
+</citation>
+<citation key="ref-135">
+<unstructured_citation>Fault diagnosis of machines based on D-S evidence theory. Part 1: D-S evidence theory and its improvement. Pattern Recognition Letters, 27, 5 (2006), 366—376.</unstructured_citation>
+</citation>
+<citation key="ref-136">
+<unstructured_citation>Fault diagnosis of machines based on D-S evidence theory. Part 2: Application of the improved D-S evidence theory in gearbox fault diagnosis. Pattern Recognition Letters, 27, 5 (2006), 377—385.</unstructured_citation>
+</citation>
+<citation key="ref-137">
+<unstructured_citation>A new probabilistic and entropy fusion approach for man- agement of information sources. Information Fusion, 5, 1 (2004), 35—47.</unstructured_citation>
+</citation>
+<citation key="ref-138">
+<unstructured_citation>Terrain and behavior modeling for projecting multistage cyber attacks. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1384.</unstructured_citation>
+</citation>
+<citation key="ref-139">
+<unstructured_citation>Soft data issues in fusion of video surveillance. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS14 II.</unstructured_citation>
+</citation>
+<citation key="ref-140">
+<unstructured_citation>Implementing interval algebra to schedule mechanically scanned multistatic radars. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 159.</unstructured_citation>
+</citation>
+<citation key="ref-141">
+<unstructured_citation>Application of intent inference for surveillance and confor- mance monitoring to aid human cognition. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1309.</unstructured_citation>
+</citation>
+<citation key="ref-142">
+<unstructured_citation>Application of intent inference for surveillance and confor- mance monitoring. Journal of Advances in Information Fusion, 4, 1 (2009), 3—26.</unstructured_citation>
+</citation>
+<citation key="ref-143">
+<unstructured_citation>Signature-based activity detection based on Bayesian net- works acquired from expert knowledge. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 436—443.</unstructured_citation>
+</citation>
+<citation key="ref-144">
+<unstructured_citation>High performance real-time fusion architecture. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2002), 1478—1485. HIGH-LEVEL INFORMATION FUSION: AN OVERVIEW 59</unstructured_citation>
+</citation>
+<citation key="ref-145">
+<unstructured_citation>Enhancing teamwork through team-level intent inference. In Proceedings of the International Conference on Artificial Intelligence, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-146">
+<unstructured_citation>Optimizing biosurveillance systems that use threshold- based event detection methods. Information Fusion, 13, 2 (2012), 117—128.</unstructured_citation>
+</citation>
+<citation key="ref-147">
+<unstructured_citation>Data fusion architecture for maritime surveillance. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 448—455.</unstructured_citation>
+</citation>
+<citation key="ref-148">
+<unstructured_citation>An online analysis and information fusion platform for heterogeneous biomedical informatics data. In Proceedings of the IEEE Symposium on Computer-Based Medical Systems, (2005), 153—158.</unstructured_citation>
+</citation>
+<citation key="ref-149">
+<unstructured_citation>T. O’Toole, P. S. Probst, E. R. Parker, R. Rosenthal, A. W. Trivelpiece, L. A. Van Arsdale, and E. L. Zebroski Confronting the risks of terrorism: Making the right deci- sions. Reliability Engineering and System Safety, 86, 2 (2004), 129—176.</unstructured_citation>
+</citation>
+<citation key="ref-150">
+<unstructured_citation>Performance evaluation of decentralized estimation systems with uncertain communication. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 786—793.</unstructured_citation>
+</citation>
+<citation key="ref-151">
+<unstructured_citation>Threat assessment using context-based tracking in a mar- itime environment. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 187—194.</unstructured_citation>
+</citation>
+<citation key="ref-152">
+<unstructured_citation>Flexible access secure transfer (FAST) tactical communi- cations waveform for airborne networking. In Proceedings of the IEEE Military Communications Con- ference, (2005), 1—7.</unstructured_citation>
+</citation>
+<citation key="ref-153">
+<unstructured_citation>Upper bounds for the sensor subset selection problem. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 110—117.</unstructured_citation>
+</citation>
+<citation key="ref-154">
+<unstructured_citation>Information fusion in computer security. Information Fusion, 10, 4 (2009), 272—273.</unstructured_citation>
+</citation>
+<citation key="ref-155">
+<unstructured_citation>A Markov random field model of context for high-level information fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 375.</unstructured_citation>
+</citation>
+<citation key="ref-156">
+<unstructured_citation>Fusing binary and continuous output of multiple classifiers. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 380—387.</unstructured_citation>
+</citation>
+<citation key="ref-157">
+<unstructured_citation>Molina, M. A. Patricio, M. Prentice, and S. C. Shapiro Strategies and techniques for use and exploitation of con- textual information in high-level fusion architectures. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-158">
+<unstructured_citation>Molina Ontological respresentation of context knowledge for visual data fusion. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 2136—2143.</unstructured_citation>
+</citation>
+<citation key="ref-159">
+<unstructured_citation>Architecture for genetic algorithm-based threat assessment. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2003), 965—971.</unstructured_citation>
+</citation>
+<citation key="ref-160">
+<unstructured_citation>Intelligent threat assessment processor (ITAP) using genetic algorithms and fuzzy logic. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2000), ThB1-18—ThB1-24.</unstructured_citation>
+</citation>
+<citation key="ref-161">
+<unstructured_citation>Intelligent fusion and asset management processor. In Proceedings of the IEEE Information Technology Confer- ence, (1998), 15—18.</unstructured_citation>
+</citation>
+<citation key="ref-162">
+<unstructured_citation>Development and evaluation of Level 3 situation awareness support functions for a UAV operator station. In Proceedings of the Digital Avionics Systems Conference, 2 (2004), 12.D.4-1—12.D.4-8.</unstructured_citation>
+</citation>
+<citation key="ref-163">
+<unstructured_citation>Performance measures for multiple target tracking prob- lems. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 206.</unstructured_citation>
+</citation>
+<citation key="ref-164">
+<unstructured_citation>On-line update of situation assessment: A generic approach. International Journal of Knowledge-Based and Intelligent Engineering Systems, 9, 4 (2005), 351—365.</unstructured_citation>
+</citation>
+<citation key="ref-165">
+<unstructured_citation>Computer system security threat evaluation based upon artificial immunity model and fuzzy logic. In Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics, 2 (2005), 1297—1302.</unstructured_citation>
+</citation>
+<citation key="ref-166">
+<unstructured_citation>A COIN-inspired synthetic dataset for qualitative evalua- tion of hard and soft fusion systems. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 132.</unstructured_citation>
+</citation>
+<citation key="ref-167">
+<unstructured_citation>Integrating distributed Bayesian inference and reinforce- ment learning for sensor management. In Proceedings of the International Conference of Informa- tion Fusion, (2009), 93—101.</unstructured_citation>
+</citation>
+<citation key="ref-168">
+<unstructured_citation>Information provision for the dismounted close combat soldier. In Proceedings of the International Conference of Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-169">
+<unstructured_citation>Information fusion for anomaly detection with the dendritic cell algorithm. Information Fusion, 11, 1 (2010), 21—34.</unstructured_citation>
+</citation>
+<citation key="ref-170">
+<unstructured_citation>Soft information, dirty graphs and uncertainty representa- tion/processing for situation understanding. In Proceedings of the International Conference of Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-171">
+<unstructured_citation>Continuous preservation of situational awareness through incremental/stochastic graphical methods. In Proceedings of the International Conference of Informa- tion Fusion, 2011, Paper 136.</unstructured_citation>
+</citation>
+<citation key="ref-172">
+<unstructured_citation>Towards hard+soft data fusion: Processing architecture and implementation for the joint fusion and analysis of hard and soft intelligence data. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 450. 60 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 1 JUNE 2013</unstructured_citation>
+</citation>
+<citation key="ref-173">
+<unstructured_citation>Shooting two birds with two bullets: How to find minimum mean OSPA estimates. In Proceedings of the International Conference of Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-174">
+<unstructured_citation>The identity management problem–A short survey. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS13.</unstructured_citation>
+</citation>
+<citation key="ref-175">
+<unstructured_citation>Acoustic vehicle classification by fusing with semantic annotation. In Proceedings of the International Conference of Informa- tion Fusion, (2009), 232—239.</unstructured_citation>
+</citation>
+<citation key="ref-176">
+<unstructured_citation>and B. K. Pursel Perspectives on visualization and virtual world technologies for mult-sensor data fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS14.</unstructured_citation>
+</citation>
+<citation key="ref-177">
+<unstructured_citation>Test and evaluation of soft/hard information fusion systems: A test environment, methodology and initial data sets. In Proceedings of the International Conference of Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-178">
+<unstructured_citation>An introduction to multisensor data fusion. Proceedings of the IEEE, 85, 1 (1997), 6—23.</unstructured_citation>
+</citation>
+<citation key="ref-179">
+<unstructured_citation>Handbook of Multisensor Data Fusion. CRC Press, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-180">
+<unstructured_citation>A framework for dynamic hard/soft fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS13.</unstructured_citation>
+</citation>
+<citation key="ref-181">
+<unstructured_citation>Mathematical Techniques in Multisensor Data Fusion (2nd ed.). Artech House, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-182">
+<unstructured_citation>Wang Improving the fusion process using semantic level whole- brain analysis. In Proceedings of the Military Sensing Series National Sym- posium on Sensor and Data Fusion, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-183">
+<unstructured_citation>Removing the HCI bottleneck: How the human computer interface (HCI) affects the performance of data fusion systems.</unstructured_citation>
+</citation>
+<citation key="ref-184">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-185">
+<unstructured_citation>A flexible fuzzy threat evaluation computer system. In Proceedings of the International Conference on Electrical, Electronic and Computer Engineering, (2004), 23—27.</unstructured_citation>
+</citation>
+<citation key="ref-186">
+<unstructured_citation>New basic belief assignment approximations based on op- timization. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 71.</unstructured_citation>
+</citation>
+<citation key="ref-187">
+<unstructured_citation>A fuzzy-cautious OWA approach with evidential reasoning. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 70.</unstructured_citation>
+</citation>
+<citation key="ref-188">
+<unstructured_citation>W. V. Seelen An image processing system for driver assistance. Image and Vision Computing, 18, 5 (2000), 367—376.</unstructured_citation>
+</citation>
+<citation key="ref-189">
+<unstructured_citation>Specificity and merging challenges in soft data association. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 65.</unstructured_citation>
+</citation>
+<citation key="ref-190">
+<unstructured_citation>Data association and soft data streams. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-191">
+<unstructured_citation>Ecological evaluation of urban biotope types using airborne hyperspectral HyMap data. In Proceedings of the Joint Workshop on Remote Sensing and Data Fusion over Urban Areas, (2003), 18—22.</unstructured_citation>
+</citation>
+<citation key="ref-192">
+<unstructured_citation>(Eds.) Foundations and Applications of Sensor Management. Springer, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-193">
+<unstructured_citation>Network sensor management for tracking and localization. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1459.</unstructured_citation>
+</citation>
+<citation key="ref-194">
+<unstructured_citation>Improved representations of sensor exploitation for auto- matic sensor management. In Proceedings of the International Conference of Informa- tion Fusion, 1 (2003), 688—694.</unstructured_citation>
+</citation>
+<citation key="ref-195">
+<unstructured_citation>Sensor resource management with hierarchical target valu- ation models. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2004), 1187—1194.</unstructured_citation>
+</citation>
+<citation key="ref-196">
+<unstructured_citation>Sensor resource management with Level 2 fusion using Markov chain models. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 1444—1450.</unstructured_citation>
+</citation>
+<citation key="ref-197">
+<unstructured_citation>Peer to peer information management for tactical situation awareness systems. In Proceedings of the IEEE Military Communications Con- ference, 1 (2003), 179—185.</unstructured_citation>
+</citation>
+<citation key="ref-198">
+<unstructured_citation>Some computational approaches for situation assessment and impact assessment. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 687—693.</unstructured_citation>
+</citation>
+<citation key="ref-199">
+<unstructured_citation>A stochastic optimization framework for resource manage- ment and course of action analysis. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS04.</unstructured_citation>
+</citation>
+<citation key="ref-200">
+<unstructured_citation>Decentralized cooperative urban tracking of multiple ground targets by a team of autonomous UAVs. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 158.</unstructured_citation>
+</citation>
+<citation key="ref-201">
+<unstructured_citation>Weighted unranked tree automata as a framework for plan recognition. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-202">
+<unstructured_citation>P. Svenson A survey of some information fusion research fields appli- cable in operations other than war. User Report FOI-R-2000-SE, Swedish Defence Research Agency, Sweden, 2006. HIGH-LEVEL INFORMATION FUSION: AN OVERVIEW 61</unstructured_citation>
+</citation>
+<citation key="ref-203">
+<unstructured_citation>Real-time automated decision-making in advanced airborne early warning system. In Proceedings of the IEEE National Aerospace and Elec- tronics Conference, 1 (1990), 434—439.</unstructured_citation>
+</citation>
+<citation key="ref-204">
+<unstructured_citation>Distributed greedy sensor scheduling for model-based re- construction of space-time continuous physical phenomena. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 102—109.</unstructured_citation>
+</citation>
+<citation key="ref-205">
+<unstructured_citation>Land use and land cover change prediction with the theory of evidence: A case study in an intensive agricultural region of France. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 114—121.</unstructured_citation>
+</citation>
+<citation key="ref-206">
+<unstructured_citation>Belief modeling for maritime surveillance. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1926—1932.</unstructured_citation>
+</citation>
+<citation key="ref-207">
+<unstructured_citation>Modeling and integration of severe weather advisories for situational awareness. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 22.</unstructured_citation>
+</citation>
+<citation key="ref-208">
+<unstructured_citation>A data fusion approach to biosurveillance. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 1359—1366.</unstructured_citation>
+</citation>
+<citation key="ref-209">
+<unstructured_citation>Cyber Situational Awareness–Issues and Research. Springer, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-210">
+<unstructured_citation>Mission cyber security situation assessment using impact dependency graphs. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 34.</unstructured_citation>
+</citation>
+<citation key="ref-211">
+<unstructured_citation>Neural network based threat assessment for automated vi- sual surveillance. In Proceedings of the IEEE International Joint Conference on Neural Networks, 2 (2004), 1309—1312.</unstructured_citation>
+</citation>
+<citation key="ref-212">
+<unstructured_citation>Identification of human-interaction touch points for intelli- gence analysis information fusion systems. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 134.</unstructured_citation>
+</citation>
+<citation key="ref-213">
+<unstructured_citation>A Bayesian network approach to threat evaluation with application to an air defense scenario. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session RS21.</unstructured_citation>
+</citation>
+<citation key="ref-214">
+<unstructured_citation>Real-time allocation of defensive resources to rockets, ar- tillery, and mortars. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-215">
+<unstructured_citation>SWARD: System for weapon allocation research and de- velopment. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-216">
+<unstructured_citation>Stochastic dynamic programming for resource allocation. Technical report FOI-R-1666-SE, Swedish Defence Re- search Agency, Sweden, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-217">
+<unstructured_citation>Perception management: An emerging concept for infor- mation fusion. Information Fusion, 4, 3 (2003), 231—234.</unstructured_citation>
+</citation>
+<citation key="ref-218">
+<unstructured_citation>Information acquisition strategies for Bayesian network- based decision support. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-219">
+<unstructured_citation>From kinematics to symbolics for situation and threat as- sessment. In Proceedings of International Conference on Information, Decision and Control, (1999), 497—502.</unstructured_citation>
+</citation>
+<citation key="ref-220">
+<unstructured_citation>Incorporating the human analyst into the data fusion pro- cess by modeling situation awareness using fuzzy cognitive maps. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1265—1271.</unstructured_citation>
+</citation>
+<citation key="ref-221">
+<unstructured_citation>Abductive inferencing for integrating information from hu- man and robotic sources. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS13.</unstructured_citation>
+</citation>
+<citation key="ref-222">
+<unstructured_citation>Estimation of adversarial social networks by fusion of information from a wide range of sources. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 2144—2152.</unstructured_citation>
+</citation>
+<citation key="ref-223">
+<unstructured_citation>Knowledge representation issues in perceptual reasoning managed situation assessment. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2005), xiii—xv.</unstructured_citation>
+</citation>
+<citation key="ref-224">
+<unstructured_citation>Issues and challenges in higher level fusion: Threat/impact assessment. In Proceedings of the International Conference on Informa- tion Fusion, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-225">
+<unstructured_citation>salves, D. Lambert, B. Rhodes, and E. Ruspini Results from levels 2/3 fusion implementations: Issues, challenges, retrospectives and perspectives for the future. In Proceedings of the International Conference on Informa- tion Fusion, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-226">
+<unstructured_citation>A. Steinberg, M. M. Kokar, R. P. Mahler, and J. Llinas Challenges in higher level fusion: Unsolved, difficult, and misunderstood problems/approaches in levels 2—4 fusion research. In Proceedings of the International Conference on Informa- tion Fusion, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-227">
+<unstructured_citation>Impact of HRR radar processing on moving target identifi- cation performance. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 858—865.</unstructured_citation>
+</citation>
+<citation key="ref-228">
+<unstructured_citation>Evaluating spreading activation for soft information fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 66.</unstructured_citation>
+</citation>
+<citation key="ref-229">
+<unstructured_citation>C. M. Lim, and S. Laxminarayan Cardiac health diagnosis using data fusion of cardiovascular and haemodynamic signals. Computer Methods and Programs in Biomedicine, 82, 2 (2006), 87—96. 62 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 1 JUNE 2013</unstructured_citation>
+</citation>
+<citation key="ref-230">
+<unstructured_citation>Towards visual data fusion. In Proceedings of the Military Sensing Series National Sym- posium on Sensor and Data Fusion International Open Ses- sion, 1998.</unstructured_citation>
+</citation>
+<citation key="ref-231">
+<unstructured_citation>Dependable and generic high-level information fusion– Methods and algorithms for uncertainty management. Technical report HS-IKI-TR-07-003, School of Humanities and Informatics, University of Skövde, Sweden, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-232">
+<unstructured_citation>Random finite set theoretic based soft/hard data fusion with application for target tracking. In Proceedings of the IEEE Conference on Multisensor Fu- sion and Integration for Intelligent Systems, (2010), 50—55.</unstructured_citation>
+</citation>
+<citation key="ref-233">
+<unstructured_citation>New applications for information fusion and soil moisture forecasting. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 1622—1628.</unstructured_citation>
+</citation>
+<citation key="ref-234">
+<unstructured_citation>Airborne monitoring of ground traffic behaviour for hidden threat assessment. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-235">
+<unstructured_citation>Sensor and Data Fusion: A Tool for Information Assessment and Decision Making. SPIE Press, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-236">
+<unstructured_citation>G. W. Ng Multi-level fusion: Issues in bridging the gap between high and low level fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-237">
+<unstructured_citation>Situation awareness: Issues and challenges. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2004), 533—534.</unstructured_citation>
+</citation>
+<citation key="ref-238">
+<unstructured_citation>Situation assessment: Procedural vs. logical. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2005), xx—xxiii.</unstructured_citation>
+</citation>
+<citation key="ref-239">
+<unstructured_citation>A reference model for data fusion systems. Proceedings of SPIE, 4051 (2000), 191—202.</unstructured_citation>
+</citation>
+<citation key="ref-240">
+<unstructured_citation>Ontology-based situation awareness. Information Fusion, 10, 1 (2009), 83—98.</unstructured_citation>
+</citation>
+<citation key="ref-241">
+<unstructured_citation>M. Hinman, and J. Salerno Use cases for ontologies in information fusion. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2004), 415—422.</unstructured_citation>
+</citation>
+<citation key="ref-242">
+<unstructured_citation>and P. Kogut Association in level 2 fusion. Proceedings of SPIE, 5434 (2004), 228—237.</unstructured_citation>
+</citation>
+<citation key="ref-243">
+<unstructured_citation>High-level information fusion and situation awareness. Information Fusion, 10, 1 (2009), 2—5.</unstructured_citation>
+</citation>
+<citation key="ref-244">
+<unstructured_citation>K. Wallenius, M. Sudit, and M. Hultner Higher-level information fusion: Challenges to the aca- demic community. In Proceedings of the International Conference on Informa- tion Fusion, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-245">
+<unstructured_citation>An example of using ontologies and symbolic information in automatic target recognition. Proceedings of SPIE, 4731 (2002), 40—50.</unstructured_citation>
+</citation>
+<citation key="ref-246">
+<unstructured_citation>Using ontologies for recognition: An example. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2002), 1324—1343.</unstructured_citation>
+</citation>
+<citation key="ref-247">
+<unstructured_citation>The data fusion approach to the priority assignment in the multifunction radar. In Proceedings of the International Conference on Mi- crowaves, Radar and Wireless Communications, 2 (2002), 647—650.</unstructured_citation>
+</citation>
+<citation key="ref-248">
+<unstructured_citation>Uncertainty propagation in puff-based dispersion models using polynomial chaos. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 710—716.</unstructured_citation>
+</citation>
+<citation key="ref-249">
+<unstructured_citation>Information Warfare and Organizational Decision-making. Artech House, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-250">
+<unstructured_citation>Adversarial Reasoning: Computational Approaches to Read- ing the Opponent’s Mind. Taylor & Francis, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-251">
+<unstructured_citation>Approaches to validation of information fusion systems. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 882—889.</unstructured_citation>
+</citation>
+<citation key="ref-252">
+<unstructured_citation>Hypothesis-driven information fusion in adversarial, decep- tive environments. Information Fusion, 12, 2 (2011), 131—144.</unstructured_citation>
+</citation>
+<citation key="ref-253">
+<unstructured_citation>Modeling ATR processes to predict their performance by using invariance, robustness and self-refusal approach. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1139—1146.</unstructured_citation>
+</citation>
+<citation key="ref-254">
+<unstructured_citation>Intention recognition for partial-order plans using dynamic Bayesian networks. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 444—451.</unstructured_citation>
+</citation>
+<citation key="ref-255">
+<unstructured_citation>Adaptive multi-modality sensor scheduling for detection and tracking of smart targets. Digital Signal Processing, 16, 5 (2006), 546—567.</unstructured_citation>
+</citation>
+<citation key="ref-256">
+<unstructured_citation>Sensor management using an active sensing approach. Signal Processing, 85, 3 (2005), 607—624.</unstructured_citation>
+</citation>
+<citation key="ref-257">
+<unstructured_citation>“Cyber Warrior”: Information superiority through advanced multi-sensory command and control technologies. In Proceedings of the IEEE National Aerospace and Elec- tronics Conference, (2000), 263—271.</unstructured_citation>
+</citation>
+<citation key="ref-258">
+<unstructured_citation>Multi-step sensor management for localizing movable sources of spatially distributed phenomena. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-259">
+<unstructured_citation>Aggregation evaluation of a fusion system devoted to image interpretation. In Proceedings of the International Conference on Informa- tion Fusion, 2010. HIGH-LEVEL INFORMATION FUSION: AN OVERVIEW 63</unstructured_citation>
+</citation>
+<citation key="ref-260">
+<unstructured_citation>Grand challenges of information fusion. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2003), 213—220.</unstructured_citation>
+</citation>
+<citation key="ref-261">
+<unstructured_citation>A unification of sensor and higher-level fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 79.</unstructured_citation>
+</citation>
+<citation key="ref-262">
+<unstructured_citation>STDF model based maritime situation assessments. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1269.</unstructured_citation>
+</citation>
+<citation key="ref-263">
+<unstructured_citation>A blueprint for higher-level fusion systems. Information Fusion, 10, 1 (2009), 6—24.</unstructured_citation>
+</citation>
+<citation key="ref-264">
+<unstructured_citation>A coalition approach to higher-level fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-265">
+<unstructured_citation>Joint threat assessment with asset profiling and entity Bayes net. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 420—427.</unstructured_citation>
+</citation>
+<citation key="ref-266">
+<unstructured_citation>Mobile agent-based distributed fusion (MADFUSION) sys- tem. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 1199—1203.</unstructured_citation>
+</citation>
+<citation key="ref-267">
+<unstructured_citation>Maritime anomaly detection and threat assessment. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-268">
+<unstructured_citation>Probabilistic ontologies for knowledge fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session RS08.</unstructured_citation>
+</citation>
+<citation key="ref-269">
+<unstructured_citation>Introducing semantic knowledge in high-level fusion. In Proceedings of the IEEE Workshop on Situation Manage- ment, 2009, Paper 900659.</unstructured_citation>
+</citation>
+<citation key="ref-270">
+<unstructured_citation>Anomaly detection in sea traffic–A comparison of the Gaussian mixture model and the kernel density estimator. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 756—763.</unstructured_citation>
+</citation>
+<citation key="ref-271">
+<unstructured_citation>Sensor attack avoidance: Linear quadratic game approach. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1131—1138.</unstructured_citation>
+</citation>
+<citation key="ref-272">
+<unstructured_citation>A geometric feature-aided game theoretic approach to sen- sor management. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1155—1162.</unstructured_citation>
+</citation>
+<citation key="ref-273">
+<unstructured_citation>Off-board augmented fusion for improved target detection and track. In Proceedings of the Asilomar Conference on Signals, Sys- tems, and Computers, (1993), 295—299.</unstructured_citation>
+</citation>
+<citation key="ref-274">
+<unstructured_citation>Distributed multi-platform fusion for enhanced radar man- agement. In Proceedings of the IEEE National Radar Conference, (1997), 115—119.</unstructured_citation>
+</citation>
+<citation key="ref-275">
+<unstructured_citation>Handbook of Multisensor Data Fusion: Theory and Practice (2nd edition). CRC Press, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-276">
+<unstructured_citation>Evaluation of visual tracking in extremely low frame rate wide area motion imagery. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 245.</unstructured_citation>
+</citation>
+<citation key="ref-277">
+<unstructured_citation>Ontology meta-model for building a situational picture of catastrophic events. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2005), 796—803.</unstructured_citation>
+</citation>
+<citation key="ref-278">
+<unstructured_citation>An ontological analysis of threat and vulnerability. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 302.</unstructured_citation>
+</citation>
+<citation key="ref-279">
+<unstructured_citation>Designing ontologies for higher level fusion. Information Fusion, 10, 1 (2009), 70—82.</unstructured_citation>
+</citation>
+<citation key="ref-280">
+<unstructured_citation>Enhancing graph matching techniques with ontologies. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS14 II.</unstructured_citation>
+</citation>
+<citation key="ref-281">
+<unstructured_citation>Developing a cost-effective approach to information fusion research and development. In Proceedings of International Conference on Information, Decision and Control, (1999), 511.</unstructured_citation>
+</citation>
+<citation key="ref-282">
+<unstructured_citation>Information fusion for natural and man-made disasters. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 570—576.</unstructured_citation>
+</citation>
+<citation key="ref-283">
+<unstructured_citation>and F. White Revisiting the JDL data fusion model II. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2004), 1218—1230.</unstructured_citation>
+</citation>
+<citation key="ref-284">
+<unstructured_citation>Information fusion for nuclear, chemical, biological & ra- diological (NCBR) battle management support/disaster re- sponse management support. Center for MultiSource Information Fusion, School of En- gineering and Applied Sciences, University at Buffalo, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-285">
+<unstructured_citation>A multi-disciplinary university research initiative in hard and soft information fusion: Overview, research strategies and initial results. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-286">
+<unstructured_citation>Design of a performance evaluation methodology for data fusion-based multiple target tracking systems II: Analysis methodology. In Proceedings of the Military Sensing Series National Sym- posium on Sensor and Data Fusion, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-287">
+<unstructured_citation>Information fusion algorithms and analysis for an exemplar detection of intent problem. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-288">
+<unstructured_citation>Cognitive situation and threat assessments of ground bat- tlespaces. Information Fusion, 4, 4 (2003), 297—308.</unstructured_citation>
+</citation>
+<citation key="ref-289">
+<unstructured_citation>Reducing false positives in anomaly detectors through fuzzy alert aggregation. Information Fusion, 10, 4 (2009), 300—311. 64 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 1 JUNE 2013</unstructured_citation>
+</citation>
+<citation key="ref-290">
+<unstructured_citation>Insider threat prediction tool: Evaluating the probability of IT misuse. Computers & Security, 21, 1 (2002), 62—73.</unstructured_citation>
+</citation>
+<citation key="ref-291">
+<unstructured_citation>Unified sensor management using CPHD filters. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1172.</unstructured_citation>
+</citation>
+<citation key="ref-292">
+<unstructured_citation>Industrial assessment of horticultural products’ quality us- ing image data fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2003), 868—873.</unstructured_citation>
+</citation>
+<citation key="ref-293">
+<unstructured_citation>Development of an integrated GUI framework for post- disaster data fusion visualization. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 1131—1137.</unstructured_citation>
+</citation>
+<citation key="ref-294">
+<unstructured_citation>Evaluating sensor allocations using equivalence classes of multi-target paths. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2005), 574—581.</unstructured_citation>
+</citation>
+<citation key="ref-295">
+<unstructured_citation>Using ontology-based rules for situation awareness and information fusion. In Proceedings of the W3C Workshop on Rule Languages for Interoperability, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-296">
+<unstructured_citation>Derivation of ontological relations using formal methods in a situation awareness scenario. Proceedings of SPIE, 5099 (2003), 298—309.</unstructured_citation>
+</citation>
+<citation key="ref-297">
+<unstructured_citation>A core ontology for situation awareness. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2003), 545—552.</unstructured_citation>
+</citation>
+<citation key="ref-298">
+<unstructured_citation>C. Call, M. Hinman, J. Salerno, and D. Boulware SAWA: An assistant for higher-level fusion and situation awareness. Proceedings of SPIE, 5813 (2005), 75—85.</unstructured_citation>
+</citation>
+<citation key="ref-299">
+<unstructured_citation>C. Call, M. Hinman, J. Salerno, and D. Boulware Lessons learned from developing SAWA: A situation aware- ness assistant. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 969—976.</unstructured_citation>
+</citation>
+<citation key="ref-300">
+<unstructured_citation>Towards the formal representation of temporal aspects of enemy/threat courses of action. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 240—247.</unstructured_citation>
+</citation>
+<citation key="ref-301">
+<unstructured_citation>Plan detection under partially observable and cluttered con- ditions. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-302">
+<unstructured_citation>A crisis response situation model. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1217.</unstructured_citation>
+</citation>
+<citation key="ref-303">
+<unstructured_citation>Situation analysis and performance measurement: Applica- tion to personnel recovery. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-304">
+<unstructured_citation>J. Happe A situation analysis toolbox: Application to coastal and offshore surveillance. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-305">
+<unstructured_citation>Significant Information Encapsulation and Valence Ex- ploitation (SIEVE) for discovery. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 67.</unstructured_citation>
+</citation>
+<citation key="ref-306">
+<unstructured_citation>Temporal alignment in soft information processing. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 68.</unstructured_citation>
+</citation>
+<citation key="ref-307">
+<unstructured_citation>Force deployment analysis with generalized grammar. Information Fusion, 10, 1 (2009), 51—69.</unstructured_citation>
+</citation>
+<citation key="ref-308">
+<unstructured_citation>Surveillance multisensor management with fuzzy evalua- tion of sensor task priorities. Engineering Applications of Artificial Intelligence, 15, 6 (2002), 511—527.</unstructured_citation>
+</citation>
+<citation key="ref-309">
+<unstructured_citation>Measuring the value of high level fusion. Technical report ADA465987, Rand Corporation, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-310">
+<unstructured_citation>Performance prediction of feature aided track-to-track as- sociation. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 243.</unstructured_citation>
+</citation>
+<citation key="ref-311">
+<unstructured_citation>A logic-based model to support alert correlation in intrusion detection. Information Fusion, 10, 4 (2009), 285—299.</unstructured_citation>
+</citation>
+<citation key="ref-312">
+<unstructured_citation>Context selection for linguistic data fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS14.</unstructured_citation>
+</citation>
+<citation key="ref-313">
+<unstructured_citation>Active learning to improve the detection of unknown com- puter worms activity. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session RS07.</unstructured_citation>
+</citation>
+<citation key="ref-314">
+<unstructured_citation>Dempster Shafer approach for high level data fusion ap- plied to the assessment of myocardial viability. Lecture Notes in Computer Science, 2230 (2001), 104—112.</unstructured_citation>
+</citation>
+<citation key="ref-315">
+<unstructured_citation>Target existence based resource allocation. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1258.</unstructured_citation>
+</citation>
+<citation key="ref-316">
+<unstructured_citation>Attitude determination of LEO satellites using an array of GNSS sensors. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 323.</unstructured_citation>
+</citation>
+<citation key="ref-317">
+<unstructured_citation>Incorporating track uncertainty into the OSPA metric. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 207.</unstructured_citation>
+</citation>
+<citation key="ref-318">
+<unstructured_citation>An approach for Level 2/3 fusion technology development in urban/asymmetric scenarios. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 236. HIGH-LEVEL INFORMATION FUSION: AN OVERVIEW 65</unstructured_citation>
+</citation>
+<citation key="ref-319">
+<unstructured_citation>Intelligent Systems–Fusion, Tracking and Control. Research Studies Press Ltd. and Institute of Physics Pub- lishing, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-320">
+<unstructured_citation>Brain-mind Machinery: Brain-inspired Computing and Mind Opening. World Scientific, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-321">
+<unstructured_citation>Sensor management–what, why and how. Information Fusion, 1, 2 (2000), 67—75.</unstructured_citation>
+</citation>
+<citation key="ref-322">
+<unstructured_citation>The ultimate challenge of commander’s decision aids: The cognition based dynamic reasoning machine. In Proceedings of the Army Science Conference, 2006, Paper BO-05.</unstructured_citation>
+</citation>
+<citation key="ref-323">
+<unstructured_citation>Novel methods for fusing Bayesian network knowledge fragments in D’Brain. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1305.</unstructured_citation>
+</citation>
+<citation key="ref-324">
+<unstructured_citation>Intent inference for attack aircraft through fusion. Proceedings of SPIE, 6242 (2006), 624206.</unstructured_citation>
+</citation>
+<citation key="ref-325">
+<unstructured_citation>Assessment of data fusion systems. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 63.</unstructured_citation>
+</citation>
+<citation key="ref-326">
+<unstructured_citation>Threat assessment in tactical airborne environments. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2002), 1300—1307.</unstructured_citation>
+</citation>
+<citation key="ref-327">
+<unstructured_citation>Modeling and simulation in security evaluation. IEEE Security & Privacy, 3, 5 (2005), 71—74.</unstructured_citation>
+</citation>
+<citation key="ref-328">
+<unstructured_citation>Human decision making and information fusion: Extending the concept of decision support. Technical report HS-IKI-TR-07-002, School of Humanities and Informatics, University of Skövde, Sweden, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-329">
+<unstructured_citation>Rethinking Level 5: Distributed cognition and information fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 98.</unstructured_citation>
+</citation>
+<citation key="ref-330">
+<unstructured_citation>Organisation Information Systems Technology Panel Sympo- sium on “Military Data and Information Fusion” Meeting Proceedings RTO-MP-IST-040, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-331">
+<unstructured_citation>Organisation Information Systems Technology Panel Special- ists’ Meeting on “Information Fusion for Command Support” Meeting Proceedings RTO-MP-IST-055, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-332">
+<unstructured_citation>On ontologies for high-level information fusion. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2003), 657—664.</unstructured_citation>
+</citation>
+<citation key="ref-333">
+<unstructured_citation>The semantic challenge for situation assessments. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2005), 804—811.</unstructured_citation>
+</citation>
+<citation key="ref-334">
+<unstructured_citation>Threat assessment using Bayesian networks. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2003), 1102—1109.</unstructured_citation>
+</citation>
+<citation key="ref-335">
+<unstructured_citation>and S. F. Andler An information fusion approach to controlling complexity in bioinformatics research. In Proceedings of the IEEE Computational Systems Bioinfor- matics Conference Workshops, (2005), 299—304.</unstructured_citation>
+</citation>
+<citation key="ref-336">
+<unstructured_citation>Perception management for the guidance of unmanned vehicles. In Proceedings of the IEEE Conference on Cybernetics and Intelligent Systems, 2 (2004), 914—919.</unstructured_citation>
+</citation>
+<citation key="ref-337">
+<unstructured_citation>Enhancing situation awareness for air defence via auto- mated threat analysis. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2003), 1086—1093.</unstructured_citation>
+</citation>
+<citation key="ref-338">
+<unstructured_citation>Decentralised fusion of disparate identity estimates for shared situation awareness. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2004), 167—174.</unstructured_citation>
+</citation>
+<citation key="ref-339">
+<unstructured_citation>Fusion of disparate identity estimates for shared situation awareness in a network-centric environment. Information Fusion, 7, 4 (2006), 395—417.</unstructured_citation>
+</citation>
+<citation key="ref-340">
+<unstructured_citation>Performance assessment of data fusion systems. In Proceedings of the Australian Data Fusion Symposium, (1996), 36—41.</unstructured_citation>
+</citation>
+<citation key="ref-341">
+<unstructured_citation>K. Ganguli, A. Haridas, J. Fraser, R. M. Rao, and G. See- tharaman Efficient feature extraction and likelihood fusion for vehicle tracking in low frame rate airborne video. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-342">
+<unstructured_citation>Aggregation gisting. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 2130—2135.</unstructured_citation>
+</citation>
+<citation key="ref-343">
+<unstructured_citation>Credit card fraud detection: A fusion approach using Dempster-Shafer theory and Bayesian learning. Information Fusion, 10, 4 (2009), 354—363.</unstructured_citation>
+</citation>
+<citation key="ref-344">
+<unstructured_citation>Threat evaluation and weapons allocation in network- centric warfare. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 1078—1085.</unstructured_citation>
+</citation>
+<citation key="ref-345">
+<unstructured_citation>ARTMAP neural networks for information fusion and data mining: Map production and target recognition methodolo- gies. Neural Networks, 16, 7 (2003), 1075—1089.</unstructured_citation>
+</citation>
+<citation key="ref-346">
+<unstructured_citation>A. Malmberg Multi-source integration and temporal situation assessment in air combat. In Proceedings of International Conference on Information, Decision and Control, (1999), 371—375.</unstructured_citation>
+</citation>
+<citation key="ref-347">
+<unstructured_citation>Factored reasoning for monitoring dynamic team and goal formation. Information Fusion, 10, 1 (2009), 99—106.</unstructured_citation>
+</citation>
+<citation key="ref-348">
+<unstructured_citation>Intelligence, surveillance, and reconnaissance fusion for coalition operations. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS19. 66 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 1 JUNE 2013</unstructured_citation>
+</citation>
+<citation key="ref-349">
+<unstructured_citation>Control Warfare: Inside the OODA Loop. Master’s thesis, School of Advanced Airpower Studies, Air University, Maxwell Air Force Base, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-350">
+<unstructured_citation>schke Revisiting JDL model for automotive safety applications: The PF2 functional model. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 259.</unstructured_citation>
+</citation>
+<citation key="ref-351">
+<unstructured_citation>Dynamic airborne sensor resource management for ground moving target tracking and classification. In Proceedings of the IEEE Aerospace Conference, 3 (2000), 405—415.</unstructured_citation>
+</citation>
+<citation key="ref-352">
+<unstructured_citation>Tactical situation assessment challenges and implications for computational support. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2005), xxiv—xxvi.</unstructured_citation>
+</citation>
+<citation key="ref-353">
+<unstructured_citation>C-Y. Chong, and A. S. Willsky Lessons learned in the creation of a data set for hard/soft information fusion. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 2114—2121.</unstructured_citation>
+</citation>
+<citation key="ref-354">
+<unstructured_citation>C-Y. Chong Generation of a fundamental data set for hard/soft informa- tion fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS13.</unstructured_citation>
+</citation>
+<citation key="ref-355">
+<unstructured_citation>Bauer A Dempster-Shafer theoretic conditional approach to evi- dence updating for fusion of hard and soft data. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 2122—2129.</unstructured_citation>
+</citation>
+<citation key="ref-356">
+<unstructured_citation>Using propositional graphs for soft information fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 69.</unstructured_citation>
+</citation>
+<citation key="ref-357">
+<unstructured_citation>A data fusion framework for an integrated plant-wide in- formation system. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 101—107.</unstructured_citation>
+</citation>
+<citation key="ref-358">
+<unstructured_citation>A method of threat assessment using multiple attribute decision making. In Proceedings of the International Conference on Signal Processing, 2 (2002), 1091—1095.</unstructured_citation>
+</citation>
+<citation key="ref-359">
+<unstructured_citation>Situation awareness and automation: Issues and design approaches. In Proceedings of International Conference on Information, Decision and Control, (1999), 605—610.</unstructured_citation>
+</citation>
+<citation key="ref-360">
+<unstructured_citation>Networks of maritime radar systems: Sensor selection al- gorithm for P D < 1 based on the modified Riccati equation. In Proceedings of the IEEE Nonlinear Statistical Signal Pro- cessing Workshop: Classical, Unscented and Particle Filter- ing Methods, (2006), 152—155.</unstructured_citation>
+</citation>
+<citation key="ref-361">
+<unstructured_citation>Sensor selection: The modified Riccati equation approach compared with other selection schemes. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1184.</unstructured_citation>
+</citation>
+<citation key="ref-362">
+<unstructured_citation>Performance-based sensor selection for optimal target track- ing. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1687—1694.</unstructured_citation>
+</citation>
+<citation key="ref-363">
+<unstructured_citation>Design of a performance evaluation methodology for data fusion-based multiple target tracking systems. Proceedings of SPIE, 5099 (2003), 139—151.</unstructured_citation>
+</citation>
+<citation key="ref-364">
+<unstructured_citation>Real world implementation of belief function theory to detect dislocation of materials in construction. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 748—755.</unstructured_citation>
+</citation>
+<citation key="ref-365">
+<unstructured_citation>Multi-sensor fault recovery in the presence of known and unknown fault types. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1695—1703.</unstructured_citation>
+</citation>
+<citation key="ref-366">
+<unstructured_citation>ALARM for early warning: A lightweight analysis for recognition of menace. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-367">
+<unstructured_citation>Taxonomic knowledge structure discovery from imagery- based data using the neural associative incremental learning (NAIL) algorithm. Information Fusion, 8, 3 (2007), 295—315.</unstructured_citation>
+</citation>
+<citation key="ref-368">
+<unstructured_citation>Level 2/3 fusion in conceptual spaces. In Proceedings of the International Conference on Informa- tion Fusion, 2006, Paper 16.</unstructured_citation>
+</citation>
+<citation key="ref-369">
+<unstructured_citation>Network and infrastructure considerations for hard and soft information fusion processes. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 296.</unstructured_citation>
+</citation>
+<citation key="ref-370">
+<unstructured_citation>Performance evaluation of multi-target tracking using the OSPA metric. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-371">
+<unstructured_citation>Information quality in information fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-372">
+<unstructured_citation>Higher level fusion for post-disaster casualty mitigation operations. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 938—945.</unstructured_citation>
+</citation>
+<citation key="ref-373">
+<unstructured_citation>The M-OODA: a model incorporating control functions and teamwork in the OODA loop. In Proceedings of the Command and Control Research and Technology Symposium, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-374">
+<unstructured_citation>Fusion of aroma, FT-IR and UV sensor data based on the Bayesian inference. Application to the discrimination of white grape varieties. Chemometrics and Intelligent Laboratory Systems, 65, 2 (2003), 209—219.</unstructured_citation>
+</citation>
+<citation key="ref-375">
+<unstructured_citation>Threat evaluation and weapon assignment decision support: A review of the state of the art. ORiON, 23, 2 (2007), 151—187. HIGH-LEVEL INFORMATION FUSION: AN OVERVIEW 67</unstructured_citation>
+</citation>
+<citation key="ref-376">
+<unstructured_citation>Multiple hypothesis situation analysis support system pro- totype. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-377">
+<unstructured_citation>A platform for interoperable fusion models. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2000), ThB1-3—ThB1-10.</unstructured_citation>
+</citation>
+<citation key="ref-378">
+<unstructured_citation>Biopattern initiative: Towards the development and integra- tion of next-generation information fusion approaches. In Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 1 (2004), 399—402.</unstructured_citation>
+</citation>
+<citation key="ref-379">
+<unstructured_citation>Information fusion: A high-level architecture overview. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 680—686.</unstructured_citation>
+</citation>
+<citation key="ref-380">
+<unstructured_citation>Information fusion for situational awareness. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2003), 507—513.</unstructured_citation>
+</citation>
+<citation key="ref-381">
+<unstructured_citation>Social, Cultural, and Cognitive Aspects of Situation Man- agement: Issues and Challenges. In Proceedings of the International Conference on Informa- tion Fusion, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-382">
+<unstructured_citation>J. Holsopple Issues and challenges in higher level fusion: Threat/impact assessment and intent modeling (a panel summary). In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-383">
+<unstructured_citation>Situation awareness measurement: A review of applicability for C4i environments. Applied Ergonomics, 37, 2 (2006), 225—238.</unstructured_citation>
+</citation>
+<citation key="ref-384">
+<unstructured_citation>A case study with design of experiments: Performance evaluation methodology for Level 1 distributed data fusion processes. Information Fusion, 12, 2 (2011), 93—104.</unstructured_citation>
+</citation>
+<citation key="ref-385">
+<unstructured_citation>Evaluation methods for distributed multi-platform systems in electronic warfare and information-warfare related mis- sions. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 163—170.</unstructured_citation>
+</citation>
+<citation key="ref-386">
+<unstructured_citation>Graphical methods for real-time fusion and estimation with soft message data. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS14.</unstructured_citation>
+</citation>
+<citation key="ref-387">
+<unstructured_citation>Hierarchical higher level data fusion using fuzzy hamming and hypercube clustering. Journal of Advances in Information Fusion, 3, 2 (2008), 90— 106.</unstructured_citation>
+</citation>
+<citation key="ref-388">
+<unstructured_citation>Enhancements to high level data fusion using graph match- ing and state space search. Information Fusion, 11, 4 (2010), 351—364.</unstructured_citation>
+</citation>
+<citation key="ref-389">
+<unstructured_citation>Level 4 fusion for biosensor location and setting. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS04.</unstructured_citation>
+</citation>
+<citation key="ref-390">
+<unstructured_citation>Process refinement using biosensor location problem. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 256—263.</unstructured_citation>
+</citation>
+<citation key="ref-391">
+<unstructured_citation>A cognitive architecture for adversary intent inferencing: Knowledge structure and computation. Proceedings of SPIE, 5091 (2003), 182—193.</unstructured_citation>
+</citation>
+<citation key="ref-392">
+<unstructured_citation>Sensor management for tracking smart targets. Digital Signal Processing, 19, 6 (2009), 968—977.</unstructured_citation>
+</citation>
+<citation key="ref-393">
+<unstructured_citation>Computing maximal track clusters for sensor resource man- agement. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 78—84.</unstructured_citation>
+</citation>
+<citation key="ref-394">
+<unstructured_citation>Applying the PCR6 rule of combination in real time clas- sification systems. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1665—1672.</unstructured_citation>
+</citation>
+<citation key="ref-395">
+<unstructured_citation>System prediction combining state estimation with an evi- dential influence diagram. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 428—435.</unstructured_citation>
+</citation>
+<citation key="ref-396">
+<unstructured_citation>Performance evaluation of multiple target tracking in the absence of reference data. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-397">
+<unstructured_citation>Description of the Choquet integral for tactical knowledge representation. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-398">
+<unstructured_citation>A consistent metric for performance evaluation of multi- object filters. IEEE Transactions on Signal Processing, 56, 8 (2008), 3447—3457.</unstructured_citation>
+</citation>
+<citation key="ref-399">
+<unstructured_citation>On the application of multiple hypothesis tracking to the cyber domain. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 33.</unstructured_citation>
+</citation>
+<citation key="ref-400">
+<unstructured_citation>Observer network and forest fire detection. Information Fusion, 12, 3 (2011), 160—175.</unstructured_citation>
+</citation>
+<citation key="ref-401">
+<unstructured_citation>M. Rossi Solving disagreements in a multi-agent system performing situation assessment. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 717—724.</unstructured_citation>
+</citation>
+<citation key="ref-402">
+<unstructured_citation>The extended OODA model for data fusion systems. In Proceedings of the International Conference on Informa- tion Fusion, (2001), FrB1-19—FrB1-25.</unstructured_citation>
+</citation>
+<citation key="ref-403">
+<unstructured_citation>Track-before-fuse error bounds for tracking passive targets. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 210.</unstructured_citation>
+</citation>
+<citation key="ref-404">
+<unstructured_citation>Strategies comparison for game theoretic cyber situational awareness and impact assessment. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1317. 68 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 1 JUNE 2013</unstructured_citation>
+</citation>
+<citation key="ref-405">
+<unstructured_citation>Team situation awareness as a basis of team intention inference: Definition and framework. In Proceedings of the SICE Annual Conference, 3 (2002), 1641—1646.</unstructured_citation>
+</citation>
+<citation key="ref-406">
+<unstructured_citation>The cross-entropy method for solving a variety of hierar- chical search problems. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1483.</unstructured_citation>
+</citation>
+<citation key="ref-407">
+<unstructured_citation>Modeling and sensor fusion of a remotely operated under- water vehicle. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 372.</unstructured_citation>
+</citation>
+<citation key="ref-408">
+<unstructured_citation>Knowledge-based information fusion for improved situa- tional awareness. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 1017—1024.</unstructured_citation>
+</citation>
+<citation key="ref-409">
+<unstructured_citation>Extended PCR rules for dynamic frames. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 39.</unstructured_citation>
+</citation>
+<citation key="ref-410">
+<unstructured_citation>Comparative study of contradiction measures in the theory of belief functions. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 49.</unstructured_citation>
+</citation>
+<citation key="ref-411">
+<unstructured_citation>A. Kashevnik Context-aware operational decision support. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1464.</unstructured_citation>
+</citation>
+<citation key="ref-412">
+<unstructured_citation>Approaches to multisensor data fusion in target tracking: A survey. IEEE Transactions on Knowledge and Data Engineering, 18, 12 (2006), 1696—1710.</unstructured_citation>
+</citation>
+<citation key="ref-413">
+<unstructured_citation>Domain knowledge for surveillance applications. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1367.</unstructured_citation>
+</citation>
+<citation key="ref-414">
+<unstructured_citation>Fusion challenges in non-traditional warfare–the road to an asymmetric fusion model. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS14 II.</unstructured_citation>
+</citation>
+<citation key="ref-415">
+<unstructured_citation>High-Level fusion for intelligence applications using Re- combinant Cognition Synthesis. Information Fusion, 13, 1 (2012), 79—98.</unstructured_citation>
+</citation>
+<citation key="ref-416">
+<unstructured_citation>Posterior Cramér-Rao bounds for Doppler biased multi- static range-only tracking. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 209.</unstructured_citation>
+</citation>
+<citation key="ref-417">
+<unstructured_citation>Situation assessment for a centralised intelligence fusion framework for emergency services. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 179—186.</unstructured_citation>
+</citation>
+<citation key="ref-418">
+<unstructured_citation>Network-centric warfare: Impact on army operations. In Proceedings of the IEEE/AFCEA Conference on Infor- mation Systems for Enhanced Public Safety and Security, (2000), 288—295.</unstructured_citation>
+</citation>
+<citation key="ref-419">
+<unstructured_citation>Unification across JDL data fusion levels 1 and 2. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2004), 530—532.</unstructured_citation>
+</citation>
+<citation key="ref-420">
+<unstructured_citation>Threat assessment technology development. In Proceedings of the International and Interdisciplinary Conference on Modeling and Using Context, (2005), 490— 500.</unstructured_citation>
+</citation>
+<citation key="ref-421">
+<unstructured_citation>An approach to threat assessment. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2005), 1256—1263.</unstructured_citation>
+</citation>
+<citation key="ref-422">
+<unstructured_citation>Predictive modeling of interacting agents. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1136.</unstructured_citation>
+</citation>
+<citation key="ref-423">
+<unstructured_citation>Context-sensitive data fusion using structural equation mod- eling. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 725—731.</unstructured_citation>
+</citation>
+<citation key="ref-424">
+<unstructured_citation>Foundations of situation and threat assessment.</unstructured_citation>
+</citation>
+<citation key="ref-425">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-426">
+<unstructured_citation>Revisions to the JDL data fusion model.</unstructured_citation>
+</citation>
+<citation key="ref-427">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-428">
+<unstructured_citation>Revisions to the JDL data fusion model. Proceedings of SPIE, 3719 (1999), 430—441.</unstructured_citation>
+</citation>
+<citation key="ref-429">
+<unstructured_citation>Situation and context in data fusion and natural language understanding. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS14 II.</unstructured_citation>
+</citation>
+<citation key="ref-430">
+<unstructured_citation>Incremental graph matching for situation awareness. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 452—459.</unstructured_citation>
+</citation>
+<citation key="ref-431">
+<unstructured_citation>Information Fusion Engine for Real-time Decision-making (INFERD): A perceptual system for cyber attack tracking. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1359.</unstructured_citation>
+</citation>
+<citation key="ref-432">
+<unstructured_citation>Performance evaluation of local state estimation methods in bearings-only tracking problems. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 246.</unstructured_citation>
+</citation>
+<citation key="ref-433">
+<unstructured_citation>Metrics for Level 2 fusion association. In Proceedings of the International Conference on Informa- tion Fusion, 2 (2003), 1180—1186.</unstructured_citation>
+</citation>
+<citation key="ref-434">
+<unstructured_citation>Level 2 fusion: Situational assessment composition fusion with uncertain classification. In Proceedings of the International Conference on Systems Engineering, (2005), 348—354.</unstructured_citation>
+</citation>
+<citation key="ref-435">
+<unstructured_citation>Incorporation of uncertainty into Level 2 fusion association metrics. In Proceedings of the International Conference on Intelli- gent Sensors, Sensor Networks and Information Processing, (2005), 205—210.</unstructured_citation>
+</citation>
+<citation key="ref-436">
+<unstructured_citation>Equivalence classes of future paths for sensor allocation and threat analysis. Proceedings of SPIE, 5913 (2005), 363—369. HIGH-LEVEL INFORMATION FUSION: AN OVERVIEW 69</unstructured_citation>
+</citation>
+<citation key="ref-437">
+<unstructured_citation>Using the impact matrix for predictive situational aware- ness. In Proceedings of the International Conference on Informa- tion Fusion, 2007, Paper 1298.</unstructured_citation>
+</citation>
+<citation key="ref-438">
+<unstructured_citation>M. S. Choo, and J. Y. H. Kho Swedish-Singapore studies of Bayesian modelling tech- niques for tactical intelligence analysis. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-439">
+<unstructured_citation>SB-Plan: Simulation-based support for resource allocation and mission planning. In Proceedings of the Conference on Civil and Military Readiness, 2006, Paper S3.6.</unstructured_citation>
+</citation>
+<citation key="ref-440">
+<unstructured_citation>Technical survey and forecast for information fusion.</unstructured_citation>
+</citation>
+<citation key="ref-441">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-442">
+<unstructured_citation>Integrating intrusion alert information to aid forensic ex- planation: An analytical intrusion detection framework for distributive IDS. Information Fusion, 10, 4 (2009), 325—341.</unstructured_citation>
+</citation>
+<citation key="ref-443">
+<unstructured_citation>M. Lewis, and LTC C. Grindle An integrated approach to high-level information fusion. Information Fusion, 10, 1 (2009), 25—50.</unstructured_citation>
+</citation>
+<citation key="ref-444">
+<unstructured_citation>From data to actionable knowledge and decision. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 577—584.</unstructured_citation>
+</citation>
+<citation key="ref-445">
+<unstructured_citation>Assessment of data fusion systems Part 2: Sensor network architectures. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-446">
+<unstructured_citation>Decision based uncertainty propagation using adaptive Gaussian mixtures. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 702—709.</unstructured_citation>
+</citation>
+<citation key="ref-447">
+<unstructured_citation>Performance enhancement of intrusion detection systems using advances in sensor fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS01.</unstructured_citation>
+</citation>
+<citation key="ref-448">
+<unstructured_citation>Modified evidence theory for performance enhancement of intrusion detection systems. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session RS07.</unstructured_citation>
+</citation>
+<citation key="ref-449">
+<unstructured_citation>Characterizing the tradeoffs between different sensor allo- cation and management algorithms. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1473—1480.</unstructured_citation>
+</citation>
+<citation key="ref-450">
+<unstructured_citation>The relevance vector machine. Advances in Neural Information Processing Systems, 12 (2000), 652—658.</unstructured_citation>
+</citation>
+<citation key="ref-451">
+<unstructured_citation>Directions for higher-level fusion research: Needs and ca- pabilities. In Proceedings of the International Conference on Informa- tion Fusion, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-452">
+<unstructured_citation>Information fusion in the immune system. Information Fusion, 11, 1 (2010), 35—44.</unstructured_citation>
+</citation>
+<citation key="ref-453">
+<unstructured_citation>Current approaches to automated information evaluation and their applicability to priority intelligence requirement answering. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-454">
+<unstructured_citation>Testbed for distributed high-level information fusion and dynamic resource management. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-455">
+<unstructured_citation>and D. van Halsema Improving maritime situational awareness by fusing sensor information and intelligence. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 171.</unstructured_citation>
+</citation>
+<citation key="ref-456">
+<unstructured_citation>Challenges for IF performance evaluation in practice. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 866—873.</unstructured_citation>
+</citation>
+<citation key="ref-457">
+<unstructured_citation>Unification of radar and sonar coverage modeling. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1673—1678.</unstructured_citation>
+</citation>
+<citation key="ref-458">
+<unstructured_citation>Groen Colour as an attribute for automated detection in maritime environments. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 1679—1686.</unstructured_citation>
+</citation>
+<citation key="ref-459">
+<unstructured_citation>The Nature of Statistical Learning Theory. Springer, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-460">
+<unstructured_citation>Processing intrusion detection alert aggregates with time series modeling. Information Fusion, 10, 4 (2009), 312—324.</unstructured_citation>
+</citation>
+<citation key="ref-461">
+<unstructured_citation>Multisensor Data Fusion. Artech House, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-462">
+<unstructured_citation>Distributed intrusion detection system based on data fusion method. In Proceedings of the World Congress on Intelligent Control and Automation, 5 (2004), 4331—4334.</unstructured_citation>
+</citation>
+<citation key="ref-463">
+<unstructured_citation>Stochastic dynamic programming based approaches to sen- sor resource management. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 608—615.</unstructured_citation>
+</citation>
+<citation key="ref-464">
+<unstructured_citation>R. T. Ivey, N. A. Bomberger, V. K. Bykoski, and G. A. Carpenter Information fusion for image analysis: Geospatial founda- tions for higher-level fusion. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2002), 562—569.</unstructured_citation>
+</citation>
+<citation key="ref-465">
+<unstructured_citation>Game theoretic multiple mobile sensor management under adversarial environments. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS04.</unstructured_citation>
+</citation>
+<citation key="ref-466">
+<unstructured_citation>Radar sensor management for detection and tracking. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS04. 70 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 8, NO. 1 JUNE 2013</unstructured_citation>
+</citation>
+<citation key="ref-467">
+<unstructured_citation>Fast and adaptive bidimensional empirical mode decompo- sition for the real-time video fusion. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 223.</unstructured_citation>
+</citation>
+<citation key="ref-468">
+<unstructured_citation>and L. Dodd High-level information fusion and mission planning in highly anisotropic threat spaces. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session SS13.</unstructured_citation>
+</citation>
+<citation key="ref-469">
+<unstructured_citation>Kalman filtering approach to multirate information fusion for soft sensor development. In Proceedings of the International Conference on Informa- tion Fusion, 2012, Paper 196.</unstructured_citation>
+</citation>
+<citation key="ref-470">
+<unstructured_citation>Multi-sensor management for information fusion: Issues and approaches. Information Fusion, 3, 2 (2002), 163—186.</unstructured_citation>
+</citation>
+<citation key="ref-471">
+<unstructured_citation>Control based sensor management for a multiple radar monitoring scenario. Information Fusion, 5, 1 (2004), 49—63.</unstructured_citation>
+</citation>
+<citation key="ref-472">
+<unstructured_citation>A framework for reasoning with soft information. Information Sciences, 180, 8 (2010), 1390—1406.</unstructured_citation>
+</citation>
+<citation key="ref-473">
+<unstructured_citation>Hard and soft information fusion using measures. In Proceedings of the International Conference on Intelligent Systems and Knowledge Engineering, (2010), 13—16.</unstructured_citation>
+</citation>
+<citation key="ref-474">
+<unstructured_citation>Grid architecture model of network centric warfare. Journal of Systems Engineering and Electronics, 17, 1 (2006), 121—125.</unstructured_citation>
+</citation>
+<citation key="ref-475">
+<unstructured_citation>Geometric factors in target positioning and tracking. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 85—92.</unstructured_citation>
+</citation>
+<citation key="ref-476">
+<unstructured_citation>Performance-driven resource management in layered sens- ing. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 850—857.</unstructured_citation>
+</citation>
+<citation key="ref-477">
+<unstructured_citation>Optimal placement of heterogeneous sensors in target track- ing. In Proceedings of the International Conference on Informa- tion Fusion, 2011, Paper 244.</unstructured_citation>
+</citation>
+<citation key="ref-478">
+<unstructured_citation>High level information fusion for tracking and projection of multistage cyber attacks. Information Fusion, 10, 1 (2009), 107—121.</unstructured_citation>
+</citation>
+<citation key="ref-479">
+<unstructured_citation>Fusion performance analysis with the correlation. In Proceedings of the International Conference on Informa- tion Fusion, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-480">
+<unstructured_citation>J. Asbery Intrusion-detection for incident-response, using a military battlefield-intelligence process. Computer Networks, 34, 4 (2000), 671—697.</unstructured_citation>
+</citation>
+<citation key="ref-481">
+<unstructured_citation>COALESCE: A probabilistic ontology-based scene under- standing approach. In Proceedings of the International Conference on Informa- tion Fusion, 2008, Session RS08.</unstructured_citation>
+</citation>
+<citation key="ref-482">
+<unstructured_citation>and S. Hadjiefthymiades Multisensor data fusion for fire detection. Information Fusion, 12, 3 (2011), 150—159.</unstructured_citation>
+</citation>
+<citation key="ref-483">
+<unstructured_citation>An artificial intelligent approach on longevity modeling. In Proceedings of the IEEE International Conference on Tools with Artificial Intelligence, (2005), 462—465.</unstructured_citation>
+</citation>
+<citation key="ref-484">
+<unstructured_citation>Analytic network process for model elicitation in nation- building simulations. In Proceedings of the International Conference on Informa- tion Fusion, (2009), 155—162.</unstructured_citation>
+</citation>
+<citation key="ref-485">
+<unstructured_citation>Hierarchical Collective Agent Network (HCAN) for effi- cient fusion and management of multiple networked sen- sors. Information Fusion, 8, 3 (2007), 266—280.</unstructured_citation>
+</citation>
+<citation key="ref-486">
+<unstructured_citation>Tracking performance constrained MFR parameter control: Applying constraints on prediction accuracy. In Proceedings of the International Conference on Informa- tion Fusion, 1 (2005), 546—551. HIGH-LEVEL INFORMATION FUSION: AN OVERVIEW 71</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

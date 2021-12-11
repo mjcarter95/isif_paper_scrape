@@ -1,0 +1,104 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237373.9106393</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2008</year>
+</publication_date>
+<journal_volume>
+<volume>3</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Optimal Policies for a Class of Restless Multiarmed Bandit Scheduling Problems with Applications to Sensor Management</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>R. </given_name>
+<surname>Washburn</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>M. </given_name>
+<surname>Schneider</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2008</year>
+</publication_date>
+<pages>
+<first_page>3</first_page>
+<last_page>13</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>D. A. Berry and B. Fristedt Bandit Problems: Sequential Allocation of Experiments. Chapman and Hall, 1985.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Dynamic Programming and Optimal Control. Athena Scientific, Belmont, MA, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Optimal search strategies in dynamic hypothesis testing. IEEE Transactions on Systems, Man, and Cybernetics, 25, 7 (1995), 1130—1138.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Bandit processes and dynamic allocation indices. Journal of the Royal Statistical Society: Series B (Method- ological), 41, 2 (1979), 148—177.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Optimal policy for scheduling of Gauss-Markov systems. In Proceedings of the International Conference on Informa- tion Fusion, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Feedback control applied to survivability: A host-based autonomic defense system. IEEE Transactions on Reliability, 53, 1 (2004), 148—166.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Algorithms for optimal scheduling and management of hidden Markov model sensors. IEEE Transactions on Signal Processing, 50, 6 (2002), 1382—1397.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Hidden Markov model multiarm bandits: A methodology for beam scheduling in multitarget tracking. IEEE Transactions on Signal Processing, 49, 12 (2001), 2893—2908.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Chasing the elusive sensor manager. In Proceedings of the IEEE National Aerospace and Elec- tronics Conference, vol. 1, 1994, 606—613.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>The sensor management imperative. In Yaakov Bar-Shalom (Ed.),Multitarget-Multisensor Track- ing: Applications and Advances, vol. 2, Artech House, 1992, 325—392.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Closing the loop in sensor fusion systems: Stochastic dy- namic programming approaches. In Proceedings of the American Control Conference, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Washburn Approximation methods for Markov decision problems in sensor management. BAE Systems, Burlington, MA, Technical Report TR-1620, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Stochastic dynamic programming based approaches to sen- sor resource management. In Proceedings of 5th Iternational Conference on Information Fusion, 2002, 608—615.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>On an index policy for restless bandits. Journal of Applied Probability, 27 (1990), 637—648.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Restless bandits: Activity allocation in a changing world. Journal of Applied Probability, 25A (1988), 287—298. 12 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 3, NO. 1 JUNE 2008 Robert B. Washburn received his B.S. in 1973 from Yale University in mathematics and his Ph.D. in 1979 from the Massachusetts Institute of Technology in applied mathematics. He has been a principal scientist at Parietal-Systems, Inc. (PSI) since January 2006. At PSI he is developing algorithms for constraint-based data association, sensor resource management, and pattern recognition for information fusion appli- cations. Before joining PSI, Dr. Washburn worked at ALPHATECH for 23 years, where he was a Chief Scientist and during which time he led research and devel- opment in several areas of information fusion and sensor management. His work included the development of multiple hypothesis tracking (MHT) and correlation algorithms for several applications, and development and application of multi- resolution statistical image fusion algorithms and performance estimation theory for model-based target recognition algorithms. He led the efforts on sensor resource management, using approximate dynamic programming approaches to develop effi- cient control algorithms for pointing sensors and selecting sensor modes for sensing multiple targets. Dr. Washburn is a member of the IEEE, American Mathematical Society, and Society for Industrial and Applied Mathematics. Michael K. Schneider received his B.S.E. degree in electrical engineering and Certificate in applied and computational mathematics (Summa Cum Laude) from Princeton University in 1994, and his M.S. and Ph.D. degrees in electrical engineer- ing and computer science from the Massachusetts Institute of Technology in 1996 and 2001, respectively. He is a lead research engineer at BAE Systems Advanced Information Technolo- gies (BAE AIT) where, since 2001, he has been working on problems in information fusion. At BAE AIT, he has been developing combinatorial optimization algorithms for sensor resource management as well as algorithms for signature-aided tracking and analysis of patterns in historical track data. He is a member of IEEE, SIAM, and INFORMS. WASHBURN & SCHNEIDER: OPTIMAL POLICIES 13</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

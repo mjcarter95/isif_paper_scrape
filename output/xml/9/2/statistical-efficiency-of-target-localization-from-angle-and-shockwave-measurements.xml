@@ -1,0 +1,120 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237292.317813</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2014</year>
+</publication_date>
+<journal_volume>
+<volume>9</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Statistical Efficiency of Target Localization from Angle and Shockwave Measurements</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Richard W. Osborne,</given_name>
+<surname>III</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Jemin </given_name>
+<surname>George</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Lance </given_name>
+<surname>Kaplan</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2014</year>
+</publication_date>
+<pages>
+<first_page>75</first_page>
+<last_page>89</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>J. Ash, G. Whipps, and R. Kozick “Performance of shockwave-based shooter localization un- der model misspecification,” in Acoustics Speech and Signal Processing (ICASSP), 2010 IEEE International Conference on, 2010, pp. 2694—2697.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software. J. Wiley and Sons, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Optimal Attitude and Position Determination from Line- of-Sight Measurements,” Journal of the Astronautical Sciences, vol. 48(2), pp. 391— 408, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Y. Bar-Shalom “2D Location Estimation of Angle-Only Sensor Arrays Using Targets of Opportunity,” in 13th International Conference on Information Fusion, Edinburgh, UK, Jul. 2010, pp. 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Sniper localization using acoustic asynchronous sensors,” IEEE Sensors Journal, vol. 10, no. 9, pp. 1469—1478, Sep. 2010.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Physics for Scientists and Engineers, 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1996, vol. 1, ch. 14, pp. 398—399. 86 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 9, NO. 2 DECEMBER 2014</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“Position-Location Solutions by Taylor-Series Estimation,” IEEE Trans. on Aerospace and Electronic Systems, vol. 12(2), pp. 187—194, Mar. 1976.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Performance Analysis of Bearing-Only Target Location Algorithms,” IEEE Trans. on Aerospace and Electronic Systems, vol. 28(3), pp. 817—828, Jul. 1992.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“Shooter Localization using Soldier-Worn Gunfire Detec- tion Systems,” in 14th International Conference on Information Fusion, Chicago, IL, Jul. 2011, pp. 398—405.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>“Shooter Localization using a Wireless Sensor Network of Soldier-Worn Gunfire Detection Systems,” Journal of Advances in Information Fusion, vol. 8, no. 1, Jun. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Data fusion methods for small arms localization solu- tions,” in Information Fusion (FUSION), 2012 15th International Conference on, 2012, pp. 713—718.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“QoI for Passive Acoustic Gunfire Localization,” inMobile Ad Hoc and Sensor Systems, 2008. MASS 2008. 5th IEEE International Conference on, Oct. 2008, pp. 754—759.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Centralized fusion of acoustic sensor data for gunfire localization,” in 2011 MSS Battlespace Acoustic and Seismic Sensing, Magnetic and Electric Field Sensors (BAMS), Oct. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Supersonic projectile models for asynchronous shooter localization,” in Proc. SPIE Conf. Unattended Ground, Sea, and Air Sensor Technologies and Applications, vol. 8046, May 2011.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Sniper fire localization using wireless sensor networks and genetic algorithm based data fusion,” in IEEE Military Communications Conference, 2007, pp. 1— 8.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Shooter localization in wireless sensor networks,” in 12th International Conference on Information Fusion, Seattle, WA, 2009, pp. 404—411.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“Localization of small arms fire using acoustic measure- ments of muzzle blast and/or ballistic shock wave arrivals,” J. Acoust. Soc. Am., vol. 132, no. 5, pp. 2997—3017, Nov. 2012.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

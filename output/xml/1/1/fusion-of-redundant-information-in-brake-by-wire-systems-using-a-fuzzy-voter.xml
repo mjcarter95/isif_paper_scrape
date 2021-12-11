@@ -1,0 +1,107 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237400.47061</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2006</year>
+</publication_date>
+<journal_volume>
+<volume>1</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Fusion of Redundant Information in Brake-By-Wire Systems Using a Fuzzy Voter</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Reza </given_name>
+<surname>Hoseinnezhad</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Alireza </given_name>
+<surname>Bab-Hadiashar</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2006</year>
+</publication_date>
+<pages>
+<first_page>52</first_page>
+<last_page>62</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>A. Avizienis The N-version approach to fault-tolerant software. IEEE Transactions on Software Engineering, 1 (1985), 1491— 1501.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Experimental comparison of voting algorithms in cases of disagreement. In Proceedings of 23rd Euromicro Conference, Budapest, Hungary, 1997, 516—523.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>High performance ACC system based on sensor fusion with distance sensor, image processing unit, and navigation system. Vehicle System Dynamics, 28, 6 (1997), 327—338.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Ratioed voter circuit for testing and fault-tolerance in VLSI processing arrays. IEEE Transactions on Circuits and Systems I–Fundamental Theory and Applications, 43, 2 (1996), 143—152.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Enabling testability of fault-tolerant circuits by means of I-DDQ-checkable voters. IEEE Transactions on VLSI Systems, 8, 4 (2000), 415—419.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Formal verification of an avionics sensor voter using SCADE. In Proceedings of Lecture Notes in Computer Science, 3253 (2004), 5—20.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Formal modeling and analysis of an avionics triplex sensor voter. In Proceedings of Lecture Notes in Computer Science, 2648 (2003), 34—48.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>TMR voting in the presence of crosstalk faults at the voter inputs. IEEE Transactions on Reliability, 53, 3 (2004), 342—348.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Gain-scheduled wheel slip control in automotive brake systems. IEEE Transactions on Control System Technology, 11, 6 (Nov. 2003), 799—811.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Missing data compensation for safety-critical components in a drive-by-wire system. IEEE Transactions on Vehicular Technology, 54, 4 (July 2005), 1304—1311. HOSEINNEZHAD & BAB-HADIASHAR: FUSION OF REDUNDANT INFORMATION IN BRAKE-BY-WIRE SYSTEMS 61</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Missing data handling by a multi-step ahead predictive filter. In Proceedings of International Conference on Computa- tional Intelligence for Modelling Control and Automation CIMCA’2004, Gold Coast, Australia, 2004, 991—999.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Position sensing in brake-by-wire callipers using resolvers. IEEE Transactions on Vehicular Technology, 55, 3 (May 2006), 924—932.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>The design and evaluation of all voting triple modular redundancy system. In Proceedings of Annual Reliability and Maintainability Symposium, Seattle, WA, 2002, 439—444.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>A novel algorithm for weighted average voting used in fault tolerant computing systems. Microprocessors and Microsystems, 28, 7 (2004), 357—361.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Smoothing voter: A novel voting algorithm for handling multiple errors in fault-tolerant control systems. Microprocessors and Microsystems, 27 (2003), 303—313.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Voting algorithms. IEEE Transaction on Reliability, 43, 4 (1994), 617—629.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

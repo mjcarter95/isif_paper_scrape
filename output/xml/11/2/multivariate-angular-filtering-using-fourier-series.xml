@@ -1,0 +1,217 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237262.5133214</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2016</year>
+</publication_date>
+<journal_volume>
+<volume>11</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Multivariate Angular Filtering Using Fourier Series</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Florian </given_name>
+<surname>Pfaff</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Gerhard </given_name>
+<surname>Kurz</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Uwe D. </given_name>
+<surname>Hanebeck</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2016</year>
+</publication_date>
+<pages>
+<first_page>206</first_page>
+<last_page>226</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>K. V. Mardia “Directional Statistics in Geosciences,” Communications in Statistics–Theory and Methods, vol. 10, no. 15, pp. 1523—1543, 1981.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Circular Statistics in Biology, ser. Mathematics in Biology. London: Academic Press, 1981.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>“Survey of Nonlinear Attitude Estimation Methods,” Journal of Guidance, Control, and Dynamics, vol. 30, no. 1, pp. 12—28, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>“Tracking the Spin on a Ping Pong Ball with the Quaternion Bingham Filter,” in Proceedings of the 2014 IEEE Conference on Robotics and Automation (ICRA 2014), Hong Kong, China, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Estimation for Rotational Processes with One Degree of Freedom–Part I: Introduction and Continuous-Time Pro- cesses,” IEEE Transactions on Automatic Control, vol. 20, no. 1, pp. 10—21, Feb. 1975.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>“Fourier Series and Estimation on the Circle with Applica- tions to Synchronous Communication–Part I: Analysis,” IEEE Transactions on Information Theory, 1974.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>jelloun “A Multi-Sensor Circular Particle Filter Applied to the Fusion of the GPS-L2C Channels,” in Proceedings of the 14th International Conference on Infor- mation Fusion (Fusion 2011), Chicago, Illinois, USA, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Heart Phase Estimation Using Directional Statistics for Robotic Beating Heart Surgery,” in Proceedings of the 18th International Conference on In- formation Fusion (Fusion 2015), Washington D. C., USA, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>“Unscented Filtering and Nonlinear Estimation,” Proceedings of the IEEE, vol. 92, no. 3, pp. 401—422, Mar. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Directional Statistics, 1st ed. Baffins Lane, Chichester, West Sussex, PO19 IUD England: Wiley, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Topics in Circular Statistics. World Scientific, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>A. Krogh, and T. Hamelryck “A Generative, Probabilistic Model of Local Protein Struc- ture,” Proceedings of the National Academy of Sciences, vol. 105, no. 26, pp. 8932—8937, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>and A. Hero “Parameter Estimation in Spherical Symmetry Groups,” IEEE Signal Processing Letters, vol. 22, no. 8, pp. 1152— 1155, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Von Mises—Fisher Approximation of Multiple Scattering Process on the Hypersphere,” in 2013 IEEE International Conference on Acoustics, Speech and Signal Processing. IEEE, 2013, pp. 6461—6465.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“MIMO Radar Detection and Adaptive Design Under a Phase Synchronization Mismatch,” IEEE Transactions on Signal Processing, vol. 58, no. 10, pp. 4994—5005, Oct 2010.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>“Fourier Series and Estimation on the Circle with Applica- tions to Synchronous Communication–Part II: Implemen- tation,” IEEE Transactions on Information Theory, 1974.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>“A Recursive Fusion Filter for Angular Data,” in 2009 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dec. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“Recursive Nonlinear Filtering for Angular Data Based on Circular Distributions,” in Proceedings of the 2013 American Control Conference (ACC 2013), Washington D. C., USA, Jun. 2013. 224 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 11, NO. 2 DECEMBER 2016</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>“Nonlinear Measurement Update for Estimation of Angular Systems Based on Circular Distributions,” in Proceedings of the 2014 American Control Conference (ACC 2014), Portland, Oregon, USA, Jun. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“Recursive Bayesian Filtering in Circular State Spaces,” IEEE Aerospace and Electronic Systems Magazine, vol. 31, no. 3, pp. 70—87, Mar. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>“Multimodal Circular Filtering Using Fourier Series,” in Proceedings of the 18th International Conference on In- formation Fusion (Fusion 2015), Washington D. C., USA, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Discrete Recursive Bayesian Filtering on Intervals and the Unit Circle,” in Proceedings of the 2016 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2016), Baden-Baden, Germany, Sep. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Bivariate Angular Estimation Under Consideration of De- pendencies Using Directional Statistics,” in Proceedings of the 53rd IEEE Conference on Decision and Control (CDC 2014), Los Angeles, California, USA, Dec. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>“A Tutorial on Particle Filters for Online Nonlinear/Non- Gaussian Bayesian Tracking,” IEEE Transactions on Signal Processing, vol. 50, no. 2, pp. 174—188, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Fundamentals of Statistical Signal Processing: Estimation Theory. Prentice Hall, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“Semi-Analytic Gaussian Assumed Density Filter,” in Proceedings of the 2011 American Control Conference (ACC 2011), San Francisco, California, USA, Jun. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“PGF 42: Progressive Gaussian Filtering with a Twist,” in Proceedings of the 16th International Conference on Infor- mation Fusion (Fusion 2013), Istanbul, Turkey, Jul. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“LRKF Revisited: The Smart Sampling Kalman Filter (S2KF),” Journal of Advances in Information Fusion, vol. 9, no. 2, pp. 106—123, Dec. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>“The Smart Sampling Kalman Filter with Symmetric Sam- ples,” Journal of Advances in Information Fusion, vol. 11, no. 1, pp. 71—90, Jun. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>“Superficial Gaussian Mixture Reduction,” in Proceedings of the IEEE ISIF Workshop on Sensor Data Fusion: Trends, Solutions, Applications (SDF 2011), Berlin, Germany, Oct. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>“A Correlation Coefficient for Angular Variables,” Statistical Theory and Data Analysis II, pp. 349—364, 1988.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>“Measures and Models for Angular Correlation and Angular-Linear Correlation,” Journal of the Royal Statistical Society. Series B (Method- ological), vol. 39, no. 2, pp. 222—229, 1977.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>“A General Correlation Coefficient for Directional Data and Related Regression Problems,” Biometrika, vol. 67, no. 1, pp. 163—173, 1980.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Trigonometric Series, 3rd ed. Cambridge University Press, 2003, vol. 1 and 2.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>An Introduction to Harmonic Analysis, 3rd ed. Cambridge University Press, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>“Circular Distributions Based on Nonnegative Trigonomet- ric Sums,” Biometrics, vol. 60, no. 2, Jun. 2004.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>“Efficient Nonlinear Bayesian Estimation Based on Fourier Densities,” in Proceedings of the 2006 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2006), Heidelberg, Germany, Sep. 2006, pp. 312—322.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>“Nonlinear Multidimensional Bayesian Estimation with Fourier Densities,” in Proceedings of the 2006 IEEE Conference on Decision and Control (CDC 2006), San Diego, California, USA, Dec. 2006, pp. 1303—1308.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>“An Algorithm for the Machine Calculation of Complex Fourier Series,” Mathematics of Computation, vol. 19, no. 90, pp. 297—301, 1965.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Multidimensional Digital Signal Processing. Prentice Hall, 1984.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>“Fast Fourier Transforms: A Tutorial Review and a State of the Art,” Signal Processing, vol. 19, no. 4, pp. 259—299, 1990.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>“On the Computational Benefit of Tensor Separation for High-Dimensional Discrete Convolutions,” Multidimensional Systems and Signal Processing, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>“Nonlinear Prediction for Circular Filtering Using Fourier Series,” in Proceedings of the 19th International Conference on In- formation Fusion (Fusion 2016), Heidelberg, Germany, Jul. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>“libDirectional,”</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>“Negative Probability,” Quantum Implications: Essays in Honour of David Bohm, pp. 235—248, 1987.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>“Monte Carlo Sampling Methods Using Markov Chains and Their Applications,” Biometrika, vol. 57, no. 1, pp. 97—109, 1970.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Elements of Information Theory. John Wiley & Sons, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>“On Divergences and Informations in Statistics and Infor- mation Theory,” IEEE Transactions on Information Theory, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>“Directional Estimation for Robotic Beating Heart Surgery,” Ph.D. dissertation, Karlsruhe Institute of Technology, In- telligent Sensor-Actuator-Systems Laboratory, Karlsruhe, Germany, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>Fourier Transforms of Distributions and Their Inverses. Academic Press, 1973. MULTIVARIATE ANGULAR FILTERING USING FOURIER SERIES 225</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

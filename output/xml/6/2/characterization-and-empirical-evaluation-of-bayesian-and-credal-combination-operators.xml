@@ -1,0 +1,142 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237335.0414736</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<journal_volume>
+<volume>6</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Characterization and Empirical Evaluation of Bayesian and Credal Combination Operators</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Alexander </given_name>
+<surname>Karlsson</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Ronnie </given_name>
+<surname>Johansson</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Sten F.</given_name>
+<surname>Andler</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<pages>
+<first_page>150</first_page>
+<last_page>166</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>N. Andréasson, A. Evgrafov, and M. Patriksson An Introduction to Continuous Optimization. Studentlitteratur, Lund, Sweden, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Robust Bayesianism: Imprecise and paradoxical reasoning. In Proceedings of the 7th International Conference on Infor- mation fusion, June 2004, 407—414.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Robust Bayesianism: relation to evidence theory. Journal of Advances in Information Fusion, 1, 1 (Apr. 2006), 75—90.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>An overview of robust Bayesian analysis. Test, 3 (1994), 5—124.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Bayesian Theory. John Wiley and Sons, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Verification of forecasts expressed in terms of probability. Monthly Weather Review, 78 (Feb. 1950), 1—3.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>A survey of concepts of independence for imprecise prob- abilities. Risk Decision and Policy, 5 (Sept. 2000), 165—181.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Decision Making Based on Convex Sets of Probability Distri- butions: Quasi-Bayesian Networks and Outdoor Visual Posi- tion Estimation. Ph.D. thesis, The Robotics Institute, Carnegie Mellon Uni- versity, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>A derivation of quasi-Bayesian theory. Technical Report CMU-RI-TR-97-37, Robotics Institute, Carnegie Mellon University, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Credal networks. Artificial Intelligence, 120, 2 (July 2000), 199—233.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Graphical models for imprecise probabilities. International Journal of Approximate Reasoning, 39, 2—3 (June 2005), 167—184.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>High-Level Data Fusion. Artech House, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>A new contextual discounting rule for lower probabilities. In Proceedings of International Conference on Information Processing and Management of Uncertainty in Knowledged- Based Systems, June—July 2010, 198—207.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Robust Bayesian Analysis. Springer, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Cluster reduced interval data using Hausdorff distance. Computational Statistics, 21, 2 (2006), 241—288.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>On the behavior of the robust Bayesian combination oper- ator and the significance of discounting. In Proceedings of the 6th International Symposium on Impre- cise Probability: Theories and Applications (ISIPTA), 2009.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>An empirical comparison of Bayesian and credal set theory for discrete state estimation. In Proceedings of the International Conference on Informa- tion Processing and Management of Uncertainty in Knowl- edge-Based Systems (IPMU), June—July 2010, 80—89.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>An empirical comparison of Bayesian and credal combina- tion operators. In Proceedings of The 13th International Conference on Information Fusion, July 2010.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>The Enterprise of Knowledge. The MIT Press, 1983.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Multisensor Data Fusion, Second Edition. CRC Press, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Nonlinear Bayesian estimation with convex sets of proba- bility densities. In Proceedings of the 11th International Conference on In- formation Fusion, June—July, 2008, 1—8.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>A Mathematical Theory of Evidence. Princeton University Press, 1976.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Generalizing the conjunction rule for aggregating conflict expert opinions. International Journal of Intelligent Systems, 21, 3 (Mar. 2006), 361—380.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Statistical Reasoning with Imprecise Probabilities. Chapman and Hall, 1991. CHARACTERIZATION AND EMPIRICAL EVALUATION OF BAYESIAN AND CREDAL COMBINATION OPERATORS 165</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Towards a unified theory of imprecise probability. International Journal of Approximate Reasoning, 24, 2—3 (May 2000), 125—148.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

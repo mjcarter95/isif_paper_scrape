@@ -1,0 +1,105 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237303.9029186</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2013</year>
+</publication_date>
+<journal_volume>
+<volume>8</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>The Probability Generating Functional for Finite Point Processes, and Its Application  to the Comparison of PHD and Intensity Fi</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Roy </given_name>
+<surname>Streit</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2013</year>
+</publication_date>
+<pages>
+<first_page>119</first_page>
+<last_page>132</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>K. B. Athreya and P. E. Ney Branching Processes. Berlin: Springer-Verlag, 1972 (Republished by Mineola, NY: Dover, 2004).</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Palm intensity for track extraction. In preparation.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Integrated clutter estimation and target tracking using Pois- son point process. SPIE vol. 7445, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>An Introduction to the Theory of Point Processes, Vol. I: Elementary Theory and Methods. NY: Springer, 1988 (Second Ed., 2003).</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>An Introduction to the Theory of Point Processes, Vol. II: General Theory and Structure. NY: Springer, 1988 (Second Ed., 2008).</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>The Theory of Branching Processes. Berlin: Springer-Verlag, 1963.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Formant tracking using hidden Markov models and vector quantization. IEEE Transactions on Acoustics, Speech, and Signal Process- ing, 34 (1986), 709—729.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>A theoretical foundation for the Stein-Winter probability hypothesis density (PHD) multitarget tracking approach. In Proceedings of the MSS National Symposium on Sensor and Data Fusion, vol. 1, 2000, 99—117.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Multitarget Bayes filtering via first-order multitarget mo- ments. IEEE Transactions Aerospace and Electronic Systems, 39 (2003), 1152—1178.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Statistical Multisource-Multitarget Information Fusion. Boston: Artech House, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>The general theory of stochastic population processes. Acta Mathematica, 108 (1962), 1—31.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Sequential Monte Carlo method for the iFilter. In Proceedings of the Fourteenth International Conference on Information Fusion, June 2011.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>A sequential Monte Carlo method for multi-target tracking with the intensity filter. Chapter 3 in: Advances in Intelligent Signal Processing and Data Mining: Theory and Applications, P. Georgieva, L. Mihaylova, L. Jain (Eds.): Springer, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>An additive theory of probabilistic evidence accrual. Los Alamos National Laboratory, Report LA-UR-93-3336, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Bayes derivation of multitarget intensity filters. In Proceedings of the Eleventh International Conference on Information Fusion, June 2008.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Poisson Point Processes–Imaging, Tracking, and Sensing. NY: Springer, 2010. THE PROBABILITY GENERATING FUNCTIONAL FOR FINITE POINT PROCESSES 131</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>PHD intensity filtering is one step of an EM algorithm for positron emission tomography. In Proceedings of the Twelfth International Conference on Information Fusion, July 2009.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,84 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 11</li>
+<li>Issue 2</li>
+<li>Pages 123 - 137</li>
+<li>December, 2016</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Stochastic Filtering Using Periodic Cost Functions</h1>
+<p class="article-authors">Eyal  Nitzan, Tirza  Routtenberg and Joseph  Tabrikian</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">B. D. Anderson and J. B. Moore Optimal filtering. Englewood Cliffs, NJ: Prentice-Hall, 1979.</li>
+<li class="ref-2">A tutorial on particle filters for online nonlinear/non- Gaussian Bayesian tracking. IEEE Transactions on Signal Processing, 50, 2 (Feb. 2002), 174—188.</li>
+<li class="ref-3">A recursive fusion filter for angular data. In Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO), Dec. 2009, 882—887. 134 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 11, NO. 2 DECEMBER 2016</li>
+<li class="ref-4">Sequential deep learning for human action recognition. In Human Behavior Understanding, 2011, 29—39.</li>
+<li class="ref-5">A global lower bound on parameter estimation error with periodic distortion functions IEEE Transactions on Information Theory, 46, 3 (May 2000), 1145—1150.</li>
+<li class="ref-6">Maneuvering target tracking in the presence of glint using the nonlinear Gaussian mixture Kalman filter. IEEE Transactions on Aerospace and Electronic Systems, 46, 1 (Jan. 2010), 246—262.</li>
+<li class="ref-7">Efficient nonlinear Bayesian estimation based on Fourier densities. In Proceedings of the IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems, Sep. 2006, 317—322.</li>
+<li class="ref-8">Nonlinear multidimensional Bayesian estimation with Fourier densities. In Proceedings of the 45th IEEE Conference on Decision and Control, Dec. 2006, 1303—1308.</li>
+<li class="ref-9">Statistical modelling of directional wind speeds using mix- tures of von Mises distributions: case study. Energy conversion and management, 49, 5 (2008), 897— 907.</li>
+<li class="ref-10">Bayesian filtering: From Kalman filters to particle filters, and beyond. Statistics, 182, 1 (2003), 1—69.</li>
+<li class="ref-11">Estimating directional statistics Using wavefield modeling and mixtures of von-Mises distributions. IEEE Signal Processing Letters, 21, 12 (Dec. 2014), 1496— 1500.</li>
+<li class="ref-12">Robust extended Kalman filtering. IEEE Transactions on Signal Processing, 47, 9 (Sep. 1999), 2596—2599.</li>
+<li class="ref-13">Novel approach to nonlinear/non-Gaussian Bayesian state estimation. IEE Proceedings F–Radar and Signal Processing, 140, 2 (Apr. 1993), 107—113.</li>
+<li class="ref-14">Topics in circular statistics. World Scientific, 2001, vol. 5.</li>
+<li class="ref-15">Unscented filtering and nonlinear estimation. Proceedings of the IEEE, 92, 3 (Mar. 2004), 401—422.</li>
+<li class="ref-16">Robust extended Kalman filtering for nonlinear systems with stochastic uncertainties. IEEE Transactions on Systems, Man, and Cybernetics– Part A: Systems and Humans, 40, 2 (Mar. 2010), 399—405.</li>
+<li class="ref-17">A new approach to linear filtering and prediction problems. Journal of Fluids Engineering, 82, 1 (1960), 35—45.</li>
+<li class="ref-18">Gaussian sum particle filtering. IEEE Transactions on Signal Processing, 51, 10 (Oct. 2003), 2602—2612.</li>
+<li class="ref-19">Maximum-likelihood array processing in non-Gaussian noise with Gaussian mixtures. IEEE Transactions on Signal Processing, 48, 12 (Dec. 2000), 3520—3535.</li>
+<li class="ref-20">Recursive nonlinear filtering for angular data based on circular distributions. In Proceedings of the American Control Conference (ACC), June 2013, 5439—5445.</li>
+<li class="ref-21">Nonlinear measurement update for estimation of angular systems based on circular distributions. In Proceedings of the American Control Conference (ACC), June 2014, 5694—5699.</li>
+<li class="ref-22">Recursive Bayesian filtering in circular state spaces. arXiv preprint arXiv:1501.05151 (2015).</li>
+<li class="ref-23">Recursive estimation of orientation based on the Bingham distribution. In Proceedings of the 16th International Conference on Information Fusion (FUSION), July 2013, 1487—1494.</li>
+<li class="ref-24">libDirectional, 2015. Homepage: https://github.com/libDirectional.</li>
+<li class="ref-25">Theory of Point Estimation, 2nd edition. Springer Texts in Statistics. New York: Springer, 1998.</li>
+<li class="ref-26">Acquisition in phase demodulation: application to ranging in radar/sonar systems. IEEE Transactions on Aerospace and Electronic Systems, 31, 2 (Apr. 1995), 581—599.</li>
+<li class="ref-27">Mixture density estimation. In Advances in Neural Information Processing Systems, 12, (1999).</li>
+<li class="ref-28">Survey of maneuvering target tracking. Part V. Multiple- model methods. IEEE Transactions on Aerospace and Electronic Systems, 41, 4 (Oct. 2005), 1255—1321.</li>
+<li class="ref-29">Particle filters and Markov chains for learning of dynamical systems. Ph.D. dissertation, Linköping University, Linköping, Swe- den, 2013.</li>
+<li class="ref-30">Estimation for rotational processes with one degree of freedom. DTIC Document, Technical report, 1972.</li>
+<li class="ref-31">The statistical performance of some instantaneous fre- quency estimators. IEEE Transactions on Signal Processing, 40, 7 (July 1992), 1708—1723.</li>
+<li class="ref-32">Directional Statistics. Wiley Series in Probability and Statistics. Chichester: Wi- ley, 1999.</li>
+<li class="ref-33">Moving object detection, tracking and following using an omnidirectional camera on a mobile robot. In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), May 2014, 5630—5635. STOCHASTIC FILTERING USING PERIODIC COST FUNCTIONS 135</li>
+<li class="ref-34">Bearing-only tracking with a mixture of von Mises distri- butions. In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2012, 707— 712.</li>
+<li class="ref-35">Direction estimation by minimum squared arc length. IEEE Transactions on Signal Processing, 60, 5 (May 2012), 2115—2124.</li>
+<li class="ref-36">Nonlinear processing and analysis of angular signals. IEEE Transactions on Signal Processing, 46, 12 (Dec. 1998), 3181—3194.</li>
+<li class="ref-37">Cyclic Bayesian Cramér-Rao bound for filtering in circular state space. In Proceedings of the 18th International Conference on Information Fusion (FUSION), July 2015, 734—741.</li>
+<li class="ref-38">A New Class of Bayesian Cyclic Bounds for Periodic Parameter Estimation. IEEE Transactions on Signal Processing, 64, 1 (Jan. 2016), 229—243.</li>
+<li class="ref-39">Mean-cyclic-error lower bounds via integral transform of likelihood-ratio function. Accepted to the 9th IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM), July 2016.</li>
+<li class="ref-40">Bayesian cyclic bounds for periodic parameter estimation. In Proceedings of the 5th IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Pro- cessing (CAMSAP), Dec. 2013, 308—311.</li>
+<li class="ref-41">On resampling for Bayesian filters in discrete state spaces. In Proceedings of the IEEE 27th International Conference on Tools with Artificial Intelligence (ICTAI), Nov. 2015, 526—533.</li>
+<li class="ref-42">Discrete Time Signal Processing, 3rd edition. Prentice-Hall, 2010.</li>
+<li class="ref-43">A Bayesian approach to tracking multiple targets using sensor arrays and particle filters. IEEE Transactions on Signal Processing, 50, 2 (Feb. 2002), 216—223.</li>
+<li class="ref-44">Multimodal circular filtering using Fourier series. In Proceedings of the 18th International Conference on Information Fusion (FUSION), July 2015, 711—718.</li>
+<li class="ref-45">Single tone parameter estimation from discrete-time obser- vations. IEEE Transactions on Information Theory, 20, 5 (Sep. 1974), 591—598.</li>
+<li class="ref-46">MIMO-AR system identification and blind source separa- tion for GMM-distributed sources. IEEE Transactions on Signal Processing, 57, 5 (May 2009), 1717—1730.</li>
+<li class="ref-47">Bayesian parameter estimation using periodic cost func- tions. IEEE Transactions on Signal Processing, 60, 3 (Mar. 2012), 1229—1240.</li>
+<li class="ref-48">Non-Bayesian periodic Cramér-Rao bound. IEEE Transactions on Signal Processing, 61, 4 (Feb. 2013), 1019—1032.</li>
+<li class="ref-49">Cyclic Barankin-type bounds for non-Bayesian periodic parameter estimation. IEEE Transactions on Signal Processing, 62, 13 (July 2014), 3321—3336.</li>
+<li class="ref-50">A fresh look at the cyclic Cramér-Rao bound for periodic parameter estimation. Accepted to the 19th International Conference on Informa- tion Fusion (FUSION), July 2016.</li>
+<li class="ref-51">On unscented Kalman filtering for state estimation of continuous-time nonlinear systems. IEEE Transactions on Automatic Control, 52, 9 (Sep. 2007), 1631—1641.</li>
+<li class="ref-52">Recursive Bayesian estimation using Gaussian sums. Automatica, 7, 4 (1971), 465—479.</li>
+<li class="ref-53">Benjelloun A multi-sensor circular particle filter applied to the fusion of the GPS-L2C channels. In Proceedings of the 14th International Conference on Information Fusion (FUSION), July 2011, 1—8.</li>
+<li class="ref-54">An introduction to measure theory. American Mathematical Society, 2011.</li>
+<li class="ref-55">Posterior Cramér-Rao bounds for discrete-time nonlinear filtering. IEEE Transactions on Signal Processing, 46, 5 (May 1998), 1386—1396.</li>
+<li class="ref-56">Bayesian Bounds for Parameter Estimation and Nonlinear Filtering/Tracking. Wiley-IEEE Press, 2007.</li>
+<li class="ref-57">Fourier series and estimation on the circle with applications to synchronous communication–Part I: Analysis. IEEE Transactions on Information Theory, 20, 5 (Sep. 1974), 577—583.</li>
+<li class="ref-58">Estimation for rotational processes with one degree of freedom–Part II: Discrete-time processes. IEEE Transactions on Automatic Control, 20, 1 (Feb. 1975), 22—30.</li>
+<li class="ref-59">Sparse DOA estimation with polynomial rooting. In Proceedings of the 3rd International Workshop on Com- pressed Sensing Theory and its Applications to Radar, Sonar and Remote Sensing (CoSeRa), June 2015, 104—108.</li>
+<li class="ref-60">Line spectrum estimation with probabilistic priors. Signal Processing, 93, 11 (2013), 2969—2974.</li>
+<li class="ref-61">Trigonometric series, 3rd edition. Cambridge university press, 2002. 136 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 11, NO. 2 DECEMBER 2016</li>
+</ul>
+
+</body>
+</html>

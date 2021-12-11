@@ -1,0 +1,119 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237236.681191</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<journal_volume>
+<volume>13</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Maneuvering Target Tracking Using Continuous Wave Bistatic Sonar with Propagation Delay</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Rong </given_name>
+<surname>Yang</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Yaakov </given_name>
+<surname>Bar-Shalom</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Claude </given_name>
+<surname>Jauffret</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Annie-Claude </given_name>
+<surname>Perez</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Gee Wah </given_name>
+<surname>Ng</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<pages>
+<first_page>36</first_page>
+<last_page>49</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Bar-Shalom, Y., Li, X. R., and Kirubarajan, T. Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software, New York: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Tracking and Data Fusion: A Handbook of Algorithms, YBS Publishing, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>The Application of m-Sequences to Bi-static Active Sonar. Journal of the Acoustical Society of America, 114(4):2399— 2400, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Tracking a maneuvering target using two heterogeneous passive sensors on a single stationary platform with IMM estimation. accepted by Journal of Advances in Information Fusion, Dec. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Multistatic Tracking for Continous Active Sonar using Doppler-Bearing Measurements. Proc. 16th International Conference on Information Fusion, Istanbul, Turkey, Jul. 2013.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Doppler-only Target Motion Analysis in a High Duty Cycle Sonar System. Proc. 19th International Conference on Information Fusion, Heidelburg, Germany, Jul. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>A new extension of the Kalman filter to nonlinear systems. Proceedings of AeroSense: The 11th International Sympo- sium on Aerospace/Defence Sensing, Simulation and Con- trols, Apr. 1997.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>The linear fitting Kalman filter for nonlinear tracking. Proceedings of the 5th Asia-Pacific Conference on Synthetic Aperture Radar, Singapore, Sep. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Linear fitting Kalman filter. IET Signal Processing, 10(4):404—412, Jun. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Acoustic Dopplergram for Intruder Defense. Proceedings of IEEE Oceans 2007, Vancouver, BC, Canada, Sep. 2007.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Interacting multiple model unscented Gauss-Helmert filter for bearings-only tracking with state-dependent propaga- tion delay. Proc. 17th International Conference on Information Fusion, Salamanca, Spain, Jul. 2014.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>UGHF for acoustic tracking with state-dependent propaga- tion delay. IEEE Transactions on Aerospace and Electronic Systems, 51(3):1747—1761, Aug. 2015. 46 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 13, NO. 1 JUNE 2018</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Comparison of altitude estimation using 2D and 3D radars over spherical Earth. Proceedings of IEEE Aerospace Conference 2016, Big Sky, MT, USA, Mar. 2016.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Bearings-only tracking with fusion from heterogenous pas- sive sensors: ESM/EO and acoustic. Proc. 18th International Conference on Information Fusion, Washington, DC, Jul. 2015.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Bearings-Only Tracking with Fusion from Heterogenous Passive Sensors: ESM/EO and Acoustic. Journal of Advances in Information Fusion, 11(2), Dec. 2016.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

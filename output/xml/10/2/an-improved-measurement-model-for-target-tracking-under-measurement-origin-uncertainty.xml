@@ -1,0 +1,176 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237279.1012678</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<journal_volume>
+<volume>10</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>An improved measurement model for target tracking under measurement origin uncertainty</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Viji Paul  </given_name>
+<surname>Panakkal</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Rajbabu  </given_name>
+<surname>Velmurugan</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2015</year>
+</publication_date>
+<pages>
+<first_page>143</first_page>
+<last_page>162</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>D. B. Reid An algorithm for tracking multiple targets, IEEE Trans. on Automatic Control, vol. 24, pp. 843—853, Dec. 1979.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Design and analysis of modern tracking systems, Artech House, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Mixture reduction algorithms for point and extended object tracking in clutter, IEEE Trans. on Aerospace and Electronic Systems, vol. 45, pp. 667—686, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Cost function based Gaussian mixture reduction for target tracking, 6th Int. Conf. on Information Fusion, pp. 1047—1054, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>The probabilistic data association filter, estimation in the presence of measurement origin uncertainty, IEEE Control System Magazine, pp. 82—100, Dec. 2009.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Tracking in a cluttered environment with probabilistic data association, Automatica, vol. 11, pp. 451—460, Nov. 1975.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Adaptive nonlinear filtering for tracking with measure- ments of uncertain origin, IEEE Con. on Decision and control, pp. 243—247, Dec. 1972.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Variable dimension filter for maneuvering target tracking, IEEE trans. on Aerospace and Electronic Systems, vol. 18, pp. 621—629, Sept. 1982.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Track formation with bearing and frequency measurements in clutter, IEEE Trans. on Aerospace and Electronic Systems, vol. 26, pp. 999—1010, Nov. 1990.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Integrated probabilistic data association, IEEE Trans. Automatic Control, vol. 39, pp. 1237—1241, 1994.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Track biases and coalescence with probabilistic data asso- ciation, IEEE Trans. on Aerospace and Electronic Systems, vol. 21, pp. 822—825, Nov. 1985.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Tracking and data association, Academic press, inc, 1987.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>The JPDAF in practical systems: Computation and snake oil, Signal and data processing of small targets, vol. 7698, pp. 1—15, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Data association in clutter with an adaptive filter, Proc. Intl. Conf. Info. Fusion, pp. 1243—1248, 2002. 160 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 10, NO. 2 DECEMBER 2015</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Modified gain extended Kalman filter with application to bearings-only passive maneuvering target tracking, IEE Proceedings–Radar Sonar and Navigations, vol. 152(4), pp. 239—244, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Smoothed probabilistic data association filter, Proc. Intl. Conf. Info. Fusion, Istanbul, Turkey, pp. 1296— 1303, July 2013.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Integrated probabilistic data association–finite resolution, Automatica, Elsevier, vol. 31(4), pp. 559—570, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Iterative joint probabilistic data association for avoiding track coalescence and track swap in multi-target tracking, 7th IEEE SAM workshop, New Jersey, USA, pp. 285—288, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Effective joint probabilistic data association using maxi- mum a posteriori estimates of target states, Proc. Intl. Conf. Info. Fusion, Istanbul, Turkey, pp. 781—788, July 2013.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Improved probabilistic data association and its application for target tracking in clutter, Int. Conf. on Electronics, communications and control, pp. 293—296, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Adaptive clutter measurement density estimation for im- proved target tracking, IEEE Trans. on Aerospace and Electronic Systems, vol. 47, pp. 1457—1466, Apr. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Detection estimation and modulation theory, vol. 1, Wiley, 1968.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Beyond the Kalman filter, particle filters for tracking appli- cations, Artech House, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Low observable target motion analysis using amplitude information, IEEE Tran. on Aerospace and Electronic Systems, vol. 32, pp. 1367—1384, Oct. 1996.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>On the CRLB when measurements are of uncertain origin, Proc. 37th IEEE Conf. on Decision and Control, Florida, USA, pp. 743—747, Dec 1998.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Matrix CRLB scaling due to measurements of uncertain origin, IEEE Trans. on Signal Processing, vol. 49, pp. 1325—1335, July 2001.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Dynamic Cramer-Rao bound for target tracking in clutter, IEEE Tran. on Aerospace and Electronic Systems, vol. 41, pp. 1154—1167, Oct. 2005.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>The Cramer-Rao bound for dynamic target tracking with measurement origin uncertainty, Proc. 41st IEEE Conf. on Decision and Control, Las Vegas, USA, pp. 3428—3433, Dec 2002.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Simplification of the dynamic Cramer-Rao bound for target tracking in clutter, IEEE Tran. on Aerospace and Electronic Systems, vol. 47, pp. 1481—1482, Apr. 2011.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Issues in target tracking, NATO science and technology organization, vol. RTO-EN- SET-157, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Model selection and Multimodel inference, Second edition, Springer, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Estimation and tracking: Principles, techniques and software, Artech House, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Optimal state estimation Kalman, H1 and nonlinear ap- proaches, Wiley interscience, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Posterior Cramer-Rao bounds for discrete-time nonlinear filtering, IEEE Trans. on Signal Processing, vol. 46, pp. 1386—1396, May 1998.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Estimation with applications to tracking and navigation, Artech House, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>A maximum likelihood approach to data association, IEEE Trans. on Aerospace and Electronic Systems, vol. 28, pp. 560—566, 1992.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Pattern recognition and machine learning, Chapter 8, Springer, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>The EM algorithm and extensions, Wiley & Sons, New York, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>On convergence properties of the EM algorithm for Gaus- sian mixtures, Neural computation, vol. 8, pp. 129—151, 1996. AN IMPROVED MEASUREMENT MODEL FOR TARGET TRACKING UNDER MEASUREMENT ORIGIN UNCERTAINTY 161</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

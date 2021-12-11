@@ -1,0 +1,58 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 6</li>
+<li>Issue 2</li>
+<li>Pages 187 - 199</li>
+<li>December, 2011</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Real-time Allocation of Firing Units To Hostile Targets</h1>
+<p class="article-authors">Fredrik  Johansson and Göran  Falkman</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">R. Ahuja, A. Kumar, K. Jha, and J. Orlin Exact and heuristic methods for the weapon target assign- ment problem. Operations Research, 55, 6 (2007), 1136—1146.</li>
+<li class="ref-2">Evolutionary decision-makings for the dynamic weapon- target assignment problem. Science in China Series F: Information Sciences, 52, 11 (2009), 2006—2018. REAL-TIME ALLOCATION OF FIRING UNITS TO HOSTILE TARGETS 197</li>
+<li class="ref-3">Survey of investigations into the missile allocation problem. Master’s thesis, Naval Postgraduate School, Monterey, CA. 1985.</li>
+<li class="ref-4">On heuristic optimization. An. Stiint. Univ. Ovidius Constanta, 9, 2 (2001), 17—30.</li>
+<li class="ref-5">On optimum target assignments. Operations Research, 7, 3 (1959), 322—326.</li>
+<li class="ref-6">Mathematical Models of Target Coverage and Missile Al- location. Technical Report DTIC: AD-A953517, Military Operations Research Society, Alexandria, VA, 1972.</li>
+<li class="ref-7">A Class of Dynamic Nonlinear Resource Allocation Prob- lems. Ph.D. thesis, Massachusetts Institute of Technology, Dept. of Electrical Engineering and Computer Science, 1990.</li>
+<li class="ref-8">Preferential defense strategies: Part 1–the static case. Technical report, Massachusetts Institute of Technology, 1990.</li>
+<li class="ref-9">Survey of the research on dynamic weapon-target assign- ment problem. Journal of Systems Engineering and Electronics, 17, 3 (2006), 559—565.</li>
+<li class="ref-10">Very large-scale neighborhood search heuristics for combi- natorial optimization problems. Ph.D. thesis, University of Florida, 2004.</li>
+<li class="ref-11">Evaluating the performance of TEWA systems. Ph.D. thesis, Örebro University, 2010.</li>
+<li class="ref-12">A comparison between two approaches to threat evaluation in an air defense scenario. In Proceedings of the 5th International Conference on Mod- eling Decisions for Artificial Intelligence, 2008, 110—121.</li>
+<li class="ref-13">An empirical investigation of the static weapon-target allo- cation problem. In Proceedings of the 3rd Skövde Workshop on Information Fusion Topics, 2009.</li>
+<li class="ref-14">A suite of metaheuristic algorithms for static weapon-target allocation. In Proceedings of the 2010 International Conference on Genetic and Evolutionary Methods, 2010.</li>
+<li class="ref-15">SWARD: System for weapon allocation research & devel- opment. In Proceedings of the 13th International Conference on In- formation Fusion, 2010.</li>
+<li class="ref-16">String- and permutation-coded genetic algorithms for the static weapon-target assignment problem. In Proceedings of the Genetic and Evolutionary Computation Conference, 2009.</li>
+<li class="ref-17">Air defense missile-target allocation models for a naval task group. Computers and Operations Research, 35, 6 (2008), 1759— 1770.</li>
+<li class="ref-18">Analysis of a maximum marginal return assignment algo- rithm. In Proceedings of the 27th Conference on Decision and Control, 1988.</li>
+<li class="ref-19">A hybrid search algorithm with heuristics for resource allocation problem. Information Sciences, 173, 1—3 (2005), 155—167.</li>
+<li class="ref-20">Parallel ant colonies with heuristics applied to weapon- target assignment problems. In Proceedings of the 7th Conference on Artificial Intelli- gence and Applications, 2002.</li>
+<li class="ref-21">A hybrid search algorithm of ant colony optimization and genetic algorithm applied to weapon-target assignment problems. In Proceedings of the 4th International Conference on In- telligent Data Engineering and Automated Learning, 2003, 278—285.</li>
+<li class="ref-22">A genetic algorithm with domain knowledge for weapon- target assignment problems. Journal of the Chinese Institute of Engineers, 25, 3 (2002), 287—295.</li>
+<li class="ref-23">Weapon allocation is NP-complete. In Proceedings of the 1986 Summer Conference on Simula- tion, 1986.</li>
+<li class="ref-24">On the character and complexity of certain defensive re- source allocation problems. Technical Report DSTO-TR-1570, DSTO, 2004.</li>
+<li class="ref-25">A target-assignment problem. Operations Research, 6, 3 (May—June 1958), 346—351.</li>
+<li class="ref-26">A review of the literature on the missile-allocation problem. Operations Research, 18, 2 (1970), 334—373.</li>
+<li class="ref-27">A suite of weapon assignment algorithms for a SDI mid- course battle manager. Technical report, Naval Research Laboratory, 1990.</li>
+<li class="ref-28">Target-based weapon target assigment problems. In P. M. Pardalos and L. S. Pitsoulis (Eds.), Nonlinear assignment problems: algorithms and applications, 2000, 39—53.</li>
+<li class="ref-29">Threat evaluation and weapons allocation in network- centric warfare. In Proceedings of the 8th International Conference on Infor- mation Fusion, 2005.</li>
+<li class="ref-30">Experimental evaluation of heuristic optimization algo- rithms: A tutorial. Journal of Heuristics, 7 (2001), 261—304.</li>
+<li class="ref-31">Morrison An intelligent threat assessment tool for decluttering naval air defense displays. Technical report, SSC San Diego, CA, 2004.</li>
+<li class="ref-32">A survey of simulated annealing as a tool for single and multiobjective optimization. Journal of the Operational Research Society, 57 (2006), 1143—1160. 198 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 6, NO. 2 DECEMBER 2011</li>
+<li class="ref-33">Improved particle swarm optimization algorithm and its ap- plication in coordinated air combat missile-target assign- ment. In Proceedings of the 7th World Congress on Intelligent Control and Automation, 2008.</li>
+<li class="ref-34">A new locally convergent particle swarm optimiser. In Proceedings of the IEEE International Conference on Systems, Man and Cybernetics, 2002.</li>
+<li class="ref-35">A neural network-based optimization algorithm for the static weapon-target assignment problem. ORSA Journal on Computing, 1, 4 (1989), 232—246.</li>
+</ul>
+
+</body>
+</html>

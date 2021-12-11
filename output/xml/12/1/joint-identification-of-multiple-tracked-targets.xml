@@ -1,0 +1,243 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237251.7225924</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<journal_volume>
+<volume>12</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Joint Identification of Multiple Tracked Targets</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Dominic E.</given_name>
+<surname>Schaub</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2017</year>
+</publication_date>
+<pages>
+<first_page>20</first_page>
+<last_page>40</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>S. Challa, M. R. Morelande, D. Mu²sicki, and R. J. Evans Fundamentals of Object Tracking. Cambridge: Cambridge University Press, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Target Tracking–A Bayesian Perspective, in Fourteenth International Conference on Digital Signal Processing, vol. 1. IEEE, 2002, pp. 437—440.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Mathematics of Data Fusion. Dordrecht, The Netherlands: Kluwer Academic Publishers, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>A New Approach to Linear Filtering and Prediction Prob- lems, Transactions of the ASME–Journal of Basic Engineering, vol. 82, no. Series D, pp. 35—45, 1960.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Kalman Filtering: With Real-Time Applications. Springer, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Multiple-Target Tracking with Radar Applications. Dedham, MA: Artech House, 1986.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Integrated Tracking, Classification, and Sensor Management: Theory and Applications. Wiley-IEEE Press, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Statistical Multisource-Multitarget Information Fusion. Norwood, MA: Artech House, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>On Target Classification using Kinematic Data, Information Fusion, vol. 5, no. 1, pp. 15—21, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Joint Multi-Sensor Kinematic and Attribute Tracking using Bayesian Belief Networks, in Proceedings of the 2003 International Conference on Information Fusion, 2003, pp. 17—24.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Kinematic and Attribute Fusion Using a Bayesian Belief Network Framework,” Defence Science and Technology Organisation, PO Box 1500 Edinburgh, South Australia 5111, Australia, Tech. Rep., 2006.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>A second-order uncertainty model for target classification using kinematic data, Information Fusion, vol. 12, no. 2, pp. 105—110, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Joint Target Tracking and Classification with Particle Filter- ing and Mixture Kalman Filtering using Kinematic Radar Information, Digital Signal Processing, vol. 16, no. 2, pp. 180—204, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Data Fusion with Entropic Priors, Proceedings of 20th Workshop on Neural Networks, WIRN, Frontiers in Artificial Intelligence and Applications, vol. 226, pp. 107—114, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>A Multifeature Decision Space Approach to Radar Target Identification, Aerospace and Electronic Systems, IEEE Transactions on, vol. 32, no. 1, pp. 480—487, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Joint Target Tracking and Classification Using Radar and ESM Sensors, IEEE Transactions on Aerospace and Electronic Systems, vol. 37, no. 3, pp. 1039—1055, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Tracking, Identification, and Classification with Random Finite Sets, in SPIE Defense, Security, and Sensing. International Society for Optics and Photonics, 2013, pp. 87 450D—87 450D. 38 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 12, NO. 1 JUNE 2017</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Lazy Inference on Object Identities in Wireless Sensor Networks, in Proceedings of the 4th international symposium on Infor- mation processing in sensor networks. IEEE Press, 2005, p. 23.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>The Information-Form Data Association Filter, in Advances in Neural Information Processing Systems, 2005, pp. 1193—1200.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>A Distributed Algorithm for Managing Multi-Target Iden- tities in Wireless Ad-Hoc Sensor Networks, in Information Processing in Sensor Networks. Springer, 2003, pp. 223—238.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Polynomial Approximation Algorithms for Belief Matrix Maintenance in Identity Management, in 43rd IEEE Conference on Decision and Control, vol. 5. IEEE, 2004, pp. 4874—4879.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>A Distributed Multiple-Target Identity Management Algo- rithm in Sensor Networks, in 43rd IEEE Conference on Decision and Control, vol. 1. IEEE, 2004, pp. 728—734.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>The Identity Management Kalman Filter (IMKF), in Robotics: Science and Systems. Citeseer, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Fourier theoretic probabilistic inference over permutations, Journal of Machine Learning Research, vol. 10, pp. 997— 1070, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Efficient Inference for Distributions on Permutations, in Advances in Neural Information Processing Systems, 2007, pp. 697—704.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Multi-Object Tracking with Representations of the Sym- metric Group, in International Conference on Artificial Intelligence and Statistics, 2007, pp. 211—218.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Bipartite Graphs and their Applications. Cambridge University Press, 1998, no. 131.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Assignment Problems, Revised Reprint. Philadelphia: Society for Industrial and Applied Mathemat- ics, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Computational Economic Analysis for Engineering and In- dustry. Boca Raton, FL: CRC Press, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Economics of Agglomeration: Cities, Industrial Location, and Globalization. New York: Cambridge University Press, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Operations Research methods and practice. New Age International, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Introductory Operations Research: Theory and Applications. Berlin Heidelberg: Springer-Verlag, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Efficient Gating in Data Association with Multivariate Gaussian Distributed States, IEEE Transactions on Aerospace and Electronic Systems, vol. 28, no. 3, pp. 909—916, July 1992.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>A Polynomial-Time Approximation Algorithm for the Per- manent of a Matrix with Non-Negative Entries, in Proceedings of the Thirty-Third Annual ACM Symposium on Theory of Computing. ACM, 2001, pp. 712—721.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>A Polynomial-Time Approximation Algorithm for the Per- manent of a Matrix with Nonnegative Entries, Journal of the ACM (JACM), vol. 51, no. 4, pp. 671—697, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>“Approximating the Permanent in O (n7) Time,” 2004.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>CRC Concise Encyclopedia of Mathematics. Boca Raton, FL: CRC Press, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Handbook of Linear Algebra. Boca Raton, FL: Chapman and Hall/CRC, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Computational Complexity: A Conceptual Perspective. New York: Cambridge University Press, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Tracking and Data Association. San Diego: Academic Press, 1988.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>Bayesian Multiple Target Tracking. Norwood, MA: Artech House, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>GNU MP, 5th ed., Free Software Foundation, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation></unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>A Lower Bound for the Permanent of a Doubly Stochastic Matrix, Annals of Mathematics, pp. 167—176, 1979.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Understanding Uncertainty. Hoboken, NJ: John Wiley & Sons, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Scaling of Matrices to Achieve Specified Row and Column Sums, Numerische Mathematik, vol. 12, no. 1, pp. 83—90, 1968.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>A Relationship Between Arbitrary Positive Matrices and Doubly Stochastic Matrices, The Annals of Mathematical Statistics, vol. 35, no. 2, pp. 876—879, 1964.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Faster Integer Multiplication, SIAM Journal on Computing, vol. 39, no. 3, pp. 979—1005, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>On the Complexity of Nonnegative-Matrix Scaling, Linear Algebra and its Applications, vol. 240, pp. 87—103, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>The Complexity of Computing the Permanent, Theoretical Computer Science, vol. 8, no. 2, pp. 189—201, 1979.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>Accelerating Simulated Annealing for the Permanent and Combinatorial Counting Problems, in Proceedings of the Seventeenth Annual ACM-SIAM Sym- posium on Discrete Algorithms. ACM, 2006, pp. 900—907.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>Accelerating Simulated Annealing for the Permanent and Combinatorial Counting Problems, SIAM Journal on Computing, vol. 37, no. 5, pp. 1429—1454, 2008. JOINT IDENTIFICATION OF MULTIPLE TRACKED TARGETS 39</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>Fast Approximation of the Permanent for Very Dense Prob- lems, in Proceedings of the Nineteenth Annual ACM-SIAM Sym- posium on Discrete Algorithms. Society for Industrial and Applied Mathematics, 2008, pp. 681—689.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>“Approximating the Permanent with Belief Propagation,” arXiv preprint arXiv:0908.1769, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>The Bethe Permanent of a Non-Negative Matrix, in 48th Annual Allerton Conference on Communication, Con- trol, and Computing. IEEE, 2010, pp. 341—346.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>Belief Propagation and Loop Calculus for the Permanent of a Non-Negative Matrix, Journal of Physics A: Mathematical and Theoretical, vol. 43, no. 24, p. 242002, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>“Approximate Evaluation of Marginal Association Proba- bilities with Belief Propagation,” arXiv preprint arXiv:1209.6299, 2012. Dominic Schaub received his B.Sc. in Computer Engineering and Ph.D. in Electrical Engineering from the University of Manitoba in 2004 and 2011, respectively. In 2011 he joined Defence Research and Development Canada, Atlantic Research Centre.</unstructured_citation>
+</citation>
+<citation key="ref-58">
+<unstructured_citation>“Computing the Permanent with Belief Propagation,” arXiv preprint arXiv:1108.0065, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-59">
+<unstructured_citation>Estimation and Tracking: Principles, Techniques, and Soft- ware. Boston: Artech House, 1993.</unstructured_citation>
+</citation>
+<citation key="ref-60">
+<unstructured_citation>“Hungarian Method C++ Source Code,”</unstructured_citation>
+</citation>
+<citation key="ref-61">
+<unstructured_citation>KevinStern/software-and-algorithms-cpp/blob/master/src/ hungarian.h.</unstructured_citation>
+</citation>
+<citation key="ref-62">
+<unstructured_citation>Measure, Integral and Probability. London: Springer, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-63">
+<unstructured_citation>Lectures on Real Analysis. New York: Cambridge University Press, 2012, vol. 21. 40 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 12, NO. 1 JUNE 2017</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

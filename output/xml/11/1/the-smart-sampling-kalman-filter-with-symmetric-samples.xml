@@ -1,0 +1,79 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237270.8888001</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2016</year>
+</publication_date>
+<journal_volume>
+<volume>11</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>The Smart Sampling Kalman Filter with Symmetric Samples</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Jannik </given_name>
+<surname>Steinbring</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Martin </given_name>
+<surname>Pander</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Uwe </given_name>
+<surname>Hanebeck</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2016</year>
+</publication_date>
+<pages>
+<first_page>71</first_page>
+<last_page>90</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Rudolf E. Kalman A New Approach to Linear Filtering and Prediction Prob- lems, in Transaction of the ASME–Journal of Basic Engineering, Mar. 1960, pp. 35—45.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Clapp A Tutorial on Particle Filters for Online Nonlinear/Non- Gaussian Bayesian Tracking, IEEE Transactions on Signal Processing, vol. 50, no. 2, pp. 174—188, Feb. 2002.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Beyond the Kalman Filter: Particle Filters for Tracking Ap- plications. Artech House Publishers, 2004. THE SMART SAMPLING KALMAN FILTER WITH SYMMETRIC SAMPLES 87</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>A Tutorial on Particle Filtering and Smoothing: Fifteen Years Later, in Oxford Handbook of Nonlinear Filtering, 2011, pp. 656— 704.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Gaussian Particle Filtering, IEEE Transactions on Signal Processing, vol. 51, no. 10, pp. 2592—2601, Oct. 2003.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,195 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237363.092789</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2009</year>
+</publication_date>
+<journal_volume>
+<volume>4</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Application of Intent Inference for Air Defense and Conformance Monitoring</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Pek Hui</given_name>
+<surname>Foo</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Gee Wah</given_name>
+<surname>Ng</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Khin Hua</given_name>
+<surname>Ng</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Rong Yang</given_name>
+<surname></surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2009</year>
+</publication_date>
+<pages>
+<first_page>3</first_page>
+<last_page>26</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>A. Aligawesa and K. L. Fetzer Intent inference and conformance monitoring in air traffic control. Project Report, Flight Dynamics and Control/Hybrid Sys- tems Laboratory, School of Aeronautics and Astronautics, Purdue University, Apr. 2008.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Estimation with Applications to Tracking and Navigation: Theory, Algorithms, and Software. New York: Wiley, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Making adversary decision modeling tractable with intent inference and information fusion. In Proceedings of the 11th Conference on Computer-Generated Forces and Behavior Representation, Orlando, FL, May 7—9, 2002, 535—542.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Joint particle filtering of multiple maneuvering targets from unassociated measurements. Journal of Advances in Information Fusion, 1, 1 (July 2006), 15—34.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Bayesian tracking of two possibly unresolved maneuvering targets. IEEE Transactions on Aerospace and Electronic Systems, 43, 2 (Apr. 2007), 612—627.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Tracking of multiple maneuvering targets in clutter using IMM/JPDA filtering and fixed-lag smoothing. Automatica, 37, 2 (Feb. 2001), 239—249.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Incorporating soft computing techniques into a probabilistic intrusion detection system. IEEE Transactions on Systems, Man, and Cybernetics–Part C: Applications and Reviews, 32, 2 (May 2002), 154—160.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Bombology. Air Force Magazine, 73, 6 (June 1990), 64—69.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Application of intent inference for surveillance and confor- mance monitoring to aid human cognition. In Proceedings of the 10th International Conference on In- formation Fusion, Québec, Canada, July 9—12, 2007, paper 1309.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Enhancing teamwork through team-level intent inference. In Proceedings of the International Conference on Artificial Intelligence, Las Vegas, NV, June 26—29, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Mathematical Techniques in Multisensor Data Fusion (2nd ed). Boston, MA: Artech House, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>An application of Bayesian networks to antiterrorism risk management for military planners. Technical Report C4I-05-01, Center of Excellence in Com- mand, Control, Communications, Computing and Intelli- gence (C4I Center), George Mason University, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Sequential Monte Carlo methods for multiple target track- ing and data fusion. IEEE Transactions on Signal Processing, 50, 2 (Feb. 2002), 309—325.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Multiple-target tracking and identity management algo- rithm with application to aircraft tracking. Journal of Guidance, Control and Dynamics, 30, 3 (May— June 2007), 641—653.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Neuro-Fuzzy and Soft Computing: A Computational Ap- proach to Learning and Machine Intelligence. Upper Saddle River, NJ: Prentice-Hall, 1997.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Identifying terrorist activity with AI plan recognition tech- nology. In Proceedings of the 19th National Conference on Artificial Intelligence, 16th Conference on Innovative Applications of Artificial Intelligence, San Jose, CA, July 25—29, 2004, 858—863.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Sensor and Data Fusion: A Tool for Information Assessment and Decision Making. Bellingham, WA: SPIE Press, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Adversarial Reasoning: Computational Approaches to Read- ing the Opponent’s Mind. Boca Raton, FA: Taylor & Francis, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Intent inference with strategic path prediction. Journal of Guidance, Control, and Dynamics, 29, 2 (Mar.— Apr. 2006), 225—236.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Intent inference, confidence assessment, and hazard priori- tization status report. Technical Report TR 99175.30-02, Seagull Technology, Inc., Mar. 2000.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Cognitive situation and threat assessments of ground bat- tlespaces. Information Fusion, 4, 4 (Dec. 2003), 297—308.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Interacting multiple model methods in target tracking: A survey. IEEE Transactions on Aerospace Electronic Systems, 34, 1 (Jan. 1998), 103—123. 24 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 4, NO. 1 JUNE 2009</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Artificial Intelligence: A Guide to Intelligent Systems (2nd ed). Harlow, England and New York: Addison-Wesley, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Intelligent Systems–Fusion, Tracking and Control. Baldock, Hertfordshire, England: Research Studies Press Ltd. and Philadelphia, PA: Institute of Physics Publishing, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Intent inference for attack aircraft through fusion. In Pro- ceedings of SPIE, Multisensor, Multisource Information Fu- sion: Architectures, Algorithms, and Applications 2006, Or- lando, FL, Apr. 19—20, 2006, 6242-06.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>An efficient algorithm for tracking multiple maneuvering targets. In Proceedings of the IEEE Conference on Decision and Con- trol, and the European Control Conference, Seville, Spain, Dec. 12—15, 2005, 4010—4015.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Control warfare: Inside the OODA loop. Master’s thesis, School of Advanced Airpower Studies, Air University, Maxwell Air Force Base, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Tracking of multiple maneuvering targets using multiscan JPDA and IMM filtering. IEEE Transactions on Aerospace and Electronic Systems, 43, 1 (Jan. 2007), 23—35.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Kalman Filtering Techniques for Radar Tracking. New York: Marcel Dekker, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Analysis of aircraft separation minima using a surveillance state vector approach. In Proceedings of the FAA/Eurocontrol International Air Traffic Management R&D Seminar, Naples, Italy, June 13—16, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Conformance monitoring approaches in current and future air traffic control environments. In Proceedings of the IEEE/AIAA 21st Digital Avionics Sys- tems Conference, Irvine, CA, Oct. 27—31, 2002, 2, 7.C.1-1— 7.C.1-12.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Analyzing conformance monitoring in air traffic control using fault detection approaches & operational data. In Proceedings of the AIAA Guidance, Navigation, and Con- trol Conference, Austin, TX, Aug. 11—14, 2003, paper AIAA-2003-5574.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Investigating conformance monitoring issues in air traffic control using fault detection techniques. Journal of Aircraft, 42, 5 (Sept.—Oct. 2005), 1307—1317.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Investigating fundamental issues in lateral conformance monitoring using a fault detection approach. In Proceedings of the 5th Eurocontrol/FAA ATM R&D Sem- inar, Budapest, Hungary, June 23—27, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Structure, intent & conformance monitoring in ATC. In Proceedings of the Workshop on Advanced Technologies and Their Impact on Air Traffic Management in the 21st Century, Capri, Italy, Sept. 22—26, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Inferring driver intent: a case study in lane-change detec- tion. In Proceedings of the Human Factors and Ergonomics So- ciety 48th Annual Meeting, New Orleans, LA, Sept. 20—24, 2004, 2228—2231.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>A cognitive architecture for adversary intent inferencing: Knowledge structure and computation. In Proceedings of SPIE, 17th Annual International Sympo- sium on Aerospace/Defense Sensing and Controls, Orlando, FL, Apr. 21—25, 2003, 5091, 182—193.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Fuzzy Logic Toolbox User’s Guide Version 2, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Fuzzy Logic Toolbox Version 2.1.2 (Release 13), 2002.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Multi-Command Handbook 11-F16 Vol. 5, May 1996.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>New algorithms for aircraft intent inference and trajectory prediction. Journal of Guidance, Control, and Dynamics, 30, 2 (Mar.— Apr. 2007), 370—382.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>Analysis of pilot intent parameters in air traffic manage- ment. In Proceedings of the American Control Conference, Philadel- phia, PA, June 24—26, 1998, 3, 1789—1792. APPLICATION OF INTENT INFERENCE FOR AIR DEFENSE AND CONFORMANCE MONITORING 25</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

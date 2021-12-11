@@ -1,0 +1,146 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237380.6024315</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2007</year>
+</publication_date>
+<journal_volume>
+<volume>2</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Performance Analysis of Decentralized Kalman Filters under Communication Constraints</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>M. </given_name>
+<surname>Schlosser</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>K. </given_name>
+<surname>Kroschel</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2007</year>
+</publication_date>
+<pages>
+<first_page>65</first_page>
+<last_page>76</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>Y. Bar-Shalom On the track-to-track correlation problem. IEEE Transactions on Automatic Control, 26, 2 (Apr. 1981), 571—572.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>The effect of the common process noise on the two-sensor fused-track covariance. IEEE Transactions on Aerospace and Electronic Systems, 22, 6 (Nov. 1986), 803—804.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Tracking and Data Association. New York: Academic Press, 1988.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Tracking with classification-aided multiframe data associa- tion. IEEE Transactions on Aerospace and Electronic Systems, 41, 3 (July 2005), 868—878.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Data Fusion for a Distributed Ground-Based Sensing Sys- tem. In D. L. Hall and J. Llinas (Eds.), Handbook of Multisensor Data Fusion, Boca Raton: CRC Press, 2001, 25-1—25-9.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Federated square root filter for decentralized parallel pro- cesses. IEEE Transactions on Aerospace and Electronic Systems, 26, 3 (May 1990), 517—525.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Federated filter for distributed navigation and tracking ap- plications. In Proceedings of the ION 58th Annual Meeting/CIGTF 21st Guidance Test Symposium, June 2002, 340—353.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>On optimal track-to-track fusion. IEEE Transactions on Aerospace and Electronic Systems, 33, 4 (Oct. 1997), 1271—1276.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Evaluating a linear predictive algorithm for bandwidth con- servation. IEEE Transactions on Aerospace and Electronic Systems, 36, 4 (Oct. 2000), 1407—1414.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Performance evaluation of track fusion with information matrix filter. IEEE Transactions on Aerospace and Electronic Systems, 38, 2 (Apr. 2002), 455—466.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Hierarchical estimation. In Proceedings of the MIT/ONR Workshop on C3, July 1979, 205—220.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>On track and tracklet fusion filtering. In Proceedings of the SPIE Conference on Signal and Data Processing of Small Targets, 2002, vol. 4728, 176—194.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Sizing up smart dust. Journal on Computing in Science and Engineering, 5, 6 (Nov.—Dec. 2003), 6—9.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Handbook of Multisensor Data Fusion. Boca Raton, FL: CRC Press, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>General Decentralized Data Fusion with Covariance Inter- section (CI). In D. L. Hall and J. Llinas (Eds.), Handbook of Multisensor Data Fusion, Boca Raton, FL: CRC Press, 2001, 12-1—12-5.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Unified optimal linear estimation fusion–Part VII: Dy- namic systems. In Proceedings of the International Conference on Informa- tion Fusion (Fusion), July 2003, 445—462. 74 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 2, NO. 2 DECEMBER 2007</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Optimal linear estimation fusion–Part II: Discussions and examples. In Proceedings of the International Conference on Informa- tion Fusion (Fusion), July 2000, MoC2-18—MoC2-25.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Optimal linear estimation fusion–Part IV: Optimality and efficiency of distributed fusion. In Proceedings of the International Conference on Informa- tion Fusion (Fusion), Aug. 2001, WeB1-19—WeB1-26.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Optimal linear estimation fusion–Part V: Relationships. In Proceedings of the International Conference on Informa- tion Fusion (Fusion), July 2002, 497—504.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Unified optimal linear estimation fusion–Part III: Cross- correlation of local estimation errors. In Proceedings of the International Conference on Informa- tion Fusion (Fusion), Aug. 2001, WeB1-11—WeB1-18.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Optimal linear estimation fusion–Part I: Unified fusion rules. IEEE Transactions on Information Theory, 49, 9 (Sept. 2003), 2192—2208.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>nicola and S. Thomopoulos Distributed fusion architectures and algorithms for target tracking. Proceedings of the IEEE, 85, 1 (Jan. 1997), 95—107.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>A robust architecture for decentralised data fusion. In Proceedings of the International Conference on Advanced Robotics (ICAR), 2003.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Scalable distributed data fusion. In International Conference on Information Fusion (Fusion), July 2002, vol. 1, 630—635.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Robust, low-bandwidth, multi-vehicle mapping. In International Conference on Information Fusion (Fusion), 2005.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>Lineare Schätzer zur multisensoriellen Objektverfolgung in verteilten, nichtlinearen Systemen. Ph.D. thesis, Institut für Nachrichtentechnik, Universität Karlsruhe, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>Computation and transmission requirements for a decen- tralized linear-quadratic-gaussian control problem. IEEE Transactions on Automatic Control, AC-24, 2 (Apr. 1979), 266—269.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Improved extended Kalman filter design for passive track- ing. IEEE Transactions on Automatic Control, AC-25, 4 (Aug. 1980), 807—811.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Unified optimal linear estimation fusion–Part VI: Sensor data compression. In Proceedings of the International Conference on Informa- tion Fusion (Fusion), July 2003, 221—228. SCHLOSSER & KROSCHEL: PERFORMANCE ANALYSIS OF DECENTRALIZED KALMAN FILTERS 75 Markus Schlosser studied electrical engineering at the University of Karlsruhe, Germany, the Ecole Supérieure d’Ingénieurs en Electronique et Electrotechnique (ESIEE) in Paris, France, and the University of Southampton, United Kingdom. He received the Dipl.-Ing. degree and the Dr.-Ing. degree in electrical engineering from the University of Karlsruhe, Germany, in 2000 and 2005, respectively. From 2000 to 2005, he was a research assistant in the Communications Group at the University of Karlsruhe. Working on a collaborative project to build a humanoid robot, his research focused on the man-machine interface and in particular the audio- visual attention system as well as audio-visual speaker tracking and identification. In 2005, he joined the Digital Audio Processing Laboratory, Thomson Corporate Research, Hannover, Germany. He is not only engaged in developing advanced audio, but also video processing technologies for production and post-production. His research interests include audio and video processing, data fusion, object tracking, and statistical information theory. Kristian Kroschel In 1971 he received the Ph.D. degree from the University of Karlsruhe. He studied electrical engineering at the Universities of Karlsruhe and Erlangen-Nürnberg, Germany. Since 1977 he has been a Professor of Communication Engineering at the Department of Electrical Engineering and Information Technology. From 1987 through 1991 he headed in parallel the group Digital Signal Processing and Diagnosis at the Fraunhofer Institute of Information and Data Processing (IITB) in Karlsruhe. He has held the following positions at the Department of Electrical Engineering and the University of Karlsruhe, respectively: Vice Dean academic year 1982/83, member of the administration board of the university 1984—1992, member of the senate of the university 1986—1990, Student Dean 2000—2002. On the field of signal processing and communication he has published more than 60 papers and 3 books, partly together with other authors. His special interest is on signal processing of acoustic and video signals applied to man-machine communication. Several times he was a visiting professor, at the Technion Haifa, Israel, the University of California at Santa Barbara, the Bandung Institute of Technology, Indonesia. He is a member of the VDE, the German association of engineers in electrical engineering, electronics, and information technology. 76 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 2, NO. 2 DECEMBER 2007</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,248 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237227.481761</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<journal_volume>
+<volume>13</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Uncertainty in avionics analytics ontology for decision-making support</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Carlos  C. G. </given_name>
+<surname>Insaurralde</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Erik </given_name>
+<surname>Blasch</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<pages>
+<first_page>255</first_page>
+<last_page>274</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>C. C. Insaurralde, and E. Blasch “Ontological Knowledge Representation for Avionics Decision-Making Support,” 35th Digital Avionics Systems Conference (DASC), Sacra- mento, CA, USA, Sep 2016.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>“Airplane Flight Safety Using Error-Tolerant Data Stream Processing,” IEEE Aerospace and Electronics Systems Magazine, Issue 32, No. 4, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>High-Level Information Fusion Management and Systems Design, Artech House, Norwood, MA, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>homepage: https//www.flightradar24.com.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>“Decision support systems for automated terminal area air traffic control,” PhD., Massachusetts Institute of Technology, Flight Trans- portation Laboratory, 1982.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Wambsganss “Assessing the Benefits of Collaborative Decision Making in Air Traffic Management,” USA/Europe Air Traffic Management R & D Seminar, June 2000.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>“New Concepts and Methods in Air Traffic Management,” Spinger, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>“Exploring the Many Perspectives of Distributed Air Traffic Management: The Multi Aircraft Control System MACS,” AIAA HCI proceedings, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Air Traffic Management, Doc 4444 ATM/501, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Carota, and D. Casali SKY-Scanner: a new paradigm for air traffic management, International Journal of Circuits, Systems and Signal Pro- cessing 2(2) (2008), 131—139.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>“Operationalization of Norms in Aircraft Approach/Depar- ture Decision Support,” Paris: IRIT press, 79—88, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>“4-Dimensional Trajectory Negotiation and Validation Sys- tem for the Next Generation Air Traffic Management,” in proceedings of AIAA Guidance, Navigation, and Control conference 2013 (GNC 2013), Boston, MA, USA, 2013. DOI: 10.2514/6.2013-4893.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>“Analysis of Air Traffic Control Command Entries and the Impact on Decision Support Tool Performance,” Air Traffic Control Quarterly, Vol. 22(1) pp. 1—20 (2014).</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>“Semantic Driven Security Assurance for System Engineer- ing In SESAR/NextGen,” ICNS, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>“Ontologies for Aviation Data Management,” IEEE/AIAA 35th Digital Avionics Systems Conference (DASC), Sacramento, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>https://data.nasa.gov/ontologies/atmonto/NAS.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>The Essence of Winning and Losing, 1996.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>“High Level Information Fusion (HLIF) Survey of Models, Issues, and Grand Challenges,” IEEE Aerospace and Electronic Systems Mag., Vol. 27, No. 9, Sept. 2012.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>Powell, D. D. Corkill, and E. H. Ruspini “Issues and Challenges in Situation Assessment (Level 2 Fusion),” J. of Advances in Information Fusion, Vol. 1, No. 2, pp. 122—139, Dec. 2006.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>“Situation Awareness in Intelligent Agents: Foundations for a Theory of Proactive Agent Behavior,” Int. Conf. on Intelligent Agent Technology, pp. 86—92, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Kessler, E. Waltz, and F. White “Revisiting the JDL model for information Exploitation,” Int’l Conf. on Info Fusion, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>“Situation Awareness in Intelligent Agents: Foundations for a Theory of Proactive Agent Behavior,” Int. Conf. on Intelligent Agent Technology, pp. 86—92, 2004. UNCERTAINTY IN AVIONICS ANALYTICS ONTOLOGY FOR DECISION-MAKING SUPPORT 271</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>“Evaluation of information quality and automation visibil- ity in Information automation on the flight deck,” Human Factors and Ergonomics Society Annual Meeting, 284—288, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>“Trustworthy Self-Integrated Systems,” International Conference on Distributed Computing and In- ternet Technology (ICDCIT), Springer LNCS Vol 9581, pp. 19—29, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>“Ontological Issues in Higher Levels of Information Fu- sion: User Refinement of the Fusion Process,” Int. Conf. on Info Fusion, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>“Towards Unbiased Evaluation of Uncertainty Reasoning: The URREF Ontology,” Int. Conf. on Info Fusion, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>“High-level Information Fusion: An Overview,” J. Of Adv. In Information Fusion, Vol 8, No. 1, June 2013.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>“The URREF Ontology for Semantic Wide Area Motion Imagery Exploitation,” Int’l Conf. on Semantic Technologies for Intelligence, De- fense, and Security (STIDS), 2012.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Costa, and J. Dezert “URREF Reliability versus Credibility in Information Fu- sion (STANAG 2511),” Int’l Conf. on Info Fusion, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>“An otological analysis of uncertainty in soft data,” Int’l Conf on Information Fusion, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>“Application of empirical methodology to evaluate infor- mation fusion approraches,” Int’l Conf on Info. Fusion, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>and A-L. Jousselme “URREF Self-Confidence in Information Fusion Trust,” Int’l. Conf. on Information Fusion, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>“Image Quality Assessment for Performance Evaluation of Image fusion,” Conf. on Info Fusion, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>“Three-Dimensional Receiver Operating Characteristic (ROC) trajectory concepts for the Evaluation of Target Recognition algorithms faced with the Unknown target de- tection problem,” Proc. SPIE, Vol. 3718, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>“Automatic Association of Chats and Video Tracks for Ac- tivity Learning and Recognition in Aerial Video Surveil- lance,” Sensors, 14, 19843—19860, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>“A framework for inferring predictive distibutions of rhino poaching events through causual modelling,” Int’l Conf on Information Fusion, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>“Dissecting uncertainty-based fusion techniques for mar- itime anomaly detection,” Int’l Conf on Information Fusion, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>“ComTrustO: Composite trust-based ontology framework for information and decision fusion,” Int’l Conf on Information Fusion, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>“Uncertainty evaluation of data and infromation fusion withing the context of the decision loop,” Int’l Conf on Information Fusion, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Context-Enhanced Information Fusion: Boosting Real- World Performance with Domain Knowledge, Springer, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>“Priority-Based Tracking of Extended Objects,” J. of Advances in Information Fusion, Vol. 12, No. 2., pg 211—227, Dec. 2017.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>“Subjects under evaluation with the urref ontology,” Int’l Conf on Information Fusion, 2017.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>“Ontology-based CNS software development,” ICNS, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>“NextGen and SESAR Moving towards Ontology-based Software developments,” IEEE ICNS, 2011.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>“Towards a distributed situation Management Capability for SESAR and NEXTEGN,” Integrated Communications Navigation and Surveillance (ICNS), 2012.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>“Semantic Driven Security Assurance for System Engineer- ing In SESAR/NextGen,” ICNS, 2013.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>“Ontologies for NextGen Avionics Systems,” IEEE/AIAA Digital Avionics Systems Conference, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>“Agile battle management efficiency for command, control, communications, computers and intelligence (C4I),” Proc. SPIE, Vol. 9842, 2016.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>homepage: https://www.faa.gov/nextgen/.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>homepage: http://ec.europa.eu/transport/modes/air/sesar/ index en.htm.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>“AIRM Primer, edition 03.03.01,” Sesar Joint Undertaking, Brussels, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>“Collaboration in Crisis Management–Learning from the transportation Domain,” Future Security, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>“The Research Synopsis about SWIM in China,” IEEE 12th Int. Symp. on Autonomous Decent. System, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>available at https://www.eurocontrol.int/swim.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>“AIRM-based, fine-grained semantic filtering of notices to airmen,” Integrated Communication, Navigation and Surveillance Conference, 2015.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>homepage: http://protegewiki.stanford.edu/wiki/Main Page.</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>“Veracity Roadmap: Is Big Data Objective, Truthful and Credible?,” Advances in Classification Research Online, 24(1), 2014. 272 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 13, NO. 2 DECEMBER 2018</unstructured_citation>
+</citation>
+<citation key="ref-58">
+<unstructured_citation>“BayesOWL: Uncertainty Modelling in Semantic Web On- tologies,” Springer, vol. 204, pp. 3—29, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-59">
+<unstructured_citation>“Graphical Methods for Real-Time Fusion and Estimation with Soft Message Data,” Int’l Conf. on Information Fusion, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-60">
+<unstructured_citation>“Probabilistic graphical models for multi-source fusion from text sources,” IEEE Comp. Intelligence for Security and Defense App., 2015.</unstructured_citation>
+</citation>
+<citation key="ref-61">
+<unstructured_citation>ANSP Operational Performance, homepage: https://www.canso.org/sites/default/files/ RecommendedKPIforMeasuringANSOOperational Performance.pdf, 2015. Carlos C. Insaurralde is a Senior Lecturer in Electronic Engineering in the Department of Engineering Design and Mathematics, University of the West of England, UK. He is the Programme Leader for BEng(Hons) Robotics, and Module Leader of four Programme Modules. He received the MEng degree in Electronics (recognition of Argentinean qualification as equivalent to the Spanish one) from the National University of Cordoba, Argentina, in 1999, the MAst and PhD degrees in Computer Engineering (Mention “Doctor Europaeus” accredited by the European University Association) from the Universidad Complutense de Madrid, Spain, in 2005 and 2007 respectively, and the MPhil degree in Electrical Engineering from Heriot-Watt University, UK in 2014. He also received a PgCert in Learning and Teaching in Higher Education from Teesside University, UK in 2017. He is a Fellow of the Higher Education Academy (FHEA), UK. Dr Insaurralde was a Senior Lecturer in Control and Instrumentation Engineering at Teesside University, UK (2015—2018), and an Assistant Professor (Lecturer) at Heriot-Watt University, UK in 2014. He was also a Research Associate in the Institute of Sensors, Signals and Systems, Heriot-Watt University (2010—2013), and in the Software Systems Engineering Initiative, Loughborough University, UK (2008—2010). Additionally, he held post-doc positions in the Laboratory of Applied Research on Software-Intensive Technologies, Atomic Energy Commission (France, 2008), and the Institute of Production Engineering, Tampere University (Finland, 2006—2007). His research interests are architectures of intelligent and autonomous systems, multidisciplinary development of high-integrity systems, and metric assessment of systems performance. He has worked in different application domains (aerospace, defense, industrial automation, and maritime systems). His research has lately been focused on intelligent automation and autonomy (decision- making support) for Air Traffic Management (ATM). Dr Insaurralde has been involved in several EU-funded projects, MoD-funded projects, and an ANR-funded project (France) under the role of project manager, main researcher, and task leader. He has worked in collaboration with Airbus, EADS, and BAE Systems. He has over twenty years of hands-on experience in software engineering for dependable applications. This includes over ten years of engineering research experience in robotics and autonomous systems. He is author of over eighty international publications, including a book and five book chapters. He is author of fifteen technical project reports. He received the Best Session Paper award from the Digital Avionics Systems Conference (DASC) in 2004, 2008, 2013, and 2014 as well as an award for significant contribution as section chair for the Navigation section at the DASC in 2016. He is also an instructor for conference tutorials on intelligent control architecture for autonomous unmanned vehicles (IEEE International Systems Conference and DASC).</unstructured_citation>
+</citation>
+<citation key="ref-62">
+<unstructured_citation>able Air Traffic Management, 2nd Ed., homepage: https://ec.europa.eu/transport/sites/transport/ files/modes/air/sesar/doc/2012 10 23 atm master plan ed2oct2012.pdf, 2012.</unstructured_citation>
+</citation>
+<citation key="ref-63">
+<unstructured_citation>“Complexity in the optimisation of ATM performance met- rics,” 2nd International Conference on Application and Theory of Automation in Command and Control Systems, may 2012. UNCERTAINTY IN AVIONICS ANALYTICS ONTOLOGY FOR DECISION-MAKING SUPPORT 273</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

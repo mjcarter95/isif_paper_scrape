@@ -1,0 +1,282 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237236.689169</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<journal_volume>
+<volume>13</volume>
+</journal_volume>
+<issue>1</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Semi-Blind Secure Watermarking based on integration of AES and ECC in DCT Domain</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Vineet </given_name>
+<surname>Mehan</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>June</month>
+<day></day>
+<year>2018</year>
+</publication_date>
+<pages>
+<first_page>106</first_page>
+<last_page>121</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>M. H. Pi, C. H. Li, and H. Li A novel fractal image watermarking IEEE Transactions on Multimedia, Vol. 8, No. 3, 2006, pp. 488—499.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Reversible Visible Watermarking and Lossless Recovery of Original Images IEEE Transactions on Circuits and Systems for Video Tech- nology, Vol. 16, No. 11, 2006, pp. 1423—1429.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Expansion Embedding Techniques for Reversible Water- marking IEEE Transactions on Image Processing, Vol. 16, No. 3, 2007, pp. 721—730.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Dual Digital Watermarking for Internet Media Based on Hybrid Strategies IEEE Transactions on Circuits and Systems for Video Tech- nology, Vol. 19, No. 8, 2009, pp. 1169—1177.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Generic Lossless Visible Watermarking–A New Approach IEEE Transactions on Image Processing, Vol. 19, No. 5, 2010, pp. 1224—1235.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Intelligent Computing Based on Chaos Springer, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>An Improved Method of Content Based Image Watermark- ing IEEE Transactions on Broadcasting, Vol. 53, No. 2, 2007, pp. 468—479,</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Providing Integrity and Authenticity in DICOM Images: A Novel Approach IEEE Transactions on Information Technology in Biomed- icine, Vol. 13, No. 4, 2009, pp. 582—589.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>A New Public-Key Oblivious Fragile Watermarking for Image Authentication Using Discrete Cosine Transform In Second International Conference on Future Generation Communication and Networking Symposia, 2008, pp. 11— 14.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>A Hypothesis Testing Approach to Semifragile Watermark- Based Authentication IEEE Transactions on Information Forensics and Security, Vol. 4, No. 2, 2009, pp. 179—192.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Robust and transparent watermarking scheme for colour images IET Image Processing, Vol. 3, No. 4, 2009, pp. 228—242.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>On the Selection of Optimal Feature Region Set for Robust Digital Image Watermarking IEEE Transactions on Image Processing, Vol. 20, No. 3, 2011, pp. 735—743.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Robust spatial watermarking technique for colour images via direct saturation adjustment IEE Proceedings–Vision, Image and Signal Processing, Vol. 152, No. 5, 2005, pp. 561—574. 118 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 13, NO. 1 JUNE 2018</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Srivastava Wavelet Based Robust Digital Watermarking Technique Using Reverse Additive Algorithm (RAA) In Third UKSim European Symposium on Computer Mod- eling and Simulation, 2009, pp. 241—244.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>VLSI architecture and chip for combined invisible robust and fragile watermarking IET Computers & Digital Techniques, Vol. 1, No. 5, 2007, pp. 600—611.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Process-Variation Resilient and Voltage-Scalable DCT Ar- chitecture for Robust Low-Power Computing IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 18, No. 10, 2010, pp. 1461—1470.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>DCT-based image watermarking using subsampling IEEE Transactions on Multimedia, Vol. 5, No. 1, 2003, pp. 34—38.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Multiple Watermarking Based on Spread Transform In 8th International Conference on Signal Processing, 2006, pp. 1—4.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>RST Invariant Image Watermarking Algorithm with Math- ematical Modeling and Analysis of the Watermarking Pro- cesses IEEE Transactions on Image Processing, Vol. 18, No. 5, 2009, pp. 1055—1068.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Side informed image watermarking algorithm with high security In IEEE Youth Conference on Information, Computing and Telecommunication, 2009, pp. 395—398.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>A Rotation Resistant Image Watermarking Algorithm via Circle In Eighth International Conference on Computational In- telligence and Security (CIS), 2012, pp. 461—463.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>A Joint FED Watermarking System using Spatial Fusion for Verifying the Security Issues of Teleradiology IEEE Journal of Biomedical and Health Informatics, Vol. 18, No. 3, pp. 753—764, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>A survey of digital image watermarking techniques In 3rd IEEE International Conference on Industrial Infor- matics, 2005, pp. 709—716.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Non-Blind Structure-Preserving Substitution Watermarking of H.264/CAVLC Inter-Frames IEEE Transactions on Multimedia, Vol. 16, No.5, pp. 1337— 1349, 2014.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>A New Integration Scheme of Robust and Fragile for Secured Digital Watermarking International Colloquium on Computing, Communication, Control, and Management, 2008, pp. 312—316.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>A Multipurpose Public-Key Cryptosystem Based Image Watermarking, In 4th International Conference on Wireless Communica- tions, Networking and Mobile Computing, 2008, pp. 1—4.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>FAQ on Cheque Truncation Project in the National Capital Region Department of Payment and Settlement Systems, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Payment and Settlement Systems and Information Technol- ogy Reserve Bank of India Annual Report 12-13, 2013. pp. 128—139</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Robust medical image watermarking technique for accurate detection of tampers inside region of interest and recovering original region of interest IET Image Processing, Vol. 9, No. 8, 2015, pp. 615—625.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Image Integrity Authentication Scheme Based on Fixed Point Theory IEEE Transactions on Image Processing, Vol. 24, No. 2, 2015, pp. 632—635</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>How to enhance the security of e-Passport In International Conference on Machine Learning and Cy- bernetics, 2009, pp. 2922—2926.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>The study of recent technologies used in E-passport system In IEEE Global Humanitarian Technology Conference– South Asia Satellite (GHTC-SAS), 2014, pp. 141—146.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Securing ePassport system: A proposed Anti-Cloning and Anti-Skimming Protocol In 17th International Conference on Software, Telecommu- nications & Computer Networks, 2009, pp. 90—94.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Non-linear error detection for elliptic curve cryptosystems IET Information Security, Vol. 6, No. 1, 2012, pp. 28—40.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Energy-Adaptive Dual-Field Processor for High-Perfor- mance Elliptic Curve Cryptographic Applications IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 19, No. 8, 2011, pp. 1512—1517.</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Kakarountas, and T. Stouraitis An RNS Implementation of an Elliptic Curve Point Multi- plier IEEE Transactions on Circuits and Systems, Vol. 56, No. 6, pp. 2009, 1202—1213.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Digital Signature Standard In Federal Information Processing Standards Publications FIPS PUB 186-2, 2000, pp. 1—73.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>Mathematical routines for the NIST prime elliptic curves In National Security Agency, 2010, pp. 1—43.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Recommended Elliptic Curves for Federal Government Use http://csrc.nist.gov/groups/ST/toolkit/documents/dss/ NISTReCur.pdf, Date of Accession 19-11-2013.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Flexible Hardware Processor for Elliptic Curve Cryptogra- phy Over NIST Prime Fields IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 17, No. 8, 2009, pp. 1099—1112.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>An enhanced Elliptic Curve Cryptography for biometric In 7th International Conference on Computing and Conver- gence Technology (ICCCT), 2012, pp. 1048—1055.</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>Use of elliptic curve cryptography for multimedia encryp- tion IET Information Security, Vol. 7, No. 2, 2013, pp. 67—74. SEMI-BLIND SECURE WATERMARKING BASED ON INTEGRATION OF AES AND ECC IN DCT DOMAIN 119</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>Elliptic Curve Cryptography Engineering Proceedings of the IEEE, Vol. 94, No. 2, 2006, pp. 395— 406.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>Elliptic Curve Cryptography and its applications In 7th International Workshop on Systems, Signal Process- ing and their Applications (WOSSPA), 2011, pp. 247—250.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Privacy Preserving Multiparty Multilevel DRM Architec- ture In 6th IEEE Consumer Communications and Networking Conference, 2009, pp. 1—5.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Privacy preserving hierarchical content distribution in mul- tiparty multilevel DRM In World Congress on Information and Communication Technologies (WICT), 2012, pp. 525—530.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>Authenticated Diffie-Hellman key agreement protocol us- ing a single cryptographic assumption IEE Proceedings–Communications, Vol. 152, No. 4, 2005, pp. 404—410.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Diffie-Hellman technique: extended to multiple two-party keys and one multi-party key IET Information Security, Vol. 2, No. 1, 2008, pp. 12—18.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>Secure E-Passport Protocol Using Elliptic Curve Diffie- Hellman Key Agreement Protocol In Fourth International Conference on Information Assur- ance and Security, 2008, pp. 99—102.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>Computer and Information Security 1st ed.: Morgan Kaufmann Publishers, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>Research and realization based on hybrid encryption algo- rithm of improved AES and ECC In International Conference on Audio Language and Image Processing (ICALIP), 2010, pp. 396—400.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>Advanced Encryption Standard In Federal Information Processing Standards, 2001, pp. 1— 47.</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>Selecting the Advanced Encryption Standard IEEE Security & Privacy, Vol. 1, No. 2, 2003, pp. 43—52.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>Efficient and High-Performance Parallel Hardware Archi- tectures for the AES-GCM IEEE Transactions on Computers, Vol. 61, No. 8, 2012, pp. 1165—1178.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>Fault-Tolerant Encryption for Space Applications IEEE Transactions on Aerospace and Electronic Systems, Vol. 45, No. 1, 2009, pp. 266—279.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>Parallel AES Encryption Engines for Many-Core Processor Arrays IEEE Transactions on Computers, Vol. 62, No. 3, pp. 2013, 536—547.</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>Knowledge-Based and Intelligent Information and Engi- neering Systems Springer, 2010.</unstructured_citation>
+</citation>
+<citation key="ref-58">
+<unstructured_citation>Comments on An Analog 2-D DCT Processor IEEE Transactions on Circuits and Systems for Video Tech- nology, Vol. 20, No. 8, 2010, pp. 1162—1163.</unstructured_citation>
+</citation>
+<citation key="ref-59">
+<unstructured_citation>Applied Signal Processing Springer, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-60">
+<unstructured_citation>Fast arbitrary resizing of images in the discrete cosine transform domain IET Image Processing, Vol. 5, No. 1, 2011, pp. 73—86.</unstructured_citation>
+</citation>
+<citation key="ref-61">
+<unstructured_citation>Fragile and blind watermarking technique based on We- ber’s law for medical image authentication Computer Vision, Vol. 7, No. 1, 2013, pp. 9—19.</unstructured_citation>
+</citation>
+<citation key="ref-62">
+<unstructured_citation>Multiple blind re-watermarking with quantisation-based embedding In 18th IEEE International Conference on Image Process- ing (ICIP), 2011, pp. 265—268.</unstructured_citation>
+</citation>
+<citation key="ref-63">
+<unstructured_citation>Region-wise meta-data in JPEG2000-encoded imagery In 5th International Conference on Visual Information En- gineering, 2008, pp. 741—746.</unstructured_citation>
+</citation>
+<citation key="ref-64">
+<unstructured_citation>Watermarking for depth image based rendering In IEEE International Conference on Image Processing (ICIP), 2009, pp. 4217—4220.</unstructured_citation>
+</citation>
+<citation key="ref-65">
+<unstructured_citation>Chuohuo A Perceptually Relevant MSE-Based Image Quality Metric IEEE Transactions on Image Processing, Vol. 22, No. 11, 2013, pp. 4447—4459.</unstructured_citation>
+</citation>
+<citation key="ref-66">
+<unstructured_citation>Chuohuo A Perceptually Relevant MSE-Based Image Quality Metric IEEE Transactions on Image Processing, Vol. 22, No. 11, 2013, pp. 4447—4459.</unstructured_citation>
+</citation>
+<citation key="ref-67">
+<unstructured_citation>Multi watermarking algorithm based on DCT and hash functions for color satellite images In 9th International Conference on Innovations in Informa- tion Technology (IIT), 2013, pp. 30—35.</unstructured_citation>
+</citation>
+<citation key="ref-68">
+<unstructured_citation>Automatic illumination and color compensation using mean shift and sigma filter IEEE Transactions on Consumer Electronics, Vol. 55, No. 3, pp. 2009, 978—986.</unstructured_citation>
+</citation>
+<citation key="ref-69">
+<unstructured_citation>Alencar AdaptVoD–An Adaptive Video-on-Demand Platform for Mobile Devices In 5th FTRA International Conference on Multimedia and Ubiquitous Engineering (MUE), 2011, pp. 257—262.</unstructured_citation>
+</citation>
+<citation key="ref-70">
+<unstructured_citation>A. M. Kondoz A novel depth map quality metric and its usage in depth map coding In 3DTV Conference: The True Vision–Capture, Trans- mission and Display of 3D Video (3DTV-CON), 2011, pp. 1—4.</unstructured_citation>
+</citation>
+<citation key="ref-71">
+<unstructured_citation>Semi-automatic registration of videos for improved water- mark detection In Proceedings of the first annual ACM SIGMM conference on Multimedia systems Phoenix, Arizona, USA: ACM, 2010, pp. 23—34.</unstructured_citation>
+</citation>
+<citation key="ref-72">
+<unstructured_citation>Color image copyright ownership protection based on a multi-spectral selective pixel-wise watermarking technique In 3rd International Symposium on Communications, Con- trol and Signal Processing (ISCCSP), 2008, pp. 544—549. 120 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 13, NO. 1 JUNE 2018</unstructured_citation>
+</citation>
+<citation key="ref-73">
+<unstructured_citation>The application of intelligent system to digital image foren- sics In International Conference on Machine Learning and Cy- bernetics, 2009, pp. 2991—2998.</unstructured_citation>
+</citation>
+<citation key="ref-74">
+<unstructured_citation>A Novel Distortion Model and Lagrangian Multiplier for Depth Maps Coding IEEE Transactions on Circuits and Systems for Video Tech- nology, Vol. 25, No. 99, 2014, pp. 443—451.</unstructured_citation>
+</citation>
+<citation key="ref-75">
+<unstructured_citation>Security in medical image communication with arnold’s cat map method and reversible watermarking In International Conference on Circuits, Power and Com- puting Technologies (ICCPCT), 2013, pp. 1116—1121.</unstructured_citation>
+</citation>
+<citation key="ref-76">
+<unstructured_citation>Fakhr Robust Blind and Secure Biometric Watermarking Based on Partial Multi-Map Chaotic Encryption In 4th IFIP International Conference on New Technologies, Mobility and Security (NTMS), 2011, pp. 1—5.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

@@ -1,0 +1,58 @@
+<html>
+<body>
+<div class="article-parents">
+<ul class="article-journal-name">
+<li>Journal of Advances in Information Fusion (JAIF)</li>
+<li>Volume 7</li>
+<li>Issue 2</li>
+<li>Pages 101 - 113</li>
+<li>December, 2012</li>
+<li class="article-doi"><a href="https://doi.org/">https://doi.org/</a></li>
+</ul>
+</div>
+
+<div class="article-header">
+<h1 class="article-title">Possibilistic Medical Knowledge Representation Model</h1>
+<p class="article-authors">Mohammad  Alsun, Laurent  Lecornu and Basel  Solaiman</p>
+</div>
+
+<ul class="unordered-references">
+<li class="ref-1">K. P. Adlassnig Fuzzy set theory in medical diagnosis. IEEE Transactions on Systems, Man and Cybernetics, 16, 2 (1986), 260—265.</li>
+<li class="ref-2">CADIAG-2: Computer-assisted medical diagnosis using fuzzy subsets. M. M. Gupta and E. Sanchez (Eds.), Ap- proximate Reasoning in Decision Analysis, North Holland, Amsterdam, 1982, 495—505.</li>
+<li class="ref-3">Using representation choice methods for a medical diagno- sis problem. International Conference on Knowledge-Based Intelligent Information and Engineering Systems, Bournemouth, UK, 10 (2006), 805—812.</li>
+<li class="ref-4">Clinical Decision Support Systems Theory and Practice. Health Informatics Serie, Springer Science, 2007.</li>
+<li class="ref-5">H. Leitich Knowledge acquisition in the fuzzy knowledge representa- tion framework of a medical consultation system. Artificial Intelligence in Medicine, 30, 1 (2004), 1—26.</li>
+<li class="ref-6">Théorie des Possibilités et Variables Linguistiques. Paris: Addison Wesley, 1995, ch. 2.</li>
+<li class="ref-7">Clinical Decision Support Systems (E. S. Berner, Ed.). Springer-Verlag, New York, 1999, 169—198.</li>
+<li class="ref-8">Computer-assisted diagnosis system in digestive endoscopy. IEEE Transactions on Information Technology in Bio- medicine, 7, 4 (2003), 256—262.</li>
+<li class="ref-9">Digestive database evidential clustering based on possibility theory. WSEAS Transactions on Systems, 5, 9 (Sept. 2008), 239— 248.</li>
+<li class="ref-10">Possibilistic pattern recognition in a digestive database for mining imperfect data. WSEAS Transactions on Systems, 8, 2 (Feb. 2009), 229—240. POSSIBILISTIC MEDICAL KNOWLEDGE REPRESENTATION MODEL 111</li>
+<li class="ref-11">Gastroenterology dataset clustering using possibilistic Kohonen maps. WSEAS Transactions on Info Science and Applications, 7, 4 (Apr. 2010), 508—521.</li>
+<li class="ref-12">Possibility theory in constraint satisfaction problems: Han- dling priority, preference and uncertainty. Applied Intelligence, 6, 4 (1996), 287—309.</li>
+<li class="ref-13">Probability-possibility transformations, triangular fuzzy sets, and probabilistic inequalities. Reliable Computing 10, Kluwer Academic Publishers, printed in the Netherlands, 273—294.</li>
+<li class="ref-14">Possibility theory: an approach to computerized processing of uncertainty. Gen. Sys. International Journal, 15, 2 (June 1989), 168—170.</li>
+<li class="ref-15">On Possibility/Probability Transformations. Proc. 4th Int. Fuz. Sys. Assoc. Conf., 1991, 103—112.</li>
+<li class="ref-16">Iterative projection strategies for the least-squares fitting of tree structures to proximity data. Math. Statist. Psych. Journal, 48, 2 (1995), 281—317.</li>
+<li class="ref-17">A theoretical comparison of disco and CADIAG-II like systems for medical diagnoses. Kybernetika J., 42, 6 (2006), 723—748.</li>
+<li class="ref-18">Clinical decision support systems: A review on knowledge representation and inference under uncertainties. International Journal of Computational Intelligence Systems, 1, 2 (2008), 159—167.</li>
+<li class="ref-19">From Endoscopic Imaging and Knowledge to Semantic For- mal Images. Springer, Computer Science, 4370, (2007), 189—201.</li>
+<li class="ref-20">Reasoning foundations of medical diagnosis. Science, 130, 3366 (1959), 9—21.</li>
+<li class="ref-21">Evaluation of two different models of semi-automatic knowledge acquisition for the medical consultant system CADIAGII/RHEUMA. Artificial Intelligence in Medicine, 25, 3 (2002), 215—225.</li>
+<li class="ref-22">Fuzzy logic and its applications in medicine. International Journal of Medical Informatics, 62, 2 (2001), 165—173.</li>
+<li class="ref-23">Towards a Possibility-Theoretic Approach to Uncertainty in Medical Data Interpretation for Text Generation. D. Riano, A. ten Teije, S. Miksch, and M. Peleg (Eds.), Knowledge Representation for Health-Care: Data, Pro- cesses and Guidelines, Berlin and Heidelberg: Springer (LNAI 5943), 2010.</li>
+<li class="ref-24">Testing the descriptive validity of possibility theory in human judgments of uncertainty. Artificial Intelligence Fuzzy Set and Possibility Theory- Based Methods, Artificial Intelligence, 148, 1—2 (Aug. 2003), 197—218.</li>
+<li class="ref-25">Ternary Algebra: Theorical Aspects and Possible Applica- tions. F. T. Dombal and F. Germy (Eds.), Decision Making and Medical Care: Can Information Science Help?, North- Holland, Amesterdam 1976, 505—513.</li>
+<li class="ref-26">Medical Diagnosis and Composite Fuzzy Relations. M. M. Gupta, R. K. Ragade, and R. R. Yager (Eds.), Advances in Fuzzy Set Theory and Applications, North- Holland, NY, 1979, 437—444.</li>
+<li class="ref-27">Medical knowledge, fuzzy sets and expert systems. Workshop on Intelligent and Adaptive Systems in Medicine, Prague 2003. Homepage: http://cyber.felk.cvut.cz/EUNITE 03-BIO/pdf/Seising.pdf.</li>
+<li class="ref-28">Fuzzy medical diagnosis. E. H. Ruspini, P. P. Bonissone, W. Pedrycz (Eds.), Hand- book of Fuzzy Computation, IOP Publishing, Bristol, G13,1 (1998), 1—14.</li>
+<li class="ref-29">Uncertainty and decision in medical informatics. Methods of Information in Medicine, 34, 1/2 (1995), 111— 121.</li>
+<li class="ref-30">On medical diagnosis using possibility measures. Fuzzy Sets and Systems, 10, 1—3 (1983), 211—222.</li>
+<li class="ref-31">Coherence of rules for defining conditional possibility. Approx. Reason. International Journal, 21, 1 (May 1999), 63—107.</li>
+<li class="ref-32">Medical Decision Support Systems. Lecture Notes in Computer Science, Frankfurt, Springer- LNCS, 1933, 2000.</li>
+<li class="ref-33">Fuzzy sets. Information Control, 8, 3 (1965), 338—353.</li>
+<li class="ref-34">The concept of a linguistic variable and its application to approximate reasoning–I. Information Sciences, 8, 3 (1975), 199—249.</li>
+<li class="ref-35">Fuzzy sets as a basis for a theory of possibility. Fuzzy Sets and Systems, 1, 1 (1978), 3—28. 112 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 7, NO. 2 DECEMBER 2012 Mohammad Homam Alsun (S’07–M’95) received the M.Sc. signal and circuit in and the Ph.D. degree in information and communication sciences and technologies from UBO (University, of Western Brittany), France, in 2007 and 2012, respectively.</li>
+</ul>
+
+</body>
+</html>

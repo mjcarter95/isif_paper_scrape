@@ -1,0 +1,140 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237392.261644</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2006</year>
+</publication_date>
+<journal_volume>
+<volume>1</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Issues and Challenges in Situation Assessment (Level 2 Fusion)</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Erik </given_name>
+<surname>Blasch</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Ivan </given_name>
+<surname>Kadar</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>John </given_name>
+<surname>Salerno</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Mieczyslaw M. </given_name>
+<surname>Kokar</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Subrata </given_name>
+<surname>Das</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Gerald M.</given_name>
+<surname>Powell</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Daniel D.</given_name>
+<surname>Corkill</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Enrique H.</given_name>
+<surname>Ruspini</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2006</year>
+</publication_date>
+<pages>
+<first_page>122</first_page>
+<last_page>139</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>S. Andriole and L. Adelman Cognitive Systems Eng. for User-Computer Interface Design, Prototyping, & Evaluation. Lawrence Erlbaum, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Principles of Data Fusion. Boston-London: Artech House, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Malczewski Formalization of situation awareness. In Proceedings of Eleventh OOPSLA Workshop on Behav- ioral Semantics, 2002, 1—15.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>A Java implementation of the PAS for data fusion in missile defense applications. In Proceedings of SPIE, Vol. 5434, April 14—15, 2004, 176— 186.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Assembling an information-fused human-computer cogni- tive decision making tool. IEEE Aerospace and Electronic Systems Magazine, (June 2000), 11—17.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Situation, impact, and user refinement. SPIE Aerosense, 5096 (2003), 270—279.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>JDL level 5 fusion model “user refinement” issues and applications in group tracking. SPIE Aerosense, 4729 (2002), 270—279.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>As we may think. The Atlantic Monthly, July 1945.</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Blackboard systems. AI Expert, 6, 9 (Sept. 1991), 40—47.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Collaborating software: Blackboard and multi-agent sys- tems & the future. In Proceedings of the International Lisp Conference, New York, Oct. 2003.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Data Fusion Special Interest Group, Data fusion lexicon. Department of Defence, Australia, Sept. 21, 1994, 7p.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Design and evaluation for situation awareness enhance- ment. In Proceedings of the Human Factors Society 32nd An- nual Meeting Santa Monica, CA, Human Factors and Er- gonomics Society, 1988, 97—101.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Toward a theory of situation awareness in dynamic systems. Human Factors Journal, 37, 1 (Mar. 1995), 32—64. BLASCH ET AL.: ISSUES AND CHALLENGES IN SITUATION ASSESSMENT (LEVEL 2 FUSION) 133</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Data fusion lexicon. U.S. DOD, Data Fusion Subpanel of the Joint Directors of Laboratories, Tech. Panel, 1991.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Introduction to multisensor data fusion. Proceedings of IEEE, 85, 1 (Jan. 1997), 6—23.</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Data fusion by perceptual reasoning and prediction. In Proceedings 1987 Tri-Service Data Fusion Symposium, Johns Hopkins University Applied Physics Laboratory, Laurel, MD, June 1987.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Perceptual reasoning managed situation assessment and adaptive fusion processing.</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>

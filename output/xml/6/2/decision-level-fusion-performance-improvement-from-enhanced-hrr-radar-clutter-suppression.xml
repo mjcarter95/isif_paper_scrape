@@ -1,0 +1,260 @@
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd">
+<head>
+<doi_batch_id></doi_batch_id>
+<timestamp>1639237335.0344923</timestamp>
+<depositor>
+<depositor_name></depositor_name>
+<email_address></email_address>
+</depositor>
+<registrant>WEB-FORM</registrant>
+</head>
+<body>
+<journal>
+<journal_metadata>
+<full_title>Journal of Advances in Information Fusion</full_title>
+<abbrev_title>JAIF</abbrev_title>
+<issn media_type="print">1557-6418</issn>
+</journal_metadata>
+<journal_issue>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<journal_volume>
+<volume>6</volume>
+</journal_volume>
+<issue>2</issue>
+</journal_issue>
+<journal_article publication_type="full_text">
+<titles>
+<title>Decision-Level Fusion Performance Improvement From Enhanced HRR Radar Clutter Suppression</title>
+</titles>
+<contributors>
+<person_name sequence="first" contributor_role="author">
+<given_name>Bart </given_name>
+<surname>Kahler</surname>
+<ORCID></ORCID>
+</person_name>
+<person_name sequence="first" contributor_role="author">
+<given_name>Erik </given_name>
+<surname>Blasch</surname>
+<ORCID></ORCID>
+</person_name>
+</contributors>
+<publication_date media_type="print">
+<month>December</month>
+<day></day>
+<year>2011</year>
+</publication_date>
+<pages>
+<first_page>101</first_page>
+<last_page>118</last_page>
+</pages>
+<citation_list>
+<citation key="ref-1">
+<unstructured_citation>D. Angelova and L. Mihaylova Joint tracking and classification with particle filtering and mixture Kalman filtering using kinematic radar informa- tion. Digital Signal Processing, 16, 2 (Mar. 2006), 180—204.</unstructured_citation>
+</citation>
+<citation key="ref-2">
+<unstructured_citation>Processing and evaluation of multichannel airborne radar measurements (MCARM) measured data. In IEEE International Symposium on Phased Array Systems and Technology, Oct. 1996.</unstructured_citation>
+</citation>
+<citation key="ref-3">
+<unstructured_citation>Multitarget-Multisensor Tracking: Principles and Techniques. YBS Publishing, Storrs, CT, 1995.</unstructured_citation>
+</citation>
+<citation key="ref-4">
+<unstructured_citation>Improved automatic target recognition using singular value decomposition. In Proceedings 1998 IEEE Conference on Acoustics, Speech, and Signal Processing, vol. 5, 1998.</unstructured_citation>
+</citation>
+<citation key="ref-5">
+<unstructured_citation>Design and Analysis of Modern Tracking Systems. Artech House, Boston, MA, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-6">
+<unstructured_citation>Derivation of A Belief Filter for High Range Resolution Radar Simultaneous Target Tracking and Identification. Ph.D. Dissertation, Wright State University, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-7">
+<unstructured_citation>Assembling a distributed fused Information-based human- computer cognitive decision making tool. IEEE Aerospace and Electronic Systems Magazine, 15, 5 (May 2000), 11—17.</unstructured_citation>
+</citation>
+<citation key="ref-8">
+<unstructured_citation>Information assessment of SAR data for ATR. In Proceedings of IEEE National Aerospace and Electronics Conference, 1998. 114 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 6, NO. 2 DECEMBER 2011</unstructured_citation>
+</citation>
+<citation key="ref-9">
+<unstructured_citation>Data association through fusion of target track and identi- fication sets. In International Conference on Information Fusion, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-10">
+<unstructured_citation>Multilevel Feature-based fuzzy fusion for target recogni- tion. In Proceedings of SPIE, vol. 4051, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-11">
+<unstructured_citation>Garber, and A. Shaw Identifying moving HRR signatures with an ATR belief filter. In Proceedings of SPIE, vol. 4053, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-12">
+<unstructured_citation>Ten methods to Fuse GMTI and HRRR measurements for joint tracking and identification. In International Conference on Information Fusion, July 2004.</unstructured_citation>
+</citation>
+<citation key="ref-13">
+<unstructured_citation>Theory of adaptive radar. IEEE Transactions on Aerospace and Electronic Systems, AES-9, 2 (Mar. 1973), 237—252.</unstructured_citation>
+</citation>
+<citation key="ref-14">
+<unstructured_citation>Discriminative eigen targets for automatic target recogni- tion. In Proceedings of SPIE, vol. 3371, 1998.</unstructured_citation>
+</citation>
+<citation key="ref-15">
+<unstructured_citation>Eigenspace Transformation for automatic clutter rejection. Optical Engineering, 40, 4 (2001).</unstructured_citation>
+</citation>
+<citation key="ref-16">
+<unstructured_citation>Model based classification of radar images. IEEE Transactions on Information Theory, 46, 5 (Aug. 2000), 1842—1854.</unstructured_citation>
+</citation>
+<citation key="ref-17">
+<unstructured_citation>Moving target detection in SAR imagery: Experimental results. In IEEE International Radar Conference, 1995, 644—649.</unstructured_citation>
+</citation>
+<citation key="ref-18">
+<unstructured_citation>Comparison of Some HRR-classification algorithms. In Proceedings of SPIE, vol. 4382, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-19">
+<unstructured_citation>R. Williams Preliminary comparison of HRR signatures of moving and stationary ground vehicles. In Proceedings of SPIE, vol. 4727, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-20">
+<unstructured_citation>Signal subspace registration of time series medical imagery. In Proceedings of International Conference on Signal Pro- cessing, 2002, 1524—1527.</unstructured_citation>
+</citation>
+<citation key="ref-21">
+<unstructured_citation>Theory of synthetic aperture radar imaging of a moving target. IEEE Transactions on Geoscience and Remote Sensing, 39, 9 (Sept. 2001), 1984—1992.</unstructured_citation>
+</citation>
+<citation key="ref-22">
+<unstructured_citation>Robust multi-look HRR ATR investigation through de- cision-level fusion evaluation. In International Conference on Information Fusion, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-23">
+<unstructured_citation>Impact of HRR radar processing on moving target identifi- cation performance. In International Conference on Information Fusion, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-24">
+<unstructured_citation>Target identification performance improvement from en- hanced HRR radar clutter suppression. In Proceedings of the IEEE National Aerospace and Elec- tronics Conference, 2009.</unstructured_citation>
+</citation>
+<citation key="ref-25">
+<unstructured_citation>Operating condition modeling for ATR fusion assessment. In Proceedings of SPIE, vol. 6571, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-26">
+<unstructured_citation>An improved multi-channel clutter suppression algorithm. In Proceedings of SPIE, vol. 6568, 2007.</unstructured_citation>
+</citation>
+<citation key="ref-27">
+<unstructured_citation>An ATR challenge problem using HRR data. In Proceedings of SPIE, vol. 6970, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-28">
+<unstructured_citation>Introduction to space-time adaptive processing. IEE ECEJ, special issue on STAP, 11, 1 (Feb. 1999), 5—12.</unstructured_citation>
+</citation>
+<citation key="ref-29">
+<unstructured_citation>Prospectives in STAP research. In Proceedings of the 2000 IEEE Sensor Array and Multi- channel Signal Processing Workshop, Mar. 2000, 7—11.</unstructured_citation>
+</citation>
+<citation key="ref-30">
+<unstructured_citation>Unambiguous SAR signal reconstruction from non-uniform displaced phase center sampling. IEEE Geoscience and Remote Sensing Letters, 1, 4 (Oct. 2004), 260—264.</unstructured_citation>
+</citation>
+<citation key="ref-31">
+<unstructured_citation>Eigen-extended maximum average correlation height (EEMACH) filters for automatic target recognition. In Proceedings of SPIE, vol. 4379, 2001.</unstructured_citation>
+</citation>
+<citation key="ref-32">
+<unstructured_citation>Joint IMM/MHT tracking and identification for multisensor ground tracking. In International Conference on Information Fusion, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-33">
+<unstructured_citation>Clutter suppression using recursive and non-recursive MTI filters. IEEE Transactions on Aerospace and Electronic Systems, 24, 3 (May 1988), 210—217.</unstructured_citation>
+</citation>
+<citation key="ref-34">
+<unstructured_citation>Robust statistical feature based aircraft identification. IEEE Transactions on Aerospace and Electronic Systems, 35, 3 (July 1999), 1077—1094.</unstructured_citation>
+</citation>
+<citation key="ref-35">
+<unstructured_citation>Displaced-phase-center antenna technique. Lincoln Laboratory Journal, 12, 2 (2000).</unstructured_citation>
+</citation>
+<citation key="ref-36">
+<unstructured_citation>Tracking and classifying multiple targets without a priori identification. IEEE Transactions on Automatic Control, AC-31, 5 (May 1986), 401—409.</unstructured_citation>
+</citation>
+<citation key="ref-37">
+<unstructured_citation>Simulated DPCA performance for dual-channel SAR pro- cessing. In IEEE International Geoscience and Remote Sensing Sym- posium, 1999.</unstructured_citation>
+</citation>
+<citation key="ref-38">
+<unstructured_citation>D. R. Bull, and C. N. Canagarajah Adaptive image fusion using wavelets: Algorithms and system design. In E. Lefebvre and P. Valin (Eds.), Multisensor Data and Information Processing for Rapid and Robust Situation and Threat Assessment, IOS Press, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-39">
+<unstructured_citation>Derivation of a 3-channel DPCA/monopulse radar using phased arrays. IEEE National Telesystems Conference, 1994, 243—246.</unstructured_citation>
+</citation>
+<citation key="ref-40">
+<unstructured_citation>Comparison of DPCA and STAP for space-based radar. In IEEE International Radar Conference, 1995, 113—119.</unstructured_citation>
+</citation>
+<citation key="ref-41">
+<unstructured_citation>A radar signal processor for space-based radar. In IEEE National Radar Conference, 1993. DECISION-LEVEL FUSION PERFORMANCE FROM HRR RADAR CLUTTER SUPPRESSION 115</unstructured_citation>
+</citation>
+<citation key="ref-42">
+<unstructured_citation>Radar target identification using an eigen-image approach. In IEEE Radar Conference, 1994.</unstructured_citation>
+</citation>
+<citation key="ref-43">
+<unstructured_citation>Automatic target recognition using enhanced resolution SAR data. IEEE Transactions on Aerospace and Electronic Systems, 35, 1 (Jan. 1999), 157—175.</unstructured_citation>
+</citation>
+<citation key="ref-44">
+<unstructured_citation>Recognition of multi-specularity objects using the eigen- window. In IEEE 1996 Proceedings of the 13th International Confer- ence on Pattern Recognition, 1996, 692—696.</unstructured_citation>
+</citation>
+<citation key="ref-45">
+<unstructured_citation>Robust HRR radar target identification by hybridization of HMM and eigen-template-based matched filtering. In Proceedings of SPIE, vol. 5094, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-46">
+<unstructured_citation>Improved HRR-ATR using hybridization of HMM and eigen-template-matched filtering. In IEEE Conference on Acoustics, Speech, and Signal Pro- cessing, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-47">
+<unstructured_citation>Signal subspace change detection in averaged multi-look SAR imagery. In Proceedings of SPIE, vol. 5808, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-48">
+<unstructured_citation>Analysis of the adaptive space time processing technique for airborne radar. IEE Proceedings–Radar, Sonar Navigation, 141, 4 (Aug. 1994), 187—195.</unstructured_citation>
+</citation>
+<citation key="ref-49">
+<unstructured_citation>Effects of manoeuvre on space time adaptive processing performance. In IEEE Radar 97 Conference, Pub. No. 449, Oct. 1997, 285—289.</unstructured_citation>
+</citation>
+<citation key="ref-50">
+<unstructured_citation>Detection system performance metrics with scene content dependencies. In Proceedings of SPIE, vol. 5808, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-51">
+<unstructured_citation>Automatic target recognition using eigen-templates. In Proceedings of SPIE, vol. 3370, 1998.</unstructured_citation>
+</citation>
+<citation key="ref-52">
+<unstructured_citation>HRR-ATR using eigen-template with noisy observations in unknown target scenario. In Proceedings of SPIE, vol. 4053, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-53">
+<unstructured_citation>Modeling performance and image collection utility for mul- tiple look ATR. In Proceedings of SPIE, vol. 5427, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-54">
+<unstructured_citation>Signal subspace fusion of uncalibrated sensors with appli- cation in SAR, diagnostic medicine and video processing. IEEE Transactions on Image Processing, 8, 1 (Jan. 1999), 127—137.</unstructured_citation>
+</citation>
+<citation key="ref-55">
+<unstructured_citation>Synthetic Aperture Radar with MATLAB Algorithms. New York, NY: John Wiley & Sons, Inc., 1999.</unstructured_citation>
+</citation>
+<citation key="ref-56">
+<unstructured_citation>Moving target detection and imaging using an X band along-track monopulse SAR. IEEE Transactions on Aerospace and Electronic Systems, 38, 1 (Jan. 2002), 315—333.</unstructured_citation>
+</citation>
+<citation key="ref-57">
+<unstructured_citation>SAR-MTI processing of multi-channel airborne radar mea- surement (MCARM) data. In Proceedings of IEEE Radar Conference, 2002.</unstructured_citation>
+</citation>
+<citation key="ref-58">
+<unstructured_citation>SAR wavefront reconstruction using motion compensated phase history (polar format) data and DPCA-based GMTI. In Proceedings of SPIE, vol. 4053, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-59">
+<unstructured_citation>P. Harmon, and C. H. Read Fused multi-sensor image mining for feature foundation data. In International Conference on Information Fusion, 2000.</unstructured_citation>
+</citation>
+<citation key="ref-60">
+<unstructured_citation>Target tracking with generalized data association based on the general DSm rule of combination. In International Conference on Information Fusion, 2004.</unstructured_citation>
+</citation>
+<citation key="ref-61">
+<unstructured_citation>Verification of a decision level fusion algorithm using a proven ATR system and measured SAR data. M.S. Thesis, Air Force Institute of Technology, 2006.</unstructured_citation>
+</citation>
+<citation key="ref-62">
+<unstructured_citation>Automatic target recognition of time critical moving targets using 1D high range resolution (HRR) radar. IEEE Aerospace and Electronic Systems Magazine, 15, 4 (Apr. 2000), 37—43.</unstructured_citation>
+</citation>
+<citation key="ref-63">
+<unstructured_citation>ATR scheme based On 1-D HRR profiles. Electronic Letters, 38, 24 (Nov. 2002), 1586—1588.</unstructured_citation>
+</citation>
+<citation key="ref-64">
+<unstructured_citation>Mutual aided target tracking and identification. Proceedings of SPIE, vol. 5099, 2003.</unstructured_citation>
+</citation>
+<citation key="ref-65">
+<unstructured_citation>Pose angular-aiding for maneuvering target tracking. International Conference on Information Fusion, 2005.</unstructured_citation>
+</citation>
+<citation key="ref-66">
+<unstructured_citation>Pose-angular tracking of maneuvering targets with high range resolution radar (HRR). International Conference on Information Fusion, 2008.</unstructured_citation>
+</citation>
+<citation key="ref-67">
+<unstructured_citation>A net track solution to pose-angular tracking of maneuver- ing targets in clutter with HRR radar. IEEE Conference on Signals, Systems and Computers, 2007. 116 JOURNAL OF ADVANCES IN INFORMATION FUSION VOL. 6, NO. 2 DECEMBER 2011</unstructured_citation>
+</citation>
+</citation_list>
+</journal_article>
+</journal>
+</body>
+</doi_batch>
